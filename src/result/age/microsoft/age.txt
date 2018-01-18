@@ -1,0 +1,52 @@
+0 /home/shushi/Pic/IMDB-WIKI/wiki_crop/17/10000217_1981-05-05_2009.jpg :Decoding error, image format unsupported.
+1 /home/shushi/Pic/IMDB-WIKI/wiki_crop/48/10000548_1925-04-04_1964.jpg :Decoding error, image format unsupported.
+2 /home/shushi/Pic/IMDB-WIKI/wiki_crop/12/100012_1948-07-03_2008.jpg :Decoding error, image format unsupported.
+0 /home/shushi/Pic/IMDB-WIKI/wiki_crop/17/10000217_1981-05-05_2009.jpg :Decoding error, image format unsupported.
+1 /home/shushi/Pic/IMDB-WIKI/wiki_crop/48/10000548_1925-04-04_1964.jpg :Decoding error, image format unsupported.
+2 /home/shushi/Pic/IMDB-WIKI/wiki_crop/12/100012_1948-07-03_2008.jpg :Decoding error, image format unsupported.
+3 /home/shushi/Pic/IMDB-WIKI/wiki_crop/65/10001965_1930-05-23_1961.jpg :Decoding error, image format unsupported.
+0 /home/shushi/Pic/IMDB-WIKI/wiki_crop/17/10000217_1981-05-05_2009.jpg :Decoding error, image format unsupported.
+1 /home/shushi/Pic/IMDB-WIKI/wiki_crop/48/10000548_1925-04-04_1964.jpg :Decoding error, image format unsupported.
+2 /home/shushi/Pic/IMDB-WIKI/wiki_crop/12/100012_1948-07-03_2008.jpg :Decoding error, image format unsupported.
+0 /home/shushi/Pic/IMDB-WIKI/wiki_crop/17/10000217_1981-05-05_2009.jpg :Decoding error, image format unsupported.
+1 /home/shushi/Pic/IMDB-WIKI/wiki_crop/48/10000548_1925-04-04_1964.jpg :Decoding error, image format unsupported.
+2 /home/shushi/Pic/IMDB-WIKI/wiki_crop/12/100012_1948-07-03_2008.jpg :Decoding error, image format unsupported.
+0 /home/shushi/Pic/IMDB-WIKI/wiki_crop/17/10000217_1981-05-05_2009.jpg :Decoding error, image format unsupported.
+1 /home/shushi/Pic/IMDB-WIKI/wiki_crop/48/10000548_1925-04-04_1964.jpg :Decoding error, image format unsupported.
+2 /home/shushi/Pic/IMDB-WIKI/wiki_crop/12/100012_1948-07-03_2008.jpg :Decoding error, image format unsupported.
+3 /home/shushi/Pic/IMDB-WIKI/wiki_crop/65/10001965_1930-05-23_1961.jpg :Decoding error, image format unsupported.
+4 /home/shushi/Pic/IMDB-WIKI/wiki_crop/16/10002116_1971-05-31_2012.jpg :Decoding error, image format unsupported.
+0 /home/shushi/Pic/IMDB-WIKI/wiki_crop/17/10000217_1981-05-05_2009.jpg :Decoding error, image format unsupported.
+1 /home/shushi/Pic/IMDB-WIKI/wiki_crop/48/10000548_1925-04-04_1964.jpg :Decoding error, image format unsupported.
+2 /home/shushi/Pic/IMDB-WIKI/wiki_crop/12/100012_1948-07-03_2008.jpg :Decoding error, image format unsupported.
+3 /home/shushi/Pic/IMDB-WIKI/wiki_crop/65/10001965_1930-05-23_1961.jpg :Decoding error, image format unsupported.
+0 /home/shushi/Pic/IMDB-WIKI/wiki_crop/17/10000217_1981-05-05_2009.jpg :Decoding error, image format unsupported.
+1 /home/shushi/Pic/IMDB-WIKI/wiki_crop/48/10000548_1925-04-04_1964.jpg :Decoding error, image format unsupported.
+2 /home/shushi/Pic/IMDB-WIKI/wiki_crop/12/100012_1948-07-03_2008.jpg :Decoding error, image format unsupported.
+0 /home/shushi/Pic/IMDB-WIKI/wiki_crop/17/10000217_1981-05-05_2009.jpg :Decoding error, image format unsupported.
+1 /home/shushi/Pic/IMDB-WIKI/wiki_crop/48/10000548_1925-04-04_1964.jpg :Decoding error, image format unsupported.
+2 /home/shushi/Pic/IMDB-WIKI/wiki_crop/12/100012_1948-07-03_2008.jpg :Decoding error, image format unsupported.
+3 /home/shushi/Pic/IMDB-WIKI/wiki_crop/65/10001965_1930-05-23_1961.jpg :Decoding error, image format unsupported.
+0 /home/shushi/Pic/IMDB-WIKI/wiki_crop/17/10000217_1981-05-05_2009.jpg :Decoding error, image format unsupported.
+1 /home/shushi/Pic/IMDB-WIKI/wiki_crop/48/10000548_1925-04-04_1964.jpg :Decoding error, image format unsupported.
+2 /home/shushi/Pic/IMDB-WIKI/wiki_crop/12/100012_1948-07-03_2008.jpg :Decoding error, image format unsupported.
+0 /home/shushi/Pic/IMDB-WIKI/wiki_crop/17/10000217_1981-05-05_2009.jpg :Invalid Media Type.
+1 /home/shushi/Pic/IMDB-WIKI/wiki_crop/48/10000548_1925-04-04_1964.jpg :Invalid Media Type.
+2 /home/shushi/Pic/IMDB-WIKI/wiki_crop/12/100012_1948-07-03_2008.jpg :Invalid Media Type.
+3 /home/shushi/Pic/IMDB-WIKI/wiki_crop/65/10001965_1930-05-23_1961.jpg :Invalid Media Type.
+4 /home/shushi/Pic/IMDB-WIKI/wiki_crop/16/10002116_1971-05-31_2012.jpg :Invalid Media Type.
+0 /home/shushi/Pic/IMDB-WIKI/wiki_crop/17/10000217_1981-05-05_2009.jpg :Decoding error, image format unsupported.
+1 /home/shushi/Pic/IMDB-WIKI/wiki_crop/48/10000548_1925-04-04_1964.jpg :Decoding error, image format unsupported.
+2 /home/shushi/Pic/IMDB-WIKI/wiki_crop/12/100012_1948-07-03_2008.jpg :Decoding error, image format unsupported.
+0 /home/shushi/Pic/IMDB-WIKI/wiki_crop/17/10000217_1981-05-05_2009.jpg :Decoding error, image format unsupported.
+1 /home/shushi/Pic/IMDB-WIKI/wiki_crop/48/10000548_1925-04-04_1964.jpg :Decoding error, image format unsupported.
+2 /home/shushi/Pic/IMDB-WIKI/wiki_crop/12/100012_1948-07-03_2008.jpg :Decoding error, image format unsupported.
+3 /home/shushi/Pic/IMDB-WIKI/wiki_crop/65/10001965_1930-05-23_1961.jpg :Decoding error, image format unsupported.
+0 /home/shushi/Pic/IMDB-WIKI/wiki_crop/17/10000217_1981-05-05_2009.jpg :Decoding error, image format unsupported.
+1 /home/shushi/Pic/IMDB-WIKI/wiki_crop/48/10000548_1925-04-04_1964.jpg :Decoding error, image format unsupported.
+2 /home/shushi/Pic/IMDB-WIKI/wiki_crop/12/100012_1948-07-03_2008.jpg :Decoding error, image format unsupported.
+3 /home/shushi/Pic/IMDB-WIKI/wiki_crop/65/10001965_1930-05-23_1961.jpg :Decoding error, image format unsupported.
+4 /home/shushi/Pic/IMDB-WIKI/wiki_crop/16/10002116_1971-05-31_2012.jpg :Decoding error, image format unsupported.
+0 /home/shushi/Pic/IMDB-WIKI/wiki_crop/17/10000217_1981-05-05_2009.jpg :Decoding error, image format unsupported.
+1 /home/shushi/Pic/IMDB-WIKI/wiki_crop/48/10000548_1925-04-04_1964.jpg :Decoding error, image format unsupported.
+2 /home/shushi/Pic/IMDB-WIKI/wiki_crop/12/100012_1948-07-03_2008.jpg :Decoding error, image format unsupported.

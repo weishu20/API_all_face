@@ -1,0 +1,806 @@
+confidence1: 75.09773500000004
+confidence2: 75.26144499999998
+
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaWen/144969499.jpg
+confidence:83.077  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaWen/2128979448.jpg
+confidence:84.426  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaWen/660317691.jpg
+confidence:69.627  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaWen/384292195.jpg
+confidence:85.962  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+confidence:79.655  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png
+confidence:72.277  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaWen/1499926792.jpg
+confidence:91.315  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaWen/1499926792.jpg
+confidence:86.166  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaWen/761641544.jpg
+confidence:74.818  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+confidence:79.655  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaWen/288171084.jpg
+confidence:77.62  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaWen/742408606.jpg
+confidence:82.965  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaWen/761641544.jpg
+confidence:72.464  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaWen/994969388.jpg
+confidence:76.135  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaWen/401828318.jpg
+confidence:79.648  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png
+confidence:73.7  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaWen/1553123673.jpg
+confidence:73.423  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg vs /home/shushi/Pic/ZhuJiaWen/1368453483.jpg
+confidence:61.343  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaWen/660317691.jpg
+confidence:76.303  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaWen/543702080.jpg
+confidence:81.536  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaWen/1499926792.jpg
+confidence:63.381  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg vs /home/shushi/Pic/ZhuJiaWen/660317691.jpg
+confidence:67.307  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png
+confidence:72.347  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg vs /home/shushi/Pic/ZhuJiaWen/761641544.jpg
+confidence:55.247  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png
+confidence:76.717  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png
+confidence:56.963  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+confidence:77.754  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+confidence:77.62  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+confidence:79.026  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaWen/144969499.jpg
+confidence:80.345  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaWen/1562718419.jpg
+confidence:64.545  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaWen/994969388.jpg
+confidence:78.759  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaWen/660317691.jpg
+confidence:77.482  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg vs /home/shushi/Pic/ZhuJiaWen/994969388.jpg
+confidence:67.58  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaWen/660317691.jpg
+confidence:70.298  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg vs /home/shushi/Pic/ZhuJiaWen/384292195.jpg
+confidence:46.067  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png
+confidence:82.433  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png
+confidence:59.302  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaWen/1553123673.jpg
+confidence:83.194  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaWen/761641544.jpg
+confidence:82.775  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png
+confidence:84.095  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png
+confidence:81.711  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png
+confidence:77.067  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaWen/761641544.jpg
+confidence:73.898  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png
+confidence:58.544  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaWen/1368453483.jpg
+confidence:65.384  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaWen/2128979448.jpg
+confidence:59.25  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaWen/1499926792.jpg
+confidence:77.482  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg vs /home/shushi/Pic/ZhuJiaWen/1499926792.jpg
+confidence:64.826  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaWen/1499926792.jpg
+confidence:91.528  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png
+confidence:59.139  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaWen/522832377.jpg
+confidence:55.389  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaWen/1368453483.jpg
+confidence:71.192  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaWen/1735962714.jpg
+confidence:86.233  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg vs /home/shushi/Pic/ZhuJiaWen/1735962714.jpg
+confidence:54.559  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaWen/2040545053.jpg
+confidence:79.468  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaWen/401828318.jpg
+confidence:79.083  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaWen/1562718419.jpg
+confidence:73.421  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaWen/2040545053.jpg
+confidence:82.419  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaWen/742408606.jpg
+confidence:81.893  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaWen/660317691.jpg
+confidence:69.627  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaWen/1094188196.jpg
+confidence:79.204  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaWen/1384139730.jpg
+confidence:85.885  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaWen/384292195.jpg
+confidence:76.429  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaWen/2040545053.jpg
+confidence:78.82  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaWen/1562718419.jpg
+confidence:77.969  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png
+confidence:72.68  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaWen/1384139730.jpg
+confidence:86.533  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaWen/401828318.jpg
+confidence:86.368  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaWen/288171084.jpg
+confidence:58.357  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaWen/522832377.jpg
+confidence:56.772  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaWen/761641544.jpg
+confidence:73.421  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png
+confidence:82.41  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaWen/1562718419.jpg
+confidence:78.309  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png vs /home/shushi/Pic/ZhuJiaWen/1553123673.jpg
+confidence:57.406  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaWen/144969499.jpg
+confidence:75.06  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png
+confidence:55.921  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaWen/1812528523.jpg
+confidence:78.781  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaWen/1094188196.jpg
+confidence:85.646  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaWen/1094188196.jpg
+confidence:61.548  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaWen/75195746.jpg
+confidence:77.283  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png
+confidence:72.276  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png
+confidence:59.25  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaWen/1812528523.jpg
+confidence:80.947  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaWen/1562718419.jpg
+confidence:82.48  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaWen/1562718419.jpg
+confidence:86.757  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png
+confidence:82.94  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaWen/994969388.jpg
+confidence:78.759  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaWen/636772360.jpg
+confidence:56.87  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png
+confidence:62.336  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaWen/454298170.jpg
+confidence:72.826  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaWen/636772360.jpg
+confidence:69.676  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaWen/742408606.jpg
+confidence:53.176  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaWen/636772360.jpg
+confidence:64.826  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaWen/288171084.jpg
+confidence:78.781  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+confidence:71.383  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png vs /home/shushi/Pic/ZhuJiaWen/2040545053.jpg
+confidence:82.338  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png
+confidence:79.509  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaWen/1735962714.jpg
+confidence:82.085  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaWen/1384139730.jpg
+confidence:81.735  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1943018685.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+confidence:81.936  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1771124897.jpg vs /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+confidence:87.468  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1437230887.jpg vs /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+confidence:82.716  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/52404415.jpg vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+confidence:79.77  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/2051246079.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+confidence:77.662  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+confidence:85.938  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1870723223.jpg vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+confidence:83.585  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1078229885.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+confidence:76.303  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1487896716.jpg vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+confidence:85.091  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1980251225.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+confidence:69.096  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg vs /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+confidence:70.722  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+confidence:82.091  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1437230887.jpg vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+confidence:85.352  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+confidence:82.977  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1487896716.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+confidence:72.544  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1242374213.jpg vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+confidence:68.787  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+confidence:51.685  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+confidence:52.892  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/249104539.jpg vs /home/shushi/Pic/ZhuJiaYi/396487429.jpg
+confidence:64.885  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/536237754.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+confidence:66.298  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/399379745.jpg vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+confidence:76.004  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1565773646.jpg vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+confidence:76.019  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1242374213.jpg vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+confidence:77.085  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+confidence:73.831  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+confidence:63.718  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png vs /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+confidence:57.951  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1591080402.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+confidence:81.341  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1437230887.jpg vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+confidence:73.917  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1881654506.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+confidence:83.12  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1363304684.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+confidence:85.432  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/52404415.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+confidence:79.769  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1771124897.jpg vs /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+confidence:87.468  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1591080402.jpg vs /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+confidence:80.871  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/52404415.jpg vs /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+confidence:68.135  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+confidence:66.564  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1870723223.jpg vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+confidence:84.823  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1363304684.jpg vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+confidence:83.196  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+confidence:82.484  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+confidence:56.774  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png vs /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+confidence:81.061  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1363304684.jpg vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+confidence:85.654  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png vs /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+confidence:68.373  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1980251225.jpg vs /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+confidence:86.289  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1487896716.jpg vs /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+confidence:92.52  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/338090423.jpg vs /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+confidence:77.961  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/2051246079.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+confidence:83.572  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1242374213.jpg vs /home/shushi/Pic/ZhuJiaYi/396487429.jpg
+confidence:50.978  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/52404415.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+confidence:69.342  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+confidence:70.186  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/338090423.jpg vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+confidence:80.445  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/399379745.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+confidence:75.92  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+confidence:79.769  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+confidence:77.961  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/249104539.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+confidence:74.694  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/2034710973.jpg vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+confidence:89.263  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/52404415.jpg vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+confidence:73.567  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1487896716.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+confidence:81.222  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+confidence:52.892  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1742112983.jpg vs /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+confidence:72.597  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+confidence:74.712  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+confidence:75.24  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+confidence:73.208  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1565773646.jpg vs /home/shushi/Pic/ZhuJiaYi/396487429.jpg
+confidence:58.939  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1881654506.jpg vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+confidence:82.73  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg vs /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+confidence:70.722  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1242374213.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+confidence:76.019  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1870723223.jpg vs /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+confidence:81.997  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/52404415.jpg vs /home/shushi/Pic/ZhuJiaYi/396487429.jpg
+confidence:65.714  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png vs /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+confidence:83.12  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png vs /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+confidence:85.938  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1870723223.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+confidence:91.215  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+confidence:61.566  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1591080402.jpg vs /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+confidence:83.283  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1565773646.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+confidence:61.186  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/2034710973.jpg vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+confidence:89.306  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1078229885.jpg vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+confidence:83.661  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/2034710973.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+confidence:76.35  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/967582628.jpg vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+confidence:76.038  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+confidence:70.513  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1742112983.jpg vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+confidence:81.77  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1487896716.jpg vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+confidence:89.037  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1242374213.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+confidence:81.986  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1836482221.jpg vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+confidence:73.003  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1078229885.jpg vs /home/shushi/Pic/ZhuJiaYi/396487429.jpg
+confidence:55.837  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1437230887.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+confidence:65.921  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1437230887.jpg vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+confidence:80.903  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/52404415.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+confidence:73.109  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/52404415.jpg vs /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+confidence:78.447  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/249104539.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+confidence:88.754  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg vs /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+confidence:61.044  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1591080402.jpg vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+confidence:81.77  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/967582628.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+confidence:83.64  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1363304684.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+confidence:82.463  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/2034710973.jpg vs /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+confidence:56.733  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/2034710973.jpg vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+confidence:90.657  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+confidence:87.749  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+confidence:77.94  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png vs /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+confidence:72.065  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1078229885.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+confidence:82.822  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaYi/1363304684.jpg vs /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+confidence:90.657  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+
+
+
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+confidence:86.25  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+confidence:62.438  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+confidence:84.124  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+confidence:77.204  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+confidence:75.21  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+confidence:78.83  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+confidence:86.356  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+confidence:74.401  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+confidence:81.362  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+confidence:84.469  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+confidence:81.515  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+confidence:81.805  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+confidence:63.31  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+confidence:72.438  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+confidence:73.335  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+confidence:76.651  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+confidence:77.236  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+confidence:67.294  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+confidence:81.211  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+confidence:81.371  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+confidence:85.311  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+confidence:67.068  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+confidence:80.136  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+confidence:60.808  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+confidence:80.134  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+confidence:61.73  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+confidence:75.314  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+confidence:83.321  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+confidence:80.82  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+confidence:82.743  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+confidence:56.795  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+confidence:78.932  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+confidence:73.269  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+confidence:62.555  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+confidence:64.769  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+confidence:62.353  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+confidence:61.384  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+confidence:74.238  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+confidence:79.856  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+confidence:87.655  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+confidence:87.95  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+confidence:77.693  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+confidence:63.903  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+confidence:84.694  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+confidence:69.854  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+confidence:86.845  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+confidence:58.36  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+confidence:80.81  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+confidence:78.561  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+confidence:83.27  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+confidence:70.897  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+confidence:75.34  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+confidence:87.745  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+confidence:81.844  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+confidence:77.446  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+confidence:84.89  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+confidence:61.431  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+confidence:71.501  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+confidence:57.322  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+confidence:83.075  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg vs /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+confidence:55.51  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+confidence:63.612  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+confidence:77.236  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+confidence:64.769  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+confidence:79.858  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+confidence:68.106  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+confidence:72.383  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+confidence:83.748  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+confidence:76.552  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+confidence:82.383  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+confidence:84.855  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+confidence:74.562  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+confidence:82.681  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+confidence:83.432  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+confidence:81.346  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+confidence:72.941  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+confidence:84.784  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+confidence:72.675  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+confidence:75.586  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+confidence:77.46  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+confidence:88.308  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+confidence:71.257  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+confidence:79.138  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+confidence:83.321  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+confidence:60.676  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+confidence:75.086  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+confidence:90.009  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+confidence:77.281  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+confidence:74.976  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+confidence:85.148  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+confidence:68.81  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+confidence:74.644  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+confidence:78.142  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+confidence:61.415  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+confidence:76.332  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+confidence:80.616  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+confidence:58.994  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+confidence:87.339  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+confidence:73.816  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+confidence:58.613  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+confidence:78.517  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+confidence:80.373  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+confidence:68.022  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+confidence:50.625  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+confidence:74.715  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+confidence:74.955  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+confidence:73.008  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+confidence:81.874  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+confidence:78.314  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+confidence:77.549  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg vs /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+confidence:57.492  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+confidence:73.123  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+confidence:72.621  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+confidence:64.678  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+confidence:78.866  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png vs /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+confidence:73.375  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+confidence:64.902  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+confidence:65.865  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+confidence:87.972  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+confidence:70.611  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+confidence:70.997  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+confidence:81.981  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+confidence:81.329  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+confidence:83.407  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+confidence:83.177  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+confidence:86.027  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+confidence:81.362  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+confidence:77.832  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+confidence:77.245  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+confidence:66.035  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+confidence:79.096  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+confidence:80.816  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+confidence:64.721  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+confidence:78.021  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+confidence:63.048  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+confidence:74.859  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+confidence:68.719  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+confidence:74.562  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+confidence:88.638  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+confidence:70.555  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+confidence:62.608  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+confidence:78.703  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+confidence:80.428  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+confidence:57.017  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+confidence:91.138  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+confidence:85.311  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+confidence:82.497  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+confidence:66.074  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+confidence:72.335  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+confidence:62.206  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+confidence:79.182  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+confidence:79.535  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+confidence:86.483  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+confidence:86.127  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+confidence:79.143  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+confidence:80.931  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+confidence:60.528  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+confidence:79.594  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+confidence:83.398  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+confidence:89.879  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png vs /home/shushi/Pic/ZhuJiaYi/396487429.jpg
+confidence:84.618  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+confidence:78.801  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+confidence:83.27  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg vs /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+confidence:55.51  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+confidence:81.81  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+confidence:88.066  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+confidence:77.281  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg vs /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+confidence:78.87  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+confidence:75.635  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+confidence:75.086  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+confidence:73.008  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png vs /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+confidence:73.936  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+confidence:64.32  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+confidence:64.127  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+confidence:77.832  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+confidence:76.047  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+confidence:81.99  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+confidence:87.201  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+confidence:66.575  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+confidence:74.362  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+confidence:65.22  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+confidence:73.269  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+confidence:82.001  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+confidence:76.362  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+confidence:85.104  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+confidence:81.083  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+confidence:62.442  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+confidence:71.157  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+confidence:74.238  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+confidence:66.4  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+confidence:80.482  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+confidence:72.093  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+confidence:62.773  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+confidence:80.639  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+confidence:54.351  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+confidence:84.87  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+confidence:64.083  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+confidence:71.912  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+confidence:71.54  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+confidence:83.092  thresholds:{'1e-5': 73.975, '1e-4': 69.101, '1e-3': 62.327}

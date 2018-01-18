@@ -1,0 +1,2008 @@
+/usr/bin/python3.5 /home/shushi/projects/3face/face_api/src/test_age/test_eyekey.py
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/17/10000217_1981-05-05_2009.jpg
+<Response [200]>
+{'img_id': '030-cf06ac9ab7c13a656242aa', 'img_height': 257, 'img_width': 257, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 109, 'eye_right': {'x': 174, 'y': 97}, 'eye_left': {'x': 119, 'y': 102}, 'height': 109, 'center': {'x': 91, 'y': 70}}, 'face_id': '0bd3d7680982488eb5af54af44cc3f23', 'attribute': {'lefteye_opendegree': 60, 'righteye_opendegree': 67, 'mouth_opendegree': 16, 'gender': 'Female', 'pose': {'tilting': 7, 'turn': 29, 'raise': -10}, 'age': 35}}]}
+Female Male 35 28
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/48/10000548_1925-04-04_1964.jpg
+<Response [404]>
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/12/100012_1948-07-03_2008.jpg
+<Response [200]>
+{'img_id': '040-febc14cc545d8f2e6242aa', 'img_height': 457, 'img_width': 457, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 200, 'eye_right': {'x': 305, 'y': 182}, 'eye_left': {'x': 210, 'y': 176}, 'height': 200, 'center': {'x': 155, 'y': 122}}, 'face_id': 'f987d84dccc641fd9b02150a914b9e59', 'attribute': {'lefteye_opendegree': 68, 'righteye_opendegree': 75, 'mouth_opendegree': 2, 'gender': 'Male', 'pose': {'tilting': 6, 'turn': 21, 'raise': -12}, 'age': 43}}]}
+Male Male 43 60
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/65/10001965_1930-05-23_1961.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/16/10002116_1971-05-31_2012.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/02/10002702_1960-11-09_2012.jpg
+<Response [200]>
+{'img_id': '030-dedc7a3f1214cd786242aa', 'img_height': 185, 'img_width': 185, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 78, 'eye_right': {'x': 104, 'y': 73}, 'eye_left': {'x': 64, 'y': 75}, 'height': 79, 'center': {'x': 47, 'y': 51}}, 'face_id': '98b0bf5311ab4a31aedfd7bbcc3870d2', 'attribute': {'lefteye_opendegree': 9, 'righteye_opendegree': 9, 'mouth_opendegree': 0, 'gender': 'Female', 'pose': {'tilting': 2, 'turn': -3, 'raise': 0}, 'age': 41}}]}
+Female Female 41 52
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/41/10003541_1937-09-27_1971.jpg
+<Response [200]>
+{'img_id': '030-56e1d6aad9ea7cbf6242aa', 'img_height': 215, 'img_width': 214, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 100, 'eye_right': {'x': 144, 'y': 93}, 'eye_left': {'x': 98, 'y': 84}, 'height': 100, 'center': {'x': 69, 'y': 60}}, 'face_id': '75079f39e2b74a1781ddff2accd36b02', 'attribute': {'lefteye_opendegree': 51, 'righteye_opendegree': 51, 'mouth_opendegree': 0, 'gender': 'Female', 'pose': {'tilting': 18, 'turn': 14, 'raise': -7}, 'age': 35}}]}
+Female Male 35 34
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/39/100039_1904-12-07_1982.jpg
+<Response [200]>
+{'img_id': '030-ca4052ec7a95e1e66242aa', 'img_height': 308, 'img_width': 308, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 153, 'eye_right': {'x': 208, 'y': 111}, 'eye_left': {'x': 141, 'y': 113}, 'height': 153, 'center': {'x': 97, 'y': 68}}, 'face_id': 'f3bfc31c49374d689018b25e9de7d947', 'attribute': {'lefteye_opendegree': 27, 'righteye_opendegree': 25, 'mouth_opendegree': 34, 'gender': 'Male', 'pose': {'tilting': -3, 'turn': 13, 'raise': -12}, 'age': 68}}]}
+Male Male 68 78
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/13/10004113_1946-08-26_2007.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/22/10004122_1982-03-17_2011.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/99/10004299_1908-08-19_1950.jpg
+<Response [200]>
+{'img_id': '040-a845955f04148c956242aa', 'img_height': 346, 'img_width': 346, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 131, 'eye_right': {'x': 191, 'y': 135}, 'eye_left': {'x': 132, 'y': 146}, 'height': 130, 'center': {'x': 100, 'y': 102}}, 'face_id': 'b719b0c2c16847caa9186fa6123e3025', 'attribute': {'lefteye_opendegree': 63, 'righteye_opendegree': 66, 'mouth_opendegree': 3, 'gender': 'Male', 'pose': {'tilting': -9, 'turn': 3, 'raise': -9}, 'age': 45}}]}
+Male Male 45 42
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/56/1000456_1933-06-12_1969.jpg
+<Response [200]>
+{'img_id': '030-fc63a7e2b8cf930b6242aa', 'img_height': 228, 'img_width': 228, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 34, 'eye_right': {'x': 111, 'y': 41}, 'eye_left': {'x': 95, 'y': 41}, 'height': 34, 'center': {'x': 87, 'y': 32}}, 'face_id': 'e4805c14258b4eab9e78b87ac15889e5', 'attribute': {'lefteye_opendegree': 53, 'righteye_opendegree': 40, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': 0, 'turn': 1, 'raise': -16}, 'age': 55}}]}
+Male Male 55 36
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/82/10004882_1987-05-16_2010.jpg
+<Response [200]>
+{'img_id': '040-511db54efcbc1a886242aa', 'img_height': 87, 'img_width': 87, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 36, 'eye_right': {'x': 53, 'y': 34}, 'eye_left': {'x': 37, 'y': 36}, 'height': 36, 'center': {'x': 27, 'y': 25}}, 'face_id': 'ddbfb85ce963401a98caeb1b86b0ed7f', 'attribute': {'lefteye_opendegree': 42, 'righteye_opendegree': 42, 'mouth_opendegree': 21, 'gender': 'Male', 'pose': {'tilting': -4, 'turn': 25, 'raise': -22}, 'age': 30}}]}
+Male Male 30 23
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/22/1000522_1931-01-15_1959.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/61/10005261_1936-06-24_1974.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/47/10005947_1981-04-07_2006.jpg
+<Response [200]>
+{'img_id': '040-db4139db6172def26242aa', 'img_height': 457, 'img_width': 457, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 168, 'eye_right': {'x': 248, 'y': 183}, 'eye_left': {'x': 161, 'y': 206}, 'height': 169, 'center': {'x': 125, 'y': 146}}, 'face_id': '328ba79b5fbe4c23a7fe835171e73572', 'attribute': {'lefteye_opendegree': 57, 'righteye_opendegree': 48, 'mouth_opendegree': 10, 'gender': 'Female', 'pose': {'tilting': -9, 'turn': 12, 'raise': 2}, 'age': 24}}]}
+Female Female 24 25
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/84/1000684_1972-04-05_2004.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/50/10006850_1973-08-17_2010.jpg
+<Response [200]>
+{'img_id': '030-d98a8c20689f9dda6242aa', 'img_height': 301, 'img_width': 301, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 130, 'eye_right': {'x': 170, 'y': 114}, 'eye_left': {'x': 110, 'y': 132}, 'height': 130, 'center': {'x': 80, 'y': 87}}, 'face_id': '8095543746eb45aa809fdc40ed97076b', 'attribute': {'lefteye_opendegree': 0, 'righteye_opendegree': 0, 'mouth_opendegree': 57, 'gender': 'Female', 'pose': {'tilting': -17, 'turn': 5, 'raise': 14}, 'age': 33}}]}
+Female Male 33 37
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/77/10007577_1988-06-16_2007.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/81/1000781_1930-07-07_2008.jpg
+<Response [200]>
+{'img_id': '040-d7a6d71991ccb79a6242aa', 'img_height': 227, 'img_width': 227, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 89, 'eye_right': {'x': 119, 'y': 87}, 'eye_left': {'x': 77, 'y': 96}, 'height': 89, 'center': {'x': 57, 'y': 66}}, 'face_id': '3d2bc3835f234097a6ea48f9daff9cf5', 'attribute': {'lefteye_opendegree': 36, 'righteye_opendegree': 36, 'mouth_opendegree': 15, 'gender': 'Male', 'pose': {'tilting': -11, 'turn': -6, 'raise': -2}, 'age': 64}}]}
+Male Male 64 78
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/87/100087_1889-05-19_1940.jpg
+<Response [200]>
+{'img_id': '030-d56e41efca15fec26242aa', 'img_height': 294, 'img_width': 294, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 127, 'eye_right': {'x': 189, 'y': 113}, 'eye_left': {'x': 131, 'y': 110}, 'height': 126, 'center': {'x': 94, 'y': 79}}, 'face_id': '60e2b859e74c4977a673075a946b6348', 'attribute': {'lefteye_opendegree': 25, 'righteye_opendegree': 22, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': 13, 'turn': 27, 'raise': 11}, 'age': 45}}]}
+Male Male 45 51
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/97/100097_1968-03-23_2010.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/91/1001191_1980-11-08_2011.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/31/1001231_1981-01-30_2014.jpg
+<Response [200]>
+{'img_id': '040-8fb43dbc84ef83a16242aa', 'img_height': 140, 'img_width': 141, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 67, 'eye_right': {'x': 91, 'y': 52}, 'eye_left': {'x': 62, 'y': 52}, 'height': 68, 'center': {'x': 42, 'y': 34}}, 'face_id': '4b82041cb65f49f6932d4a9ee5000c62', 'attribute': {'lefteye_opendegree': 34, 'righteye_opendegree': 41, 'mouth_opendegree': 51, 'gender': 'Male', 'pose': {'tilting': 4, 'turn': 28, 'raise': -16}, 'age': 37}}]}
+Male Male 37 33
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/32/10012532_1983-03-30_2011.jpg
+<Response [200]>
+{'img_id': '030-22a4c98a06cfd3f36242aa', 'img_height': 211, 'img_width': 211, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 83, 'eye_right': {'x': 113, 'y': 80}, 'eye_left': {'x': 74, 'y': 84}, 'height': 84, 'center': {'x': 55, 'y': 62}}, 'face_id': 'c83c280a48774892b98a6f696236258a', 'attribute': {'lefteye_opendegree': 64, 'righteye_opendegree': 64, 'mouth_opendegree': 64, 'gender': 'Female', 'pose': {'tilting': -4, 'turn': -9, 'raise': 3}, 'age': 23}}]}
+Female Female 23 28
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/85/1001285_1963-09-30_1997.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/19/1001319_1920-11-30_1950.jpg
+<Response [200]>
+{'img_id': '030-df81c7966ed301f46242aa', 'img_height': 346, 'img_width': 346, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 62, 'eye_right': {'x': 82, 'y': 69}, 'eye_left': {'x': 58, 'y': 78}, 'height': 61, 'center': {'x': 40, 'y': 55}}, 'face_id': '07718938290642d496efa7c046ebb7e1', 'attribute': {'lefteye_opendegree': 69, 'righteye_opendegree': 60, 'mouth_opendegree': 13, 'gender': 'Female', 'pose': {'tilting': -5, 'turn': -12, 'raise': -13}, 'age': 34}}]}
+Female Female 34 30
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/31/100131_1926-09-06_1986.jpg
+<Response [200]>
+{'img_id': '040-a900457c7f8e5b3a6242aa', 'img_height': 425, 'img_width': 426, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 186, 'eye_right': {'x': 236, 'y': 177}, 'eye_left': {'x': 146, 'y': 175}, 'height': 185, 'center': {'x': 102, 'y': 126}}, 'face_id': 'f17317549fda479aa1c5ce03bab1b237', 'attribute': {'lefteye_opendegree': 35, 'righteye_opendegree': 35, 'mouth_opendegree': 24, 'gender': 'Male', 'pose': {'tilting': 2, 'turn': 10, 'raise': -4}, 'age': 51}}]}
+Male Male 51 60
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/45/10013345_1956-05-26_1969.jpg
+<Response [200]>
+{'img_id': '040-8862f02aab07ee206242aa', 'img_height': 370, 'img_width': 370, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 57, 'eye_right': {'x': 276, 'y': 80}, 'eye_left': {'x': 247, 'y': 80}, 'height': 58, 'center': {'x': 234, 'y': 65}}, 'face_id': '7027b5082e65470585fb334c2837a63a', 'attribute': {'lefteye_opendegree': 66, 'righteye_opendegree': 59, 'mouth_opendegree': 55, 'gender': 'Female', 'pose': {'tilting': 0, 'turn': 0, 'raise': -18}, 'age': 28}}]}
+Female Male 28 13
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/41/1001441_1978-06-24_2005.jpg
+<Response [200]>
+{'img_id': '030-62d98ff47c62bd8e6242aa', 'img_height': 500, 'img_width': 500, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 28, 'eye_right': {'x': 286, 'y': 150}, 'eye_left': {'x': 274, 'y': 148}, 'height': 28, 'center': {'x': 266, 'y': 142}}, 'face_id': 'da68740ad81a447f8266456997fb47d4', 'attribute': {'lefteye_opendegree': 76, 'righteye_opendegree': 76, 'mouth_opendegree': 15, 'gender': 'Male', 'pose': {'tilting': 7, 'turn': 9, 'raise': -28}, 'age': 52}}]}
+Male Male 52 27
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/16/10014616_1991-08-12_1985.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/64/1001464_1953-12-29_2014.jpg
+<Response [200]>
+{'img_id': '030-ad6c9f04f350e94a6242aa', 'img_height': 350, 'img_width': 350, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 52, 'eye_right': {'x': 207, 'y': 67}, 'eye_left': {'x': 186, 'y': 72}, 'height': 52, 'center': {'x': 170, 'y': 54}}, 'face_id': '67a1bd5596ef45ebb9b162cbc2254564', 'attribute': {'lefteye_opendegree': 46, 'righteye_opendegree': 46, 'mouth_opendegree': 88, 'gender': 'Male', 'pose': {'tilting': -1, 'turn': 1, 'raise': -12}, 'age': 51}}]}
+Male Male 51 61
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/95/10014795_1968-10-11_2010.jpg
+<Response [200]>
+{'img_id': '030-903e4fce7f63b97b6242aa', 'img_height': 184, 'img_width': 184, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 86, 'eye_right': {'x': 121, 'y': 74}, 'eye_left': {'x': 78, 'y': 69}, 'height': 86, 'center': {'x': 55, 'y': 44}}, 'face_id': 'b1b432df334e4a13a8a1a72b59390c42', 'attribute': {'lefteye_opendegree': 56, 'righteye_opendegree': 61, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': 8, 'turn': 22, 'raise': -4}, 'age': 30}}]}
+Male Male 30 42
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/79/10015679_1977-03-01_2007.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/56/100156_1920-04-07_1988.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/74/10016074_1987-07-27_2012.jpg
+<Response [200]>
+{'img_id': '030-0000bc5e4d5322e06242aa', 'img_height': 262, 'img_width': 262, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 107, 'eye_right': {'x': 169, 'y': 100}, 'eye_left': {'x': 114, 'y': 101}, 'height': 107, 'center': {'x': 90, 'y': 73}}, 'face_id': 'd5e8684cea3c49ed93031ee0699a1912', 'attribute': {'lefteye_opendegree': 44, 'righteye_opendegree': 48, 'mouth_opendegree': 18, 'gender': 'Male', 'pose': {'tilting': 0, 'turn': 9, 'raise': -20}, 'age': 39}}]}
+Male Male 39 25
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/25/10016225_1988-02-03_2012.jpg
+<Response [200]>
+{'img_id': '040-2be7a340944805416242aa', 'img_height': 131, 'img_width': 130, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 56, 'eye_right': {'x': 85, 'y': 52}, 'eye_left': {'x': 59, 'y': 50}, 'height': 56, 'center': {'x': 44, 'y': 36}}, 'face_id': '8b116dbd35644a4aad9ba0d37c40cb1f', 'attribute': {'lefteye_opendegree': 53, 'righteye_opendegree': 61, 'mouth_opendegree': 38, 'gender': 'Male', 'pose': {'tilting': 10, 'turn': 39, 'raise': -9}, 'age': 42}}]}
+Male Male 42 24
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/35/10016635_1962-02-08_2011.jpg
+<Response [200]>
+{'img_id': '030-267747d67ddbd8126242aa', 'img_height': 149, 'img_width': 149, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 52, 'eye_right': {'x': 76, 'y': 58}, 'eye_left': {'x': 52, 'y': 55}, 'height': 53, 'center': {'x': 36, 'y': 43}}, 'face_id': 'bb135e07c3304fda98e4427f482d6901', 'attribute': {'lefteye_opendegree': 46, 'righteye_opendegree': 38, 'mouth_opendegree': 19, 'gender': 'Male', 'pose': {'tilting': 7, 'turn': 0, 'raise': -14}, 'age': 40}}]}
+Male Male 40 49
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/88/10016688_1963-07-28_2009.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/69/10017169_1985-01-20_2009.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/64/10017464_1973-08-03_2007.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/18/10018_1930-05-11_2002.jpg
+<Response [200]>
+{'img_id': '030-ee51bf5bcbc868646242aa', 'img_height': 500, 'img_width': 500, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 131, 'eye_right': {'x': 315, 'y': 194}, 'eye_left': {'x': 256, 'y': 206}, 'height': 131, 'center': {'x': 229, 'y': 162}}, 'face_id': '030af6582044417393e5005655a0cb06', 'attribute': {'lefteye_opendegree': 20, 'righteye_opendegree': 20, 'mouth_opendegree': 30, 'gender': 'Male', 'pose': {'tilting': 3, 'turn': 22, 'raise': -6}, 'age': 38}}]}
+Male Male 38 72
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/95/10019295_1978-04-09_2009.jpg
+<Response [200]>
+{'img_id': '030-32a61f8f59c7c6256242aa', 'img_height': 290, 'img_width': 289, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 91, 'eye_right': {'x': 149, 'y': 108}, 'eye_left': {'x': 101, 'y': 116}, 'height': 91, 'center': {'x': 82, 'y': 88}}, 'face_id': '9b0be28843d64d5b950b0014593e227b', 'attribute': {'lefteye_opendegree': 54, 'righteye_opendegree': 41, 'mouth_opendegree': 52, 'gender': 'Male', 'pose': {'tilting': -7, 'turn': -24, 'raise': -12}, 'age': 40}}]}
+Male Female 40 31
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/96/100196_1957-10-03_2010.jpg
+<Response [200]>
+{'img_id': '040-303981939667a9fe6242aa', 'img_height': 218, 'img_width': 218, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 100, 'eye_right': {'x': 136, 'y': 73}, 'eye_left': {'x': 93, 'y': 89}, 'height': 100, 'center': {'x': 67, 'y': 52}}, 'face_id': 'ee102686813649c9b5c21c02163d43c7', 'attribute': {'lefteye_opendegree': 47, 'righteye_opendegree': 58, 'mouth_opendegree': 19, 'gender': 'Male', 'pose': {'tilting': -2, 'turn': 31, 'raise': -1}, 'age': 31}}]}
+Male Male 31 53
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/01/1002001_1944-05-01_1995.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/48/1002248_1960-05-14_2007.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/29/10023829_1950-04-05_1950.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/05/10024005_1955-12-24_2012.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/27/1002427_1966-05-28_2000.jpg
+<Response [200]>
+{'img_id': '040-5e019535e85d6f7e6242aa', 'img_height': 99, 'img_width': 99, 'res_code': '0000'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/41/1002441_1952-01-03_2007.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/54/10024854_1937-11-27_1960.jpg
+<Response [200]>
+{'img_id': '040-5e0afc0a5f7497e06242aa', 'img_height': 500, 'img_width': 500, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 70, 'eye_right': {'x': 154, 'y': 125}, 'eye_left': {'x': 122, 'y': 133}, 'height': 70, 'center': {'x': 108, 'y': 108}}, 'face_id': 'ad7adba4a4274bf99156ead781fe12c3', 'attribute': {'lefteye_opendegree': 0, 'righteye_opendegree': 0, 'mouth_opendegree': 100, 'gender': 'Male', 'pose': {'tilting': 8, 'turn': 23, 'raise': -17}, 'age': 33}}]}
+Male Male 33 23
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/21/10026321_1984-05-17_2014.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/87/1002787_1962-01-28_2009.jpg
+<Response [200]>
+{'img_id': '040-19a8d65ff39e389f6242aa', 'img_height': 370, 'img_width': 370, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 164, 'eye_right': {'x': 199, 'y': 133}, 'eye_left': {'x': 120, 'y': 160}, 'height': 164, 'center': {'x': 85, 'y': 100}}, 'face_id': 'd1ffaec0316647c4a14fdb8a612c0245', 'attribute': {'lefteye_opendegree': 69, 'righteye_opendegree': 66, 'mouth_opendegree': 36, 'gender': 'Male', 'pose': {'tilting': -14, 'turn': -6, 'raise': -16}, 'age': 42}}]}
+Male Male 42 47
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/62/10028362_1974-10-18_2007.jpg
+<Response [200]>
+{'img_id': '030-7c941746355cc1046242aa', 'img_height': 139, 'img_width': 139, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 55, 'eye_right': {'x': 90, 'y': 53}, 'eye_left': {'x': 65, 'y': 54}, 'height': 56, 'center': {'x': 51, 'y': 37}}, 'face_id': 'a58f12987b7c4050b3ea038fa4c724a1', 'attribute': {'lefteye_opendegree': 83, 'righteye_opendegree': 91, 'mouth_opendegree': 33, 'gender': 'Male', 'pose': {'tilting': 4, 'turn': 10, 'raise': -19}, 'age': 31}}]}
+Male Male 31 33
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/85/100285_1949-11-08_2007.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/21/10028621_1956-10-10_2010.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/71/1002871_1954-03-26_2007.jpg
+<Response [200]>
+{'img_id': '040-ec70d927e9e693466242aa', 'img_height': 266, 'img_width': 265, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 117, 'eye_right': {'x': 143, 'y': 105}, 'eye_left': {'x': 87, 'y': 112}, 'height': 117, 'center': {'x': 58, 'y': 76}}, 'face_id': 'b43028b9869c47ab96936edddaa79110', 'attribute': {'lefteye_opendegree': 55, 'righteye_opendegree': 55, 'mouth_opendegree': 5, 'gender': 'Male', 'pose': {'tilting': -5, 'turn': 5, 'raise': 1}, 'age': 56}}]}
+Male Male 56 53
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/23/1002923_1954-09-10_2009.jpg
+<Response [200]>
+{'img_id': '030-7fc3a359370aa03f6242aa', 'img_height': 322, 'img_width': 322, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 147, 'eye_right': {'x': 180, 'y': 119}, 'eye_left': {'x': 111, 'y': 122}, 'height': 147, 'center': {'x': 71, 'y': 82}}, 'face_id': '08c6ce6d9d874223aac3cf73a4242b79', 'attribute': {'lefteye_opendegree': 49, 'righteye_opendegree': 55, 'mouth_opendegree': 0, 'gender': 'Female', 'pose': {'tilting': 0, 'turn': 1, 'raise': -9}, 'age': 36}}]}
+Female Male 36 55
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/80/1002980_1966-01-31_2012.jpg
+<Response [200]>
+{'img_id': '030-ca31212df60384d16242aa', 'img_height': 278, 'img_width': 278, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 121, 'eye_right': {'x': 146, 'y': 103}, 'eye_left': {'x': 88, 'y': 111}, 'height': 121, 'center': {'x': 60, 'y': 73}}, 'face_id': 'c354d521ab8a42f1bf0b78770932c73b', 'attribute': {'lefteye_opendegree': 61, 'righteye_opendegree': 61, 'mouth_opendegree': 46, 'gender': 'Male', 'pose': {'tilting': -1, 'turn': 8, 'raise': -7}, 'age': 48}}]}
+Male Male 48 46
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/13/10030613_1980-06-23_2013.jpg
+<Response [200]>
+{'img_id': '030-57cf5ce3f4c6c56f6242aa', 'img_height': 322, 'img_width': 323, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 152, 'eye_right': {'x': 221, 'y': 140}, 'eye_left': {'x': 147, 'y': 120}, 'height': 153, 'center': {'x': 103, 'y': 88}}, 'face_id': 'c35c6c0aece14ec18f8f0afbb15870f5', 'attribute': {'lefteye_opendegree': 43, 'righteye_opendegree': 58, 'mouth_opendegree': 13, 'gender': 'Female', 'pose': {'tilting': 11, 'turn': 30, 'raise': -18}, 'age': 23}}]}
+Female Female 23 33
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/26/10031026_1962-10-15_2009.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/74/10031874_1979-02-06_2007.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/43/1003243_1965-04-10_2007.jpg
+<Response [200]>
+{'img_id': '040-8c6ee3033491001f6242aa', 'img_height': 287, 'img_width': 286, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 133, 'eye_right': {'x': 188, 'y': 108}, 'eye_left': {'x': 128, 'y': 111}, 'height': 133, 'center': {'x': 86, 'y': 73}}, 'face_id': 'b76c47d261f442849f774af8cc18b4d2', 'attribute': {'lefteye_opendegree': 20, 'righteye_opendegree': 20, 'mouth_opendegree': 10, 'gender': 'Female', 'pose': {'tilting': -1, 'turn': 10, 'raise': -14}, 'age': 51}}]}
+Female Male 51 42
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/07/10033207_1955-01-09_1950.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/19/10033319_1946-09-11_1940.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/59/10033359_1945-06-14_2012.jpg
+<Response [200]>
+{'img_id': '030-1e85a00c4b6a1d936242aa', 'img_height': 397, 'img_width': 398, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 160, 'eye_right': {'x': 222, 'y': 161}, 'eye_left': {'x': 142, 'y': 156}, 'height': 160, 'center': {'x': 104, 'y': 111}}, 'face_id': '930450d46ba34294b46adccd2b240e43', 'attribute': {'lefteye_opendegree': 32, 'righteye_opendegree': 34, 'mouth_opendegree': 25, 'gender': 'Male', 'pose': {'tilting': 7, 'turn': 0, 'raise': 0}, 'age': 69}}]}
+Male Male 69 67
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/23/10033423_1965-06-21_1960.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/80/10033580_1954-10-29_1950.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/39/100339_1931-07-10_2010.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/49/1003449_1920-08-10_1970.jpg
+<Response [200]>
+{'img_id': '040-676e5c934c2463076242aa', 'img_height': 338, 'img_width': 338, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 147, 'eye_right': {'x': 184, 'y': 134}, 'eye_left': {'x': 113, 'y': 152}, 'height': 147, 'center': {'x': 82, 'y': 95}}, 'face_id': '9d3dc6fafd68465aa44dd6c9e31185ff', 'attribute': {'lefteye_opendegree': 0, 'righteye_opendegree': 2, 'mouth_opendegree': 16, 'gender': 'Male', 'pose': {'tilting': 0, 'turn': 9, 'raise': -13}, 'age': 56}}]}
+Male Male 56 50
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/85/10034585_1989-06-13_2011.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/29/10034929_1976-07-29_2009.jpg
+<Response [200]>
+{'img_id': '040-c211abb0ea05037a6242aa', 'img_height': 137, 'img_width': 137, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 54, 'eye_right': {'x': 88, 'y': 51}, 'eye_left': {'x': 61, 'y': 52}, 'height': 54, 'center': {'x': 47, 'y': 37}}, 'face_id': 'ba9e2862a76a41088cf49d4d392af718', 'attribute': {'lefteye_opendegree': 40, 'righteye_opendegree': 53, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': 1, 'turn': 40, 'raise': -22}, 'age': 41}}]}
+Male Male 41 33
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/79/10035379_1952-01-30_1950.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/05/10035505_1968-09-03_1960.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/47/10036447_1980-06-06_2006.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/34/10038134_1975-07-31_2007.jpg
+<Response [200]>
+{'img_id': '040-73907df5db2657d36242aa', 'img_height': 147, 'img_width': 146, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 60, 'eye_right': {'x': 64, 'y': 58}, 'eye_left': {'x': 40, 'y': 65}, 'height': 59, 'center': {'x': 25, 'y': 45}}, 'face_id': 'f47bb5bfb7a4426fb71d6e7dc4b2e89a', 'attribute': {'lefteye_opendegree': 30, 'righteye_opendegree': 30, 'mouth_opendegree': 0, 'gender': 'Female', 'pose': {'tilting': -3, 'turn': -3, 'raise': 3}, 'age': 27}}]}
+Female Male 27 32
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/84/100384_1967-04-27_2015.jpg
+<Response [200]>
+{'img_id': '030-03bfc3217b5852786242aa', 'img_height': 500, 'img_width': 501, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 192, 'eye_right': {'x': 260, 'y': 194}, 'eye_left': {'x': 169, 'y': 177}, 'height': 192, 'center': {'x': 118, 'y': 141}}, 'face_id': '8e07592dbf56475dafd9faab847d4dcf', 'attribute': {'lefteye_opendegree': 39, 'righteye_opendegree': 32, 'mouth_opendegree': 9, 'gender': 'Male', 'pose': {'tilting': 6, 'turn': -11, 'raise': -21}, 'age': 53}}]}
+Male Male 53 48
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/87/100387_1969-10-11_2013.jpg
+<Response [200]>
+{'img_id': '040-e488d82453d163de6242aa', 'img_height': 301, 'img_width': 302, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 122, 'eye_right': {'x': 164, 'y': 112}, 'eye_left': {'x': 117, 'y': 116}, 'height': 122, 'center': {'x': 75, 'y': 79}}, 'face_id': 'c2c984b5da2447d499feacc6688c8cda', 'attribute': {'lefteye_opendegree': 36, 'righteye_opendegree': 40, 'mouth_opendegree': 38, 'gender': 'Male', 'pose': {'tilting': -1, 'turn': 0, 'raise': -8}, 'age': 55}}]}
+Male Male 55 44
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/55/10038855_1962-04-05_1960.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/38/10038938_1961-08-28_2008.jpg
+<Response [200]>
+{'img_id': '030-4ee82378db3f498f6242aa', 'img_height': 153, 'img_width': 152, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 56, 'eye_right': {'x': 81, 'y': 56}, 'eye_left': {'x': 55, 'y': 64}, 'height': 56, 'center': {'x': 44, 'y': 44}}, 'face_id': 'b6f85a63857c48228c784d55bff77a21', 'attribute': {'lefteye_opendegree': 22, 'righteye_opendegree': 22, 'mouth_opendegree': 33, 'gender': 'Female', 'pose': {'tilting': -1, 'turn': 13, 'raise': -18}, 'age': 35}}]}
+Female Male 35 47
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/63/10039063_1985-06-13_2010.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/23/10039123_1913-12-03_1976.jpg
+<Response [200]>
+{'img_id': '030-e0084fbadb9c30086242aa', 'img_height': 415, 'img_width': 415, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 139, 'eye_right': {'x': 225, 'y': 182}, 'eye_left': {'x': 152, 'y': 148}, 'height': 138, 'center': {'x': 106, 'y': 117}}, 'face_id': 'bbd7997ae6e34c16a741a5109523f155', 'attribute': {'lefteye_opendegree': 19, 'righteye_opendegree': 14, 'mouth_opendegree': 5, 'gender': 'Male', 'pose': {'tilting': 8, 'turn': 19, 'raise': -22}, 'age': 51}}]}
+Male Male 51 63
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/48/1003948_1976-03-30_2006.jpg
+<Response [200]>
+{'img_id': '040-3b8b12d603b1eaf16242aa', 'img_height': 457, 'img_width': 456, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 195, 'eye_right': {'x': 289, 'y': 168}, 'eye_left': {'x': 183, 'y': 176}, 'height': 195, 'center': {'x': 138, 'y': 118}}, 'face_id': '64ed31a335394191a735027b1ad3bee6', 'attribute': {'lefteye_opendegree': 42, 'righteye_opendegree': 42, 'mouth_opendegree': 8, 'gender': 'Female', 'pose': {'tilting': 1, 'turn': 4, 'raise': -2}, 'age': 23}}]}
+Female Female 23 30
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/97/100397_1902-01-09_2003.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/61/10040161_1955-10-19_1984.jpg
+<Response [200]>
+{'img_id': '030-9833feb6122492896242aa', 'img_height': 128, 'img_width': 128, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 50, 'eye_right': {'x': 81, 'y': 51}, 'eye_left': {'x': 58, 'y': 53}, 'height': 50, 'center': {'x': 45, 'y': 39}}, 'face_id': '233fe6a5d7954fba89dabf309ef837f0', 'attribute': {'lefteye_opendegree': 25, 'righteye_opendegree': 33, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': -3, 'turn': 3, 'raise': -12}, 'age': 51}}]}
+Male Male 51 29
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/27/1004027_1979-05-25_2010.jpg
+<Response [200]>
+{'img_id': '040-3c86a6abfc8bf63e6242aa', 'img_height': 394, 'img_width': 393, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 166, 'eye_right': {'x': 209, 'y': 155}, 'eye_left': {'x': 132, 'y': 159}, 'height': 166, 'center': {'x': 99, 'y': 110}}, 'face_id': '83eb89d6647946f7aef3769839b2cffc', 'attribute': {'lefteye_opendegree': 75, 'righteye_opendegree': 75, 'mouth_opendegree': 24, 'gender': 'Male', 'pose': {'tilting': 1, 'turn': -5, 'raise': -11}, 'age': 28}}]}
+Male Male 28 31
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/82/10040382_1962-12-01_1960.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/19/10040419_1987-11-05_2012.jpg
+<Response [200]>
+{'img_id': '030-3366ac006f41941b6242aa', 'img_height': 125, 'img_width': 124, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 37, 'eye_right': {'x': 64, 'y': 48}, 'eye_left': {'x': 45, 'y': 48}, 'height': 37, 'center': {'x': 36, 'y': 37}}, 'face_id': '0d35cfe14307448394195110f5aa4cfb', 'attribute': {'lefteye_opendegree': 55, 'righteye_opendegree': 44, 'mouth_opendegree': 38, 'gender': 'Male', 'pose': {'tilting': -1, 'turn': 15, 'raise': -16}, 'age': 28}}]}
+Male Male 28 25
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/59/1004059_1964-09-19_2010.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/05/100405_1948-08-20_2010.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/78/1004078_1979-09-15_2007.jpg
+<Response [200]>
+{'img_id': '030-e72e87c75e0774286242aa', 'img_height': 119, 'img_width': 119, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 60, 'eye_right': {'x': 80, 'y': 50}, 'eye_left': {'x': 54, 'y': 50}, 'height': 59, 'center': {'x': 36, 'y': 33}}, 'face_id': 'b3da33e92ad44117933989317691951d', 'attribute': {'lefteye_opendegree': 68, 'righteye_opendegree': 62, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': 0, 'turn': -4, 'raise': -17}, 'age': 44}}]}
+Male Male 44 28
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/07/1004107_1976-05-02_2008.jpg
+<Response [200]>
+{'img_id': '030-406438d93cc6ef3e6242aa', 'img_height': 117, 'img_width': 117, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 46, 'eye_right': {'x': 61, 'y': 47}, 'eye_left': {'x': 39, 'y': 43}, 'height': 45, 'center': {'x': 26, 'y': 33}}, 'face_id': 'c9988eef35ad4e5ca22b1efe5c49c10b', 'attribute': {'lefteye_opendegree': 25, 'righteye_opendegree': 25, 'mouth_opendegree': 54, 'gender': 'Male', 'pose': {'tilting': 13, 'turn': 9, 'raise': -13}, 'age': 40}}]}
+Male Male 40 32
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/60/1004160_1970-06-16_2007.jpg
+<Response [200]>
+{'img_id': '030-41b3a12db66eca0f6242aa', 'img_height': 142, 'img_width': 143, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 48, 'eye_right': {'x': 73, 'y': 59}, 'eye_left': {'x': 52, 'y': 57}, 'height': 48, 'center': {'x': 36, 'y': 46}}, 'face_id': 'c0f4dc3b1553487d9d747e32379ad1d8', 'attribute': {'lefteye_opendegree': 7, 'righteye_opendegree': 15, 'mouth_opendegree': 0, 'gender': 'Female', 'pose': {'tilting': 1, 'turn': 6, 'raise': 3}, 'age': 30}}]}
+Female Male 30 37
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/78/10043078_1954-03-18_2006.jpg
+<Response [200]>
+{'img_id': '030-72bfa88f6ab73ea16242aa', 'img_height': 250, 'img_width': 250, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 92, 'eye_right': {'x': 167, 'y': 99}, 'eye_left': {'x': 121, 'y': 93}, 'height': 93, 'center': {'x': 96, 'y': 72}}, 'face_id': '198cb3d0337c4f2b94e479094090bedd', 'attribute': {'lefteye_opendegree': 62, 'righteye_opendegree': 62, 'mouth_opendegree': 35, 'gender': 'Male', 'pose': {'tilting': 3, 'turn': 19, 'raise': -9}, 'age': 55}}]}
+Male Male 55 52
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/29/1004429_1981-02-13_2007.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/40/1004540_1975-08-25_2011.jpg
+<Response [200]>
+{'img_id': '030-3068130e0ab0ed6c6242aa', 'img_height': 418, 'img_width': 419, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 172, 'eye_right': {'x': 271, 'y': 173}, 'eye_left': {'x': 186, 'y': 170}, 'height': 172, 'center': {'x': 144, 'y': 124}}, 'face_id': 'ff790b3e36fa4618acaceab8e61b1ca4', 'attribute': {'lefteye_opendegree': 48, 'righteye_opendegree': 53, 'mouth_opendegree': 42, 'gender': 'Female', 'pose': {'tilting': 4, 'turn': 17, 'raise': -11}, 'age': 33}}]}
+Female Female 33 36
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/04/1004604_1981-11-27_2012.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/06/10046706_1933-04-21_1962.jpg
+<Response [200]>
+{'img_id': '040-ae5d95d27e1c0e8d6242aa', 'img_height': 84, 'img_width': 85, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 31, 'eye_right': {'x': 51, 'y': 37}, 'eye_left': {'x': 36, 'y': 36}, 'height': 31, 'center': {'x': 28, 'y': 26}}, 'face_id': 'fb7e6989f7454b40a67c16d849e74427', 'attribute': {'lefteye_opendegree': 12, 'righteye_opendegree': 12, 'mouth_opendegree': 50, 'gender': 'Male', 'pose': {'tilting': 6, 'turn': 4, 'raise': -21}, 'age': 31}}]}
+Male Male 31 29
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/56/10046756_1987-07-16_2014.jpg
+<Response [200]>
+{'img_id': '040-ac06ed1b3b453df36242aa', 'img_height': 319, 'img_width': 319, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 157, 'eye_right': {'x': 173, 'y': 116}, 'eye_left': {'x': 90, 'y': 129}, 'height': 157, 'center': {'x': 68, 'y': 77}}, 'face_id': '8546530d354141878a11a97ac37910b0', 'attribute': {'lefteye_opendegree': 37, 'righteye_opendegree': 34, 'mouth_opendegree': 0, 'gender': 'Female', 'pose': {'tilting': -7, 'turn': -13, 'raise': -19}, 'age': 29}}]}
+Female Female 29 27
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/87/10047987_1940-05-15_1969.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/54/1004854_1937-12-29_1961.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/00/10049200_1891-09-16_1958.jpg
+<Response [200]>
+{'img_id': '030-cba14e7634b824c96242aa', 'img_height': 256, 'img_width': 256, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 132, 'eye_right': {'x': 141, 'y': 101}, 'eye_left': {'x': 80, 'y': 101}, 'height': 132, 'center': {'x': 47, 'y': 61}}, 'face_id': 'fdc5bbe227d24344881e75bf5d902d54', 'attribute': {'lefteye_opendegree': 73, 'righteye_opendegree': 73, 'mouth_opendegree': 22, 'gender': 'Female', 'pose': {'tilting': 3, 'turn': 5, 'raise': -14}, 'age': 31}}]}
+Female Female 31 67
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/49/10049_1945-03-30_2008.jpg
+<Response [200]>
+{'img_id': '030-8326ef312402c1846242aa', 'img_height': 150, 'img_width': 150, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 66, 'eye_right': {'x': 100, 'y': 67}, 'eye_left': {'x': 72, 'y': 59}, 'height': 66, 'center': {'x': 49, 'y': 43}}, 'face_id': 'e816beb83b584dbba3989ef0cbb13a75', 'attribute': {'lefteye_opendegree': 38, 'righteye_opendegree': 27, 'mouth_opendegree': 25, 'gender': 'Female', 'pose': {'tilting': 3, 'turn': 17, 'raise': -7}, 'age': 40}}]}
+Female Male 40 63
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/06/100506_1951-04-13_2008.jpg
+<Response [200]>
+{'img_id': '040-6dcd957af8f389086242aa', 'img_height': 500, 'img_width': 446, 'res_code': '0000'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/79/1005079_1937-09-06_2010.jpg
+<Response [200]>
+{'img_id': '030-3de6a0e7af0e6dbb6242aa', 'img_height': 343, 'img_width': 343, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 146, 'eye_right': {'x': 229, 'y': 145}, 'eye_left': {'x': 155, 'y': 128}, 'height': 146, 'center': {'x': 115, 'y': 98}}, 'face_id': '379904a5f7e94f368b8062efb11c1bd0', 'attribute': {'lefteye_opendegree': 35, 'righteye_opendegree': 35, 'mouth_opendegree': 4, 'gender': 'Female', 'pose': {'tilting': 4, 'turn': 7, 'raise': -9}, 'age': 28}}]}
+Female Female 28 73
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/31/1005131_1955-07-06_2005.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/58/1005258_1960-01-10_2013.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/11/10054011_1982-06-12_2009.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/50/10054750_1989-05-08_2015.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/25/1005525_1937-08-20_2008.jpg
+<Response [200]>
+{'img_id': '030-9516f57a0ad56e216242aa', 'img_height': 262, 'img_width': 263, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 107, 'eye_right': {'x': 172, 'y': 113}, 'eye_left': {'x': 125, 'y': 98}, 'height': 107, 'center': {'x': 90, 'y': 72}}, 'face_id': '6559bd13d2514baf86f1a2b93d3dfee7', 'attribute': {'lefteye_opendegree': 32, 'righteye_opendegree': 35, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': 20, 'turn': 44, 'raise': 0}, 'age': 72}}]}
+Male Male 72 71
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/79/10055379_1992-09-28_2010.jpg
+<Response [200]>
+{'img_id': '030-64a4bc13d495fb586242aa', 'img_height': 489, 'img_width': 489, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 222, 'eye_right': {'x': 281, 'y': 184}, 'eye_left': {'x': 178, 'y': 189}, 'height': 222, 'center': {'x': 118, 'y': 124}}, 'face_id': 'deb29a719c9a4a37b33a83e22c981ccd', 'attribute': {'lefteye_opendegree': 49, 'righteye_opendegree': 47, 'mouth_opendegree': 0, 'gender': 'Female', 'pose': {'tilting': 2, 'turn': -8, 'raise': -5}, 'age': 30}}]}
+Female Male 30 18
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/60/10057360_1943-02-26_1968.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/88/10058588_1970-06-02_2009.jpg
+<Response [200]>
+{'img_id': '040-245d488a46ea82d16242aa', 'img_height': 346, 'img_width': 346, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 147, 'eye_right': {'x': 188, 'y': 137}, 'eye_left': {'x': 118, 'y': 141}, 'height': 147, 'center': {'x': 85, 'y': 97}}, 'face_id': '8fa63e678c8f4eda9ae8d15df369cd4b', 'attribute': {'lefteye_opendegree': 40, 'righteye_opendegree': 40, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': -2, 'turn': -1, 'raise': -13}, 'age': 30}}]}
+Male Male 30 39
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/27/1005927_1979-12-03_2006.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/26/10059326_1988-03-11_2009.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/47/1005947_1968-04-18_2007.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/15/10059615_1912-01-10_1943.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/45/10061345_1946-09-14_1940.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/11/1006211_1970-12-29_2011.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/96/10063196_1955-05-19_1950.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/49/10063349_1964-10-04_1960.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/37/10063437_1986-03-06_2014.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/80/10063480_1966-04-05_1960.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/82/10063582_1979-01-13_2005.jpg
+<Response [200]>
+{'img_id': '030-9a9b6063521cb3626242aa', 'img_height': 106, 'img_width': 107, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 40, 'eye_right': {'x': 66, 'y': 42}, 'eye_left': {'x': 50, 'y': 44}, 'height': 40, 'center': {'x': 37, 'y': 32}}, 'face_id': 'd4421142f7a14ad2a7078029830e8a7a', 'attribute': {'lefteye_opendegree': 28, 'righteye_opendegree': 28, 'mouth_opendegree': 28, 'gender': 'Male', 'pose': {'tilting': 9, 'turn': 27, 'raise': -5}, 'age': 30}}]}
+Male Male 30 26
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/84/1006384_1946-12-24_2005.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/03/10064003_1986-01-04_2009.jpg
+<Response [200]>
+{'img_id': '030-addb99bd617dcfe86242aa', 'img_height': 173, 'img_width': 174, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 74, 'eye_right': {'x': 97, 'y': 70}, 'eye_left': {'x': 61, 'y': 70}, 'height': 74, 'center': {'x': 40, 'y': 50}}, 'face_id': 'c8f51b01f38a4e71bb47f8ed51bf75e1', 'attribute': {'lefteye_opendegree': 34, 'righteye_opendegree': 40, 'mouth_opendegree': 25, 'gender': 'Female', 'pose': {'tilting': 7, 'turn': 6, 'raise': -16}, 'age': 39}}]}
+Female Female 39 23
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/07/1006407_1980-07-07_2005.jpg
+<Response [200]>
+{'img_id': '030-7237d53e83e01bae6242aa', 'img_height': 211, 'img_width': 211, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 83, 'eye_right': {'x': 108, 'y': 82}, 'eye_left': {'x': 66, 'y': 87}, 'height': 82, 'center': {'x': 48, 'y': 62}}, 'face_id': '6ba54331941f4166be08d2cb4ffd780b', 'attribute': {'lefteye_opendegree': 60, 'righteye_opendegree': 60, 'mouth_opendegree': 25, 'gender': 'Female', 'pose': {'tilting': 2, 'turn': 0, 'raise': 2}, 'age': 35}}]}
+Female Female 35 25
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/51/10066251_1988-06-22_2015.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/11/10068211_1948-10-03_2007.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/25/10068625_1976-12-03_2006.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/91/100691_1941-07-30_2007.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/92/100692_1954-12-28_2000.jpg
+<Response [200]>
+{'img_id': '030-1db878f3830db1bf6242aa', 'img_height': 276, 'img_width': 276, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 117, 'eye_right': {'x': 175, 'y': 105}, 'eye_left': {'x': 117, 'y': 101}, 'height': 117, 'center': {'x': 89, 'y': 71}}, 'face_id': 'ec404c42620d4079945328e99b3b9cbb', 'attribute': {'lefteye_opendegree': 65, 'righteye_opendegree': 65, 'mouth_opendegree': 16, 'gender': 'Male', 'pose': {'tilting': 0, 'turn': 7, 'raise': -10}, 'age': 43}}]}
+Male Male 43 46
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/14/10070014_1943-05-11_1940.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/07/1007007_1973-01-20_2011.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/05/10071705_1991-07-19_2013.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/45/10071745_1981-10-16_2010.jpg
+<Response [200]>
+{'img_id': '030-08b410b03d6a459c6242aa', 'img_height': 256, 'img_width': 256, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 109, 'eye_right': {'x': 138, 'y': 103}, 'eye_left': {'x': 86, 'y': 111}, 'height': 108, 'center': {'x': 61, 'y': 77}}, 'face_id': '55152bcd644c40119c26cde5bf12eb29', 'attribute': {'lefteye_opendegree': 62, 'righteye_opendegree': 71, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': -9, 'turn': -13, 'raise': -3}, 'age': 40}}]}
+Male Male 40 29
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/92/1007192_1935-05-27_2005.jpg
+<Response [200]>
+{'img_id': '040-9e2d5cacefc764396242aa', 'img_height': 130, 'img_width': 130, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 59, 'eye_right': {'x': 89, 'y': 49}, 'eye_left': {'x': 58, 'y': 47}, 'height': 59, 'center': {'x': 43, 'y': 33}}, 'face_id': 'd806456186d0437baccafd96647c63f2', 'attribute': {'lefteye_opendegree': 58, 'righteye_opendegree': 51, 'mouth_opendegree': 3, 'gender': 'Female', 'pose': {'tilting': -2, 'turn': 14, 'raise': -21}, 'age': 37}}]}
+Female Female 37 70
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/71/10071_1961-04-03_2010.jpg
+<Response [200]>
+{'img_id': '030-d81848b1265b2b2f6242aa', 'img_height': 500, 'img_width': 500, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 208, 'eye_right': {'x': 331, 'y': 202}, 'eye_left': {'x': 221, 'y': 215}, 'height': 209, 'center': {'x': 176, 'y': 154}}, 'face_id': 'fd08198a532b43a6b3c3cdadcd9bb1aa', 'attribute': {'lefteye_opendegree': 64, 'righteye_opendegree': 61, 'mouth_opendegree': 13, 'gender': 'Female', 'pose': {'tilting': -4, 'turn': 2, 'raise': -8}, 'age': 21}}]}
+Female Female 21 49
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/17/1007217_1937-05-26_2000.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/98/10072598_1972-07-06_2009.jpg
+<Response [200]>
+{'img_id': '040-8fe11ae89c12cf3c6242aa', 'img_height': 257, 'img_width': 257, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 112, 'eye_right': {'x': 173, 'y': 112}, 'eye_left': {'x': 117, 'y': 106}, 'height': 112, 'center': {'x': 88, 'y': 78}}, 'face_id': '3d44afdfe12b4f5fa1255c157d469df3', 'attribute': {'lefteye_opendegree': 51, 'righteye_opendegree': 58, 'mouth_opendegree': 31, 'gender': 'Male', 'pose': {'tilting': 17, 'turn': 34, 'raise': -11}, 'age': 38}}]}
+Male Male 38 37
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/15/10074515_1968-03-03_2010.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/99/1007499_1983-03-09_2013.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/01/10075401_1944-11-05_1982.jpg
+<Response [200]>
+{'img_id': '030-8c288d2081c43fe96242aa', 'img_height': 229, 'img_width': 228, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 32, 'eye_right': {'x': 36, 'y': 37}, 'eye_left': {'x': 23, 'y': 36}, 'height': 32, 'center': {'x': 15, 'y': 28}}, 'face_id': '7190312ee9c9463dbbe4f05557a91505', 'attribute': {'lefteye_opendegree': 28, 'righteye_opendegree': 28, 'mouth_opendegree': 7, 'gender': 'Male', 'pose': {'tilting': 0, 'turn': -6, 'raise': 0}, 'age': 37}}]}
+Male Male 37 38
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/15/10075415_1988-01-11_2010.jpg
+<Response [200]>
+{'img_id': '030-d8d7180d410025886242aa', 'img_height': 231, 'img_width': 231, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 98, 'eye_right': {'x': 145, 'y': 95}, 'eye_left': {'x': 99, 'y': 83}, 'height': 99, 'center': {'x': 70, 'y': 63}}, 'face_id': '733286c4afb04e0aa0a22e82bbc00ee9', 'attribute': {'lefteye_opendegree': 47, 'righteye_opendegree': 56, 'mouth_opendegree': 0, 'gender': 'Female', 'pose': {'tilting': 4, 'turn': 1, 'raise': 3}, 'age': 24}}]}
+Female Female 24 22
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/99/10075699_1960-11-06_2011.jpg
+<Response [200]>
+{'img_id': '030-f18d9b33a58dda966242aa', 'img_height': 111, 'img_width': 111, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 47, 'eye_right': {'x': 56, 'y': 41}, 'eye_left': {'x': 36, 'y': 40}, 'height': 48, 'center': {'x': 23, 'y': 31}}, 'face_id': '071341a020ba4b6f9c54456b8e2aaa59', 'attribute': {'lefteye_opendegree': 25, 'righteye_opendegree': 16, 'mouth_opendegree': 20, 'gender': 'Male', 'pose': {'tilting': 7, 'turn': 21, 'raise': -3}, 'age': 35}}]}
+Male Male 35 51
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/79/10075979_1954-11-15_1977.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/36/1007636_1968-12-17_2012.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/09/1007709_1922-04-15_1967.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/64/1007764_1947-12-21_2007.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/67/1007767_1899-12-14_1970.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/65/10077765_1954-03-07_2010.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/20/10078120_1948-06-07_1940.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/81/10078681_1940-10-01_1940.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/72/10078872_1958-06-21_1979.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/48/10079048_1956-02-03_1950.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/69/10079169_1991-03-11_2010.jpg
+<Response [200]>
+{'img_id': '030-5e59f23db02488356242aa', 'img_height': 215, 'img_width': 215, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 101, 'eye_right': {'x': 121, 'y': 84}, 'eye_left': {'x': 71, 'y': 85}, 'height': 100, 'center': {'x': 46, 'y': 60}}, 'face_id': 'f4da84bad91b4eeb862f258e59b02c76', 'attribute': {'lefteye_opendegree': 57, 'righteye_opendegree': 57, 'mouth_opendegree': 16, 'gender': 'Female', 'pose': {'tilting': -6, 'turn': -2, 'raise': -8}, 'age': 25}}]}
+Female Female 25 19
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/28/1007928_1986-03-09_2009.jpg
+<Response [200]>
+{'img_id': '030-6c38a771598406706242aa', 'img_height': 262, 'img_width': 263, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 119, 'eye_right': {'x': 152, 'y': 100}, 'eye_left': {'x': 92, 'y': 106}, 'height': 119, 'center': {'x': 66, 'y': 70}}, 'face_id': '295ca707ffb54759807191d2f9c34979', 'attribute': {'lefteye_opendegree': 80, 'righteye_opendegree': 80, 'mouth_opendegree': 7, 'gender': 'Female', 'pose': {'tilting': -2, 'turn': 15, 'raise': -17}, 'age': 28}}]}
+Female Female 28 23
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/46/10080646_1986-08-08_2014.jpg
+<Response [200]>
+{'img_id': '040-86b16ae96cdf09df6242aa', 'img_height': 398, 'img_width': 397, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 163, 'eye_right': {'x': 255, 'y': 159}, 'eye_left': {'x': 171, 'y': 164}, 'height': 163, 'center': {'x': 132, 'y': 119}}, 'face_id': '236bdcc02b7d43edbbb5b0c5d5bfcfc9', 'attribute': {'lefteye_opendegree': 48, 'righteye_opendegree': 48, 'mouth_opendegree': 59, 'gender': 'Female', 'pose': {'tilting': -2, 'turn': 5, 'raise': -14}, 'age': 30}}]}
+Female Female 30 28
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/71/1008071_1924-07-13_1945.jpg
+<Response [200]>
+{'img_id': '040-cf4c857e76fe6cb46242aa', 'img_height': 204, 'img_width': 205, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 92, 'eye_right': {'x': 117, 'y': 75}, 'eye_left': {'x': 73, 'y': 83}, 'height': 91, 'center': {'x': 54, 'y': 54}}, 'face_id': 'fcfaa1d9e2df429da522fa5faeecad44', 'attribute': {'lefteye_opendegree': 59, 'righteye_opendegree': 51, 'mouth_opendegree': 2, 'gender': 'Male', 'pose': {'tilting': -5, 'turn': 7, 'raise': -22}, 'age': 45}}]}
+Male Male 45 21
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/33/1008133_1956-12-17_2009.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/50/10081450_1915-04-03_1996.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/67/10081867_1930-06-03_1965.jpg
+<Response [200]>
+{'img_id': '040-a19a745ebc385ca66242aa', 'img_height': 245, 'img_width': 244, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 39, 'eye_right': {'x': 42, 'y': 38}, 'eye_left': {'x': 24, 'y': 45}, 'height': 38, 'center': {'x': 16, 'y': 31}}, 'face_id': 'a0542e9b9ce648988c0675b7a8bf68fa', 'attribute': {'lefteye_opendegree': 19, 'righteye_opendegree': 19, 'mouth_opendegree': 4, 'gender': 'Female', 'pose': {'tilting': -13, 'turn': 5, 'raise': -3}, 'age': 28}}]}
+Female Female 28 35
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/15/10082515_1920-08-23_1963.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/83/1008283_1958-06-17_2009.jpg
+<Response [200]>
+{'img_id': '040-a0eac14c0cde26136242aa', 'img_height': 425, 'img_width': 426, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 173, 'eye_right': {'x': 230, 'y': 165}, 'eye_left': {'x': 147, 'y': 165}, 'height': 174, 'center': {'x': 104, 'y': 115}}, 'face_id': '3d8d04b41de74b0d9fc9c805e6be8d6e', 'attribute': {'lefteye_opendegree': 53, 'righteye_opendegree': 55, 'mouth_opendegree': 30, 'gender': 'Female', 'pose': {'tilting': 0, 'turn': 0, 'raise': -22}, 'age': 38}}]}
+Female Male 38 51
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/38/1008338_1924-08-13_1958.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/52/1008352_1971-10-26_2006.jpg
+<Response [200]>
+{'img_id': '040-64462b25b7e959fe6242aa', 'img_height': 241, 'img_width': 241, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 104, 'eye_right': {'x': 132, 'y': 90}, 'eye_left': {'x': 82, 'y': 93}, 'height': 104, 'center': {'x': 57, 'y': 63}}, 'face_id': '967947c4e9e04af69d48ddc35a03aff1', 'attribute': {'lefteye_opendegree': 51, 'righteye_opendegree': 55, 'mouth_opendegree': 2, 'gender': 'Male', 'pose': {'tilting': -5, 'turn': -14, 'raise': -11}, 'age': 45}}]}
+Male Male 45 35
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/40/100840_1948-09-24_1978.jpg
+<Response [200]>
+{'img_id': '030-84ac84e59b232b9a6242aa', 'img_height': 489, 'img_width': 489, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 246, 'eye_right': {'x': 242, 'y': 180}, 'eye_left': {'x': 123, 'y': 176}, 'height': 246, 'center': {'x': 74, 'y': 121}}, 'face_id': '969895c6d7bd4e5aa8f4e4f0cf74212a', 'attribute': {'lefteye_opendegree': 73, 'righteye_opendegree': 66, 'mouth_opendegree': 29, 'gender': 'Male', 'pose': {'tilting': 5, 'turn': 29, 'raise': -9}, 'age': 31}}]}
+Male Male 31 30
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/76/10084176_1989-03-21_2014.jpg
+<Response [200]>
+{'img_id': '040-e2b74d866242b68d6242aa', 'img_height': 213, 'img_width': 213, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 94, 'eye_right': {'x': 140, 'y': 85}, 'eye_left': {'x': 94, 'y': 82}, 'height': 94, 'center': {'x': 68, 'y': 58}}, 'face_id': '98f4a16ef25d4a76b689f356b09bf280', 'attribute': {'lefteye_opendegree': 63, 'righteye_opendegree': 59, 'mouth_opendegree': 4, 'gender': 'Female', 'pose': {'tilting': 6, 'turn': 23, 'raise': -6}, 'age': 22}}]}
+Female Male 22 25
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/01/1008501_1971-10-09_2010.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/06/1008506_1974-09-19_2015.jpg
+<Response [200]>
+{'img_id': '040-bba50f6ae1ef5bff6242aa', 'img_height': 346, 'img_width': 346, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 138, 'eye_right': {'x': 190, 'y': 139}, 'eye_left': {'x': 120, 'y': 122}, 'height': 138, 'center': {'x': 82, 'y': 94}}, 'face_id': '9bb008207090417b942d3780ce62bb17', 'attribute': {'lefteye_opendegree': 54, 'righteye_opendegree': 44, 'mouth_opendegree': 31, 'gender': 'Female', 'pose': {'tilting': 8, 'turn': -2, 'raise': -11}, 'age': 20}}]}
+Female Female 20 41
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/26/10086626_1977-11-01_2008.jpg
+<Response [200]>
+{'img_id': '040-6b690329bdfc6cd86242aa', 'img_height': 113, 'img_width': 113, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 50, 'eye_right': {'x': 63, 'y': 43}, 'eye_left': {'x': 36, 'y': 46}, 'height': 51, 'center': {'x': 26, 'y': 30}}, 'face_id': '3544d04615ba43239ba581c5038eb99e', 'attribute': {'lefteye_opendegree': 48, 'righteye_opendegree': 48, 'mouth_opendegree': 28, 'gender': 'Female', 'pose': {'tilting': -2, 'turn': 10, 'raise': -17}, 'age': 26}}]}
+Female Female 26 31
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/85/10086685_1967-06-04_2008.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/66/100866_1921-07-23_1990.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/63/1008763_1978-06-21_2009.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/53/10088153_1943-10-14_1940.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/81/10088281_1945-02-05_1973.jpg
+<Response [200]>
+{'img_id': '040-c50fda75acdbc95e6242aa', 'img_height': 500, 'img_width': 500, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 212, 'eye_right': {'x': 320, 'y': 194}, 'eye_left': {'x': 220, 'y': 193}, 'height': 211, 'center': {'x': 166, 'y': 137}}, 'face_id': '9bd8fa2dc3f64d33ad7d3a938281992e', 'attribute': {'lefteye_opendegree': 55, 'righteye_opendegree': 55, 'mouth_opendegree': 51, 'gender': 'Male', 'pose': {'tilting': 2, 'turn': 9, 'raise': -12}, 'age': 36}}]}
+Male Male 36 28
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/40/1008840_1938-04-10_1976.jpg
+<Response [200]>
+{'img_id': '040-2c7799ceb0f46a596242aa', 'img_height': 419, 'img_width': 419, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 169, 'eye_right': {'x': 271, 'y': 172}, 'eye_left': {'x': 194, 'y': 159}, 'height': 169, 'center': {'x': 148, 'y': 114}}, 'face_id': 'c6579c40b1274189b795e2c5781331b3', 'attribute': {'lefteye_opendegree': 45, 'righteye_opendegree': 48, 'mouth_opendegree': 25, 'gender': 'Male', 'pose': {'tilting': 15, 'turn': 19, 'raise': -8}, 'age': 29}}]}
+Male Male 29 38
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/76/10088476_1956-11-10_2008.jpg
+<Response [200]>
+{'img_id': '040-279701b5209c64dd6242aa', 'img_height': 231, 'img_width': 230, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 102, 'eye_right': {'x': 128, 'y': 92}, 'eye_left': {'x': 81, 'y': 91}, 'height': 102, 'center': {'x': 53, 'y': 61}}, 'face_id': '3bb0e009522f4b60b15d04ff5b5d4abc', 'attribute': {'lefteye_opendegree': 38, 'righteye_opendegree': 34, 'mouth_opendegree': 50, 'gender': 'Male', 'pose': {'tilting': 0, 'turn': 5, 'raise': 16}, 'age': 34}}]}
+Male Male 34 52
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/84/1008884_1929-06-26_2003.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/54/10088854_1982-04-06_2002.jpg
+<Response [200]>
+{'img_id': '040-67d1a9670435dba46242aa', 'img_height': 177, 'img_width': 176, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 78, 'eye_right': {'x': 114, 'y': 72}, 'eye_left': {'x': 78, 'y': 69}, 'height': 78, 'center': {'x': 56, 'y': 49}}, 'face_id': '1ea9ab9574a542d99f6652a7d48e459d', 'attribute': {'lefteye_opendegree': 60, 'righteye_opendegree': 48, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': 4, 'turn': 1, 'raise': -19}, 'age': 38}}]}
+Male Male 38 20
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/05/1008905_1962-09-18_2010.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/10/10089110_1982-07-31_2009.jpg
+<Response [200]>
+{'img_id': '030-cf4b840876092c206242aa', 'img_height': 263, 'img_width': 262, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 71, 'eye_right': {'x': 132, 'y': 104}, 'eye_left': {'x': 98, 'y': 99}, 'height': 70, 'center': {'x': 77, 'y': 86}}, 'face_id': '2270f831171a4e05bc033a62445a4bef', 'attribute': {'lefteye_opendegree': 18, 'righteye_opendegree': 18, 'mouth_opendegree': 65, 'gender': 'Male', 'pose': {'tilting': 5, 'turn': -17, 'raise': -26}, 'age': 42}}]}
+Male Male 42 27
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/17/10089617_1975-09-13_2007.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/44/10089844_1969-08-19_2000.jpg
+<Response [200]>
+{'img_id': '030-6160f88991ed27676242aa', 'img_height': 168, 'img_width': 167, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 57, 'eye_right': {'x': 104, 'y': 72}, 'eye_left': {'x': 75, 'y': 71}, 'height': 57, 'center': {'x': 61, 'y': 55}}, 'face_id': 'ca6fa03a79d94cac91e4944b33020cad', 'attribute': {'lefteye_opendegree': 66, 'righteye_opendegree': 59, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': 6, 'turn': 21, 'raise': -14}, 'age': 36}}]}
+Male Male 36 31
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/19/10090219_1964-02-22_1960.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/09/1009109_1963-06-24_2010.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/74/10093174_1986-03-16_2012.jpg
+<Response [200]>
+{'img_id': '030-0e3b467830ed2b066242aa', 'img_height': 223, 'img_width': 223, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 97, 'eye_right': {'x': 123, 'y': 81}, 'eye_left': {'x': 75, 'y': 81}, 'height': 97, 'center': {'x': 51, 'y': 56}}, 'face_id': '132cdfa5c4a84e0a843ab7e81072bf5e', 'attribute': {'lefteye_opendegree': 59, 'righteye_opendegree': 55, 'mouth_opendegree': 12, 'gender': 'Male', 'pose': {'tilting': -5, 'turn': -4, 'raise': -15}, 'age': 37}}]}
+Male Male 37 26
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/37/10093237_1964-10-27_2015.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/91/10093491_1982-04-15_2010.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/85/10093585_1989-07-21_2011.jpg
+<Response [200]>
+{'img_id': '030-bd4228d095c984b66242aa', 'img_height': 263, 'img_width': 262, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 108, 'eye_right': {'x': 168, 'y': 108}, 'eye_left': {'x': 110, 'y': 104}, 'height': 109, 'center': {'x': 84, 'y': 77}}, 'face_id': '2b2d8f41f6fc472fa39d10452c413ecf', 'attribute': {'lefteye_opendegree': 70, 'righteye_opendegree': 62, 'mouth_opendegree': 24, 'gender': 'Female', 'pose': {'tilting': 4, 'turn': 6, 'raise': -18}, 'age': 23}}]}
+Female Female 23 22
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/36/100936_1944-05-25_2012.jpg
+<Response [200]>
+{'img_id': '040-38a172622c1f76796242aa', 'img_height': 457, 'img_width': 456, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 196, 'eye_right': {'x': 314, 'y': 187}, 'eye_left': {'x': 213, 'y': 194}, 'height': 196, 'center': {'x': 154, 'y': 131}}, 'face_id': '8943d78d183843f2a02d5502fd75d489', 'attribute': {'lefteye_opendegree': 35, 'righteye_opendegree': 39, 'mouth_opendegree': 18, 'gender': 'Female', 'pose': {'tilting': 3, 'turn': 6, 'raise': -11}, 'age': 41}}]}
+Female Male 41 68
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/46/10093846_1985-09-07_2012.jpg
+<Response [200]>
+{'img_id': '040-dd546b4418b79f346242aa', 'img_height': 184, 'img_width': 183, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 79, 'eye_right': {'x': 115, 'y': 73}, 'eye_left': {'x': 79, 'y': 68}, 'height': 78, 'center': {'x': 58, 'y': 50}}, 'face_id': '4aa8305774f34c179fa20ed9897c2eb7', 'attribute': {'lefteye_opendegree': 56, 'righteye_opendegree': 51, 'mouth_opendegree': 61, 'gender': 'Male', 'pose': {'tilting': 6, 'turn': 10, 'raise': -14}, 'age': 32}}]}
+Male Male 32 27
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/53/1009453_1981-03-06_2007.jpg
+<Response [200]>
+{'img_id': '040-979537a6d744fa2a6242aa', 'img_height': 489, 'img_width': 489, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 188, 'eye_right': {'x': 325, 'y': 195}, 'eye_left': {'x': 233, 'y': 191}, 'height': 188, 'center': {'x': 173, 'y': 148}}, 'face_id': 'd3aca1e7b41546b99f0ba8a3b867a073', 'attribute': {'lefteye_opendegree': 70, 'righteye_opendegree': 70, 'mouth_opendegree': 40, 'gender': 'Female', 'pose': {'tilting': 7, 'turn': 32, 'raise': -1}, 'age': 27}}]}
+Female Female 27 26
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/52/10095252_1950-05-26_1972.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/55/10095655_1985-07-10_2012.jpg
+<Response [200]>
+{'img_id': '030-c96fc725c426c4c86242aa', 'img_height': 138, 'img_width': 137, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 56, 'eye_right': {'x': 91, 'y': 51}, 'eye_left': {'x': 64, 'y': 52}, 'height': 56, 'center': {'x': 50, 'y': 37}}, 'face_id': '1854db7e8d2043e7b4130afd52815639', 'attribute': {'lefteye_opendegree': 71, 'righteye_opendegree': 64, 'mouth_opendegree': 32, 'gender': 'Male', 'pose': {'tilting': 5, 'turn': 18, 'raise': -8}, 'age': 33}}]}
+Male Male 33 27
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/27/10097427_1986-10-23_2013.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/36/10098836_1969-07-24_2007.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/13/1009913_1966-08-25_2006.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/52/10099652_1953-07-20_2004.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/56/10099956_1981-06-16_2010.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/31/2000031_1949-04-20_1974.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/36/20000636_1906-09-02_1941.jpg
+<Response [200]>
+{'img_id': '040-a05e45e50224b1b66242aa', 'img_height': 249, 'img_width': 249, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 90, 'eye_right': {'x': 158, 'y': 110}, 'eye_left': {'x': 113, 'y': 106}, 'height': 91, 'center': {'x': 89, 'y': 84}}, 'face_id': 'd4779acdae964beea4f9c2b2b230b21d', 'attribute': {'lefteye_opendegree': 17, 'righteye_opendegree': 29, 'mouth_opendegree': 4, 'gender': 'Male', 'pose': {'tilting': 2, 'turn': 23, 'raise': -13}, 'age': 58}}]}
+Male Male 58 35
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/19/2000219_1975-11-30_1996.jpg
+<Response [200]>
+{'img_id': '040-9431bb9294c709706242aa', 'img_height': 107, 'img_width': 106, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 47, 'eye_right': {'x': 61, 'y': 43}, 'eye_left': {'x': 37, 'y': 42}, 'height': 46, 'center': {'x': 26, 'y': 30}}, 'face_id': 'c8efa2258c5c47dfa65b72c80e254adc', 'attribute': {'lefteye_opendegree': 36, 'righteye_opendegree': 45, 'mouth_opendegree': 40, 'gender': 'Female', 'pose': {'tilting': 1, 'turn': 3, 'raise': 11}, 'age': 24}}]}
+Female Female 24 21
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/15/2000415_1932-11-06_2009.jpg
+<Response [200]>
+{'img_id': '030-c0dc4ce21b94dda66242aa', 'img_height': 108, 'img_width': 108, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 44, 'eye_right': {'x': 59, 'y': 41}, 'eye_left': {'x': 38, 'y': 41}, 'height': 44, 'center': {'x': 26, 'y': 29}}, 'face_id': '79afa21328864926be88e91b01899d89', 'attribute': {'lefteye_opendegree': 57, 'righteye_opendegree': 66, 'mouth_opendegree': 14, 'gender': 'Male', 'pose': {'tilting': 3, 'turn': -11, 'raise': 6}, 'age': 64}}]}
+Male Male 64 77
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/53/200053_1949-12-15_1986.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/62/2000562_1981-10-01_2013.jpg
+<Response [200]>
+{'img_id': '030-07e0f7f1c384f0566242aa', 'img_height': 475, 'img_width': 474, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 229, 'eye_right': {'x': 247, 'y': 179}, 'eye_left': {'x': 147, 'y': 204}, 'height': 229, 'center': {'x': 98, 'y': 122}}, 'face_id': 'a18fe07c47674512827467348f5ae949', 'attribute': {'lefteye_opendegree': 28, 'righteye_opendegree': 23, 'mouth_opendegree': 63, 'gender': 'Male', 'pose': {'tilting': -14, 'turn': -12, 'raise': -12}, 'age': 30}}]}
+Male Male 30 32
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/40/20005640_1902-09-09_1945.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/88/20005788_1991-08-05_2009.jpg
+<Response [200]>
+{'img_id': '030-1fa27fd86433e31c6242aa', 'img_height': 302, 'img_width': 301, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 139, 'eye_right': {'x': 169, 'y': 118}, 'eye_left': {'x': 99, 'y': 118}, 'height': 139, 'center': {'x': 67, 'y': 81}}, 'face_id': '54dcb5f9321d45ff9450e81c4897fd1c', 'attribute': {'lefteye_opendegree': 58, 'righteye_opendegree': 61, 'mouth_opendegree': 39, 'gender': 'Male', 'pose': {'tilting': 1, 'turn': 11, 'raise': -19}, 'age': 23}}]}
+Male Male 23 18
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/81/2000781_1979-07-30_2012.jpg
+<Response [200]>
+{'img_id': '030-7923d1a1ca94ead76242aa', 'img_height': 353, 'img_width': 353, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 127, 'eye_right': {'x': 180, 'y': 134}, 'eye_left': {'x': 113, 'y': 129}, 'height': 126, 'center': {'x': 80, 'y': 107}}, 'face_id': '844117b96b0f4be895978c25d4040d8f', 'attribute': {'lefteye_opendegree': 55, 'righteye_opendegree': 51, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': 5, 'turn': -8, 'raise': -21}, 'age': 48}}]}
+Male Male 48 33
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/74/20008074_1950-03-02_2011.jpg
+<Response [200]>
+{'img_id': '040-42e2f2bcac44cc4c6242aa', 'img_height': 500, 'img_width': 500, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 212, 'eye_right': {'x': 276, 'y': 200}, 'eye_left': {'x': 168, 'y': 215}, 'height': 213, 'center': {'x': 120, 'y': 149}}, 'face_id': '89adc5a069444eb081f5ada871298bd0', 'attribute': {'lefteye_opendegree': 39, 'righteye_opendegree': 37, 'mouth_opendegree': 27, 'gender': 'Female', 'pose': {'tilting': -4, 'turn': -2, 'raise': -11}, 'age': 50}}]}
+Female Male 50 61
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/37/20008237_1980-12-17_2013.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/58/20008258_1975-08-11_2011.jpg
+<Response [200]>
+{'img_id': '030-a1430952013aca396242aa', 'img_height': 144, 'img_width': 144, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 64, 'eye_right': {'x': 89, 'y': 63}, 'eye_left': {'x': 59, 'y': 61}, 'height': 64, 'center': {'x': 41, 'y': 43}}, 'face_id': '6a2312fbd9074397870bb4889f1c6039', 'attribute': {'lefteye_opendegree': 55, 'righteye_opendegree': 55, 'mouth_opendegree': 48, 'gender': 'Female', 'pose': {'tilting': 10, 'turn': 24, 'raise': -12}, 'age': 29}}]}
+Female Female 29 36
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/64/20010364_1968-05-15_2007.jpg
+<Response [200]>
+{'img_id': '030-b4f757e93b69afb76242aa', 'img_height': 252, 'img_width': 252, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 116, 'eye_right': {'x': 142, 'y': 100}, 'eye_left': {'x': 82, 'y': 100}, 'height': 116, 'center': {'x': 56, 'y': 65}}, 'face_id': '4473bd3c941941749ebb792e18edcbdc', 'attribute': {'lefteye_opendegree': 42, 'righteye_opendegree': 50, 'mouth_opendegree': 76, 'gender': 'Male', 'pose': {'tilting': 1, 'turn': 5, 'raise': -29}, 'age': 43}}]}
+Male Male 43 39
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/77/20011377_1935-09-29_1964.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/18/2001318_1960-01-05_2013.jpg
+<Response [200]>
+{'img_id': '030-df4790c543733dc36242aa', 'img_height': 387, 'img_width': 387, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 48, 'eye_right': {'x': 103, 'y': 94}, 'eye_left': {'x': 80, 'y': 101}, 'height': 47, 'center': {'x': 69, 'y': 86}}, 'face_id': '213d5e7fcedf451192a748b453f9e66c', 'attribute': {'lefteye_opendegree': 34, 'righteye_opendegree': 34, 'mouth_opendegree': 21, 'gender': 'Male', 'pose': {'tilting': -8, 'turn': -10, 'raise': -17}, 'age': 50}}]}
+Male Male 50 53
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/06/20013406_1986-05-19_2012.jpg
+<Response [200]>
+{'img_id': '030-cf56067322db33b06242aa', 'img_height': 457, 'img_width': 457, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 224, 'eye_right': {'x': 292, 'y': 185}, 'eye_left': {'x': 197, 'y': 175}, 'height': 224, 'center': {'x': 130, 'y': 112}}, 'face_id': '2e8f92f350f447c19669a67db88aa7af', 'attribute': {'lefteye_opendegree': 43, 'righteye_opendegree': 47, 'mouth_opendegree': 2, 'gender': 'Male', 'pose': {'tilting': 2, 'turn': 9, 'raise': -11}, 'age': 40}}]}
+Male Male 40 26
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/13/20013513_1925-09-13_1958.jpg
+<Response [200]>
+{'img_id': '030-a85cacd18b5d8ce76242aa', 'img_height': 121, 'img_width': 122, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 57, 'eye_right': {'x': 69, 'y': 47}, 'eye_left': {'x': 42, 'y': 48}, 'height': 57, 'center': {'x': 30, 'y': 33}}, 'face_id': 'cf78fe5d0a824120a0044c50d516d0f8', 'attribute': {'lefteye_opendegree': 23, 'righteye_opendegree': 38, 'mouth_opendegree': 61, 'gender': 'Male', 'pose': {'tilting': -8, 'turn': -1, 'raise': 0}, 'age': 40}}]}
+Male Male 40 33
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/98/20013898_1942-10-06_1977.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/79/20014679_1942-03-15_1970.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/42/20015042_1910-06-30_2005.jpg
+<Response [200]>
+{'img_id': '030-0117a1a016bf157d6242aa', 'img_height': 116, 'img_width': 117, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 53, 'eye_right': {'x': 65, 'y': 45}, 'eye_left': {'x': 41, 'y': 46}, 'height': 52, 'center': {'x': 28, 'y': 33}}, 'face_id': '8e1719eaf878460eb575ac58e5d3b450', 'attribute': {'lefteye_opendegree': 66, 'righteye_opendegree': 66, 'mouth_opendegree': 76, 'gender': 'Female', 'pose': {'tilting': 0, 'turn': 8, 'raise': -8}, 'age': 55}}]}
+Female Female 55 95
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/78/20015278_1990-11-12_2011.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/34/20015634_1978-09-14_2010.jpg
+<Response [200]>
+{'img_id': '040-0bc54100424ec6a06242aa', 'img_height': 244, 'img_width': 245, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 126, 'eye_right': {'x': 129, 'y': 90}, 'eye_left': {'x': 78, 'y': 108}, 'height': 126, 'center': {'x': 45, 'y': 62}}, 'face_id': '0c938817a63e443494a1c77d2b22b59f', 'attribute': {'lefteye_opendegree': 18, 'righteye_opendegree': 25, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': 8, 'turn': 34, 'raise': -8}, 'age': 37}}]}
+Male Male 37 32
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/78/20015978_1990-10-19_2011.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/39/20016339_1992-02-09_2009.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/40/2001740_1947-01-20_1993.jpg
+<Response [200]>
+{'img_id': '030-d48e81c218af02766242aa', 'img_height': 362, 'img_width': 362, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 156, 'eye_right': {'x': 237, 'y': 145}, 'eye_left': {'x': 163, 'y': 148}, 'height': 156, 'center': {'x': 120, 'y': 101}}, 'face_id': 'de23327ddf284e3ab2ab6c1ef8e3723e', 'attribute': {'lefteye_opendegree': 33, 'righteye_opendegree': 30, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': 2, 'turn': 23, 'raise': -10}, 'age': 48}}]}
+Male Male 48 46
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/80/2001780_1967-12-30_1995.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/83/20020283_1983-02-23_2011.jpg
+<Response [200]>
+{'img_id': '030-f5fd57c25dfc0fe26242aa', 'img_height': 114, 'img_width': 114, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 48, 'eye_right': {'x': 73, 'y': 37}, 'eye_left': {'x': 51, 'y': 41}, 'height': 48, 'center': {'x': 40, 'y': 29}}, 'face_id': '1ae6f1fa2e374905b78934480aa771b8', 'attribute': {'lefteye_opendegree': 50, 'righteye_opendegree': 41, 'mouth_opendegree': 4, 'gender': 'Male', 'pose': {'tilting': -9, 'turn': 20, 'raise': -11}, 'age': 25}}]}
+Male Male 25 28
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/02/200202_1964-11-06_2007.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/11/20021911_1974-11-02_2009.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/61/20022961_1990-01-13_2014.jpg
+<Response [200]>
+{'img_id': '040-cd29f8ab0b036e2b6242aa', 'img_height': 500, 'img_width': 500, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 177, 'eye_right': {'x': 319, 'y': 206}, 'eye_left': {'x': 229, 'y': 203}, 'height': 177, 'center': {'x': 184, 'y': 151}}, 'face_id': 'afdb99c9e1ee49e3a223d8ae229dec5f', 'attribute': {'lefteye_opendegree': 65, 'righteye_opendegree': 65, 'mouth_opendegree': 13, 'gender': 'Male', 'pose': {'tilting': 3, 'turn': 16, 'raise': -17}, 'age': 30}}]}
+Male Male 30 24
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/08/2002308_1989-08-09_2005.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/57/20023357_1979-09-20_2013.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/02/20023502_1933-07-28_1953.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/08/20023508_1983-02-21_2013.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/65/20024365_1990-07-29_2008.jpg
+<Response [200]>
+{'img_id': '040-0c4c11a16a4d873c6242aa', 'img_height': 301, 'img_width': 302, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 130, 'eye_right': {'x': 159, 'y': 122}, 'eye_left': {'x': 94, 'y': 126}, 'height': 130, 'center': {'x': 65, 'y': 93}}, 'face_id': '17e5ded00b7341d29f9f9aae317f111f', 'attribute': {'lefteye_opendegree': 32, 'righteye_opendegree': 32, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': -2, 'turn': -7, 'raise': -22}, 'age': 32}}]}
+Male Female 32 18
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/52/200252_1938-01-14_2014.jpg
+<Response [200]>
+{'img_id': '040-6d08baa30228a89c6242aa', 'img_height': 86, 'img_width': 86, 'res_code': '0000'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/55/20025755_1979-03-10_2009.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/10/2002610_1920-03-01_1948.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/69/20027069_1923-01-14_1951.jpg
+<Response [200]>
+{'img_id': '030-892148a70d64ec436242aa', 'img_height': 200, 'img_width': 201, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 84, 'eye_right': {'x': 134, 'y': 78}, 'eye_left': {'x': 94, 'y': 78}, 'height': 83, 'center': {'x': 71, 'y': 54}}, 'face_id': 'c5cd4d739bb240659910efa3cb461745', 'attribute': {'lefteye_opendegree': 46, 'righteye_opendegree': 46, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': 8, 'turn': 24, 'raise': 16}, 'age': 31}}]}
+Male Male 31 28
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/50/20027350_1990-06-17_2014.jpg
+<Response [200]>
+{'img_id': '030-1c8362fb2743cf846242aa', 'img_height': 159, 'img_width': 159, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 69, 'eye_right': {'x': 89, 'y': 62}, 'eye_left': {'x': 58, 'y': 62}, 'height': 68, 'center': {'x': 39, 'y': 43}}, 'face_id': '9c578d4278684f148ede7c028933a511', 'attribute': {'lefteye_opendegree': 17, 'righteye_opendegree': 23, 'mouth_opendegree': 17, 'gender': 'Male', 'pose': {'tilting': 4, 'turn': -3, 'raise': 8}, 'age': 27}}]}
+Male Male 27 24
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/63/20028263_1985-01-18_2009.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/56/2002856_1982-09-28_2013.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/87/20028987_1988-03-19_2009.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/29/20029729_1979-06-03_2014.jpg
+<Response [200]>
+{'img_id': '030-b4588f2c3f4d95ad6242aa', 'img_height': 108, 'img_width': 108, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 47, 'eye_right': {'x': 67, 'y': 46}, 'eye_left': {'x': 47, 'y': 40}, 'height': 46, 'center': {'x': 32, 'y': 31}}, 'face_id': 'd67fda3962724b2ab7495217f48f4a2d', 'attribute': {'lefteye_opendegree': 34, 'righteye_opendegree': 43, 'mouth_opendegree': 56, 'gender': 'Male', 'pose': {'tilting': 18, 'turn': 31, 'raise': -23}, 'age': 27}}]}
+Male Male 27 35
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/46/2003146_1972-03-17_2011.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/34/2003234_1982-10-11_2011.jpg
+<Response [200]>
+{'img_id': '040-c7a4f5ec5a8d48b06242aa', 'img_height': 174, 'img_width': 174, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 74, 'eye_right': {'x': 85, 'y': 67}, 'eye_left': {'x': 49, 'y': 72}, 'height': 75, 'center': {'x': 33, 'y': 48}}, 'face_id': '364c4ed10636419997f4976e813f24cd', 'attribute': {'lefteye_opendegree': 63, 'righteye_opendegree': 63, 'mouth_opendegree': 52, 'gender': 'Male', 'pose': {'tilting': -8, 'turn': -11, 'raise': -4}, 'age': 55}}]}
+Male Male 55 29
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/82/20032482_1941-08-30_2015.jpg
+<Response [200]>
+{'img_id': '040-572f39f9e8e2e2366242aa', 'img_height': 106, 'img_width': 106, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 41, 'eye_right': {'x': 53, 'y': 45}, 'eye_left': {'x': 33, 'y': 45}, 'height': 42, 'center': {'x': 22, 'y': 33}}, 'face_id': 'a3ddfb2fbdec4f1fb9c3ad358d228c97', 'attribute': {'lefteye_opendegree': 36, 'righteye_opendegree': 27, 'mouth_opendegree': 22, 'gender': 'Male', 'pose': {'tilting': 6, 'turn': 8, 'raise': -14}, 'age': 59}}]}
+Male Male 59 74
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/73/20032573_1927-12-12_2008.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/32/20032_1953-05-15_2006.jpg
+<Response [200]>
+{'img_id': '040-67a5cd9b2c27574f6242aa', 'img_height': 301, 'img_width': 301, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 105, 'eye_right': {'x': 160, 'y': 113}, 'eye_left': {'x': 101, 'y': 121}, 'height': 105, 'center': {'x': 77, 'y': 89}}, 'face_id': '0533bdd2dfc44b55869ce938fa4a201f', 'attribute': {'lefteye_opendegree': 16, 'righteye_opendegree': 13, 'mouth_opendegree': 11, 'gender': 'Male', 'pose': {'tilting': 2, 'turn': -1, 'raise': 7}, 'age': 37}}]}
+Male Male 37 53
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/40/20033040_1967-06-29_2009.jpg
+<Response [200]>
+{'img_id': '040-fc58d7db7835c19e6242aa', 'img_height': 243, 'img_width': 242, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 104, 'eye_right': {'x': 134, 'y': 94}, 'eye_left': {'x': 84, 'y': 100}, 'height': 104, 'center': {'x': 58, 'y': 67}}, 'face_id': 'c75814189f624dc7a6e989ea88cdba36', 'attribute': {'lefteye_opendegree': 56, 'righteye_opendegree': 64, 'mouth_opendegree': 44, 'gender': 'Female', 'pose': {'tilting': -4, 'turn': 0, 'raise': -13}, 'age': 35}}]}
+Female Female 35 42
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/16/2003316_1962-02-17_1986.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/35/20033935_1957-12-14_2014.jpg
+<Response [200]>
+{'img_id': '030-ff77da8a939448336242aa', 'img_height': 228, 'img_width': 228, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 103, 'eye_right': {'x': 118, 'y': 90}, 'eye_left': {'x': 73, 'y': 100}, 'height': 103, 'center': {'x': 48, 'y': 62}}, 'face_id': 'a54e53a4fc754367b743a51d537cb13c', 'attribute': {'lefteye_opendegree': 36, 'righteye_opendegree': 45, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': -4, 'turn': 7, 'raise': -21}, 'age': 62}}]}
+Male Male 62 57
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/55/20034355_1986-06-29_2009.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/78/20035178_1989-09-21_2011.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/57/200357_1881-09-05_1944.jpg
+<Response [200]>
+{'img_id': '030-c5b3af44a7470b3d6242aa', 'img_height': 123, 'img_width': 123, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 50, 'eye_right': {'x': 69, 'y': 46}, 'eye_left': {'x': 45, 'y': 48}, 'height': 50, 'center': {'x': 33, 'y': 35}}, 'face_id': '5a197f9198c94494a43018247dd97fe7', 'attribute': {'lefteye_opendegree': 48, 'righteye_opendegree': 56, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': -1, 'turn': 5, 'raise': -12}, 'age': 58}}]}
+Male Male 58 63
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/87/20037387_1896-08-10_1972.jpg
+<Response [200]>
+{'img_id': '040-ed37eec75c36dba66242aa', 'img_height': 500, 'img_width': 460, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 28, 'eye_right': {'x': 277, 'y': 203}, 'eye_left': {'x': 263, 'y': 203}, 'height': 28, 'center': {'x': 256, 'y': 195}}, 'face_id': '2911072c4251437093fc6fbb6fce2d48', 'attribute': {'lefteye_opendegree': 66, 'righteye_opendegree': 66, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': 0, 'turn': 0, 'raise': -9}, 'age': 44}}]}
+Male Male 44 76
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/40/2003740_1944-08-31_2012.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/36/20038036_1924-08-31_1971.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/22/20038422_1902-10-08_1944.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/85/200385_1885-11-30_1940.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/15/20039715_1991-09-05_2008.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/01/2004001_1982-09-28_2012.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/03/20042203_1894-10-26_1944.jpg
+<Response [200]>
+{'img_id': '030-f580ce2f9d8e85906242aa', 'img_height': 500, 'img_width': 500, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 81, 'eye_right': {'x': 116, 'y': 108}, 'eye_left': {'x': 80, 'y': 107}, 'height': 80, 'center': {'x': 57, 'y': 84}}, 'face_id': '2334c769b77941b6b3960b6e6927d585', 'attribute': {'lefteye_opendegree': 9, 'righteye_opendegree': 18, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': -2, 'turn': -13, 'raise': -8}, 'age': 63}}]}
+Male Male 63 50
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/30/2004430_1982-09-03_2014.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/92/20044792_1943-09-27_2008.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/52/20045952_1986-03-12_2009.jpg
+<Response [200]>
+{'img_id': '030-3e6387bc1a107a0f6242aa', 'img_height': 94, 'img_width': 95, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 40, 'eye_right': {'x': 50, 'y': 36}, 'eye_left': {'x': 30, 'y': 37}, 'height': 40, 'center': {'x': 22, 'y': 27}}, 'face_id': '95559ca71f614725aa0b2c1c51004a04', 'attribute': {'lefteye_opendegree': 42, 'righteye_opendegree': 42, 'mouth_opendegree': 42, 'gender': 'Female', 'pose': {'tilting': -4, 'turn': -16, 'raise': -18}, 'age': 31}}]}
+Female Male 31 23
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/55/2004855_1961-05-26_2011.jpg
+<Response [200]>
+{'img_id': '030-93d82dc1118861b06242aa', 'img_height': 199, 'img_width': 199, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 89, 'eye_right': {'x': 132, 'y': 81}, 'eye_left': {'x': 89, 'y': 80}, 'height': 89, 'center': {'x': 61, 'y': 54}}, 'face_id': '2ab0ea14e0af427882e5d48522ed9819', 'attribute': {'lefteye_opendegree': 41, 'righteye_opendegree': 46, 'mouth_opendegree': 23, 'gender': 'Male', 'pose': {'tilting': 0, 'turn': 22, 'raise': -10}, 'age': 41}}]}
+Male Male 41 50
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/35/2004935_1952-02-06_2008.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/16/20050016_1990-01-01_2011.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/28/20050128_1967-11-21_2010.jpg
+<Response [200]>
+{'img_id': '040-1048989da85f2dbd6242aa', 'img_height': 242, 'img_width': 242, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 110, 'eye_right': {'x': 161, 'y': 100}, 'eye_left': {'x': 108, 'y': 94}, 'height': 110, 'center': {'x': 76, 'y': 67}}, 'face_id': '95d89d9a774a440499018a728a71ab10', 'attribute': {'lefteye_opendegree': 16, 'righteye_opendegree': 16, 'mouth_opendegree': 10, 'gender': 'Male', 'pose': {'tilting': 5, 'turn': 11, 'raise': -18}, 'age': 39}}]}
+Male Male 39 43
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/87/20050887_1973-07-21_1996.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/67/20050967_1974-01-08_1995.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/15/20051115_1981-04-27_2011.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/90/2005290_1972-10-22_2008.jpg
+<Response [200]>
+{'img_id': '030-6d7fd34df91cafdb6242aa', 'img_height': 426, 'img_width': 426, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 174, 'eye_right': {'x': 235, 'y': 174}, 'eye_left': {'x': 144, 'y': 177}, 'height': 174, 'center': {'x': 105, 'y': 131}}, 'face_id': '22dfd3d4beb944ca911fb62bd8da7bc0', 'attribute': {'lefteye_opendegree': 64, 'righteye_opendegree': 57, 'mouth_opendegree': 9, 'gender': 'Female', 'pose': {'tilting': 2, 'turn': 8, 'raise': -13}, 'age': 24}}]}
+Female Female 24 36
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/72/20053572_1982-04-06_2009.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/58/20054558_1935-08-25_1956.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/74/2005574_1956-11-21_2009.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/63/200563_1971-05-27_2014.jpg
+<Response [200]>
+{'img_id': '030-185fdb879e5e37c76242aa', 'img_height': 500, 'img_width': 500, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 216, 'eye_right': {'x': 317, 'y': 214}, 'eye_left': {'x': 224, 'y': 194}, 'height': 216, 'center': {'x': 159, 'y': 143}}, 'face_id': '8ba83043bf764f5dbb22e7fd02d200f1', 'attribute': {'lefteye_opendegree': 39, 'righteye_opendegree': 44, 'mouth_opendegree': 21, 'gender': 'Male', 'pose': {'tilting': 8, 'turn': 5, 'raise': 5}, 'age': 53}}]}
+Male Male 53 43
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/91/200591_1947-01-24_1978.jpg
+<Response [200]>
+{'img_id': '040-6d050dd4a2a90e6e6242aa', 'img_height': 500, 'img_width': 500, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 227, 'eye_right': {'x': 267, 'y': 180}, 'eye_left': {'x': 162, 'y': 207}, 'height': 228, 'center': {'x': 122, 'y': 129}}, 'face_id': '38c8ebc0da34431cabba9f7c4dd5750b', 'attribute': {'lefteye_opendegree': 79, 'righteye_opendegree': 77, 'mouth_opendegree': 8, 'gender': 'Female', 'pose': {'tilting': -5, 'turn': 6, 'raise': -11}, 'age': 30}}]}
+Female Male 30 31
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/86/20060786_1919-01-08_1942.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/04/20061004_1985-04-05_2008.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/62/20063362_1987-10-05_2011.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/84/20063484_1987-08-13_2010.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/61/2006361_1907-12-25_1945.jpg
+<Response [200]>
+{'img_id': '030-a69c20cb853aec896242aa', 'img_height': 250, 'img_width': 250, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 43, 'eye_right': {'x': 223, 'y': 33}, 'eye_left': {'x': 204, 'y': 31}, 'height': 42, 'center': {'x': 192, 'y': 21}}, 'face_id': 'f9d1c13fa629432ab9828ef657e7da66', 'attribute': {'lefteye_opendegree': 35, 'righteye_opendegree': 23, 'mouth_opendegree': 5, 'gender': 'Female', 'pose': {'tilting': 4, 'turn': 6, 'raise': -12}, 'age': 38}}]}
+Female Male 38 38
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/82/20064382_1986-10-12_2014.jpg
+<Response [200]>
+{'img_id': '030-5162c24cbc06aeb96242aa', 'img_height': 239, 'img_width': 238, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 99, 'eye_right': {'x': 156, 'y': 88}, 'eye_left': {'x': 114, 'y': 93}, 'height': 100, 'center': {'x': 86, 'y': 60}}, 'face_id': '5b361a713e374d94b9606cb4650c1537', 'attribute': {'lefteye_opendegree': 51, 'righteye_opendegree': 55, 'mouth_opendegree': 32, 'gender': 'Male', 'pose': {'tilting': -5, 'turn': 21, 'raise': -4}, 'age': 26}}]}
+Male Male 26 28
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/75/2006475_1931-01-20_2007.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/85/2006485_1981-05-10_2014.jpg
+<Response [200]>
+{'img_id': '040-51944572fadab5356242aa', 'img_height': 214, 'img_width': 214, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 94, 'eye_right': {'x': 119, 'y': 86}, 'eye_left': {'x': 73, 'y': 82}, 'height': 94, 'center': {'x': 49, 'y': 58}}, 'face_id': 'f4282dfdf318441dbede2f0caa371090', 'attribute': {'lefteye_opendegree': 43, 'righteye_opendegree': 43, 'mouth_opendegree': 43, 'gender': 'Male', 'pose': {'tilting': 0, 'turn': -1, 'raise': 7}, 'age': 23}}]}
+Male Male 23 33
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/81/20065381_1935-11-24_1960.jpg
+<Response [200]>
+{'img_id': '040-03b38afab79213b66242aa', 'img_height': 175, 'img_width': 175, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 86, 'eye_right': {'x': 97, 'y': 68}, 'eye_left': {'x': 58, 'y': 66}, 'height': 86, 'center': {'x': 35, 'y': 48}}, 'face_id': 'df786d2d8c684cb39f8f8431d0732810', 'attribute': {'lefteye_opendegree': 43, 'righteye_opendegree': 48, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': 9, 'turn': 14, 'raise': -18}, 'age': 29}}]}
+Male Male 29 25
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/37/20065537_1981-12-08_2014.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/98/20065598_1919-10-26_1973.jpg
+<Response [200]>
+{'img_id': '040-193179da0c29cdc56242aa', 'img_height': 249, 'img_width': 250, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 107, 'eye_right': {'x': 131, 'y': 95}, 'eye_left': {'x': 80, 'y': 103}, 'height': 107, 'center': {'x': 56, 'y': 69}}, 'face_id': '3bf560466d554095882332890c70bbe0', 'attribute': {'lefteye_opendegree': 35, 'righteye_opendegree': 35, 'mouth_opendegree': 31, 'gender': 'Male', 'pose': {'tilting': -8, 'turn': 1, 'raise': -12}, 'age': 57}}]}
+Male Male 57 54
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/79/2006579_1966-10-29_2003.jpg
+<Response [200]>
+{'img_id': '040-ecda0832591b18346242aa', 'img_height': 245, 'img_width': 245, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 91, 'eye_right': {'x': 127, 'y': 88}, 'eye_left': {'x': 83, 'y': 101}, 'height': 92, 'center': {'x': 65, 'y': 70}}, 'face_id': '173f5f07378843cab4e608da03cd8dbf', 'attribute': {'lefteye_opendegree': 63, 'righteye_opendegree': 59, 'mouth_opendegree': 43, 'gender': 'Male', 'pose': {'tilting': -10, 'turn': -7, 'raise': -18}, 'age': 39}}]}
+Male Male 39 37
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/79/20067479_1984-05-23_1989.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/83/200683_1980-02-27_2008.jpg
+<Response [200]>
+{'img_id': '040-c2ae10c1dae87b336242aa', 'img_height': 228, 'img_width': 228, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 87, 'eye_right': {'x': 143, 'y': 99}, 'eye_left': {'x': 105, 'y': 82}, 'height': 87, 'center': {'x': 78, 'y': 65}}, 'face_id': '5da6d6787ebd434ea279bfcf64eb9fca', 'attribute': {'lefteye_opendegree': 11, 'righteye_opendegree': 5, 'mouth_opendegree': 85, 'gender': 'Female', 'pose': {'tilting': 17, 'turn': 29, 'raise': 2}, 'age': 29}}]}
+Female Female 29 28
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/09/20068709_1949-06-19_2011.jpg
+<Response [200]>
+{'img_id': '040-64c020a2e80abaaf6242aa', 'img_height': 245, 'img_width': 245, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 126, 'eye_right': {'x': 138, 'y': 101}, 'eye_left': {'x': 81, 'y': 103}, 'height': 127, 'center': {'x': 53, 'y': 61}}, 'face_id': 'd27c53f0824e458f8828989384c0bffb', 'attribute': {'lefteye_opendegree': 52, 'righteye_opendegree': 56, 'mouth_opendegree': 37, 'gender': 'Male', 'pose': {'tilting': -2, 'turn': -10, 'raise': -12}, 'age': 60}}]}
+Male Male 60 62
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/78/20069078_1974-04-24_2009.jpg
+<Response [200]>
+{'img_id': '030-a8528ed020772f1c6242aa', 'img_height': 371, 'img_width': 371, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 147, 'eye_right': {'x': 241, 'y': 153}, 'eye_left': {'x': 166, 'y': 148}, 'height': 147, 'center': {'x': 127, 'y': 109}}, 'face_id': 'c784cf41b2574f69a4600363cac55770', 'attribute': {'lefteye_opendegree': 59, 'righteye_opendegree': 61, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': 4, 'turn': 19, 'raise': -23}, 'age': 33}}]}
+Male Male 33 35
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/30/2006930_1962-07-07_2011.jpg
+<Response [200]>
+{'img_id': '030-e63297dd29b6f4fb6242aa', 'img_height': 234, 'img_width': 234, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 101, 'eye_right': {'x': 156, 'y': 82}, 'eye_left': {'x': 98, 'y': 80}, 'height': 101, 'center': {'x': 76, 'y': 60}}, 'face_id': '7d2b3d80d95f4e869906f39a1532cc3b', 'attribute': {'lefteye_opendegree': 28, 'righteye_opendegree': 36, 'mouth_opendegree': 46, 'gender': 'Female', 'pose': {'tilting': 7, 'turn': 25, 'raise': -15}, 'age': 23}}]}
+Female Male 23 49
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/25/20069525_1982-10-30_2008.jpg
+<Response [200]>
+{'img_id': '030-fc293d844d46b98c6242aa', 'img_height': 333, 'img_width': 500, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 28, 'eye_right': {'x': 175, 'y': 126}, 'eye_left': {'x': 161, 'y': 126}, 'height': 28, 'center': {'x': 151, 'y': 119}}, 'face_id': 'f4c7888a77af4b9c90f83740126046eb', 'attribute': {'lefteye_opendegree': 50, 'righteye_opendegree': 50, 'mouth_opendegree': 0, 'gender': 'Female', 'pose': {'tilting': 7, 'turn': 8, 'raise': -8}, 'age': 29}}]}
+Female Male 29 26
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/24/20069824_1979-07-26_2004.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/69/20070169_1985-12-28_2013.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/94/2007194_1945-06-15_2015.jpg
+<Response [200]>
+{'img_id': '030-3f6d24cecf2508126242aa', 'img_height': 261, 'img_width': 260, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 109, 'eye_right': {'x': 173, 'y': 102}, 'eye_left': {'x': 124, 'y': 100}, 'height': 110, 'center': {'x': 91, 'y': 69}}, 'face_id': 'bb6820648b414b64bac6da9bdd60cdae', 'attribute': {'lefteye_opendegree': 28, 'righteye_opendegree': 32, 'mouth_opendegree': 58, 'gender': 'Male', 'pose': {'tilting': 0, 'turn': -15, 'raise': 6}, 'age': 72}}]}
+Male Male 72 70
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/35/2007335_1920-09-13_1970.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/72/2007372_1951-05-13_2011.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/27/20074027_1946-02-14_2009.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/13/20074413_1950-08-30_1971.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/50/200750_1973-04-14_2014.jpg
+<Response [200]>
+{'img_id': '040-d0e8a420f99597ab6242aa', 'img_height': 323, 'img_width': 322, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 134, 'eye_right': {'x': 175, 'y': 127}, 'eye_left': {'x': 111, 'y': 128}, 'height': 133, 'center': {'x': 79, 'y': 91}}, 'face_id': '9ab9b3af9935425e9f37be8e7b4d683a', 'attribute': {'lefteye_opendegree': 36, 'righteye_opendegree': 45, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': -3, 'turn': 6, 'raise': -11}, 'age': 37}}]}
+Male Male 37 41
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/71/20076571_1981-01-26_2010.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/87/2007787_1952-05-06_2014.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/16/2008016_1970-05-03_2009.jpg
+<Response [200]>
+{'img_id': '030-56548dc26b15e2926242aa', 'img_height': 426, 'img_width': 426, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 195, 'eye_right': {'x': 239, 'y': 163}, 'eye_left': {'x': 153, 'y': 172}, 'height': 195, 'center': {'x': 98, 'y': 113}}, 'face_id': '99991d844d824888ba1e0b2fd423562e', 'attribute': {'lefteye_opendegree': 42, 'righteye_opendegree': 29, 'mouth_opendegree': 50, 'gender': 'Male', 'pose': {'tilting': 0, 'turn': 25, 'raise': -3}, 'age': 39}}]}
+Male Male 39 39
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/97/2008097_1933-05-12_2008.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/22/200822_1941-09-29_1980.jpg
+<Response [200]>
+{'img_id': '040-25d1cef98588040c6242aa', 'img_height': 136, 'img_width': 136, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 57, 'eye_right': {'x': 87, 'y': 55}, 'eye_left': {'x': 58, 'y': 53}, 'height': 56, 'center': {'x': 44, 'y': 37}}, 'face_id': 'b3e93fc709934ea38cead7d2304d7679', 'attribute': {'lefteye_opendegree': 50, 'righteye_opendegree': 57, 'mouth_opendegree': 57, 'gender': 'Male', 'pose': {'tilting': 6, 'turn': 20, 'raise': -29}, 'age': 33}}]}
+Male Female 33 39
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/50/20084050_1986-01-06_2008.jpg
+<Response [200]>
+{'img_id': '040-3af5d6178710f2f36242aa', 'img_height': 370, 'img_width': 371, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 196, 'eye_right': {'x': 211, 'y': 135}, 'eye_left': {'x': 105, 'y': 150}, 'height': 195, 'center': {'x': 77, 'y': 89}}, 'face_id': 'e0e09fa9517c4db4843c21f08d5007cd', 'attribute': {'lefteye_opendegree': 81, 'righteye_opendegree': 77, 'mouth_opendegree': 32, 'gender': 'Female', 'pose': {'tilting': -9, 'turn': -7, 'raise': -5}, 'age': 21}}]}
+Female Female 21 22
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/63/20084963_1951-01-11_1972.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/86/2008586_1962-06-12_1997.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/84/2008784_1963-06-09_2007.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/29/20088629_1935-02-14_1956.jpg
+<Response [200]>
+{'img_id': '040-683ce315a71e5a906242aa', 'img_height': 363, 'img_width': 363, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 144, 'eye_right': {'x': 232, 'y': 141}, 'eye_left': {'x': 159, 'y': 141}, 'height': 144, 'center': {'x': 116, 'y': 99}}, 'face_id': '6970284f88d342ab90312c5ff79e51ef', 'attribute': {'lefteye_opendegree': 25, 'righteye_opendegree': 31, 'mouth_opendegree': 38, 'gender': 'Male', 'pose': {'tilting': 0, 'turn': 16, 'raise': -6}, 'age': 36}}]}
+Male Male 36 21
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/13/20089113_1927-01-29_1955.jpg
+<Response [200]>
+{'img_id': '040-f5fc7e1e2539c0de6242aa', 'img_height': 319, 'img_width': 319, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 47, 'eye_right': {'x': 106, 'y': 58}, 'eye_left': {'x': 84, 'y': 59}, 'height': 47, 'center': {'x': 72, 'y': 44}}, 'face_id': '64fce8b0368842d7966e870d574354e5', 'attribute': {'lefteye_opendegree': 20, 'righteye_opendegree': 40, 'mouth_opendegree': 60, 'gender': 'Male', 'pose': {'tilting': -4, 'turn': 15, 'raise': -25}, 'age': 35}}]}
+Male Male 35 28
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/15/20089715_1976-11-19_2012.jpg
+<Response [200]>
+{'img_id': '030-cfe9e5c3a17829b56242aa', 'img_height': 346, 'img_width': 346, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 145, 'eye_right': {'x': 189, 'y': 129}, 'eye_left': {'x': 119, 'y': 129}, 'height': 144, 'center': {'x': 84, 'y': 91}}, 'face_id': '7640cc19778a4c568c3c531f03cac232', 'attribute': {'lefteye_opendegree': 37, 'righteye_opendegree': 37, 'mouth_opendegree': 5, 'gender': 'Male', 'pose': {'tilting': -2, 'turn': 11, 'raise': -20}, 'age': 37}}]}
+Male Male 37 36
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/89/20089_1929-01-27_2011.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/95/2009095_1947-08-07_1969.jpg
+<Response [200]>
+{'img_id': '040-74083d2d140cd69a6242aa', 'img_height': 130, 'img_width': 130, 'res_code': '0000'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/26/2009326_1985-09-16_2010.jpg
+<Response [200]>
+{'img_id': '040-69018c3310ea24936242aa', 'img_height': 500, 'img_width': 500, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 223, 'eye_right': {'x': 321, 'y': 211}, 'eye_left': {'x': 215, 'y': 204}, 'height': 223, 'center': {'x': 156, 'y': 138}}, 'face_id': 'e796a084a1b64cb5954fd63ffe165e93', 'attribute': {'lefteye_opendegree': 47, 'righteye_opendegree': 50, 'mouth_opendegree': 6, 'gender': 'Male', 'pose': {'tilting': 6, 'turn': 21, 'raise': -13}, 'age': 30}}]}
+Male Male 30 25
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/14/2009614_1964-05-13_2008.jpg
+<Response [200]>
+{'img_id': '030-fe60f3924cdf9a326242aa', 'img_height': 213, 'img_width': 213, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 98, 'eye_right': {'x': 120, 'y': 84}, 'eye_left': {'x': 74, 'y': 84}, 'height': 98, 'center': {'x': 56, 'y': 57}}, 'face_id': '8e7b1fab94a04cf4817ec6e16cd3f28e', 'attribute': {'lefteye_opendegree': 56, 'righteye_opendegree': 49, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': -2, 'turn': 14, 'raise': 10}, 'age': 46}}]}
+Male Male 46 44
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/16/20096416_1979-11-18_2014.jpg
+<Response [200]>
+{'img_id': '030-51b3519c66d743396242aa', 'img_height': 445, 'img_width': 445, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 199, 'eye_right': {'x': 240, 'y': 174}, 'eye_left': {'x': 141, 'y': 177}, 'height': 199, 'center': {'x': 97, 'y': 124}}, 'face_id': '76e121d4d3894963b8e02c1f8c5cf84a', 'attribute': {'lefteye_opendegree': 43, 'righteye_opendegree': 52, 'mouth_opendegree': 47, 'gender': 'Male', 'pose': {'tilting': 0, 'turn': 0, 'raise': -21}, 'age': 32}}, {'tag': '', 'position': {'width': 61, 'eye_right': {'x': 379, 'y': 261}, 'eye_left': {'x': 349, 'y': 256}, 'height': 61, 'center': {'x': 333, 'y': 246}}, 'face_id': '61fb49efdba64431af3496ce3d810ff6', 'attribute': {'lefteye_opendegree': 64, 'righteye_opendegree': 58, 'mouth_opendegree': 8, 'gender': 'Female', 'pose': {'tilting': 11, 'turn': 15, 'raise': -19}, 'age': 22}}]}
+Male Male 32 35
+Female Male 22 35
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/23/20096423_1988-03-24_2013.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/71/2009771_1983-08-13_2014.jpg
+<Response [200]>
+{'img_id': '030-af10c00a30262a0d6242aa', 'img_height': 119, 'img_width': 119, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 43, 'eye_right': {'x': 71, 'y': 45}, 'eye_left': {'x': 52, 'y': 45}, 'height': 43, 'center': {'x': 40, 'y': 31}}, 'face_id': 'aa7a3c177200434292cddb7a6002d876', 'attribute': {'lefteye_opendegree': 31, 'righteye_opendegree': 42, 'mouth_opendegree': 31, 'gender': 'Female', 'pose': {'tilting': -2, 'turn': 23, 'raise': 0}, 'age': 26}}]}
+Female Male 26 31
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/67/2009867_1959-11-29_2008.jpg
+<Response [200]>
+{'img_id': '030-ecda44b1725f0f936242aa', 'img_height': 114, 'img_width': 114, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 49, 'eye_right': {'x': 64, 'y': 45}, 'eye_left': {'x': 41, 'y': 46}, 'height': 49, 'center': {'x': 29, 'y': 31}}, 'face_id': '1a96969bfebc488bbb8294afe5b9ed08', 'attribute': {'lefteye_opendegree': 50, 'righteye_opendegree': 50, 'mouth_opendegree': 35, 'gender': 'Male', 'pose': {'tilting': 1, 'turn': -1, 'raise': -12}, 'age': 39}}]}
+Male Male 39 49
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/50/20099950_1931-07-18_1957.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/09/2009_1898-02-03_1950.jpg
+<Response [200]>
+{'img_id': '040-2c85cb5f5e41addc6242aa', 'img_height': 76, 'img_width': 76, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 35, 'eye_right': {'x': 50, 'y': 29}, 'eye_left': {'x': 34, 'y': 26}, 'height': 35, 'center': {'x': 23, 'y': 17}}, 'face_id': '7a451399884747a49d7bcbdd7ee84a2d', 'attribute': {'lefteye_opendegree': 66, 'righteye_opendegree': 66, 'mouth_opendegree': 0, 'gender': 'Female', 'pose': {'tilting': 4, 'turn': -8, 'raise': -6}, 'age': 65}}]}
+Female Male 65 52
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/72/3000072_1978-03-05_2013.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/26/30000926_1989-08-19_2014.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/36/30001236_1989-09-04_2011.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/35/30001835_1984-12-17_2013.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/17/30003517_1989-08-31_2012.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/74/30003574_1985-10-28_2013.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/28/30003728_1993-04-18_2013.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/56/30004256_1991-05-15_2011.jpg
+<Response [200]>
+{'img_id': '040-1f35fed0839708646242aa', 'img_height': 91, 'img_width': 90, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 36, 'eye_right': {'x': 55, 'y': 36}, 'eye_left': {'x': 37, 'y': 34}, 'height': 36, 'center': {'x': 28, 'y': 25}}, 'face_id': '11ec85d1c4f147158aab64f84aa74166', 'attribute': {'lefteye_opendegree': 50, 'righteye_opendegree': 37, 'mouth_opendegree': 6, 'gender': 'Female', 'pose': {'tilting': 8, 'turn': 15, 'raise': 6}, 'age': 24}}]}
+Female Male 24 20
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/93/30006993_1986-02-10_2011.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/73/30007073_1909-09-22_1950.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/25/30007125_1925-09-10_1948.jpg
+<Response [200]>
+{'img_id': '030-ecee07a58c2281046242aa', 'img_height': 135, 'img_width': 134, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 61, 'eye_right': {'x': 74, 'y': 52}, 'eye_left': {'x': 47, 'y': 56}, 'height': 61, 'center': {'x': 31, 'y': 35}}, 'face_id': 'c5baa34942b046e8893a7d6178a57f84', 'attribute': {'lefteye_opendegree': 38, 'righteye_opendegree': 46, 'mouth_opendegree': 11, 'gender': 'Male', 'pose': {'tilting': 1, 'turn': 0, 'raise': -7}, 'age': 50}}]}
+Male Male 50 23
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/57/30007557_1962-06-25_2011.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/87/30008387_1984-11-15_2012.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/53/30009853_1992-07-24_2015.jpg
+<Response [200]>
+{'img_id': '030-d8f41953ad4e8f726242aa', 'img_height': 489, 'img_width': 489, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 221, 'eye_right': {'x': 316, 'y': 181}, 'eye_left': {'x': 207, 'y': 187}, 'height': 222, 'center': {'x': 150, 'y': 124}}, 'face_id': 'ba2e2673ba7a4a6099f3f2c9c625177d', 'attribute': {'lefteye_opendegree': 45, 'righteye_opendegree': 48, 'mouth_opendegree': 45, 'gender': 'Female', 'pose': {'tilting': 3, 'turn': 19, 'raise': -17}, 'age': 32}}]}
+Female Male 32 23
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/89/3001089_1978-05-26_2008.jpg
+<Response [200]>
+{'img_id': '040-58f3ca6798a14c326242aa', 'img_height': 245, 'img_width': 245, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 114, 'eye_right': {'x': 137, 'y': 94}, 'eye_left': {'x': 87, 'y': 95}, 'height': 114, 'center': {'x': 55, 'y': 65}}, 'face_id': '5d313743ef5e42259487875d3228dd3e', 'attribute': {'lefteye_opendegree': 62, 'righteye_opendegree': 58, 'mouth_opendegree': 3, 'gender': 'Male', 'pose': {'tilting': 2, 'turn': 9, 'raise': -11}, 'age': 42}}]}
+Male Male 42 30
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/99/3001099_1977-08-08_2011.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/33/3001133_1981-03-17_2012.jpg
+<Response [200]>
+{'img_id': '040-6065f9be2beda2a06242aa', 'img_height': 130, 'img_width': 130, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 45, 'eye_right': {'x': 70, 'y': 49}, 'eye_left': {'x': 51, 'y': 48}, 'height': 45, 'center': {'x': 39, 'y': 37}}, 'face_id': 'a3daeedf8d604a62a3801c10312e6cf6', 'attribute': {'lefteye_opendegree': 66, 'righteye_opendegree': 66, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': 7, 'turn': 2, 'raise': -9}, 'age': 44}}]}
+Male Male 44 31
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/81/30011481_1956-08-12_1983.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/14/300114_1946-03-05_2013.jpg
+<Response [200]>
+{'img_id': '030-2fb13f304e475a936242aa', 'img_height': 116, 'img_width': 116, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 48, 'eye_right': {'x': 77, 'y': 46}, 'eye_left': {'x': 56, 'y': 49}, 'height': 48, 'center': {'x': 43, 'y': 35}}, 'face_id': 'e79c286f07ab47ab9bb726e85acb0d60', 'attribute': {'lefteye_opendegree': 25, 'righteye_opendegree': 25, 'mouth_opendegree': 79, 'gender': 'Female', 'pose': {'tilting': -2, 'turn': 7, 'raise': 0}, 'age': 57}}]}
+Female Male 57 67
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/31/30011631_1989-09-26_2013.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/35/30011835_1964-01-29_2010.jpg
+<Response [200]>
+{'img_id': '030-e53eebfa75a6a9b46242aa', 'img_height': 363, 'img_width': 363, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 153, 'eye_right': {'x': 213, 'y': 133}, 'eye_left': {'x': 138, 'y': 137}, 'height': 153, 'center': {'x': 98, 'y': 94}}, 'face_id': '0d68cce1f3f445f997c55e5ae633148c', 'attribute': {'lefteye_opendegree': 31, 'righteye_opendegree': 34, 'mouth_opendegree': 40, 'gender': 'Female', 'pose': {'tilting': -2, 'turn': -3, 'raise': -6}, 'age': 36}}]}
+Female Male 36 46
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/85/3001185_1981-07-14_2007.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/25/3001225_1970-12-31_1999.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/26/3001226_1981-01-31_2012.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/47/3001247_1985-09-30_2014.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/80/3001280_1964-08-14_1998.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/53/30012853_1987-04-20_2012.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/77/3001477_1944-09-27_2010.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/94/30014794_1990-01-03_2015.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/91/30015091_1957-09-19_1979.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/21/30015421_1992-06-08_2014.jpg
+<Response [200]>
+{'img_id': '040-fd8f981501957beb6242aa', 'img_height': 86, 'img_width': 86, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 31, 'eye_right': {'x': 52, 'y': 36}, 'eye_left': {'x': 38, 'y': 37}, 'height': 31, 'center': {'x': 29, 'y': 27}}, 'face_id': '1aaa522bb1d94f56a72f03e2425ea2bb', 'attribute': {'lefteye_opendegree': 26, 'righteye_opendegree': 53, 'mouth_opendegree': 86, 'gender': 'Male', 'pose': {'tilting': 13, 'turn': 35, 'raise': -8}, 'age': 47}}]}
+Male Male 47 22
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/01/30017001_1973-08-05_2012.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/97/30018797_1988-02-23_2010.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/67/30019367_1992-12-31_2007.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/53/3002053_1971-04-16_2011.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/57/30020657_1975-01-23_2004.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/64/30020764_1988-02-23_2013.jpg
+<Response [200]>
+{'img_id': '040-f7477834adadb5b76242aa', 'img_height': 131, 'img_width': 132, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 61, 'eye_right': {'x': 85, 'y': 52}, 'eye_left': {'x': 58, 'y': 51}, 'height': 61, 'center': {'x': 40, 'y': 36}}, 'face_id': '6dab129cb5a747d1a7052a81aa496098', 'attribute': {'lefteye_opendegree': 82, 'righteye_opendegree': 89, 'mouth_opendegree': 6, 'gender': 'Male', 'pose': {'tilting': 1, 'turn': 7, 'raise': -17}, 'age': 33}}]}
+Male Male 33 25
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/29/30021129_1984-09-20_2011.jpg
+<Response [200]>
+{'img_id': '030-bb94de92c4646c2d6242aa', 'img_height': 457, 'img_width': 457, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 172, 'eye_right': {'x': 255, 'y': 169}, 'eye_left': {'x': 161, 'y': 181}, 'height': 172, 'center': {'x': 125, 'y': 123}}, 'face_id': 'c1e456e2bd8e4b25aaf0d4824414da7d', 'attribute': {'lefteye_opendegree': 58, 'righteye_opendegree': 58, 'mouth_opendegree': 15, 'gender': 'Male', 'pose': {'tilting': -1, 'turn': 9, 'raise': 5}, 'age': 40}}]}
+Male Male 40 27
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/23/30021423_1973-02-03_2004.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/06/30022306_1986-07-12_2012.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/36/30022636_1968-03-18_2007.jpg
+<Response [200]>
+{'img_id': '030-a4b92b925805a09d6242aa', 'img_height': 500, 'img_width': 500, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 78, 'eye_right': {'x': 371, 'y': 100}, 'eye_left': {'x': 331, 'y': 103}, 'height': 78, 'center': {'x': 317, 'y': 79}}, 'face_id': '70ce19fb7a8f4a93adcbde1c7aefed06', 'attribute': {'lefteye_opendegree': 58, 'righteye_opendegree': 64, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': -3, 'turn': 5, 'raise': 4}, 'age': 29}}]}
+Male Male 29 39
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/22/30026522_1982-09-01_2008.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/68/300268_1963-01-07_2009.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/25/30028425_1925-11-05_2008.jpg
+<Response [200]>
+{'img_id': '030-873458ad9901933c6242aa', 'img_height': 190, 'img_width': 189, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 79, 'eye_right': {'x': 104, 'y': 76}, 'eye_left': {'x': 69, 'y': 80}, 'height': 79, 'center': {'x': 48, 'y': 57}}, 'face_id': '7112bfbd5a0540bcadbd3bbeabdde809', 'attribute': {'lefteye_opendegree': 34, 'righteye_opendegree': 28, 'mouth_opendegree': 57, 'gender': 'Female', 'pose': {'tilting': -7, 'turn': 9, 'raise': -15}, 'age': 57}}]}
+Female Male 57 83
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/12/30028612_1961-06-30_2008.jpg
+<Response [200]>
+{'img_id': '030-a73320e4099072ea6242aa', 'img_height': 278, 'img_width': 278, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 130, 'eye_right': {'x': 183, 'y': 108}, 'eye_left': {'x': 122, 'y': 109}, 'height': 130, 'center': {'x': 84, 'y': 74}}, 'face_id': '30bb51441a784262b3e53e08bf6ce0bf', 'attribute': {'lefteye_opendegree': 52, 'righteye_opendegree': 52, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': 4, 'turn': 11, 'raise': -1}, 'age': 66}}]}
+Male Male 66 47
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/76/3002876_1961-05-04_2009.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/12/3002912_1983-04-07_2012.jpg
+<Response [200]>
+{'img_id': '040-c24f11c43af8b48a6242aa', 'img_height': 360, 'img_width': 360, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 153, 'eye_right': {'x': 197, 'y': 149}, 'eye_left': {'x': 127, 'y': 147}, 'height': 152, 'center': {'x': 84, 'y': 107}}, 'face_id': '983dd39cf6204fc48555d833bc0ff36f', 'attribute': {'lefteye_opendegree': 34, 'righteye_opendegree': 34, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': 4, 'turn': 14, 'raise': -9}, 'age': 46}}]}
+Male Male 46 29
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/80/3002980_1928-02-16_2013.jpg
+<Response [200]>
+{'img_id': '040-dcf667bc2d0b8b836242aa', 'img_height': 114, 'img_width': 113, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 52, 'eye_right': {'x': 76, 'y': 41}, 'eye_left': {'x': 51, 'y': 41}, 'height': 52, 'center': {'x': 38, 'y': 28}}, 'face_id': 'dc024bd398fc423c94b9101f2d04ab3f', 'attribute': {'lefteye_opendegree': 54, 'righteye_opendegree': 45, 'mouth_opendegree': 45, 'gender': 'Female', 'pose': {'tilting': 5, 'turn': 11, 'raise': -5}, 'age': 59}}]}
+Female Male 59 85
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/29/30029_1948-04-28_2012.jpg
+<Response [200]>
+{'img_id': '040-1858a009e699682a6242aa', 'img_height': 281, 'img_width': 281, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 103, 'eye_right': {'x': 153, 'y': 118}, 'eye_left': {'x': 99, 'y': 118}, 'height': 104, 'center': {'x': 73, 'y': 92}}, 'face_id': '68d5728c76a54532a0f5a6bc1ad6160c', 'attribute': {'lefteye_opendegree': 38, 'righteye_opendegree': 38, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': 0, 'turn': -4, 'raise': -11}, 'age': 59}}]}
+Male Male 59 64
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/21/3003021_1956-12-23_2014.jpg
+<Response [200]>
+{'img_id': '030-140fad2429301ced6242aa', 'img_height': 302, 'img_width': 302, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 113, 'eye_right': {'x': 189, 'y': 121}, 'eye_left': {'x': 136, 'y': 120}, 'height': 114, 'center': {'x': 104, 'y': 91}}, 'face_id': '811d2024aba04a32bcdf4bb3b1361e7e', 'attribute': {'lefteye_opendegree': 69, 'righteye_opendegree': 69, 'mouth_opendegree': 7, 'gender': 'Male', 'pose': {'tilting': 0, 'turn': 15, 'raise': -7}, 'age': 60}}]}
+Male Male 60 58
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/92/30033092_1980-09-24_2013.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/33/3003333_1971-10-05_1993.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/43/3003343_1950-05-12_2011.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/79/3003379_1966-11-10_2009.jpg
+<Response [200]>
+{'img_id': '040-39dd9f8398624e6c6242aa', 'img_height': 245, 'img_width': 244, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 110, 'eye_right': {'x': 135, 'y': 96}, 'eye_left': {'x': 83, 'y': 105}, 'height': 110, 'center': {'x': 56, 'y': 69}}, 'face_id': '4445cd0c12ed4f158562a3636f318723', 'attribute': {'lefteye_opendegree': 69, 'righteye_opendegree': 65, 'mouth_opendegree': 63, 'gender': 'Female', 'pose': {'tilting': -3, 'turn': 28, 'raise': 2}, 'age': 35}}]}
+Female Female 35 43
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/07/30033807_1884-11-28_1950.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/47/30034447_1957-04-20_2011.jpg
+<Response [200]>
+{'img_id': '040-0fa8774b0f23b0d66242aa', 'img_height': 371, 'img_width': 371, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 156, 'eye_right': {'x': 243, 'y': 150}, 'eye_left': {'x': 162, 'y': 147}, 'height': 156, 'center': {'x': 125, 'y': 106}}, 'face_id': '067a5c9d33194431ada4b47eb4fe0fbe', 'attribute': {'lefteye_opendegree': 35, 'righteye_opendegree': 30, 'mouth_opendegree': 34, 'gender': 'Male', 'pose': {'tilting': 3, 'turn': 12, 'raise': -15}, 'age': 52}}]}
+Male Male 52 54
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/34/30034_1955-06-08_2014.jpg
+<Response [200]>
+{'img_id': '040-5beebebf912d822c6242aa', 'img_height': 164, 'img_width': 164, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 78, 'eye_right': {'x': 93, 'y': 63}, 'eye_left': {'x': 58, 'y': 60}, 'height': 78, 'center': {'x': 37, 'y': 41}}, 'face_id': '9bb29a70c1da4ef3b15b8ff57485abd7', 'attribute': {'lefteye_opendegree': 48, 'righteye_opendegree': 48, 'mouth_opendegree': 21, 'gender': 'Male', 'pose': {'tilting': 6, 'turn': 13, 'raise': -16}, 'age': 57}}]}
+Male Male 57 59
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/83/3003683_1986-01-06_2014.jpg
+<Response [200]>
+{'img_id': '040-5093f516cc3b3ac16242aa', 'img_height': 254, 'img_width': 255, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 101, 'eye_right': {'x': 129, 'y': 105}, 'eye_left': {'x': 81, 'y': 100}, 'height': 101, 'center': {'x': 54, 'y': 68}}, 'face_id': 'c28891ddedea4ed49e0df74fe3a62c9b', 'attribute': {'lefteye_opendegree': 50, 'righteye_opendegree': 54, 'mouth_opendegree': 23, 'gender': 'Male', 'pose': {'tilting': 7, 'turn': 9, 'raise': -20}, 'age': 29}}]}
+Male Male 29 28
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/79/30037279_1974-08-01_2010.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/31/30037331_1971-07-06_1991.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/80/30038580_1941-12-17_2011.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/67/30038667_1986-10-04_2012.jpg
+<Response [200]>
+{'img_id': '040-f14d84a24a105b906242aa', 'img_height': 387, 'img_width': 388, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 192, 'eye_right': {'x': 209, 'y': 142}, 'eye_left': {'x': 106, 'y': 147}, 'height': 191, 'center': {'x': 81, 'y': 99}}, 'face_id': 'c04192f0653e4c619e0e84e825a071fa', 'attribute': {'lefteye_opendegree': 61, 'righteye_opendegree': 50, 'mouth_opendegree': 68, 'gender': 'Female', 'pose': {'tilting': -3, 'turn': -10, 'raise': -8}, 'age': 26}}]}
+Female Male 26 26
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/03/30040203_1985-04-01_2006.jpg
+<Response [200]>
+{'img_id': '030-4ac012efbe962bf36242aa', 'img_height': 197, 'img_width': 198, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 91, 'eye_right': {'x': 109, 'y': 78}, 'eye_left': {'x': 62, 'y': 77}, 'height': 91, 'center': {'x': 42, 'y': 52}}, 'face_id': '57e380c6efd04aeb952c8b817f28d787', 'attribute': {'lefteye_opendegree': 88, 'righteye_opendegree': 79, 'mouth_opendegree': 18, 'gender': 'Male', 'pose': {'tilting': 11, 'turn': 16, 'raise': -19}, 'age': 37}}]}
+Male Male 37 21
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/35/30040535_1992-08-13_2015.jpg
+<Response [200]>
+{'img_id': '030-5b958a4d613be7966242aa', 'img_height': 130, 'img_width': 130, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 53, 'eye_right': {'x': 70, 'y': 51}, 'eye_left': {'x': 44, 'y': 53}, 'height': 53, 'center': {'x': 31, 'y': 39}}, 'face_id': '4fb5351657f24bc0b5b6107669564998', 'attribute': {'lefteye_opendegree': 51, 'righteye_opendegree': 59, 'mouth_opendegree': 18, 'gender': 'Male', 'pose': {'tilting': 8, 'turn': 10, 'raise': -8}, 'age': 40}}]}
+Male Male 40 23
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/25/3004325_1964-03-05_1986.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/63/3004363_1985-10-13_2014.jpg
+<Response [200]>
+{'img_id': '040-de7930a24df6a7f46242aa', 'img_height': 137, 'img_width': 137, 'res_code': '0000'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/79/30045579_1988-12-10_2011.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/51/30045851_1958-01-09_2011.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/96/3004596_1984-01-23_2012.jpg
+<Response [200]>
+{'img_id': '030-73e7d5225a483f466242aa', 'img_height': 130, 'img_width': 130, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 52, 'eye_right': {'x': 69, 'y': 51}, 'eye_left': {'x': 48, 'y': 50}, 'height': 52, 'center': {'x': 33, 'y': 35}}, 'face_id': '2159853c99d044ddb9406522c3002c80', 'attribute': {'lefteye_opendegree': 35, 'righteye_opendegree': 35, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': 1, 'turn': 2, 'raise': -20}, 'age': 30}}]}
+Male Male 30 28
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/02/30046202_1945-12-11_2012.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/31/3004631_1917-12-05_1959.jpg
+<Response [200]>
+{'img_id': '030-b99d30f0f8ef2f0d6242aa', 'img_height': 323, 'img_width': 322, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 40, 'eye_right': {'x': 106, 'y': 81}, 'eye_left': {'x': 87, 'y': 74}, 'height': 39, 'center': {'x': 75, 'y': 67}}, 'face_id': 'b7c99553178843cb9923803320dbfe1b', 'attribute': {'lefteye_opendegree': 9, 'righteye_opendegree': 19, 'mouth_opendegree': 0, 'gender': 'Female', 'pose': {'tilting': 16, 'turn': 5, 'raise': -11}, 'age': 30}}]}
+Female Female 30 42
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/34/3004634_1979-03-05_2010.jpg
+<Response [200]>
+{'img_id': '040-80f70d402d28781d6242aa', 'img_height': 130, 'img_width': 130, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 50, 'eye_right': {'x': 82, 'y': 49}, 'eye_left': {'x': 57, 'y': 49}, 'height': 50, 'center': {'x': 45, 'y': 35}}, 'face_id': '0add056de6884ab28f714c10c16c4a73', 'attribute': {'lefteye_opendegree': 52, 'righteye_opendegree': 52, 'mouth_opendegree': 21, 'gender': 'Male', 'pose': {'tilting': -3, 'turn': 15, 'raise': -13}, 'age': 39}}]}
+Male Male 39 31
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/71/3004671_1984-01-31_2014.jpg
+<Response [200]>
+{'img_id': '040-49ae8587ee1864b26242aa', 'img_height': 104, 'img_width': 104, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 41, 'eye_right': {'x': 67, 'y': 40}, 'eye_left': {'x': 48, 'y': 42}, 'height': 41, 'center': {'x': 39, 'y': 30}}, 'face_id': '12ad05d2ae9749c99094e0c05557efd9', 'attribute': {'lefteye_opendegree': 94, 'righteye_opendegree': 94, 'mouth_opendegree': 17, 'gender': 'Male', 'pose': {'tilting': -7, 'turn': 12, 'raise': 2}, 'age': 39}}]}
+Male Male 39 30
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/36/30047436_1989-11-12_1980.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/39/30049039_1985-09-03_2012.jpg
+<Response [200]>
+{'img_id': '040-b411c22e27c564b56242aa', 'img_height': 206, 'img_width': 206, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 28, 'eye_right': {'x': 186, 'y': 91}, 'eye_left': {'x': 175, 'y': 91}, 'height': 28, 'center': {'x': 166, 'y': 83}}, 'face_id': 'b350a360cfda4de19c14e2b1400d8679', 'attribute': {'lefteye_opendegree': 25, 'righteye_opendegree': 37, 'mouth_opendegree': 0, 'gender': 'Female', 'pose': {'tilting': -9, 'turn': 0, 'raise': -11}, 'age': 29}}]}
+Female nan 29 27
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/41/30049841_1969-11-04_2015.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/52/30050352_1959-03-14_2006.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/72/3005072_1968-08-09_2009.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/04/30052704_1986-10-22_2010.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/61/300561_1949-08-20_1980.jpg
+<Response [200]>
+{'img_id': '040-e109f74dd74aa2c26242aa', 'img_height': 141, 'img_width': 142, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 28, 'eye_right': {'x': 31, 'y': 16}, 'eye_left': {'x': 19, 'y': 17}, 'height': 29, 'center': {'x': 12, 'y': 10}}, 'face_id': '5abd0361587449949d83295b68b4cb22', 'attribute': {'lefteye_opendegree': 46, 'righteye_opendegree': 30, 'mouth_opendegree': 0, 'gender': 'Female', 'pose': {'tilting': -7, 'turn': 4, 'raise': -9}, 'age': 17}}]}
+Female Male 17 31
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/34/30056734_1958-02-01_2007.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/97/30057197_1992-02-29_2010.jpg
+<Response [200]>
+{'img_id': '030-17338c743a8c36126242aa', 'img_height': 135, 'img_width': 135, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 135, 'eye_right': {'x': 458, 'y': 275}, 'eye_left': {'x': 389, 'y': 271}, 'height': 135, 'center': {'x': 347, 'y': 237}}, 'face_id': '09ddb50ea03248c1ba471bb59bc5b3e8', 'attribute': {'lefteye_opendegree': 30, 'righteye_opendegree': 33, 'mouth_opendegree': 18, 'gender': 'Female', 'pose': {'tilting': 10, 'turn': 18, 'raise': -5}, 'age': 35}}]}
+Female Female 35 18
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/13/30058713_1991-12-09_2014.jpg
+<Response [200]>
+{'img_id': '040-1c86dc03c39a39526242aa', 'img_height': 393, 'img_width': 393, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 154, 'eye_right': {'x': 273, 'y': 151}, 'eye_left': {'x': 199, 'y': 160}, 'height': 154, 'center': {'x': 163, 'y': 122}}, 'face_id': 'fda7350f88f7497fba8f94262b96232d', 'attribute': {'lefteye_opendegree': 73, 'righteye_opendegree': 70, 'mouth_opendegree': 20, 'gender': 'Male', 'pose': {'tilting': 2, 'turn': 39, 'raise': -20}, 'age': 20}}]}
+Male Male 20 23
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/15/3005915_1980-08-25_2012.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/34/30060834_1935-08-20_2005.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/62/30061462_1991-03-12_2015.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/79/30062079_1991-03-13_2010.jpg
+<Response [200]>
+{'img_id': '030-0814e26f31b3dc036242aa', 'img_height': 151, 'img_width': 150, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 61, 'eye_right': {'x': 76, 'y': 59}, 'eye_left': {'x': 49, 'y': 58}, 'height': 61, 'center': {'x': 32, 'y': 43}}, 'face_id': 'f864ce52bca74cf18974a434c88f26e3', 'attribute': {'lefteye_opendegree': 20, 'righteye_opendegree': 20, 'mouth_opendegree': 0, 'gender': 'Female', 'pose': {'tilting': 11, 'turn': 1, 'raise': -6}, 'age': 43}}]}
+Female Female 43 19
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/60/30062160_1968-11-26_2009.jpg
+<Response [200]>
+{'img_id': '030-cc209084c9154b3d6242aa', 'img_height': 91, 'img_width': 91, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 33, 'eye_right': {'x': 57, 'y': 38}, 'eye_left': {'x': 41, 'y': 37}, 'height': 33, 'center': {'x': 32, 'y': 29}}, 'face_id': 'f17cdb184d8446f2a5b1a7eb48e60511', 'attribute': {'lefteye_opendegree': 62, 'righteye_opendegree': 75, 'mouth_opendegree': 37, 'gender': 'Female', 'pose': {'tilting': 12, 'turn': 20, 'raise': -11}, 'age': 33}}]}
+Female Female 33 41
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/55/30063955_1922-12-16_1948.jpg
+<Response [200]>
+{'img_id': '040-859b0c4f9a0a25876242aa', 'img_height': 135, 'img_width': 135, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 63, 'eye_right': {'x': 87, 'y': 49}, 'eye_left': {'x': 56, 'y': 52}, 'height': 63, 'center': {'x': 41, 'y': 34}}, 'face_id': '93cdca1d38fb4a5ba99422eedfaba8ed', 'attribute': {'lefteye_opendegree': 45, 'righteye_opendegree': 45, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': -1, 'turn': 16, 'raise': -25}, 'age': 39}}]}
+Male Male 39 26
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/87/30064987_1992-11-19_2011.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/50/300650_1894-09-15_1977.jpg
+<Response [200]>
+{'img_id': '030-372f8aa4f46e98936242aa', 'img_height': 103, 'img_width': 103, 'res_code': '0000'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/13/30065213_1992-03-02_2012.jpg
+<Response [200]>
+{'img_id': '040-cfa4ae4b3874a3066242aa', 'img_height': 115, 'img_width': 115, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 47, 'eye_right': {'x': 65, 'y': 45}, 'eye_left': {'x': 43, 'y': 48}, 'height': 46, 'center': {'x': 30, 'y': 35}}, 'face_id': '0160c73fc48b4c1e842ede63b77fb11a', 'attribute': {'lefteye_opendegree': 57, 'righteye_opendegree': 57, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': -2, 'turn': 6, 'raise': -3}, 'age': 24}}]}
+Male nan 24 20
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/58/30066658_1911-10-20_1941.jpg
+<Response [200]>
+{'img_id': '040-ec449cb073bb25656242aa', 'img_height': 298, 'img_width': 299, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 128, 'eye_right': {'x': 191, 'y': 112}, 'eye_left': {'x': 131, 'y': 115}, 'height': 128, 'center': {'x': 97, 'y': 75}}, 'face_id': 'c7a0c11670864627826a72ec5f0f3791', 'attribute': {'lefteye_opendegree': 54, 'righteye_opendegree': 58, 'mouth_opendegree': 0, 'gender': 'Female', 'pose': {'tilting': 1, 'turn': 20, 'raise': -11}, 'age': 34}}]}
+Female Male 34 30
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/51/3006751_1949-03-28_2005.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/56/3006756_1977-01-12_2009.jpg
+<Response [200]>
+{'img_id': '040-2b755c10007ee7426242aa', 'img_height': 346, 'img_width': 346, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 152, 'eye_right': {'x': 183, 'y': 137}, 'eye_left': {'x': 116, 'y': 146}, 'height': 152, 'center': {'x': 82, 'y': 100}}, 'face_id': 'a63533296f444359a539eb6c3fc3a927', 'attribute': {'lefteye_opendegree': 31, 'righteye_opendegree': 43, 'mouth_opendegree': 32, 'gender': 'Male', 'pose': {'tilting': -7, 'turn': -9, 'raise': -5}, 'age': 46}}]}
+Male Male 46 32
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/50/3006850_1961-08-26_2011.jpg
+<Response [200]>
+{'img_id': '040-b8e996686ebf08846242aa', 'img_height': 342, 'img_width': 342, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 126, 'eye_right': {'x': 172, 'y': 145}, 'eye_left': {'x': 110, 'y': 147}, 'height': 126, 'center': {'x': 81, 'y': 113}}, 'face_id': 'de791152e1814a3396a2be06107163b8', 'attribute': {'lefteye_opendegree': 64, 'righteye_opendegree': 54, 'mouth_opendegree': 10, 'gender': 'Male', 'pose': {'tilting': -2, 'turn': -2, 'raise': -12}, 'age': 29}}]}
+Male Male 29 50
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/02/3006902_1954-10-30_2014.jpg
+<Response [200]>
+{'img_id': '030-f444e80721c4b60d6242aa', 'img_height': 501, 'img_width': 480, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 65, 'eye_right': {'x': 382, 'y': 128}, 'eye_left': {'x': 353, 'y': 126}, 'height': 65, 'center': {'x': 333, 'y': 109}}, 'face_id': 'e297c198f3574048aa0e1c17fb7ca2e8', 'attribute': {'lefteye_opendegree': 100, 'righteye_opendegree': 100, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': 7, 'turn': 4, 'raise': -10}, 'age': 52}}]}
+Male Male 52 60
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/04/30069304_1993-02-14_2012.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/99/300699_1944-12-22_2008.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/57/3007157_1930-10-11_2010.jpg
+<Response [200]>
+{'img_id': '030-44faa16da1e8ad2b6242aa', 'img_height': 397, 'img_width': 398, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 189, 'eye_right': {'x': 258, 'y': 160}, 'eye_left': {'x': 173, 'y': 151}, 'height': 189, 'center': {'x': 120, 'y': 106}}, 'face_id': 'a4c966ad7b534c3c820a151e228b690c', 'attribute': {'lefteye_opendegree': 48, 'righteye_opendegree': 48, 'mouth_opendegree': 10, 'gender': 'Male', 'pose': {'tilting': 6, 'turn': 15, 'raise': -22}, 'age': 50}}]}
+Male Male 50 80
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/49/30072249_1989-11-14_2012.jpg
+<Response [200]>
+{'img_id': '040-6b7050655c076e6b6242aa', 'img_height': 362, 'img_width': 362, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 174, 'eye_right': {'x': 246, 'y': 139}, 'eye_left': {'x': 165, 'y': 136}, 'height': 175, 'center': {'x': 115, 'y': 98}}, 'face_id': 'd2d71f453fda40f59b4a395e985e12c9', 'attribute': {'lefteye_opendegree': 75, 'righteye_opendegree': 66, 'mouth_opendegree': 11, 'gender': 'Female', 'pose': {'tilting': 5, 'turn': 32, 'raise': -8}, 'age': 27}}]}
+Female Male 27 23
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/82/30072282_1987-08-12_2008.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/77/3007277_1954-09-07_2013.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/89/30073089_1992-02-15_2014.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/35/3007535_1938-06-08_2000.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/43/30075943_1991-07-06_2014.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/55/30076355_1992-09-21_2012.jpg
+<Response [200]>
+{'img_id': '030-0150b190601aea466242aa', 'img_height': 137, 'img_width': 137, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 57, 'eye_right': {'x': 84, 'y': 51}, 'eye_left': {'x': 57, 'y': 51}, 'height': 56, 'center': {'x': 41, 'y': 38}}, 'face_id': '33c34fac455e4346bc2d0151f92dc594', 'attribute': {'lefteye_opendegree': 76, 'righteye_opendegree': 61, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': 6, 'turn': 18, 'raise': -8}, 'age': 32}}]}
+Male Male 32 20
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/45/30079345_1993-07-20_2014.jpg
+<Response [200]>
+{'img_id': '040-a1047295c495f0926242aa', 'img_height': 440, 'img_width': 440, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 188, 'eye_right': {'x': 291, 'y': 170}, 'eye_left': {'x': 192, 'y': 171}, 'height': 188, 'center': {'x': 149, 'y': 126}}, 'face_id': 'b7f52b4782e448eda2b269a21fc9dbec', 'attribute': {'lefteye_opendegree': 41, 'righteye_opendegree': 33, 'mouth_opendegree': 2, 'gender': 'Male', 'pose': {'tilting': 0, 'turn': 12, 'raise': -11}, 'age': 28}}]}
+Male Male 28 21
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/21/30081321_1984-06-15_1980.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/94/3008194_1986-07-31_2012.jpg
+<Response [200]>
+{'img_id': '040-3c91279ba71ab78c6242aa', 'img_height': 150, 'img_width': 151, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 72, 'eye_right': {'x': 85, 'y': 49}, 'eye_left': {'x': 52, 'y': 57}, 'height': 72, 'center': {'x': 34, 'y': 38}}, 'face_id': 'db86cf798b8a41128cbfc72e300bfabb', 'attribute': {'lefteye_opendegree': 73, 'righteye_opendegree': 60, 'mouth_opendegree': 86, 'gender': 'Male', 'pose': {'tilting': -2, 'turn': 4, 'raise': -16}, 'age': 46}}]}
+Male Male 46 26
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/27/30082127_1985-05-30_2011.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/19/3008319_1957-09-10_2014.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/44/30085244_1932-08-08_1955.jpg
+<Response [200]>
+{'img_id': '030-dbc1fd8e8af62c376242aa', 'img_height': 76, 'img_width': 76, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 31, 'eye_right': {'x': 40, 'y': 28}, 'eye_left': {'x': 26, 'y': 29}, 'height': 31, 'center': {'x': 20, 'y': 20}}, 'face_id': '5cb9328a1fc449dca27eac2b9688f959', 'attribute': {'lefteye_opendegree': 71, 'righteye_opendegree': 57, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': -3, 'turn': 4, 'raise': 11}, 'age': 24}}]}
+Male Male 24 23
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/74/3008574_1980-06-01_2010.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/14/3008614_1978-05-02_2009.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/47/30086347_1973-04-03_1998.jpg
+<Response [200]>
+{'res_code': '1001', 'img_height': 0, 'img_width': 0, 'message': '内部错误'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/82/30087082_1965-09-03_1996.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/93/3008793_1970-06-26_2013.jpg
+<Response [200]>
+{'img_id': '030-a3f10a2f7a3e65036242aa', 'img_height': 371, 'img_width': 370, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 173, 'eye_right': {'x': 201, 'y': 143}, 'eye_left': {'x': 125, 'y': 152}, 'height': 173, 'center': {'x': 79, 'y': 97}}, 'face_id': '11dee0637c50411f89236240df2b8d90', 'attribute': {'lefteye_opendegree': 37, 'righteye_opendegree': 44, 'mouth_opendegree': 41, 'gender': 'Male', 'pose': {'tilting': -5, 'turn': 4, 'raise': -2}, 'age': 48}}]}
+Male Male 48 43
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/16/3008816_1962-04-27_2006.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/37/3008837_1961-03-31_2002.jpg
+<Response [200]>
+{'img_id': '040-95a998756374be006242aa', 'img_height': 346, 'img_width': 346, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 146, 'eye_right': {'x': 193, 'y': 125}, 'eye_left': {'x': 124, 'y': 133}, 'height': 145, 'center': {'x': 89, 'y': 89}}, 'face_id': '186edc3d30074345afe1021e7ca6f5de', 'attribute': {'lefteye_opendegree': 69, 'righteye_opendegree': 69, 'mouth_opendegree': 21, 'gender': 'Male', 'pose': {'tilting': -5, 'turn': 11, 'raise': -7}, 'age': 33}}]}
+Male Male 33 41
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/31/3009131_1942-09-15_2012.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/00/30092400_1905-06-20_1980.jpg
+<Response [200]>
+{'img_id': '030-f3d58c43219434f36242aa', 'img_height': 271, 'img_width': 271, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 117, 'eye_right': {'x': 177, 'y': 98}, 'eye_left': {'x': 116, 'y': 107}, 'height': 117, 'center': {'x': 90, 'y': 71}}, 'face_id': '47af3f05e0a643749277b7320f6c05db', 'attribute': {'lefteye_opendegree': 42, 'righteye_opendegree': 50, 'mouth_opendegree': 0, 'gender': 'Female', 'pose': {'tilting': -8, 'turn': 17, 'raise': -5}, 'age': 72}}]}
+Female Female 72 75
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/19/30092419_1987-12-10_2013.jpg
+<Response [200]>
+{'img_id': '040-b438a7eac6852a156242aa', 'img_height': 323, 'img_width': 322, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 138, 'eye_right': {'x': 178, 'y': 136}, 'eye_left': {'x': 114, 'y': 134}, 'height': 138, 'center': {'x': 72, 'y': 101}}, 'face_id': '833d5b16d0db457eb49da3bb4a9ee2c5', 'attribute': {'lefteye_opendegree': 54, 'righteye_opendegree': 61, 'mouth_opendegree': 16, 'gender': 'Male', 'pose': {'tilting': 10, 'turn': 1, 'raise': -11}, 'age': 32}}]}
+Male Male 32 26
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/72/3009272_1986-02-21_2009.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/48/30093048_1994-07-09_2012.jpg
+<Response [200]>
+{'img_id': '040-ff93999e7b0cd7d76242aa', 'img_height': 477, 'img_width': 476, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 205, 'eye_right': {'x': 239, 'y': 190}, 'eye_left': {'x': 147, 'y': 194}, 'height': 205, 'center': {'x': 99, 'y': 131}}, 'face_id': 'f16d5b31622840239b05b95faca69d25', 'attribute': {'lefteye_opendegree': 61, 'righteye_opendegree': 59, 'mouth_opendegree': 0, 'gender': 'Male', 'pose': {'tilting': -5, 'turn': -21, 'raise': 4}, 'age': 29}}]}
+Male Male 29 18
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/96/30093896_1992-03-14_2013.jpg
+<Response [200]>
+{'img_id': '040-caebd7d7fe6608cf6242aa', 'img_height': 125, 'img_width': 126, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 57, 'eye_right': {'x': 66, 'y': 53}, 'eye_left': {'x': 38, 'y': 53}, 'height': 57, 'center': {'x': 27, 'y': 37}}, 'face_id': 'e7e24cb1a4584550bcc68c3b5628cf7b', 'attribute': {'lefteye_opendegree': 50, 'righteye_opendegree': 50, 'mouth_opendegree': 29, 'gender': 'Male', 'pose': {'tilting': 3, 'turn': -4, 'raise': -18}, 'age': 24}}]}
+Male Male 24 21
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/31/3009831_1965-04-06_2005.jpg
+<Response [200]>
+{'img_id': '040-f090e5a2dc47002b6242aa', 'img_height': 489, 'img_width': 489, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 208, 'eye_right': {'x': 337, 'y': 189}, 'eye_left': {'x': 239, 'y': 193}, 'height': 207, 'center': {'x': 171, 'y': 136}}, 'face_id': '4d92184c200547199f43856124ba9722', 'attribute': {'lefteye_opendegree': 31, 'righteye_opendegree': 38, 'mouth_opendegree': 7, 'gender': 'Female', 'pose': {'tilting': 3, 'turn': 37, 'raise': -10}, 'age': 30}}]}
+Female Male 30 40
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/40/3009940_1979-01-14_2009.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/63/30099963_1985-10-07_2009.jpg
+<Response [200]>
+{'img_id': '030-6f6636246f9e86856242aa', 'img_height': 477, 'img_width': 476, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 201, 'eye_right': {'x': 275, 'y': 194}, 'eye_left': {'x': 181, 'y': 195}, 'height': 201, 'center': {'x': 126, 'y': 138}}, 'face_id': '8a1008c25ccb4a3c83cd77d2b519c2e2', 'attribute': {'lefteye_opendegree': 63, 'righteye_opendegree': 60, 'mouth_opendegree': 61, 'gender': 'Male', 'pose': {'tilting': 4, 'turn': 5, 'raise': -6}, 'age': 25}}]}
+Male Male 25 24
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/81/40000581_1990-05-09_2012.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/41/4000241_1976-03-15_2009.jpg
+<Response [200]>
+{'img_id': '040-2a3a0cc7609921906242aa', 'img_height': 397, 'img_width': 398, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 164, 'eye_right': {'x': 250, 'y': 165}, 'eye_left': {'x': 170, 'y': 156}, 'height': 163, 'center': {'x': 126, 'y': 114}}, 'face_id': '098e7f0c7a8840a4b86920385e06ec7c', 'attribute': {'lefteye_opendegree': 58, 'righteye_opendegree': 63, 'mouth_opendegree': 43, 'gender': 'Female', 'pose': {'tilting': 6, 'turn': 14, 'raise': -29}, 'age': 29}}]}
+Female Female 29 33
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/30/40004330_1986-09-28_2007.jpg
+<Response [200]>
+{'img_id': '030-2f4e46569e3e2cf46242aa', 'img_height': 88, 'img_width': 88, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 42, 'eye_right': {'x': 59, 'y': 33}, 'eye_left': {'x': 41, 'y': 35}, 'height': 43, 'center': {'x': 29, 'y': 23}}, 'face_id': '571fa963c3984daa90d4f8601c30612f', 'attribute': {'lefteye_opendegree': 63, 'righteye_opendegree': 73, 'mouth_opendegree': 57, 'gender': 'Female', 'pose': {'tilting': 1, 'turn': 38, 'raise': -8}, 'age': 41}}]}
+Female Female 41 21
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/75/40005275_1966-10-05_1993.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/62/400062_1939-10-10_1997.jpg
+<Response [200]>
+{'img_id': '040-28a2a8c59140b78b6242aa', 'img_height': 489, 'img_width': 489, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 214, 'eye_right': {'x': 272, 'y': 192}, 'eye_left': {'x': 168, 'y': 185}, 'height': 214, 'center': {'x': 114, 'y': 136}}, 'face_id': '7a8819ab196a4e598dd89e349d9deca7', 'attribute': {'lefteye_opendegree': 47, 'righteye_opendegree': 49, 'mouth_opendegree': 34, 'gender': 'Male', 'pose': {'tilting': 7, 'turn': 9, 'raise': -15}, 'age': 37}}]}
+Male Male 37 58
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/33/4000833_1965-08-09_1991.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/61/4001161_1911-05-20_1984.jpg
+<Response [200]>
+{'img_id': '030-4fc5684a1f58125d6242aa', 'img_height': 500, 'img_width': 500, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 76, 'eye_right': {'x': 363, 'y': 111}, 'eye_left': {'x': 325, 'y': 111}, 'height': 75, 'center': {'x': 309, 'y': 95}}, 'face_id': 'ecf4dbcf71f34703820b21b5d689e4aa', 'attribute': {'lefteye_opendegree': 66, 'righteye_opendegree': 66, 'mouth_opendegree': 16, 'gender': 'Female', 'pose': {'tilting': -9, 'turn': 0, 'raise': 0}, 'age': 52}}]}
+Female Female 52 73
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/47/40012347_1897-10-05_1965.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/49/40014249_1984-10-04_2006.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/93/40014293_1993-04-05_2013.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/01/40015601_1985-04-07_2013.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/41/4001741_1931-12-14_1980.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/48/40021348_1958-07-14_2009.jpg
+<Response [200]>
+{'img_id': '030-b46a758bcfdff8e66242aa', 'img_height': 245, 'img_width': 244, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 91, 'eye_right': {'x': 133, 'y': 96}, 'eye_left': {'x': 89, 'y': 94}, 'height': 90, 'center': {'x': 65, 'y': 72}}, 'face_id': 'db511cf089de451c849da9911f3751d0', 'attribute': {'lefteye_opendegree': 51, 'righteye_opendegree': 51, 'mouth_opendegree': 53, 'gender': 'Male', 'pose': {'tilting': 6, 'turn': 5, 'raise': -11}, 'age': 52}}]}
+Male Male 52 51
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/25/40022425_1987-12-19_2013.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/72/40023572_1989-01-23_2014.jpg
+<Response [200]>
+{'img_id': '030-ed8d0090e5e223286242aa', 'img_height': 262, 'img_width': 262, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 123, 'eye_right': {'x': 175, 'y': 102}, 'eye_left': {'x': 122, 'y': 103}, 'height': 123, 'center': {'x': 82, 'y': 66}}, 'face_id': 'a5035199ad60476c8f27c98167ff3e7a', 'attribute': {'lefteye_opendegree': 57, 'righteye_opendegree': 57, 'mouth_opendegree': 15, 'gender': 'Male', 'pose': {'tilting': 4, 'turn': 9, 'raise': -13}, 'age': 30}}, {'tag': '', 'position': {'width': 71, 'eye_right': {'x': 74, 'y': 72}, 'eye_left': {'x': 44, 'y': 66}, 'height': 71, 'center': {'x': 26, 'y': 42}}, 'face_id': 'f08473cdf03b4473badce429e8c2bac3', 'attribute': {'lefteye_opendegree': 0, 'righteye_opendegree': 0, 'mouth_opendegree': 11, 'gender': 'Female', 'pose': {'tilting': 1, 'turn': 2, 'raise': -10}, 'age': 26}}]}
+Male Male 30 25
+Female Male 26 25
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/44/4002444_1887-07-03_2012.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/21/40026821_1914-07-20_2010.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/93/400293_1946-06-06_2008.jpg
+<Response [200]>
+{'img_id': '030-ba3aaef0e33a79476242aa', 'img_height': 174, 'img_width': 173, 'res_code': '0000'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/51/40031851_1987-09-11_2014.jpg
+<Response [200]>
+{'img_id': '030-651819e8a0dafade6242aa', 'img_height': 397, 'img_width': 398, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 177, 'eye_right': {'x': 223, 'y': 155}, 'eye_left': {'x': 139, 'y': 161}, 'height': 177, 'center': {'x': 95, 'y': 106}}, 'face_id': '52898caccdcc4f4bb42834aa9b9fc32c', 'attribute': {'lefteye_opendegree': 39, 'righteye_opendegree': 37, 'mouth_opendegree': 37, 'gender': 'Female', 'pose': {'tilting': -1, 'turn': 8, 'raise': -10}, 'age': 24}}]}
+Female Female 24 27
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/41/40032041_1993-04-18_2013.jpg
+<Response [200]>
+{'img_id': '030-f84542db2611f7466242aa', 'img_height': 281, 'img_width': 281, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 119, 'eye_right': {'x': 152, 'y': 107}, 'eye_left': {'x': 90, 'y': 104}, 'height': 119, 'center': {'x': 65, 'y': 76}}, 'face_id': '25571becfd98401995401a10985e98a4', 'attribute': {'lefteye_opendegree': 58, 'righteye_opendegree': 54, 'mouth_opendegree': 38, 'gender': 'Male', 'pose': {'tilting': 2, 'turn': 0, 'raise': -9}, 'age': 20}}]}
+Male Male 20 20
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/39/4003339_1974-05-11_1978.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/00/40033700_1969-03-25_1944.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/54/40034454_1946-07-10_1985.jpg
+<Response [200]>
+{'img_id': '030-ab55215c5b166e1b6242aa', 'img_height': 83, 'img_width': 83, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 28, 'eye_right': {'x': 42, 'y': 33}, 'eye_left': {'x': 26, 'y': 35}, 'height': 28, 'center': {'x': 23, 'y': 27}}, 'face_id': '9688d8eadf2243c2b027a38da528754c', 'attribute': {'lefteye_opendegree': 57, 'righteye_opendegree': 42, 'mouth_opendegree': 0, 'gender': 'Female', 'pose': {'tilting': 2, 'turn': -6, 'raise': -8}, 'age': 30}}]}
+Female Male 30 39
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/16/40036216_1991-07-18_2013.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/20/40037120_1967-10-16_1990.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/46/4003746_1952-01-02_2004.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/05/4003805_1972-06-01_2005.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/90/40038790_1985-08-11_2014.jpg
+<Response [200]>
+{'img_id': '030-c197774f4b9aceed6242aa', 'img_height': 185, 'img_width': 185, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 76, 'eye_right': {'x': 102, 'y': 74}, 'eye_left': {'x': 67, 'y': 76}, 'height': 75, 'center': {'x': 48, 'y': 53}}, 'face_id': '02ce29e45080425e9cb67fe96ed4cf9b', 'attribute': {'lefteye_opendegree': 42, 'righteye_opendegree': 36, 'mouth_opendegree': 18, 'gender': 'Male', 'pose': {'tilting': -2, 'turn': -1, 'raise': -4}, 'age': 41}}]}
+Male Male 41 29
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/69/40038969_1981-12-26_2014.jpg
+<Response [200]>
+{'img_id': '030-dfaac5a4b78a65866242aa', 'img_height': 163, 'img_width': 164, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 51, 'eye_right': {'x': 108, 'y': 67}, 'eye_left': {'x': 79, 'y': 69}, 'height': 51, 'center': {'x': 70, 'y': 57}}, 'face_id': '36553d88018b400493bc97f2f5bb596c', 'attribute': {'lefteye_opendegree': 59, 'righteye_opendegree': 51, 'mouth_opendegree': 70, 'gender': 'Female', 'pose': {'tilting': -6, 'turn': 19, 'raise': -4}, 'age': 32}}]}
+Female Female 32 33
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/09/40041109_1974-08-17_2003.jpg
+<Response [200]>
+{'img_id': '030-145f455ed98c85736242aa', 'img_height': 343, 'img_width': 343, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 152, 'eye_right': {'x': 239, 'y': 143}, 'eye_left': {'x': 165, 'y': 124}, 'height': 153, 'center': {'x': 113, 'y': 90}}, 'face_id': 'ce7701972bef469fbe9b602cf3f00e47', 'attribute': {'lefteye_opendegree': 69, 'righteye_opendegree': 72, 'mouth_opendegree': 1, 'gender': 'Female', 'pose': {'tilting': 29, 'turn': 25, 'raise': 0}, 'age': 27}}]}
+Female Female 27 29
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/67/40041267_1990-12-13_2013.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/17/400417_1914-09-20_1969.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/24/4004224_1930-06-21_1973.jpg
+<Response [200]>
+{'img_id': '030-e6fae938c61cc1e66242aa', 'img_height': 489, 'img_width': 489, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 183, 'eye_right': {'x': 318, 'y': 220}, 'eye_left': {'x': 222, 'y': 204}, 'height': 183, 'center': {'x': 168, 'y': 159}}, 'face_id': '99e55a5dd5d94ff2ac890eb0f0c1303b', 'attribute': {'lefteye_opendegree': 0, 'righteye_opendegree': 4, 'mouth_opendegree': 12, 'gender': 'Male', 'pose': {'tilting': 14, 'turn': 29, 'raise': -7}, 'age': 39}}]}
+Male Male 39 43
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/52/4004252_1930-04-14_2014.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/04/40044104_1984-04-03_2013.jpg
+<Response [200]>
+{'img_id': '030-e12fff694430d5f26242aa', 'img_height': 199, 'img_width': 199, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 87, 'eye_right': {'x': 135, 'y': 82}, 'eye_left': {'x': 93, 'y': 82}, 'height': 86, 'center': {'x': 68, 'y': 56}}, 'face_id': '7f8907723b6a411986fff67d3386b988', 'attribute': {'lefteye_opendegree': 27, 'righteye_opendegree': 27, 'mouth_opendegree': 50, 'gender': 'Female', 'pose': {'tilting': 2, 'turn': 14, 'raise': -24}, 'age': 26}}]}
+Female Female 26 29
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/45/40044245_1976-08-30_2013.jpg
+<Response [200]>
+{'img_id': '030-f2e57b0cd5a120fa6242aa', 'img_height': 489, 'img_width': 489, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 197, 'eye_right': {'x': 311, 'y': 207}, 'eye_left': {'x': 220, 'y': 196}, 'height': 197, 'center': {'x': 162, 'y': 145}}, 'face_id': '0889b8fb8c124cd5a2a6257ba0550520', 'attribute': {'lefteye_opendegree': 47, 'righteye_opendegree': 56, 'mouth_opendegree': 21, 'gender': 'Male', 'pose': {'tilting': 4, 'turn': 17, 'raise': -8}, 'age': 46}}]}
+Male Male 46 37
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/42/40045942_1993-04-20_2012.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/98/40048298_1991-08-30_2010.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/93/400493_1908-11-23_1979.jpg
+<Response [200]>
+{'img_id': '030-4cfa2240d77b90676242aa', 'img_height': 383, 'img_width': 500, 'res_code': '0000'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/33/40050633_1977-10-20_2012.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/31/40052531_1983-08-12_2010.jpg
+<Response [200]>
+{'img_id': '030-4f901770fa2c88296242aa', 'img_height': 228, 'img_width': 228, 'res_code': '0000', 'face': [{'tag': '', 'position': {'width': 88, 'eye_right': {'x': 126, 'y': 85}, 'eye_left': {'x': 82, 'y': 84}, 'height': 88, 'center': {'x': 58, 'y': 61}}, 'face_id': 'f6165d7fb3804f699d1543b7194bf767', 'attribute': {'lefteye_opendegree': 57, 'righteye_opendegree': 57, 'mouth_opendegree': 23, 'gender': 'Female', 'pose': {'tilting': 3, 'turn': -6, 'raise': 0}, 'age': 39}}]}
+Female nan 39 27
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/94/40052794_1971-06-02_2006.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/06/40053006_1992-08-31_2013.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+/home/shushi/Pic/IMDB-WIKI/wiki_crop/90/40053190_1974-07-18_1995.jpg
+<Response [200]>
+{'res_code': '1067', 'img_height': 0, 'img_width': 0, 'message': '未检测到人脸'}
+error
+4 183 225
+0.017777777777777778 0.8133333333333334
+159.62222222222223
+
+Process finished with exit code 0
+

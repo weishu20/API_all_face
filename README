@@ -1,0 +1,16 @@
+face++:
+emotion+gender+detect:no face 记录
+age+gender+detect：no face 记录
+compare_same+detect:
+compare_dif+detect
+compare_twins+detect
+其他错误：记录在txt中
+检测结果保存
+
+linkface：
+compare_same
+compare_dif
+compare_twins
+无脸图片保存并记录在txt中(NO_FACE_DETECTED)
+
+

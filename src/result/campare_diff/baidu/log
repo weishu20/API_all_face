@@ -1,0 +1,739 @@
+/usr/bin/python3.5 /home/shushi/projects/3face/face_api/src/test_compare_diff/test_baidu.py
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 37.737640380859}], 'log_id': 3884851528011019}
+/home/shushi/Pic/idealtest/idealtest/081/081-014.bmp /home/shushi/Pic/idealtest/idealtest/006/006-032.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3885003029011019}
+/home/shushi/Pic/idealtest/idealtest/068/068-020.bmp /home/shushi/Pic/idealtest/idealtest/121/121-017.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 20.436393737793}], 'log_id': 3885162541011019}
+/home/shushi/Pic/idealtest/idealtest/054/054-033.bmp /home/shushi/Pic/idealtest/idealtest/011/011-026.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 13.256320953369}], 'log_id': 3885316082011019}
+/home/shushi/Pic/idealtest/idealtest/005/005-028.bmp /home/shushi/Pic/idealtest/idealtest/103/103-031.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 23.860500335693}], 'log_id': 3885463320011019}
+/home/shushi/Pic/idealtest/idealtest/079/079-022.bmp /home/shushi/Pic/idealtest/idealtest/103/103-023.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/025/025-024.bmp /home/shushi/Pic/idealtest/idealtest/006/006-030.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3885764360011019}
+/home/shushi/Pic/idealtest/idealtest/079/079-025.bmp /home/shushi/Pic/idealtest/idealtest/017/017-016.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/040/040-001.bmp /home/shushi/Pic/idealtest/idealtest/041/041-012.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 10.699760437012}], 'log_id': 3885998470011019}
+/home/shushi/Pic/idealtest/idealtest/070/070-014.bmp /home/shushi/Pic/idealtest/idealtest/095/095-017.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 8.2553443908691}], 'log_id': 3886165140011019}
+/home/shushi/Pic/idealtest/idealtest/095/095-036.bmp /home/shushi/Pic/idealtest/idealtest/038/038-022.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 37.85213470459}], 'log_id': 3886330046011019}
+/home/shushi/Pic/idealtest/idealtest/076/076-029.bmp /home/shushi/Pic/idealtest/idealtest/037/037-002.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 26.608657836914}], 'log_id': 3886521767011019}
+/home/shushi/Pic/idealtest/idealtest/107/107-027.bmp /home/shushi/Pic/idealtest/idealtest/094/094-009.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 12.92431640625}], 'log_id': 3886681492011019}
+/home/shushi/Pic/idealtest/idealtest/084/084-023.bmp /home/shushi/Pic/idealtest/idealtest/113/113-015.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 1.7368469238281}], 'log_id': 3886820473011019}
+/home/shushi/Pic/idealtest/idealtest/113/113-002.bmp /home/shushi/Pic/idealtest/idealtest/074/074-015.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3886973307011019}
+/home/shushi/Pic/idealtest/idealtest/022/022-032.bmp /home/shushi/Pic/idealtest/idealtest/100/100-007.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/030/030-004.bmp /home/shushi/Pic/idealtest/idealtest/094/094-018.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 18.441150665283}], 'log_id': 3887202740011019}
+/home/shushi/Pic/idealtest/idealtest/102/102-005.bmp /home/shushi/Pic/idealtest/idealtest/106/106-018.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/042/042-008.bmp /home/shushi/Pic/idealtest/idealtest/067/067-002.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 4.5064544677734}], 'log_id': 3887454226011019}
+/home/shushi/Pic/idealtest/idealtest/054/054-024.bmp /home/shushi/Pic/idealtest/idealtest/061/061-034.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/012/012-001.bmp /home/shushi/Pic/idealtest/idealtest/084/084-033.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 45.493133544922}], 'log_id': 3887723822011019}
+/home/shushi/Pic/idealtest/idealtest/034/034-010.bmp /home/shushi/Pic/idealtest/idealtest/071/071-011.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3887905219011019}
+/home/shushi/Pic/idealtest/idealtest/087/087-010.bmp /home/shushi/Pic/idealtest/idealtest/093/093-011.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 6.5019874572754}], 'log_id': 3888067119011019}
+/home/shushi/Pic/idealtest/idealtest/095/095-015.bmp /home/shushi/Pic/idealtest/idealtest/062/062-032.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 41.064025878906}], 'log_id': 3888236692011019}
+/home/shushi/Pic/idealtest/idealtest/105/105-016.bmp /home/shushi/Pic/idealtest/idealtest/032/032-021.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 8.5564079284668}], 'log_id': 3888435987011019}
+/home/shushi/Pic/idealtest/idealtest/026/026-013.bmp /home/shushi/Pic/idealtest/idealtest/023/023-022.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 2.1232223510742}], 'log_id': 3888607926011019}
+/home/shushi/Pic/idealtest/idealtest/070/070-017.bmp /home/shushi/Pic/idealtest/idealtest/105/105-014.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3888771061011019}
+/home/shushi/Pic/idealtest/idealtest/111/111-029.bmp /home/shushi/Pic/idealtest/idealtest/003/003-015.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/001/001-029.bmp /home/shushi/Pic/idealtest/idealtest/053/053-034.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 27.025142669678}], 'log_id': 3888993948011019}
+/home/shushi/Pic/idealtest/idealtest/053/053-013.bmp /home/shushi/Pic/idealtest/idealtest/025/025-014.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3889148344011019}
+/home/shushi/Pic/idealtest/idealtest/090/090-009.bmp /home/shushi/Pic/idealtest/idealtest/109/109-004.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 12.9684715271}], 'log_id': 3889311169011019}
+/home/shushi/Pic/idealtest/idealtest/109/109-029.bmp /home/shushi/Pic/idealtest/idealtest/123/123-036.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 14.70178604126}], 'log_id': 3889460319011019}
+/home/shushi/Pic/idealtest/idealtest/064/064-012.bmp /home/shushi/Pic/idealtest/idealtest/004/004-028.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 29.482440948486}], 'log_id': 3889635767011019}
+/home/shushi/Pic/idealtest/idealtest/088/088-012.bmp /home/shushi/Pic/idealtest/idealtest/105/105-016.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 8.2973480224609}], 'log_id': 3889794923011019}
+/home/shushi/Pic/idealtest/idealtest/037/037-003.bmp /home/shushi/Pic/idealtest/idealtest/082/082-036.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 29.428823471069}], 'log_id': 3889949690011019}
+/home/shushi/Pic/idealtest/idealtest/027/027-011.bmp /home/shushi/Pic/idealtest/idealtest/011/011-024.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/061/061-017.bmp /home/shushi/Pic/idealtest/idealtest/006/006-029.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3890200937011019}
+/home/shushi/Pic/idealtest/idealtest/101/101-013.bmp /home/shushi/Pic/idealtest/idealtest/055/055-018.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 31.752082824707}], 'log_id': 3890359328011019}
+/home/shushi/Pic/idealtest/idealtest/112/112-021.bmp /home/shushi/Pic/idealtest/idealtest/080/080-011.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3890518409011019}
+/home/shushi/Pic/idealtest/idealtest/026/026-028.bmp /home/shushi/Pic/idealtest/idealtest/074/074-012.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3890760807011019}
+/home/shushi/Pic/idealtest/idealtest/011/011-002.bmp /home/shushi/Pic/idealtest/idealtest/077/077-015.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3890910671011019}
+/home/shushi/Pic/idealtest/idealtest/070/070-013.bmp /home/shushi/Pic/idealtest/idealtest/119/119-020.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 10.822158813477}], 'log_id': 3891071353011019}
+/home/shushi/Pic/idealtest/idealtest/074/074-014.bmp /home/shushi/Pic/idealtest/idealtest/029/029-008.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 43.160926818848}], 'log_id': 3891218123011019}
+/home/shushi/Pic/idealtest/idealtest/034/034-018.bmp /home/shushi/Pic/idealtest/idealtest/099/099-013.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 20.203075408936}], 'log_id': 3891376601011019}
+/home/shushi/Pic/idealtest/idealtest/088/088-016.bmp /home/shushi/Pic/idealtest/idealtest/046/046-015.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 6.2554779052734}], 'log_id': 3891537923011019}
+/home/shushi/Pic/idealtest/idealtest/117/117-034.bmp /home/shushi/Pic/idealtest/idealtest/092/092-009.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3891698347011019}
+/home/shushi/Pic/idealtest/idealtest/009/009-037.bmp /home/shushi/Pic/idealtest/idealtest/105/105-028.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 6.8950119018555}], 'log_id': 3891858057011019}
+/home/shushi/Pic/idealtest/idealtest/101/101-022.bmp /home/shushi/Pic/idealtest/idealtest/007/007-015.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 2.3933486938477}], 'log_id': 3892005845011019}
+/home/shushi/Pic/idealtest/idealtest/114/114-007.bmp /home/shushi/Pic/idealtest/idealtest/093/093-036.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 7.8722877502441}], 'log_id': 3892180767011019}
+/home/shushi/Pic/idealtest/idealtest/019/019-033.bmp /home/shushi/Pic/idealtest/idealtest/015/015-003.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 46.03734588623}], 'log_id': 3892346361011019}
+/home/shushi/Pic/idealtest/idealtest/073/073-029.bmp /home/shushi/Pic/idealtest/idealtest/011/011-032.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 24.485893249512}], 'log_id': 3892507775011019}
+/home/shushi/Pic/idealtest/idealtest/051/051-012.bmp /home/shushi/Pic/idealtest/idealtest/099/099-029.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3892685824011019}
+/home/shushi/Pic/idealtest/idealtest/035/035-038.bmp /home/shushi/Pic/idealtest/idealtest/095/095-007.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 31.879905700684}], 'log_id': 3892857330011019}
+/home/shushi/Pic/idealtest/idealtest/003/003-032.bmp /home/shushi/Pic/idealtest/idealtest/048/048-035.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 9.9425277709961}], 'log_id': 3893010385011019}
+/home/shushi/Pic/idealtest/idealtest/008/008-029.bmp /home/shushi/Pic/idealtest/idealtest/019/019-037.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 12.789169311523}], 'log_id': 3893190239011019}
+/home/shushi/Pic/idealtest/idealtest/007/007-024.bmp /home/shushi/Pic/idealtest/idealtest/122/122-025.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3893356580011019}
+/home/shushi/Pic/idealtest/idealtest/043/043-008.bmp /home/shushi/Pic/idealtest/idealtest/118/118-016.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3893501991011019}
+/home/shushi/Pic/idealtest/idealtest/014/014-038.bmp /home/shushi/Pic/idealtest/idealtest/116/116-024.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 4.3566589355469}], 'log_id': 3893650118011019}
+/home/shushi/Pic/idealtest/idealtest/003/003-001.bmp /home/shushi/Pic/idealtest/idealtest/093/093-012.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 20.289924621582}], 'log_id': 3893801656011019}
+/home/shushi/Pic/idealtest/idealtest/110/110-014.bmp /home/shushi/Pic/idealtest/idealtest/042/042-013.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 5.0875587463379}], 'log_id': 3893955588011019}
+/home/shushi/Pic/idealtest/idealtest/099/099-037.bmp /home/shushi/Pic/idealtest/idealtest/025/025-032.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 9.3938369750977}], 'log_id': 3894099578011019}
+/home/shushi/Pic/idealtest/idealtest/033/033-001.bmp /home/shushi/Pic/idealtest/idealtest/080/080-002.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 16.162399291992}], 'log_id': 3894252589011019}
+/home/shushi/Pic/idealtest/idealtest/111/111-008.bmp /home/shushi/Pic/idealtest/idealtest/081/081-016.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 8.0638809204102}], 'log_id': 3894428773011019}
+/home/shushi/Pic/idealtest/idealtest/110/110-032.bmp /home/shushi/Pic/idealtest/idealtest/046/046-036.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 25.239101409912}], 'log_id': 3894609707011019}
+/home/shushi/Pic/idealtest/idealtest/086/086-008.bmp /home/shushi/Pic/idealtest/idealtest/113/113-020.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3894785927011019}
+/home/shushi/Pic/idealtest/idealtest/073/073-002.bmp /home/shushi/Pic/idealtest/idealtest/027/027-004.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 7.9171905517578}], 'log_id': 3894944049011019}
+/home/shushi/Pic/idealtest/idealtest/100/100-016.bmp /home/shushi/Pic/idealtest/idealtest/020/020-037.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 10.613037109375}], 'log_id': 3895106540011019}
+/home/shushi/Pic/idealtest/idealtest/025/025-005.bmp /home/shushi/Pic/idealtest/idealtest/087/087-006.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 28.742729187012}], 'log_id': 3895288294011019}
+/home/shushi/Pic/idealtest/idealtest/065/065-020.bmp /home/shushi/Pic/idealtest/idealtest/097/097-007.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3895449085011019}
+/home/shushi/Pic/idealtest/idealtest/063/063-023.bmp /home/shushi/Pic/idealtest/idealtest/005/005-014.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3895638808011019}
+/home/shushi/Pic/idealtest/idealtest/114/114-008.bmp /home/shushi/Pic/idealtest/idealtest/026/026-011.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 6.2507705688477}], 'log_id': 3895813436011019}
+/home/shushi/Pic/idealtest/idealtest/023/023-017.bmp /home/shushi/Pic/idealtest/idealtest/095/095-034.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 23.458087921143}], 'log_id': 3895981138011019}
+/home/shushi/Pic/idealtest/idealtest/111/111-022.bmp /home/shushi/Pic/idealtest/idealtest/010/010-016.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 3.5016746520996}], 'log_id': 3896157779011019}
+/home/shushi/Pic/idealtest/idealtest/086/086-029.bmp /home/shushi/Pic/idealtest/idealtest/004/004-013.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 14.018550872803}], 'log_id': 3896332630011019}
+/home/shushi/Pic/idealtest/idealtest/037/037-037.bmp /home/shushi/Pic/idealtest/idealtest/001/001-004.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3896512758011019}
+/home/shushi/Pic/idealtest/idealtest/075/075-022.bmp /home/shushi/Pic/idealtest/idealtest/118/118-015.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 1.2066078186035}], 'log_id': 3896701729011019}
+/home/shushi/Pic/idealtest/idealtest/093/093-003.bmp /home/shushi/Pic/idealtest/idealtest/003/003-003.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3896887697011019}
+/home/shushi/Pic/idealtest/idealtest/112/112-037.bmp /home/shushi/Pic/idealtest/idealtest/035/035-033.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 42.884479522705}], 'log_id': 3897057331011019}
+/home/shushi/Pic/idealtest/idealtest/057/057-035.bmp /home/shushi/Pic/idealtest/idealtest/014/014-034.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0.33362579345703}], 'log_id': 3897245157011019}
+/home/shushi/Pic/idealtest/idealtest/074/074-011.bmp /home/shushi/Pic/idealtest/idealtest/101/101-009.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3897442273011019}
+/home/shushi/Pic/idealtest/idealtest/029/029-006.bmp /home/shushi/Pic/idealtest/idealtest/053/053-038.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/121/121-030.bmp /home/shushi/Pic/idealtest/idealtest/009/009-037.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 9.2979011535645}], 'log_id': 3897706997011019}
+/home/shushi/Pic/idealtest/idealtest/077/077-033.bmp /home/shushi/Pic/idealtest/idealtest/073/073-012.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 34.167999267578}], 'log_id': 3897887187011019}
+/home/shushi/Pic/idealtest/idealtest/030/030-032.bmp /home/shushi/Pic/idealtest/idealtest/054/054-025.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3898036226011019}
+/home/shushi/Pic/idealtest/idealtest/039/039-031.bmp /home/shushi/Pic/idealtest/idealtest/110/110-037.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 1.2219161987305}], 'log_id': 3898200378011019}
+/home/shushi/Pic/idealtest/idealtest/087/087-014.bmp /home/shushi/Pic/idealtest/idealtest/107/107-005.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/110/110-035.bmp /home/shushi/Pic/idealtest/idealtest/035/035-004.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 37.10474395752}], 'log_id': 3898479937011019}
+/home/shushi/Pic/idealtest/idealtest/053/053-010.bmp /home/shushi/Pic/idealtest/idealtest/112/112-003.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 28.860195159912}], 'log_id': 3898674023011019}
+/home/shushi/Pic/idealtest/idealtest/022/022-009.bmp /home/shushi/Pic/idealtest/idealtest/070/070-023.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 44.194931030273}], 'log_id': 3898834193011019}
+/home/shushi/Pic/idealtest/idealtest/031/031-033.bmp /home/shushi/Pic/idealtest/idealtest/093/093-033.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 25.439628601074}], 'log_id': 3898997837011019}
+/home/shushi/Pic/idealtest/idealtest/008/008-025.bmp /home/shushi/Pic/idealtest/idealtest/053/053-030.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 8.6931648254395}], 'log_id': 3899188473011019}
+/home/shushi/Pic/idealtest/idealtest/018/018-008.bmp /home/shushi/Pic/idealtest/idealtest/077/077-012.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3899354520011019}
+/home/shushi/Pic/idealtest/idealtest/106/106-025.bmp /home/shushi/Pic/idealtest/idealtest/090/090-001.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 20.935424804688}], 'log_id': 3899506748011019}
+/home/shushi/Pic/idealtest/idealtest/081/081-005.bmp /home/shushi/Pic/idealtest/idealtest/022/022-024.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 23.65368270874}], 'log_id': 3899708299011019}
+/home/shushi/Pic/idealtest/idealtest/065/065-029.bmp /home/shushi/Pic/idealtest/idealtest/060/060-019.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 28.811180114746}], 'log_id': 3899866230011019}
+/home/shushi/Pic/idealtest/idealtest/054/054-003.bmp /home/shushi/Pic/idealtest/idealtest/081/081-012.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 3.6401023864746}], 'log_id': 3900038786011019}
+/home/shushi/Pic/idealtest/idealtest/113/113-038.bmp /home/shushi/Pic/idealtest/idealtest/038/038-030.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 4.3327178955078}], 'log_id': 3900191870011019}
+/home/shushi/Pic/idealtest/idealtest/097/097-012.bmp /home/shushi/Pic/idealtest/idealtest/020/020-034.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 13.038005828857}], 'log_id': 3900343941011019}
+/home/shushi/Pic/idealtest/idealtest/073/073-012.bmp /home/shushi/Pic/idealtest/idealtest/117/117-037.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 31.002771377563}], 'log_id': 3900497529011019}
+/home/shushi/Pic/idealtest/idealtest/049/049-006.bmp /home/shushi/Pic/idealtest/idealtest/026/026-023.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 11.551712036133}], 'log_id': 3900660843011019}
+/home/shushi/Pic/idealtest/idealtest/080/080-007.bmp /home/shushi/Pic/idealtest/idealtest/015/015-015.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/012/012-038.bmp /home/shushi/Pic/idealtest/idealtest/071/071-003.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3900900480011019}
+/home/shushi/Pic/idealtest/idealtest/112/112-014.bmp /home/shushi/Pic/idealtest/idealtest/099/099-028.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 3.7264747619629}], 'log_id': 3901070024011019}
+/home/shushi/Pic/idealtest/idealtest/037/037-028.bmp /home/shushi/Pic/idealtest/idealtest/104/104-027.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 7.2844390869141}], 'log_id': 3901265175011019}
+/home/shushi/Pic/idealtest/idealtest/068/068-020.bmp /home/shushi/Pic/idealtest/idealtest/007/007-038.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 9.5478897094727}], 'log_id': 3901455788011019}
+/home/shushi/Pic/idealtest/idealtest/113/113-032.bmp /home/shushi/Pic/idealtest/idealtest/005/005-019.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 27.111633300781}], 'log_id': 3901636203011019}
+/home/shushi/Pic/idealtest/idealtest/122/122-023.bmp /home/shushi/Pic/idealtest/idealtest/019/019-019.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 14.247455596924}], 'log_id': 3901791587011019}
+/home/shushi/Pic/idealtest/idealtest/038/038-015.bmp /home/shushi/Pic/idealtest/idealtest/079/079-035.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3901942055011019}
+/home/shushi/Pic/idealtest/idealtest/017/017-015.bmp /home/shushi/Pic/idealtest/idealtest/122/122-030.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 12.412136077881}], 'log_id': 3902150302011019}
+/home/shushi/Pic/idealtest/idealtest/094/094-016.bmp /home/shushi/Pic/idealtest/idealtest/032/032-001.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 20.671001434326}], 'log_id': 3902308722011019}
+/home/shushi/Pic/idealtest/idealtest/023/023-005.bmp /home/shushi/Pic/idealtest/idealtest/014/014-036.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3902490045011019}
+/home/shushi/Pic/idealtest/idealtest/112/112-012.bmp /home/shushi/Pic/idealtest/idealtest/098/098-023.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 1.0786247253418}], 'log_id': 3902655145011019}
+/home/shushi/Pic/idealtest/idealtest/092/092-024.bmp /home/shushi/Pic/idealtest/idealtest/014/014-012.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 32.171920776367}], 'log_id': 3902795840011019}
+/home/shushi/Pic/idealtest/idealtest/097/097-003.bmp /home/shushi/Pic/idealtest/idealtest/004/004-019.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 9.7915229797363}], 'log_id': 3902939366011019}
+/home/shushi/Pic/idealtest/idealtest/023/023-002.bmp /home/shushi/Pic/idealtest/idealtest/058/058-016.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 1.346061706543}], 'log_id': 3903106688011019}
+/home/shushi/Pic/idealtest/idealtest/099/099-011.bmp /home/shushi/Pic/idealtest/idealtest/026/026-002.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 13.358695983887}], 'log_id': 3903268300011019}
+/home/shushi/Pic/idealtest/idealtest/119/119-031.bmp /home/shushi/Pic/idealtest/idealtest/029/029-014.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 14.286231994629}], 'log_id': 3903452998011019}
+/home/shushi/Pic/idealtest/idealtest/048/048-002.bmp /home/shushi/Pic/idealtest/idealtest/093/093-018.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 15.069728851318}], 'log_id': 3903594746011019}
+/home/shushi/Pic/idealtest/idealtest/027/027-003.bmp /home/shushi/Pic/idealtest/idealtest/113/113-004.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 17.00044631958}], 'log_id': 3903748556011019}
+/home/shushi/Pic/idealtest/idealtest/117/117-028.bmp /home/shushi/Pic/idealtest/idealtest/106/106-026.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 16.876983642578}], 'log_id': 3903906282011019}
+/home/shushi/Pic/idealtest/idealtest/118/118-002.bmp /home/shushi/Pic/idealtest/idealtest/109/109-003.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 2.9348182678223}], 'log_id': 3904049627011019}
+/home/shushi/Pic/idealtest/idealtest/010/010-024.bmp /home/shushi/Pic/idealtest/idealtest/085/085-021.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 12.070194244385}], 'log_id': 3904206707011019}
+/home/shushi/Pic/idealtest/idealtest/031/031-034.bmp /home/shushi/Pic/idealtest/idealtest/108/108-014.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 11.989959716797}], 'log_id': 3904370252011019}
+/home/shushi/Pic/idealtest/idealtest/018/018-038.bmp /home/shushi/Pic/idealtest/idealtest/031/031-033.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/120/120-011.bmp /home/shushi/Pic/idealtest/idealtest/114/114-036.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3904605047011019}
+/home/shushi/Pic/idealtest/idealtest/016/016-024.bmp /home/shushi/Pic/idealtest/idealtest/121/121-024.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 2.6065711975098}], 'log_id': 3904763328011019}
+/home/shushi/Pic/idealtest/idealtest/108/108-026.bmp /home/shushi/Pic/idealtest/idealtest/024/024-010.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 3.3731880187988}], 'log_id': 3904949615011019}
+/home/shushi/Pic/idealtest/idealtest/051/051-010.bmp /home/shushi/Pic/idealtest/idealtest/096/096-014.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 23.940773010254}], 'log_id': 3905098779011019}
+/home/shushi/Pic/idealtest/idealtest/075/075-035.bmp /home/shushi/Pic/idealtest/idealtest/036/036-032.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 18.025638580322}], 'log_id': 3905305723011019}
+/home/shushi/Pic/idealtest/idealtest/076/076-036.bmp /home/shushi/Pic/idealtest/idealtest/045/045-026.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3905468710011019}
+/home/shushi/Pic/idealtest/idealtest/101/101-017.bmp /home/shushi/Pic/idealtest/idealtest/088/088-020.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 5.8106346130371}], 'log_id': 3905626900011019}
+/home/shushi/Pic/idealtest/idealtest/048/048-014.bmp /home/shushi/Pic/idealtest/idealtest/019/019-014.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp /home/shushi/Pic/idealtest/idealtest/100/100-022.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 8.3747100830078}], 'log_id': 3905903892011019}
+/home/shushi/Pic/idealtest/idealtest/032/032-026.bmp /home/shushi/Pic/idealtest/idealtest/025/025-038.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 15.667743682861}], 'log_id': 3906098958011019}
+/home/shushi/Pic/idealtest/idealtest/072/072-012.bmp /home/shushi/Pic/idealtest/idealtest/108/108-017.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/059/059-035.bmp /home/shushi/Pic/idealtest/idealtest/035/035-008.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 2.3600387573242}], 'log_id': 3906409517011019}
+/home/shushi/Pic/idealtest/idealtest/033/033-008.bmp /home/shushi/Pic/idealtest/idealtest/068/068-016.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 14.215400695801}], 'log_id': 3906573589011019}
+/home/shushi/Pic/idealtest/idealtest/032/032-024.bmp /home/shushi/Pic/idealtest/idealtest/117/117-010.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 21.008750915527}], 'log_id': 3906729166011019}
+/home/shushi/Pic/idealtest/idealtest/021/021-017.bmp /home/shushi/Pic/idealtest/idealtest/077/077-034.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 9.8704681396484}], 'log_id': 3906898687011019}
+/home/shushi/Pic/idealtest/idealtest/111/111-017.bmp /home/shushi/Pic/idealtest/idealtest/013/013-001.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 17.753547668457}], 'log_id': 3907087373011019}
+/home/shushi/Pic/idealtest/idealtest/109/109-028.bmp /home/shushi/Pic/idealtest/idealtest/024/024-015.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 32.808307647705}], 'log_id': 3907251099011019}
+/home/shushi/Pic/idealtest/idealtest/035/035-037.bmp /home/shushi/Pic/idealtest/idealtest/032/032-004.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3907416312011019}
+/home/shushi/Pic/idealtest/idealtest/043/043-025.bmp /home/shushi/Pic/idealtest/idealtest/067/067-004.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 27.817832946777}], 'log_id': 3907572542011019}
+/home/shushi/Pic/idealtest/idealtest/110/110-009.bmp /home/shushi/Pic/idealtest/idealtest/017/017-005.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/077/077-006.bmp /home/shushi/Pic/idealtest/idealtest/074/074-004.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3907808698011019}
+/home/shushi/Pic/idealtest/idealtest/007/007-028.bmp /home/shushi/Pic/idealtest/idealtest/002/002-023.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 10.279586791992}], 'log_id': 3907966127011019}
+/home/shushi/Pic/idealtest/idealtest/071/071-033.bmp /home/shushi/Pic/idealtest/idealtest/002/002-008.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3908118786011019}
+/home/shushi/Pic/idealtest/idealtest/088/088-005.bmp /home/shushi/Pic/idealtest/idealtest/034/034-015.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3908284343011019}
+/home/shushi/Pic/idealtest/idealtest/038/038-037.bmp /home/shushi/Pic/idealtest/idealtest/120/120-017.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 4.7246475219727}], 'log_id': 3908459129011019}
+/home/shushi/Pic/idealtest/idealtest/116/116-035.bmp /home/shushi/Pic/idealtest/idealtest/081/081-014.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 2.7016220092773}], 'log_id': 3908639430011019}
+/home/shushi/Pic/idealtest/idealtest/057/057-020.bmp /home/shushi/Pic/idealtest/idealtest/028/028-018.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 15.157859802246}], 'log_id': 3908839399011019}
+/home/shushi/Pic/idealtest/idealtest/082/082-006.bmp /home/shushi/Pic/idealtest/idealtest/107/107-016.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 48.964839935303}], 'log_id': 3908999975011019}
+/home/shushi/Pic/idealtest/idealtest/081/081-016.bmp /home/shushi/Pic/idealtest/idealtest/025/025-033.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 17.193977355957}], 'log_id': 3909157699011019}
+/home/shushi/Pic/idealtest/idealtest/033/033-015.bmp /home/shushi/Pic/idealtest/idealtest/046/046-027.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3909316331011019}
+/home/shushi/Pic/idealtest/idealtest/107/107-033.bmp /home/shushi/Pic/idealtest/idealtest/005/005-023.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3909502535011019}
+/home/shushi/Pic/idealtest/idealtest/006/006-007.bmp /home/shushi/Pic/idealtest/idealtest/058/058-004.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 3.3083686828613}], 'log_id': 3909687071011019}
+/home/shushi/Pic/idealtest/idealtest/020/020-015.bmp /home/shushi/Pic/idealtest/idealtest/003/003-021.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 22.703598022461}], 'log_id': 3909836744011019}
+/home/shushi/Pic/idealtest/idealtest/043/043-020.bmp /home/shushi/Pic/idealtest/idealtest/068/068-036.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/007/007-006.bmp /home/shushi/Pic/idealtest/idealtest/086/086-007.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 21.378414154053}], 'log_id': 3910121586011019}
+/home/shushi/Pic/idealtest/idealtest/011/011-008.bmp /home/shushi/Pic/idealtest/idealtest/048/048-010.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 25.983478546143}], 'log_id': 3910358563011019}
+/home/shushi/Pic/idealtest/idealtest/046/046-036.bmp /home/shushi/Pic/idealtest/idealtest/034/034-003.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/112/112-005.bmp /home/shushi/Pic/idealtest/idealtest/054/054-028.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 4.2307891845703}], 'log_id': 3910613876011019}
+/home/shushi/Pic/idealtest/idealtest/029/029-011.bmp /home/shushi/Pic/idealtest/idealtest/060/060-024.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 18.533340454102}], 'log_id': 3910802196011019}
+/home/shushi/Pic/idealtest/idealtest/113/113-034.bmp /home/shushi/Pic/idealtest/idealtest/059/059-024.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 4.7572174072266}], 'log_id': 3910976620011019}
+/home/shushi/Pic/idealtest/idealtest/062/062-027.bmp /home/shushi/Pic/idealtest/idealtest/122/122-018.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 28.335395812988}], 'log_id': 3911138205011019}
+/home/shushi/Pic/idealtest/idealtest/119/119-008.bmp /home/shushi/Pic/idealtest/idealtest/116/116-020.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 15.655609130859}], 'log_id': 3911314053011019}
+/home/shushi/Pic/idealtest/idealtest/002/002-026.bmp /home/shushi/Pic/idealtest/idealtest/098/098-025.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/116/116-006.bmp /home/shushi/Pic/idealtest/idealtest/050/050-036.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 10.163516998291}], 'log_id': 3911615393011019}
+/home/shushi/Pic/idealtest/idealtest/075/075-013.bmp /home/shushi/Pic/idealtest/idealtest/053/053-006.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/099/099-036.bmp /home/shushi/Pic/idealtest/idealtest/051/051-025.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 23.200981140137}], 'log_id': 3911903506011019}
+/home/shushi/Pic/idealtest/idealtest/123/123-013.bmp /home/shushi/Pic/idealtest/idealtest/064/064-004.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3912052584011019}
+/home/shushi/Pic/idealtest/idealtest/004/004-025.bmp /home/shushi/Pic/idealtest/idealtest/051/051-029.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 4.4289741516113}], 'log_id': 3912264738011019}
+/home/shushi/Pic/idealtest/idealtest/073/073-014.bmp /home/shushi/Pic/idealtest/idealtest/051/051-004.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3912418979011019}
+/home/shushi/Pic/idealtest/idealtest/112/112-004.bmp /home/shushi/Pic/idealtest/idealtest/100/100-028.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 30.038028717041}], 'log_id': 3912573320011019}
+/home/shushi/Pic/idealtest/idealtest/107/107-018.bmp /home/shushi/Pic/idealtest/idealtest/096/096-021.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 2.3406867980957}], 'log_id': 3912725503011019}
+/home/shushi/Pic/idealtest/idealtest/114/114-026.bmp /home/shushi/Pic/idealtest/idealtest/111/111-020.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 23.585819244385}], 'log_id': 3912873752011019}
+/home/shushi/Pic/idealtest/idealtest/105/105-006.bmp /home/shushi/Pic/idealtest/idealtest/007/007-015.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 31.558740615845}], 'log_id': 3913031756011019}
+/home/shushi/Pic/idealtest/idealtest/015/015-010.bmp /home/shushi/Pic/idealtest/idealtest/075/075-001.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3913179823011019}
+/home/shushi/Pic/idealtest/idealtest/008/008-012.bmp /home/shushi/Pic/idealtest/idealtest/092/092-008.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 30.737930297852}], 'log_id': 3913339063011019}
+/home/shushi/Pic/idealtest/idealtest/084/084-027.bmp /home/shushi/Pic/idealtest/idealtest/036/036-030.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/053/053-007.bmp /home/shushi/Pic/idealtest/idealtest/095/095-016.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 28.376770019531}], 'log_id': 3913659977011019}
+/home/shushi/Pic/idealtest/idealtest/067/067-036.bmp /home/shushi/Pic/idealtest/idealtest/111/111-022.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 3.6787757873535}], 'log_id': 3913858549011019}
+/home/shushi/Pic/idealtest/idealtest/113/113-002.bmp /home/shushi/Pic/idealtest/idealtest/067/067-033.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/073/073-009.bmp /home/shushi/Pic/idealtest/idealtest/114/114-020.bmp
+error
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/098/098-009.bmp /home/shushi/Pic/idealtest/idealtest/023/023-027.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 5.9439163208008}], 'log_id': 3914201052011019}
+/home/shushi/Pic/idealtest/idealtest/049/049-034.bmp /home/shushi/Pic/idealtest/idealtest/082/082-016.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 17.930938720703}], 'log_id': 3914357914011019}
+/home/shushi/Pic/idealtest/idealtest/010/010-015.bmp /home/shushi/Pic/idealtest/idealtest/011/011-026.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 16.656955718994}], 'log_id': 3914558023011019}
+/home/shushi/Pic/idealtest/idealtest/114/114-005.bmp /home/shushi/Pic/idealtest/idealtest/092/092-032.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 8.9373092651367}], 'log_id': 3914824232011019}
+/home/shushi/Pic/idealtest/idealtest/020/020-023.bmp /home/shushi/Pic/idealtest/idealtest/061/061-017.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0.74533843994141}], 'log_id': 3914976954011019}
+/home/shushi/Pic/idealtest/idealtest/084/084-010.bmp /home/shushi/Pic/idealtest/idealtest/049/049-027.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 6.0777778625488}], 'log_id': 3915135661011019}
+/home/shushi/Pic/idealtest/idealtest/042/042-009.bmp /home/shushi/Pic/idealtest/idealtest/023/023-010.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 29.01834487915}], 'log_id': 3915288563011019}
+/home/shushi/Pic/idealtest/idealtest/116/116-029.bmp /home/shushi/Pic/idealtest/idealtest/084/084-005.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 39.009170532227}], 'log_id': 3915450984011019}
+/home/shushi/Pic/idealtest/idealtest/084/084-015.bmp /home/shushi/Pic/idealtest/idealtest/091/091-028.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/003/003-011.bmp /home/shushi/Pic/idealtest/idealtest/122/122-020.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 31.965858459473}], 'log_id': 3915699476011019}
+/home/shushi/Pic/idealtest/idealtest/107/107-011.bmp /home/shushi/Pic/idealtest/idealtest/063/063-004.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0.42861938476562}], 'log_id': 3915868930011019}
+/home/shushi/Pic/idealtest/idealtest/123/123-014.bmp /home/shushi/Pic/idealtest/idealtest/096/096-031.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 6.0679664611816}], 'log_id': 3916021966011019}
+/home/shushi/Pic/idealtest/idealtest/026/026-004.bmp /home/shushi/Pic/idealtest/idealtest/074/074-028.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 14.309204101562}], 'log_id': 3916184754011019}
+/home/shushi/Pic/idealtest/idealtest/023/023-004.bmp /home/shushi/Pic/idealtest/idealtest/048/048-008.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/005/005-023.bmp /home/shushi/Pic/idealtest/idealtest/116/116-037.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 35.82625579834}], 'log_id': 3916404795011019}
+/home/shushi/Pic/idealtest/idealtest/005/005-019.bmp /home/shushi/Pic/idealtest/idealtest/095/095-010.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 12.353218078613}], 'log_id': 3916559450011019}
+/home/shushi/Pic/idealtest/idealtest/053/053-018.bmp /home/shushi/Pic/idealtest/idealtest/020/020-029.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 4.2956428527832}], 'log_id': 3916714617011019}
+/home/shushi/Pic/idealtest/idealtest/054/054-037.bmp /home/shushi/Pic/idealtest/idealtest/056/056-021.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/046/046-002.bmp /home/shushi/Pic/idealtest/idealtest/088/088-008.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 29.834829330444}], 'log_id': 3916936466011019}
+/home/shushi/Pic/idealtest/idealtest/031/031-031.bmp /home/shushi/Pic/idealtest/idealtest/012/012-004.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/106/106-005.bmp /home/shushi/Pic/idealtest/idealtest/078/078-032.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 1.1359634399414}], 'log_id': 3917186632011019}
+/home/shushi/Pic/idealtest/idealtest/021/021-014.bmp /home/shushi/Pic/idealtest/idealtest/036/036-018.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 9.3929786682129}], 'log_id': 3917358002011019}
+/home/shushi/Pic/idealtest/idealtest/089/089-004.bmp /home/shushi/Pic/idealtest/idealtest/036/036-001.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0.83000946044922}], 'log_id': 3917521883011019}
+/home/shushi/Pic/idealtest/idealtest/005/005-016.bmp /home/shushi/Pic/idealtest/idealtest/015/015-001.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 5.6064720153809}], 'log_id': 3917758465011019}
+/home/shushi/Pic/idealtest/idealtest/032/032-010.bmp /home/shushi/Pic/idealtest/idealtest/063/063-035.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/011/011-010.bmp /home/shushi/Pic/idealtest/idealtest/102/102-023.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 31.268304824829}], 'log_id': 3917986766011019}
+/home/shushi/Pic/idealtest/idealtest/016/016-025.bmp /home/shushi/Pic/idealtest/idealtest/012/012-027.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/055/055-010.bmp /home/shushi/Pic/idealtest/idealtest/063/063-018.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 3.6842422485352}], 'log_id': 3918207342011019}
+/home/shushi/Pic/idealtest/idealtest/106/106-024.bmp /home/shushi/Pic/idealtest/idealtest/028/028-029.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 27.826427459717}], 'log_id': 3918367812011019}
+/home/shushi/Pic/idealtest/idealtest/084/084-019.bmp /home/shushi/Pic/idealtest/idealtest/071/071-022.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 37.715969085693}], 'log_id': 3918519685011019}
+/home/shushi/Pic/idealtest/idealtest/036/036-031.bmp /home/shushi/Pic/idealtest/idealtest/079/079-033.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3918669493011019}
+/home/shushi/Pic/idealtest/idealtest/120/120-013.bmp /home/shushi/Pic/idealtest/idealtest/119/119-006.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/065/065-023.bmp /home/shushi/Pic/idealtest/idealtest/072/072-035.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3918912597011019}
+/home/shushi/Pic/idealtest/idealtest/033/033-024.bmp /home/shushi/Pic/idealtest/idealtest/040/040-010.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 14.077919006348}], 'log_id': 3919068500011019}
+/home/shushi/Pic/idealtest/idealtest/111/111-011.bmp /home/shushi/Pic/idealtest/idealtest/001/001-038.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3919211568011019}
+/home/shushi/Pic/idealtest/idealtest/087/087-032.bmp /home/shushi/Pic/idealtest/idealtest/110/110-033.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3919370913011019}
+/home/shushi/Pic/idealtest/idealtest/037/037-030.bmp /home/shushi/Pic/idealtest/idealtest/089/089-008.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/012/012-002.bmp /home/shushi/Pic/idealtest/idealtest/110/110-029.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3919627617011019}
+/home/shushi/Pic/idealtest/idealtest/086/086-010.bmp /home/shushi/Pic/idealtest/idealtest/024/024-015.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/104/104-013.bmp /home/shushi/Pic/idealtest/idealtest/096/096-004.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 42.062236785889}], 'log_id': 3919877443011019}
+/home/shushi/Pic/idealtest/idealtest/103/103-027.bmp /home/shushi/Pic/idealtest/idealtest/027/027-023.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 9.3682250976562}], 'log_id': 3920030069011019}
+/home/shushi/Pic/idealtest/idealtest/072/072-024.bmp /home/shushi/Pic/idealtest/idealtest/065/065-026.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 45.396827697754}], 'log_id': 3920220294011019}
+/home/shushi/Pic/idealtest/idealtest/103/103-006.bmp /home/shushi/Pic/idealtest/idealtest/043/043-017.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 2.2887954711914}], 'log_id': 3920369330011019}
+/home/shushi/Pic/idealtest/idealtest/072/072-017.bmp /home/shushi/Pic/idealtest/idealtest/043/043-013.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/097/097-015.bmp /home/shushi/Pic/idealtest/idealtest/023/023-034.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 5.4602470397949}], 'log_id': 3920611882011019}
+/home/shushi/Pic/idealtest/idealtest/118/118-034.bmp /home/shushi/Pic/idealtest/idealtest/106/106-010.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 31.249935150146}], 'log_id': 3920769434011019}
+/home/shushi/Pic/idealtest/idealtest/086/086-035.bmp /home/shushi/Pic/idealtest/idealtest/053/053-022.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 6.6735000610352}], 'log_id': 3920944976011019}
+/home/shushi/Pic/idealtest/idealtest/072/072-011.bmp /home/shushi/Pic/idealtest/idealtest/060/060-017.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 26.960651397705}], 'log_id': 3921104157011019}
+/home/shushi/Pic/idealtest/idealtest/011/011-032.bmp /home/shushi/Pic/idealtest/idealtest/053/053-035.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3921276806011019}
+/home/shushi/Pic/idealtest/idealtest/047/047-018.bmp /home/shushi/Pic/idealtest/idealtest/052/052-003.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 7.8076515197754}], 'log_id': 3921449315011019}
+/home/shushi/Pic/idealtest/idealtest/063/063-035.bmp /home/shushi/Pic/idealtest/idealtest/086/086-029.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 30.46558380127}], 'log_id': 3921614530011019}
+/home/shushi/Pic/idealtest/idealtest/043/043-019.bmp /home/shushi/Pic/idealtest/idealtest/013/013-005.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 32.780437469482}], 'log_id': 3921774183011019}
+/home/shushi/Pic/idealtest/idealtest/096/096-012.bmp /home/shushi/Pic/idealtest/idealtest/043/043-013.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3921941934011019}
+/home/shushi/Pic/idealtest/idealtest/123/123-017.bmp /home/shushi/Pic/idealtest/idealtest/069/069-002.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3922116832011019}
+/home/shushi/Pic/idealtest/idealtest/039/039-011.bmp /home/shushi/Pic/idealtest/idealtest/082/082-034.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3922268935011019}
+/home/shushi/Pic/idealtest/idealtest/035/035-008.bmp /home/shushi/Pic/idealtest/idealtest/013/013-022.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/008/008-007.bmp /home/shushi/Pic/idealtest/idealtest/089/089-001.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 25.264682769775}], 'log_id': 3922559565011019}
+/home/shushi/Pic/idealtest/idealtest/035/035-023.bmp /home/shushi/Pic/idealtest/idealtest/032/032-022.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 17.89790725708}], 'log_id': 3922753382011019}
+/home/shushi/Pic/idealtest/idealtest/013/013-031.bmp /home/shushi/Pic/idealtest/idealtest/084/084-036.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 4.7924690246582}], 'log_id': 3922927958011019}
+/home/shushi/Pic/idealtest/idealtest/058/058-004.bmp /home/shushi/Pic/idealtest/idealtest/087/087-001.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 29.53861618042}], 'log_id': 3923080123011019}
+/home/shushi/Pic/idealtest/idealtest/063/063-034.bmp /home/shushi/Pic/idealtest/idealtest/107/107-036.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 14.218444824219}], 'log_id': 3923242242011019}
+/home/shushi/Pic/idealtest/idealtest/097/097-003.bmp /home/shushi/Pic/idealtest/idealtest/025/025-024.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 7.0337600708008}], 'log_id': 3923415857011019}
+/home/shushi/Pic/idealtest/idealtest/123/123-019.bmp /home/shushi/Pic/idealtest/idealtest/049/049-036.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/070/070-027.bmp /home/shushi/Pic/idealtest/idealtest/036/036-004.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 8.7428092956543}], 'log_id': 3923670200011019}
+/home/shushi/Pic/idealtest/idealtest/035/035-005.bmp /home/shushi/Pic/idealtest/idealtest/120/120-029.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/107/107-033.bmp /home/shushi/Pic/idealtest/idealtest/075/075-007.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 20.800956726074}], 'log_id': 3923900169011019}
+/home/shushi/Pic/idealtest/idealtest/050/050-035.bmp /home/shushi/Pic/idealtest/idealtest/108/108-013.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 12.120330810547}], 'log_id': 3924052079011019}
+/home/shushi/Pic/idealtest/idealtest/054/054-003.bmp /home/shushi/Pic/idealtest/idealtest/010/010-021.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 10.781967163086}], 'log_id': 3924211042011019}
+/home/shushi/Pic/idealtest/idealtest/090/090-009.bmp /home/shushi/Pic/idealtest/idealtest/044/044-019.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 24.011039733887}], 'log_id': 3924357743011019}
+/home/shushi/Pic/idealtest/idealtest/094/094-016.bmp /home/shushi/Pic/idealtest/idealtest/081/081-011.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 14.445125579834}], 'log_id': 3924504060011019}
+/home/shushi/Pic/idealtest/idealtest/047/047-018.bmp /home/shushi/Pic/idealtest/idealtest/011/011-007.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3924650075011019}
+/home/shushi/Pic/idealtest/idealtest/082/082-013.bmp /home/shushi/Pic/idealtest/idealtest/053/053-013.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 6.233325958252}], 'log_id': 3924803262011019}
+/home/shushi/Pic/idealtest/idealtest/111/111-006.bmp /home/shushi/Pic/idealtest/idealtest/029/029-025.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 28.273082733154}], 'log_id': 3924954270011019}
+/home/shushi/Pic/idealtest/idealtest/056/056-013.bmp /home/shushi/Pic/idealtest/idealtest/074/074-033.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 23.569839477539}], 'log_id': 3925110207011019}
+/home/shushi/Pic/idealtest/idealtest/021/021-015.bmp /home/shushi/Pic/idealtest/idealtest/103/103-031.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0.85445785522461}], 'log_id': 3925267458011019}
+/home/shushi/Pic/idealtest/idealtest/048/048-006.bmp /home/shushi/Pic/idealtest/idealtest/097/097-009.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 10.625122070312}], 'log_id': 3925441123011019}
+/home/shushi/Pic/idealtest/idealtest/051/051-036.bmp /home/shushi/Pic/idealtest/idealtest/106/106-020.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3925606116011019}
+/home/shushi/Pic/idealtest/idealtest/122/122-001.bmp /home/shushi/Pic/idealtest/idealtest/023/023-017.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 15.135604858398}], 'log_id': 3925764258011019}
+/home/shushi/Pic/idealtest/idealtest/118/118-026.bmp /home/shushi/Pic/idealtest/idealtest/042/042-037.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 18.427032470703}], 'log_id': 3925927103011019}
+/home/shushi/Pic/idealtest/idealtest/054/054-006.bmp /home/shushi/Pic/idealtest/idealtest/010/010-007.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 23.213520050049}], 'log_id': 3926099438011019}
+/home/shushi/Pic/idealtest/idealtest/104/104-010.bmp /home/shushi/Pic/idealtest/idealtest/077/077-024.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 13.539310455322}], 'log_id': 3926261802011019}
+/home/shushi/Pic/idealtest/idealtest/033/033-006.bmp /home/shushi/Pic/idealtest/idealtest/065/065-035.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 26.097202301025}], 'log_id': 3926412676011019}
+/home/shushi/Pic/idealtest/idealtest/040/040-014.bmp /home/shushi/Pic/idealtest/idealtest/011/011-027.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3926568250011019}
+/home/shushi/Pic/idealtest/idealtest/085/085-028.bmp /home/shushi/Pic/idealtest/idealtest/090/090-030.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 15.450984954834}], 'log_id': 3926730317011019}
+/home/shushi/Pic/idealtest/idealtest/118/118-015.bmp /home/shushi/Pic/idealtest/idealtest/115/115-009.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 14.572021484375}], 'log_id': 3926878261011019}
+/home/shushi/Pic/idealtest/idealtest/055/055-024.bmp /home/shushi/Pic/idealtest/idealtest/027/027-015.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0.056503295898438}], 'log_id': 3927027343011019}
+/home/shushi/Pic/idealtest/idealtest/106/106-015.bmp /home/shushi/Pic/idealtest/idealtest/006/006-029.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 7.4617233276367}], 'log_id': 3927196543011019}
+/home/shushi/Pic/idealtest/idealtest/096/096-036.bmp /home/shushi/Pic/idealtest/idealtest/111/111-016.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 2.613452911377}], 'log_id': 3927351471011019}
+/home/shushi/Pic/idealtest/idealtest/044/044-027.bmp /home/shushi/Pic/idealtest/idealtest/102/102-019.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 13.897090911865}], 'log_id': 3927496325011019}
+/home/shushi/Pic/idealtest/idealtest/062/062-032.bmp /home/shushi/Pic/idealtest/idealtest/025/025-032.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 15.542865753174}], 'log_id': 3927641982011019}
+/home/shushi/Pic/idealtest/idealtest/120/120-011.bmp /home/shushi/Pic/idealtest/idealtest/081/081-034.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3927801979011019}
+/home/shushi/Pic/idealtest/idealtest/004/004-025.bmp /home/shushi/Pic/idealtest/idealtest/092/092-007.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 11.386764526367}], 'log_id': 3927952956011019}
+/home/shushi/Pic/idealtest/idealtest/039/039-016.bmp /home/shushi/Pic/idealtest/idealtest/023/023-015.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 9.4680328369141}], 'log_id': 3928108629011019}
+/home/shushi/Pic/idealtest/idealtest/043/043-007.bmp /home/shushi/Pic/idealtest/idealtest/062/062-027.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 42.721370697021}], 'log_id': 3928268852011019}
+/home/shushi/Pic/idealtest/idealtest/024/024-001.bmp /home/shushi/Pic/idealtest/idealtest/067/067-037.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/097/097-022.bmp /home/shushi/Pic/idealtest/idealtest/121/121-020.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 10.659591674805}], 'log_id': 3928508587011019}
+/home/shushi/Pic/idealtest/idealtest/037/037-032.bmp /home/shushi/Pic/idealtest/idealtest/120/120-013.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 15.280746459961}], 'log_id': 3928671910011019}
+/home/shushi/Pic/idealtest/idealtest/022/022-030.bmp /home/shushi/Pic/idealtest/idealtest/118/118-031.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/044/044-031.bmp /home/shushi/Pic/idealtest/idealtest/118/118-027.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 19.91024017334}], 'log_id': 3928895649011019}
+/home/shushi/Pic/idealtest/idealtest/092/092-038.bmp /home/shushi/Pic/idealtest/idealtest/045/045-018.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 22.438556671143}], 'log_id': 3929048417011019}
+/home/shushi/Pic/idealtest/idealtest/005/005-010.bmp /home/shushi/Pic/idealtest/idealtest/102/102-003.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 23.318710327148}], 'log_id': 3929701305011019}
+/home/shushi/Pic/idealtest/idealtest/108/108-031.bmp /home/shushi/Pic/idealtest/idealtest/061/061-009.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3929858313011019}
+/home/shushi/Pic/idealtest/idealtest/072/072-020.bmp /home/shushi/Pic/idealtest/idealtest/056/056-009.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 19.34135055542}], 'log_id': 3930532878011019}
+/home/shushi/Pic/idealtest/idealtest/052/052-034.bmp /home/shushi/Pic/idealtest/idealtest/071/071-026.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 15.158496856689}], 'log_id': 3930691515011019}
+/home/shushi/Pic/idealtest/idealtest/079/079-001.bmp /home/shushi/Pic/idealtest/idealtest/078/078-026.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 4.3973922729492}], 'log_id': 3930863722011019}
+/home/shushi/Pic/idealtest/idealtest/068/068-007.bmp /home/shushi/Pic/idealtest/idealtest/051/051-020.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 9.8624305725098}], 'log_id': 3931018319011019}
+/home/shushi/Pic/idealtest/idealtest/102/102-003.bmp /home/shushi/Pic/idealtest/idealtest/062/062-007.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 16.154972076416}], 'log_id': 3931168014011019}
+/home/shushi/Pic/idealtest/idealtest/123/123-006.bmp /home/shushi/Pic/idealtest/idealtest/012/012-022.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3931333612011019}
+/home/shushi/Pic/idealtest/idealtest/052/052-016.bmp /home/shushi/Pic/idealtest/idealtest/098/098-034.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 3.6527862548828}], 'log_id': 3931480342011019}
+/home/shushi/Pic/idealtest/idealtest/111/111-022.bmp /home/shushi/Pic/idealtest/idealtest/079/079-037.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/102/102-028.bmp /home/shushi/Pic/idealtest/idealtest/107/107-004.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 17.488670349121}], 'log_id': 3931716215011019}
+/home/shushi/Pic/idealtest/idealtest/119/119-028.bmp /home/shushi/Pic/idealtest/idealtest/111/111-027.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 17.605911254883}], 'log_id': 3931868603011019}
+/home/shushi/Pic/idealtest/idealtest/095/095-027.bmp /home/shushi/Pic/idealtest/idealtest/110/110-002.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3932032296011019}
+/home/shushi/Pic/idealtest/idealtest/006/006-032.bmp /home/shushi/Pic/idealtest/idealtest/017/017-023.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 28.128879547119}], 'log_id': 3932213897011019}
+/home/shushi/Pic/idealtest/idealtest/103/103-036.bmp /home/shushi/Pic/idealtest/idealtest/055/055-025.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 7.9491806030273}], 'log_id': 3932369623011019}
+/home/shushi/Pic/idealtest/idealtest/076/076-015.bmp /home/shushi/Pic/idealtest/idealtest/104/104-017.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 20.948905944824}], 'log_id': 3932532869011019}
+/home/shushi/Pic/idealtest/idealtest/068/068-038.bmp /home/shushi/Pic/idealtest/idealtest/060/060-009.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 6.0572662353516}], 'log_id': 3932677780011019}
+/home/shushi/Pic/idealtest/idealtest/057/057-013.bmp /home/shushi/Pic/idealtest/idealtest/085/085-009.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 30.721881866455}], 'log_id': 3932855994011019}
+/home/shushi/Pic/idealtest/idealtest/023/023-014.bmp /home/shushi/Pic/idealtest/idealtest/094/094-030.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3933012915011019}
+/home/shushi/Pic/idealtest/idealtest/110/110-034.bmp /home/shushi/Pic/idealtest/idealtest/116/116-025.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 19.492443084717}], 'log_id': 3933166135011019}
+/home/shushi/Pic/idealtest/idealtest/005/005-022.bmp /home/shushi/Pic/idealtest/idealtest/006/006-038.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/118/118-006.bmp /home/shushi/Pic/idealtest/idealtest/035/035-018.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 31.973592758179}], 'log_id': 3933395254011019}
+/home/shushi/Pic/idealtest/idealtest/068/068-013.bmp /home/shushi/Pic/idealtest/idealtest/076/076-007.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/094/094-004.bmp /home/shushi/Pic/idealtest/idealtest/121/121-016.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 23.216213226318}], 'log_id': 3933649602011019}
+/home/shushi/Pic/idealtest/idealtest/023/023-025.bmp /home/shushi/Pic/idealtest/idealtest/079/079-033.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/088/088-001.bmp /home/shushi/Pic/idealtest/idealtest/087/087-025.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3933916057011019}
+/home/shushi/Pic/idealtest/idealtest/065/065-031.bmp /home/shushi/Pic/idealtest/idealtest/034/034-036.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/090/090-004.bmp /home/shushi/Pic/idealtest/idealtest/019/019-017.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 18.581531524658}], 'log_id': 3934222353011019}
+/home/shushi/Pic/idealtest/idealtest/048/048-008.bmp /home/shushi/Pic/idealtest/idealtest/054/054-001.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/104/104-011.bmp /home/shushi/Pic/idealtest/idealtest/013/013-031.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 30.209480285645}], 'log_id': 3934493544011019}
+/home/shushi/Pic/idealtest/idealtest/057/057-020.bmp /home/shushi/Pic/idealtest/idealtest/046/046-018.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 15.972438812256}], 'log_id': 3934650436011019}
+/home/shushi/Pic/idealtest/idealtest/112/112-033.bmp /home/shushi/Pic/idealtest/idealtest/028/028-026.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 17.129241943359}], 'log_id': 3934812166011019}
+/home/shushi/Pic/idealtest/idealtest/004/004-004.bmp /home/shushi/Pic/idealtest/idealtest/123/123-011.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 21.765743255615}], 'log_id': 3935061973011019}
+/home/shushi/Pic/idealtest/idealtest/016/016-009.bmp /home/shushi/Pic/idealtest/idealtest/078/078-031.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/047/047-026.bmp /home/shushi/Pic/idealtest/idealtest/035/035-037.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 3.5036201477051}], 'log_id': 3935312064011019}
+/home/shushi/Pic/idealtest/idealtest/028/028-011.bmp /home/shushi/Pic/idealtest/idealtest/040/040-036.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3935469060011019}
+/home/shushi/Pic/idealtest/idealtest/070/070-021.bmp /home/shushi/Pic/idealtest/idealtest/115/115-001.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 6.0779876708984}], 'log_id': 3935624744011019}
+/home/shushi/Pic/idealtest/idealtest/031/031-014.bmp /home/shushi/Pic/idealtest/idealtest/117/117-024.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 16.742858886719}], 'log_id': 3935767308011019}
+/home/shushi/Pic/idealtest/idealtest/109/109-018.bmp /home/shushi/Pic/idealtest/idealtest/073/073-011.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3935984142011019}
+/home/shushi/Pic/idealtest/idealtest/039/039-025.bmp /home/shushi/Pic/idealtest/idealtest/052/052-028.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 3.9867477416992}], 'log_id': 3936147470011019}
+/home/shushi/Pic/idealtest/idealtest/050/050-031.bmp /home/shushi/Pic/idealtest/idealtest/001/001-038.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 10.861129760742}], 'log_id': 3936301855011019}
+/home/shushi/Pic/idealtest/idealtest/084/084-004.bmp /home/shushi/Pic/idealtest/idealtest/040/040-013.bmp
+{'result_num': 0, 'result': [], 'log_id': 3936457212011019}
+/home/shushi/Pic/idealtest/idealtest/031/031-027.bmp /home/shushi/Pic/idealtest/idealtest/001/001-033.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 10.01452255249}], 'log_id': 3936602343011019}
+/home/shushi/Pic/idealtest/idealtest/039/039-009.bmp /home/shushi/Pic/idealtest/idealtest/019/019-023.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 24.273071289062}], 'log_id': 3936755920011019}
+/home/shushi/Pic/idealtest/idealtest/037/037-032.bmp /home/shushi/Pic/idealtest/idealtest/050/050-007.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 41.356872558594}], 'log_id': 3936956961011019}
+/home/shushi/Pic/idealtest/idealtest/024/024-002.bmp /home/shushi/Pic/idealtest/idealtest/009/009-031.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 30.71704864502}], 'log_id': 3937114156011019}
+/home/shushi/Pic/idealtest/idealtest/083/083-012.bmp /home/shushi/Pic/idealtest/idealtest/077/077-018.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 12.936401367188}], 'log_id': 3937291166011019}
+/home/shushi/Pic/idealtest/idealtest/074/074-021.bmp /home/shushi/Pic/idealtest/idealtest/014/014-011.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 15.478252410889}], 'log_id': 3937463906011019}
+/home/shushi/Pic/idealtest/idealtest/104/104-023.bmp /home/shushi/Pic/idealtest/idealtest/110/110-002.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 19.237998962402}], 'log_id': 3937645769011019}
+/home/shushi/Pic/idealtest/idealtest/110/110-010.bmp /home/shushi/Pic/idealtest/idealtest/081/081-033.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 22.834720611572}], 'log_id': 3937823537011019}
+/home/shushi/Pic/idealtest/idealtest/014/014-011.bmp /home/shushi/Pic/idealtest/idealtest/038/038-029.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 8.766674041748}], 'log_id': 3937985892011019}
+/home/shushi/Pic/idealtest/idealtest/069/069-014.bmp /home/shushi/Pic/idealtest/idealtest/118/118-023.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 4.5873184204102}], 'log_id': 3938145648011019}
+/home/shushi/Pic/idealtest/idealtest/034/034-030.bmp /home/shushi/Pic/idealtest/idealtest/061/061-028.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 23.373748779297}], 'log_id': 3938301510011019}
+/home/shushi/Pic/idealtest/idealtest/102/102-005.bmp /home/shushi/Pic/idealtest/idealtest/023/023-038.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 34.513969421387}], 'log_id': 3938451790011019}
+/home/shushi/Pic/idealtest/idealtest/039/039-015.bmp /home/shushi/Pic/idealtest/idealtest/101/101-011.bmp
+{'error_msg': 'Open api qps request limit reached', 'error_code': 18}
+/home/shushi/Pic/idealtest/idealtest/002/002-025.bmp /home/shushi/Pic/idealtest/idealtest/018/018-035.bmp
+error
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 8.5790405273438}], 'log_id': 3938683229011019}
+/home/shushi/Pic/idealtest/idealtest/066/066-030.bmp /home/shushi/Pic/idealtest/idealtest/100/100-009.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 18.152526855469}], 'log_id': 3938887886011019}
+/home/shushi/Pic/idealtest/idealtest/032/032-016.bmp /home/shushi/Pic/idealtest/idealtest/117/117-037.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 0}], 'log_id': 3939133399011019}
+/home/shushi/Pic/idealtest/idealtest/002/002-037.bmp /home/shushi/Pic/idealtest/idealtest/037/037-001.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 35.498878479004}], 'log_id': 3939284806011019}
+/home/shushi/Pic/idealtest/idealtest/119/119-020.bmp /home/shushi/Pic/idealtest/idealtest/013/013-001.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 20.879619598389}], 'log_id': 3939430910011019}
+/home/shushi/Pic/idealtest/idealtest/107/107-001.bmp /home/shushi/Pic/idealtest/idealtest/101/101-029.bmp
+{'result_num': 1, 'result': [{'index_j': '1', 'index_i': '0', 'score': 32.21028137207}], 'log_id': 3939583065011019}
+/home/shushi/Pic/idealtest/idealtest/115/115-036.bmp /home/shushi/Pic/idealtest/idealtest/039/039-024.bmp
+confidence: 13.735945320129385
+
+Process finished with exit code 0
+

@@ -1,0 +1,1207 @@
+confidence1: 78.06265000000002
+confidence2: 76.27110000000002
+similarity:400
+未检测到人脸:387
+404:24
+405:21
+
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaWen/994969388.jpg
+similarity: 53.54
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaWen/1735962714.jpg
+similarity: 78.74
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaWen/395018968.jpg
+similarity: 70.87
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaWen/543702080.jpg
+similarity: 89.76
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaWen/1562718419.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaWen/1735962714.jpg
+similarity: 100
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg : 404 
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg : 404 
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaWen/1368453483.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaWen/543702080.jpg
+similarity: 85.04
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaWen/395018968.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaWen/401828318.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaWen/742408606.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaWen/543702080.jpg
+similarity: 78.74
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaWen/1094188196.jpg
+similarity: 77.95
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaWen/384292195.jpg
+similarity: 88.98
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaWen/761641544.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png
+similarity: 55.12
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaWen/994969388.jpg
+similarity: 81.89
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png
+similarity: 100
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaWen/395018968.jpg
+similarity: 70.08
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaWen/1384139730.jpg
+similarity: 78.74
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaWen/395018968.jpg
+similarity: 83.46
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaWen/1368453483.jpg
+similarity: 73.23
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png
+similarity: 72.44
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaWen/1553123673.jpg
+similarity: 86.61
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaWen/75195746.jpg
+similarity: 73.23
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaWen/761641544.jpg
+similarity: 61.42
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+similarity: 62.2
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaWen/454298170.jpg
+similarity: 79.53
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaWen/1735962714.jpg
+similarity: 85.04
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaWen/742408606.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaWen/395018968.jpg
+similarity: 63.78
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaWen/1812528523.jpg
+:405 
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaWen/1735962714.jpg
+similarity: 74.02
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaWen/2128979448.jpg
+similarity: 51.18
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaWen/1384139730.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaWen/1553123673.jpg
+similarity: 85.04
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaWen/1384139730.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+similarity: 74.02
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaWen/454298170.jpg
+similarity: 79.53
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaWen/1384139730.jpg
+similarity: 83.46
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaWen/384292195.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaWen/144969499.jpg
+similarity: 76.38
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+similarity: 89.76
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaWen/454298170.jpg
+similarity: 80.31
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaWen/2128979448.jpg
+similarity: 84.25
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaWen/994969388.jpg
+similarity: 84.25
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaWen/401828318.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaWen/1812528523.jpg
+similarity: 72.44
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaWen/1553123673.jpg
+similarity: 85.04
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaWen/401828318.jpg
+similarity: 83.46
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaWen/2128979448.jpg
+similarity: 83.46
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaWen/401828318.jpg
+similarity: 44.09
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaWen/1094188196.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaWen/454298170.jpg
+similarity: 83.46
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaWen/543702080.jpg
+similarity: 78.74
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+similarity: 86.61
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg vs /home/shushi/Pic/ZhuJiaWen/1562718419.jpg
+similarity: 85.83
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaWen/1812528523.jpg
+similarity: 100
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg vs /home/shushi/Pic/ZhuJiaWen/1735962714.jpg
+similarity: 81.89
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaWen/1499926792.jpg
+similarity: 85.04
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaWen/1094188196.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+similarity: 76.38
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaWen/454298170.jpg
+similarity: 79.53
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+similarity: 33.07
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaWen/1094188196.jpg
+similarity: 77.95
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+similarity: 76.38
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaWen/288171084.jpg
+similarity: 83.46
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaWen/288171084.jpg
+similarity: 84.25
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png
+similarity: 48.82
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaWen/1553123673.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaWen/144969499.jpg
+similarity: 49.61
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaWen/384292195.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaWen/401828318.jpg
+similarity: 84.25
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+similarity: 84.25
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaWen/454298170.jpg
+similarity: 62.99
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaWen/994969388.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaWen/1499926792.jpg
+similarity: 70.87
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaWen/742408606.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaWen/543702080.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaWen/994969388.jpg
+similarity: 83.46
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png
+similarity: 54.33
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaWen/1384139730.jpg
+similarity: 88.19
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaWen/1368453483.jpg
+similarity: 83.46
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaWen/2128979448.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg vs /home/shushi/Pic/ZhuJiaWen/395018968.jpg
+similarity: 24.41
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaWen/144969499.jpg
+similarity: 72.44
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaWen/1812528523.jpg
+similarity: 80.31
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaWen/401828318.jpg
+similarity: 100
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaWen/1812528523.jpg
+similarity: 87.4
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaWen/395018968.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaWen/761641544.jpg
+similarity: 85.83
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaWen/1812528523.jpg
+similarity: 81.89
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaWen/454298170.jpg
+similarity: 56.69
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaWen/1735962714.jpg
+similarity: 74.02
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaWen/75195746.jpg
+similarity: 84.25
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaWen/395018968.jpg
+similarity: 63.78
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png
+similarity: 61.42
+
+
+
+/home/shushi/Pic/ZhuJiaYi/967582628.jpg vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+similarity: 85.04
+/home/shushi/Pic/ZhuJiaYi/1242374213.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png vs /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaYi/1078229885.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+similarity: 53.54
+/home/shushi/Pic/ZhuJiaYi/1363304684.jpg vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+similarity: 86.61
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1591080402.jpg vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+similarity: 76.38
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/536237754.jpg : 404 
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1242374213.jpg vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaYi/1026213847.jpg vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+similarity: 80.31
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaYi/1437230887.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+similarity: 76.38
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/399379745.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+similarity: 84.25
+/home/shushi/Pic/ZhuJiaYi/1242374213.jpg vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+similarity: 86.61
+/home/shushi/Pic/ZhuJiaYi/1771124897.jpg vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+similarity: 88.19
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/52404415.jpg vs /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+similarity: 85.83
+/home/shushi/Pic/ZhuJiaYi/1881654506.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+similarity: 83.46
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/967582628.jpg vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+similarity: 85.04
+/home/shushi/Pic/ZhuJiaYi/338090423.jpg vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+similarity: 78.74
+/home/shushi/Pic/ZhuJiaYi/1881654506.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+similarity: 84.25
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1870723223.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+similarity: 86.61
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/399379745.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+similarity: 85.04
+/home/shushi/Pic/ZhuJiaYi/249104539.jpg vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/895953682.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1363304684.jpg vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+similarity: 86.61
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2051246079.jpg : 404 
+/home/shushi/Pic/ZhuJiaYi/1980251225.jpg vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+similarity: 85.83
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/107414087.jpg vs /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+similarity: 81.89
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1487896716.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+similarity: 73.23
+/home/shushi/Pic/ZhuJiaYi/1565773646.jpg vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+similarity: 83.46
+/home/shushi/Pic/ZhuJiaYi/1881654506.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+similarity: 62.99
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1980251225.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+similarity: 85.83
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1943018685.jpg vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+similarity: 88.98
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/52404415.jpg vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+similarity: 85.04
+/home/shushi/Pic/ZhuJiaYi/1437230887.jpg vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+similarity: 100
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+similarity: 79.53
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1026213847.jpg vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+similarity: 85.83
+/home/shushi/Pic/ZhuJiaYi/1026213847.jpg vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+similarity: 84.25
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+similarity: 76.38
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1980251225.jpg vs /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaYi/536237754.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+similarity: 62.2
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1836482221.jpg vs /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+similarity: 49.61
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1749384580.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+similarity: 84.25
+/home/shushi/Pic/ZhuJiaYi/895953682.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1026213847.jpg vs /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+similarity: 100
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1565773646.jpg vs /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaYi/1026213847.jpg vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+similarity: 80.31
+/home/shushi/Pic/ZhuJiaYi/1078229885.jpg vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1437230887.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+similarity: 85.04
+/home/shushi/Pic/ZhuJiaYi/52404415.jpg vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+similarity: 83.46
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1771124897.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+similarity: 85.83
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1078229885.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+similarity: 79.53
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/52404415.jpg vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+similarity: 81.89
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/107414087.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+similarity: 71.65
+/home/shushi/Pic/ZhuJiaYi/895953682.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/895953682.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1242374213.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+similarity: 77.17
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1943018685.jpg vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+similarity: 79.53
+/home/shushi/Pic/ZhuJiaYi/1026213847.jpg vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+similarity: 91.34
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1363304684.jpg vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+similarity: 84.25
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2034710973.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+similarity: 49.61
+/home/shushi/Pic/ZhuJiaYi/1749384580.jpg vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/338090423.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+similarity: 83.46
+/home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+similarity: 71.65
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1363304684.jpg vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+similarity: 85.83
+/home/shushi/Pic/ZhuJiaYi/338090423.jpg vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaYi/1881654506.jpg vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+similarity: 83.46
+/home/shushi/Pic/ZhuJiaYi/1026213847.jpg vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+similarity: 84.25
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2051246079.jpg vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+similarity: 67.72
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaYi/1363304684.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+similarity: 67.72
+/home/shushi/Pic/ZhuJiaYi/1881654506.jpg vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+similarity: 88.19
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1363304684.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+similarity: 81.89
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1980251225.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+similarity: 46.46
+/home/shushi/Pic/ZhuJiaYi/1943018685.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+similarity: 63.78
+/home/shushi/Pic/ZhuJiaYi/1242374213.jpg vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1078229885.jpg vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/536237754.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+similarity: 62.2
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/895953682.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/536237754.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+similarity: 85.83
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1943018685.jpg vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+similarity: 85.04
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1980251225.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+similarity: 85.83
+/home/shushi/Pic/ZhuJiaYi/1591080402.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+similarity: 80.31
+/home/shushi/Pic/ZhuJiaYi/1742112983.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+similarity: 48.03
+/home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png vs /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaYi/1943018685.jpg vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+similarity: 70.87
+/home/shushi/Pic/ZhuJiaYi/1026213847.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+similarity: 89.76
+/home/shushi/Pic/ZhuJiaYi/1742112983.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+similarity: 78.74
+/home/shushi/Pic/ZhuJiaYi/1026213847.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+similarity: 85.04
+/home/shushi/Pic/ZhuJiaYi/249104539.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+similarity: 78.74
+/home/shushi/Pic/ZhuJiaYi/399379745.jpg vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+similarity: 84.25
+/home/shushi/Pic/ZhuJiaYi/1749384580.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+similarity: 84.25
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1026213847.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+similarity: 28.35
+/home/shushi/Pic/ZhuJiaYi/895953682.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1836482221.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+similarity: 46.46
+/home/shushi/Pic/ZhuJiaYi/1881654506.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+similarity: 80.31
+/home/shushi/Pic/ZhuJiaYi/1980251225.jpg vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+similarity: 70.08
+/home/shushi/Pic/ZhuJiaYi/399379745.jpg vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+similarity: 84.25
+/home/shushi/Pic/ZhuJiaYi/1870723223.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+similarity: 87.4
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1943018685.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+similarity: 51.97
+/home/shushi/Pic/ZhuJiaYi/1565773646.jpg vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+similarity: 80.31
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/895953682.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+similarity: 83.46
+/home/shushi/Pic/ZhuJiaYi/1836482221.jpg vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+similarity: 62.99
+/home/shushi/Pic/ZhuJiaYi/1870723223.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+similarity: 84.25
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/249104539.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+similarity: 83.46
+
+
+
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+similarity: 66.14
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+similarity: 80.31
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+similarity: 79.53
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+similarity: 81.89
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+similarity: 81.89
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+similarity: 85.04
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+similarity: 61.42
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+similarity: 91.34
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+similarity: 81.89
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+similarity: 66.14
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+similarity: 85.83
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+similarity: 84.25
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+similarity: 74.8
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+similarity: 44.09
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+similarity: 57.48
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+similarity: 77.17
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+similarity: 81.89
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+similarity: 88.98
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+similarity: 91.34
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+similarity: 67.72
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+similarity: 85.83
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+similarity: 58.27
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+similarity: 83.46
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+similarity: 70.08
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/895953682.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+similarity: 61.42
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/895953682.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+similarity: 58.27
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+similarity: 65.35
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+similarity: 80.31
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+similarity: 84.25
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+similarity: 87.4
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+similarity: 78.74
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+similarity: 80.31
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+similarity: 62.99
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+similarity: 54.33
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+similarity: 54.33
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+similarity: 88.98
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+similarity: 53.54
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+similarity: 83.46
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+similarity: 51.97
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+similarity: 85.04
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+similarity: 84.25
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+similarity: 84.25
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+similarity: 76.38
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+similarity: 77.95
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+similarity: 80.31
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+similarity: 83.46
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+similarity: 83.46
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+similarity: 81.89
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+similarity: 85.83
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+similarity: 86.61
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+similarity: 70.87
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+similarity: 80.31
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+similarity: 74.8
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+similarity: 74.8
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+similarity: 86.61
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+similarity: 85.04
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+similarity: 80.31
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+similarity: 85.04
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+similarity: 83.46
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+similarity: 59.06
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+similarity: 85.04
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+similarity: 54.33
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+similarity: 87.4
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+similarity: 81.89
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg vs /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+similarity: 85.83
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+similarity: 55.91
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+similarity: 34.65
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+similarity: 76.38
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+similarity: 81.89
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+similarity: 86.61
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+similarity: 84.25
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+similarity: 83.46
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+similarity: 64.57
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+similarity: 58.27
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+similarity: 76.38
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+similarity: 62.2
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+similarity: 78.74
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+similarity: 77.95
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+similarity: 70.87
+/home/shushi/Pic/ZhuJiaYi/895953682.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+similarity: 83.46
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+similarity: 66.14
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+similarity: 87.4
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+similarity: 83.46
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+similarity: 80.31
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaYi/895953682.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+similarity: 90.55
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+similarity: 70.87
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+similarity: 83.46
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+similarity: 83.46
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+similarity: 69.29
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+similarity: 77.17
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+similarity: 83.46
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+similarity: 84.25
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+similarity: 77.95
+/home/shushi/Pic/ZhuJiaYi/895953682.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+similarity: 48.03
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+similarity: 57.48
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+similarity: 50.39
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+similarity: 87.4
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+similarity: 88.98
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+similarity: 84.25
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+similarity: 83.46
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+similarity: 80.31
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+similarity: 66.93
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+similarity: 80.31
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+similarity: 64.57
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+similarity: 69.29
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+similarity: 27.56
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+similarity: 49.61
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+similarity: 77.17
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+similarity: 84.25
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+similarity: 85.04
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+similarity: 84.25
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+similarity: 84.25
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+similarity: 56.69
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+similarity: 72.44
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+similarity: 83.46
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+similarity: 78.74
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+similarity: 77.95
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+similarity: 66.14
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+similarity: 85.04
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+similarity: 84.25
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+similarity: 83.46
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+similarity: 65.35
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+similarity: 74.02
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+similarity: 74.02
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+similarity: 53.54
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+similarity: 84.25
+/home/shushi/Pic/ZhuJiaYi/895953682.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+similarity: 85.04
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+similarity: 78.74
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+similarity: 87.4
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+similarity: 55.91
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+similarity: 77.17
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+similarity: 85.83
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+similarity: 81.89
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+similarity: 80.31
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+similarity: 80.31
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+similarity: 86.61
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+similarity: 65.35
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+similarity: 74.8
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaYi/895953682.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+similarity: 84.25
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+similarity: 83.46
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+similarity: 84.25
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+similarity: 66.93
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+similarity: 80.31
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+similarity: 77.95
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+similarity: 88.98
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+similarity: 68.5
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png
+similarity: 24.41
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+similarity: 50.39
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+similarity: 66.14
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+similarity: 61.42
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+similarity: 84.25
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+similarity: 85.83
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+similarity: 81.89
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+similarity: 81.89
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+similarity: 66.14
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+similarity: 81.1
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+similarity: 37.01
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+similarity: 82.68
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+similarity: 70.87
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+similarity: 64.57
+/home/shushi/Pic/ZhuJiaYi/895953682.jpg : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+similarity: 87.4
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+similarity: 80.31
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+similarity: 74.02
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+similarity: 85.04
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png : 未检测到人脸
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+similarity: 85.04
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+similarity: 81.1
+
+
+

@@ -1,0 +1,756 @@
+confidence: 41.10230000000001
+未检测到人脸:87
+404:63
+内部错误:2
+/home/shushi/Pic/idealtest/idealtest/030/030-006.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-014.bmp
+similarity: 69.29
+/home/shushi/Pic/idealtest/idealtest/076/076-032.bmp vs /home/shushi/Pic/idealtest/idealtest/038/038-004.bmp
+similarity: 53.54
+/home/shushi/Pic/idealtest/idealtest/038/038-035.bmp vs /home/shushi/Pic/idealtest/idealtest/103/103-004.bmp
+similarity: 18.9
+/home/shushi/Pic/idealtest/idealtest/019/019-029.bmp vs /home/shushi/Pic/idealtest/idealtest/116/116-007.bmp
+similarity: 33.86
+/home/shushi/Pic/idealtest/idealtest/069/069-033.bmp vs /home/shushi/Pic/idealtest/idealtest/023/023-028.bmp
+similarity: 35.43
+5 /home/shushi/Pic/idealtest/idealtest/076/076-030.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/022/022-032.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-009.bmp
+similarity: 65.35
+/home/shushi/Pic/idealtest/idealtest/065/065-032.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-032.bmp
+similarity: 48.03
+/home/shushi/Pic/idealtest/idealtest/012/012-003.bmp vs /home/shushi/Pic/idealtest/idealtest/037/037-018.bmp
+similarity: 40.94
+/home/shushi/Pic/idealtest/idealtest/068/068-037.bmp vs /home/shushi/Pic/idealtest/idealtest/019/019-008.bmp
+similarity: 34.65
+/home/shushi/Pic/idealtest/idealtest/012/012-021.bmp vs /home/shushi/Pic/idealtest/idealtest/048/048-016.bmp
+similarity: 39.37
+/home/shushi/Pic/idealtest/idealtest/079/079-028.bmp vs /home/shushi/Pic/idealtest/idealtest/094/094-026.bmp
+similarity: 40.16
+11 /home/shushi/Pic/idealtest/idealtest/003/003-037.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/073/073-009.bmp vs /home/shushi/Pic/idealtest/idealtest/048/048-024.bmp
+similarity: 44.09
+/home/shushi/Pic/idealtest/idealtest/089/089-025.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-023.bmp
+similarity: 28.35
+/home/shushi/Pic/idealtest/idealtest/059/059-004.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-013.bmp
+similarity: 10.24
+/home/shushi/Pic/idealtest/idealtest/105/105-004.bmp vs /home/shushi/Pic/idealtest/idealtest/052/052-034.bmp
+similarity: 58.27
+/home/shushi/Pic/idealtest/idealtest/080/080-027.bmp vs /home/shushi/Pic/idealtest/idealtest/119/119-024.bmp
+similarity: 47.24
+/home/shushi/Pic/idealtest/idealtest/090/090-033.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-013.bmp
+similarity: 20.47
+17 /home/shushi/Pic/idealtest/idealtest/010/010-022.bmp : 未检测到人脸
+17 /home/shushi/Pic/idealtest/idealtest/088/088-030.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/061/061-038.bmp vs /home/shushi/Pic/idealtest/idealtest/092/092-023.bmp
+similarity: 66.14
+18 /home/shushi/Pic/idealtest/idealtest/100/100-030.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/056/056-029.bmp vs /home/shushi/Pic/idealtest/idealtest/072/072-013.bmp
+similarity: 40.94
+/home/shushi/Pic/idealtest/idealtest/083/083-014.bmp vs /home/shushi/Pic/idealtest/idealtest/075/075-002.bmp
+similarity: 41.73
+20 /home/shushi/Pic/idealtest/idealtest/013/013-030.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/022/022-020.bmp vs /home/shushi/Pic/idealtest/idealtest/052/052-038.bmp
+similarity: 38.58
+/home/shushi/Pic/idealtest/idealtest/036/036-012.bmp vs /home/shushi/Pic/idealtest/idealtest/102/102-006.bmp
+similarity: 31.5
+/home/shushi/Pic/idealtest/idealtest/028/028-025.bmp vs /home/shushi/Pic/idealtest/idealtest/111/111-008.bmp
+similarity: 57.48
+/home/shushi/Pic/idealtest/idealtest/041/041-003.bmp vs /home/shushi/Pic/idealtest/idealtest/019/019-018.bmp
+similarity: 47.24
+/home/shushi/Pic/idealtest/idealtest/036/036-007.bmp vs /home/shushi/Pic/idealtest/idealtest/082/082-027.bmp
+similarity: 64.57
+25 /home/shushi/Pic/idealtest/idealtest/072/072-032.bmp : 404 
+/home/shushi/Pic/idealtest/idealtest/026/026-002.bmp vs /home/shushi/Pic/idealtest/idealtest/029/029-021.bmp
+similarity: 58.27
+/home/shushi/Pic/idealtest/idealtest/039/039-026.bmp vs /home/shushi/Pic/idealtest/idealtest/060/060-032.bmp
+similarity: 42.52
+/home/shushi/Pic/idealtest/idealtest/028/028-012.bmp vs /home/shushi/Pic/idealtest/idealtest/004/004-032.bmp
+similarity: 40.94
+/home/shushi/Pic/idealtest/idealtest/041/041-034.bmp vs /home/shushi/Pic/idealtest/idealtest/117/117-038.bmp
+similarity: 33.86
+/home/shushi/Pic/idealtest/idealtest/022/022-021.bmp vs /home/shushi/Pic/idealtest/idealtest/100/100-038.bmp
+similarity: 16.54
+/home/shushi/Pic/idealtest/idealtest/094/094-014.bmp vs /home/shushi/Pic/idealtest/idealtest/072/072-016.bmp
+similarity: 34.65
+/home/shushi/Pic/idealtest/idealtest/098/098-016.bmp vs /home/shushi/Pic/idealtest/idealtest/051/051-028.bmp
+similarity: 46.46
+/home/shushi/Pic/idealtest/idealtest/025/025-014.bmp vs /home/shushi/Pic/idealtest/idealtest/064/064-008.bmp
+similarity: 48.82
+/home/shushi/Pic/idealtest/idealtest/038/038-027.bmp vs /home/shushi/Pic/idealtest/idealtest/058/058-031.bmp
+similarity: 49.61
+/home/shushi/Pic/idealtest/idealtest/099/099-018.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-025.bmp
+similarity: 65.35
+35 /home/shushi/Pic/idealtest/idealtest/029/029-019.bmp : 未检测到人脸
+35 /home/shushi/Pic/idealtest/idealtest/117/117-022.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/114/114-030.bmp vs /home/shushi/Pic/idealtest/idealtest/022/022-009.bmp
+similarity: 40.16
+/home/shushi/Pic/idealtest/idealtest/057/057-013.bmp vs /home/shushi/Pic/idealtest/idealtest/108/108-012.bmp
+similarity: 23.62
+/home/shushi/Pic/idealtest/idealtest/110/110-005.bmp vs /home/shushi/Pic/idealtest/idealtest/058/058-037.bmp
+similarity: 38.58
+/home/shushi/Pic/idealtest/idealtest/034/034-007.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-013.bmp
+similarity: 29.92
+39 /home/shushi/Pic/idealtest/idealtest/027/027-033.bmp : 404 
+/home/shushi/Pic/idealtest/idealtest/050/050-033.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-020.bmp
+similarity: 46.46
+40 /home/shushi/Pic/idealtest/idealtest/088/088-020.bmp : 404 
+/home/shushi/Pic/idealtest/idealtest/064/064-023.bmp vs /home/shushi/Pic/idealtest/idealtest/094/094-023.bmp
+similarity: 31.5
+41 /home/shushi/Pic/idealtest/idealtest/107/107-008.bmp : 404 
+41 /home/shushi/Pic/idealtest/idealtest/088/088-035.bmp : 404 
+41 /home/shushi/Pic/idealtest/idealtest/095/095-036.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/100/100-018.bmp vs /home/shushi/Pic/idealtest/idealtest/068/068-027.bmp
+similarity: 28.35
+42 /home/shushi/Pic/idealtest/idealtest/074/074-030.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/087/087-012.bmp vs /home/shushi/Pic/idealtest/idealtest/063/063-038.bmp
+similarity: 33.07
+/home/shushi/Pic/idealtest/idealtest/013/013-016.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-005.bmp
+similarity: 36.22
+44 /home/shushi/Pic/idealtest/idealtest/002/002-021.bmp : 404 
+44 /home/shushi/Pic/idealtest/idealtest/084/084-026.bmp : 404 
+/home/shushi/Pic/idealtest/idealtest/079/079-018.bmp vs /home/shushi/Pic/idealtest/idealtest/040/040-005.bmp
+similarity: 44.88
+45 /home/shushi/Pic/idealtest/idealtest/033/033-036.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/013/013-004.bmp vs /home/shushi/Pic/idealtest/idealtest/009/009-004.bmp
+similarity: 45.67
+/home/shushi/Pic/idealtest/idealtest/018/018-023.bmp vs /home/shushi/Pic/idealtest/idealtest/060/060-009.bmp
+similarity: 18.9
+/home/shushi/Pic/idealtest/idealtest/043/043-017.bmp vs /home/shushi/Pic/idealtest/idealtest/014/014-027.bmp
+similarity: 48.03
+/home/shushi/Pic/idealtest/idealtest/079/079-026.bmp vs /home/shushi/Pic/idealtest/idealtest/046/046-006.bmp
+similarity: 32.28
+/home/shushi/Pic/idealtest/idealtest/010/010-007.bmp vs /home/shushi/Pic/idealtest/idealtest/085/085-034.bmp
+similarity: 41.73
+/home/shushi/Pic/idealtest/idealtest/051/051-005.bmp vs /home/shushi/Pic/idealtest/idealtest/080/080-011.bmp
+similarity: 38.58
+/home/shushi/Pic/idealtest/idealtest/055/055-028.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-020.bmp
+similarity: 61.42
+52 /home/shushi/Pic/idealtest/idealtest/037/037-007.bmp : 404 
+/home/shushi/Pic/idealtest/idealtest/013/013-014.bmp vs /home/shushi/Pic/idealtest/idealtest/085/085-012.bmp
+similarity: 16.54
+53 /home/shushi/Pic/idealtest/idealtest/079/079-022.bmp : 未检测到人脸
+53 /home/shushi/Pic/idealtest/idealtest/117/117-006.bmp : 404 
+53 /home/shushi/Pic/idealtest/idealtest/025/025-019.bmp : 未检测到人脸
+53 /home/shushi/Pic/idealtest/idealtest/029/029-033.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/014/014-016.bmp vs /home/shushi/Pic/idealtest/idealtest/090/090-031.bmp
+similarity: 20.47
+/home/shushi/Pic/idealtest/idealtest/005/005-010.bmp vs /home/shushi/Pic/idealtest/idealtest/023/023-010.bmp
+similarity: 70.87
+/home/shushi/Pic/idealtest/idealtest/014/014-016.bmp vs /home/shushi/Pic/idealtest/idealtest/085/085-036.bmp
+similarity: 58.27
+/home/shushi/Pic/idealtest/idealtest/095/095-037.bmp vs /home/shushi/Pic/idealtest/idealtest/002/002-021.bmp
+similarity: 52.76
+/home/shushi/Pic/idealtest/idealtest/062/062-001.bmp vs /home/shushi/Pic/idealtest/idealtest/094/094-034.bmp
+similarity: 38.58
+58 /home/shushi/Pic/idealtest/idealtest/018/018-009.bmp : 404 
+58 /home/shushi/Pic/idealtest/idealtest/036/036-011.bmp : 内部错误
+/home/shushi/Pic/idealtest/idealtest/116/116-025.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-013.bmp
+similarity: 38.58
+/home/shushi/Pic/idealtest/idealtest/032/032-026.bmp vs /home/shushi/Pic/idealtest/idealtest/114/114-015.bmp
+similarity: 29.92
+/home/shushi/Pic/idealtest/idealtest/036/036-008.bmp vs /home/shushi/Pic/idealtest/idealtest/017/017-006.bmp
+similarity: 40.94
+/home/shushi/Pic/idealtest/idealtest/082/082-013.bmp vs /home/shushi/Pic/idealtest/idealtest/107/107-001.bmp
+similarity: 39.37
+62 /home/shushi/Pic/idealtest/idealtest/072/072-025.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/095/095-004.bmp vs /home/shushi/Pic/idealtest/idealtest/043/043-026.bmp
+similarity: 34.65
+/home/shushi/Pic/idealtest/idealtest/058/058-038.bmp vs /home/shushi/Pic/idealtest/idealtest/099/099-007.bmp
+similarity: 40.16
+/home/shushi/Pic/idealtest/idealtest/059/059-027.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-005.bmp
+similarity: 27.56
+/home/shushi/Pic/idealtest/idealtest/122/122-030.bmp vs /home/shushi/Pic/idealtest/idealtest/001/001-020.bmp
+similarity: 33.86
+/home/shushi/Pic/idealtest/idealtest/122/122-008.bmp vs /home/shushi/Pic/idealtest/idealtest/002/002-028.bmp
+similarity: 58.27
+67 /home/shushi/Pic/idealtest/idealtest/010/010-015.bmp : 404 
+/home/shushi/Pic/idealtest/idealtest/118/118-005.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-003.bmp
+similarity: 0
+/home/shushi/Pic/idealtest/idealtest/028/028-025.bmp vs /home/shushi/Pic/idealtest/idealtest/119/119-031.bmp
+similarity: 40.94
+/home/shushi/Pic/idealtest/idealtest/097/097-031.bmp vs /home/shushi/Pic/idealtest/idealtest/066/066-007.bmp
+similarity: 48.82
+/home/shushi/Pic/idealtest/idealtest/030/030-015.bmp vs /home/shushi/Pic/idealtest/idealtest/038/038-036.bmp
+similarity: 45.67
+/home/shushi/Pic/idealtest/idealtest/019/019-023.bmp vs /home/shushi/Pic/idealtest/idealtest/121/121-016.bmp
+similarity: 40.16
+/home/shushi/Pic/idealtest/idealtest/073/073-009.bmp vs /home/shushi/Pic/idealtest/idealtest/054/054-012.bmp
+similarity: 54.33
+/home/shushi/Pic/idealtest/idealtest/120/120-037.bmp vs /home/shushi/Pic/idealtest/idealtest/095/095-004.bmp
+similarity: 21.26
+/home/shushi/Pic/idealtest/idealtest/064/064-024.bmp vs /home/shushi/Pic/idealtest/idealtest/060/060-025.bmp
+similarity: 48.03
+75 /home/shushi/Pic/idealtest/idealtest/054/054-014.bmp : 404 
+/home/shushi/Pic/idealtest/idealtest/059/059-005.bmp vs /home/shushi/Pic/idealtest/idealtest/101/101-029.bmp
+similarity: 51.97
+76 /home/shushi/Pic/idealtest/idealtest/048/048-025.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/110/110-010.bmp vs /home/shushi/Pic/idealtest/idealtest/078/078-036.bmp
+similarity: 59.84
+/home/shushi/Pic/idealtest/idealtest/074/074-014.bmp vs /home/shushi/Pic/idealtest/idealtest/058/058-008.bmp
+similarity: 45.67
+/home/shushi/Pic/idealtest/idealtest/080/080-035.bmp vs /home/shushi/Pic/idealtest/idealtest/099/099-035.bmp
+similarity: 76.38
+79 /home/shushi/Pic/idealtest/idealtest/088/088-033.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/004/004-020.bmp vs /home/shushi/Pic/idealtest/idealtest/103/103-026.bmp
+similarity: 47.24
+/home/shushi/Pic/idealtest/idealtest/017/017-005.bmp vs /home/shushi/Pic/idealtest/idealtest/002/002-026.bmp
+similarity: 44.88
+/home/shushi/Pic/idealtest/idealtest/049/049-003.bmp vs /home/shushi/Pic/idealtest/idealtest/112/112-017.bmp
+similarity: 29.92
+/home/shushi/Pic/idealtest/idealtest/074/074-014.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-029.bmp
+similarity: 29.92
+/home/shushi/Pic/idealtest/idealtest/091/091-023.bmp vs /home/shushi/Pic/idealtest/idealtest/019/019-026.bmp
+similarity: 48.82
+/home/shushi/Pic/idealtest/idealtest/048/048-032.bmp vs /home/shushi/Pic/idealtest/idealtest/060/060-002.bmp
+similarity: 35.43
+/home/shushi/Pic/idealtest/idealtest/060/060-034.bmp vs /home/shushi/Pic/idealtest/idealtest/023/023-012.bmp
+similarity: 40.16
+86 /home/shushi/Pic/idealtest/idealtest/021/021-019.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/027/027-029.bmp vs /home/shushi/Pic/idealtest/idealtest/005/005-027.bmp
+similarity: 46.46
+/home/shushi/Pic/idealtest/idealtest/027/027-008.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-009.bmp
+similarity: 38.58
+/home/shushi/Pic/idealtest/idealtest/068/068-003.bmp vs /home/shushi/Pic/idealtest/idealtest/080/080-035.bmp
+similarity: 29.13
+/home/shushi/Pic/idealtest/idealtest/112/112-023.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-031.bmp
+similarity: 39.37
+/home/shushi/Pic/idealtest/idealtest/013/013-029.bmp vs /home/shushi/Pic/idealtest/idealtest/118/118-031.bmp
+similarity: 4.72
+/home/shushi/Pic/idealtest/idealtest/111/111-008.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-029.bmp
+similarity: 21.26
+/home/shushi/Pic/idealtest/idealtest/070/070-029.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-013.bmp
+similarity: 19.69
+/home/shushi/Pic/idealtest/idealtest/079/079-026.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-034.bmp
+similarity: 41.73
+/home/shushi/Pic/idealtest/idealtest/048/048-034.bmp vs /home/shushi/Pic/idealtest/idealtest/097/097-013.bmp
+similarity: 49.61
+95 /home/shushi/Pic/idealtest/idealtest/073/073-019.bmp : 404 
+95 /home/shushi/Pic/idealtest/idealtest/068/068-015.bmp : 404 
+95 /home/shushi/Pic/idealtest/idealtest/028/028-030.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/065/065-005.bmp
+similarity: 27.56
+96 /home/shushi/Pic/idealtest/idealtest/009/009-025.bmp : 404 
+96 /home/shushi/Pic/idealtest/idealtest/116/116-016.bmp : 404 
+96 /home/shushi/Pic/idealtest/idealtest/081/081-014.bmp : 404 
+/home/shushi/Pic/idealtest/idealtest/070/070-008.bmp vs /home/shushi/Pic/idealtest/idealtest/010/010-032.bmp
+similarity: 24.41
+97 /home/shushi/Pic/idealtest/idealtest/014/014-019.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/002/002-023.bmp vs /home/shushi/Pic/idealtest/idealtest/073/073-026.bmp
+similarity: 44.09
+/home/shushi/Pic/idealtest/idealtest/064/064-008.bmp vs /home/shushi/Pic/idealtest/idealtest/009/009-002.bmp
+similarity: 27.56
+/home/shushi/Pic/idealtest/idealtest/006/006-028.bmp vs /home/shushi/Pic/idealtest/idealtest/067/067-016.bmp
+similarity: 20.47
+100 /home/shushi/Pic/idealtest/idealtest/050/050-012.bmp : 404 
+100 /home/shushi/Pic/idealtest/idealtest/063/063-037.bmp : 404 
+100 /home/shushi/Pic/idealtest/idealtest/105/105-008.bmp : 404 
+/home/shushi/Pic/idealtest/idealtest/052/052-033.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-008.bmp
+similarity: 49.61
+/home/shushi/Pic/idealtest/idealtest/113/113-015.bmp vs /home/shushi/Pic/idealtest/idealtest/123/123-029.bmp
+similarity: 41.73
+102 /home/shushi/Pic/idealtest/idealtest/120/120-019.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/075/075-009.bmp vs /home/shushi/Pic/idealtest/idealtest/047/047-016.bmp
+similarity: 29.92
+/home/shushi/Pic/idealtest/idealtest/116/116-011.bmp vs /home/shushi/Pic/idealtest/idealtest/088/088-023.bmp
+similarity: 11.81
+/home/shushi/Pic/idealtest/idealtest/031/031-008.bmp vs /home/shushi/Pic/idealtest/idealtest/002/002-026.bmp
+similarity: 43.31
+105 /home/shushi/Pic/idealtest/idealtest/100/100-022.bmp : 未检测到人脸
+105 /home/shushi/Pic/idealtest/idealtest/064/064-030.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/010/010-034.bmp vs /home/shushi/Pic/idealtest/idealtest/070/070-025.bmp
+similarity: 54.33
+/home/shushi/Pic/idealtest/idealtest/086/086-032.bmp vs /home/shushi/Pic/idealtest/idealtest/073/073-003.bmp
+similarity: 39.37
+/home/shushi/Pic/idealtest/idealtest/119/119-004.bmp vs /home/shushi/Pic/idealtest/idealtest/041/041-010.bmp
+similarity: 57.48
+108 /home/shushi/Pic/idealtest/idealtest/072/072-020.bmp : 404 
+108 /home/shushi/Pic/idealtest/idealtest/006/006-004.bmp : 404 
+108 /home/shushi/Pic/idealtest/idealtest/001/001-019.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/122/122-023.bmp vs /home/shushi/Pic/idealtest/idealtest/100/100-003.bmp
+similarity: 27.56
+109 /home/shushi/Pic/idealtest/idealtest/055/055-026.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/114/114-022.bmp vs /home/shushi/Pic/idealtest/idealtest/070/070-035.bmp
+similarity: 28.35
+/home/shushi/Pic/idealtest/idealtest/005/005-009.bmp vs /home/shushi/Pic/idealtest/idealtest/088/088-031.bmp
+similarity: 25.2
+/home/shushi/Pic/idealtest/idealtest/112/112-014.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-002.bmp
+similarity: 34.65
+112 /home/shushi/Pic/idealtest/idealtest/011/011-037.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/074/074-005.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-001.bmp
+similarity: 44.09
+/home/shushi/Pic/idealtest/idealtest/003/003-020.bmp vs /home/shushi/Pic/idealtest/idealtest/092/092-002.bmp
+similarity: 40.16
+/home/shushi/Pic/idealtest/idealtest/023/023-008.bmp vs /home/shushi/Pic/idealtest/idealtest/058/058-033.bmp
+similarity: 51.97
+115 /home/shushi/Pic/idealtest/idealtest/078/078-019.bmp : 未检测到人脸
+115 /home/shushi/Pic/idealtest/idealtest/014/014-030.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/061/061-026.bmp vs /home/shushi/Pic/idealtest/idealtest/068/068-010.bmp
+similarity: 74.02
+/home/shushi/Pic/idealtest/idealtest/023/023-012.bmp vs /home/shushi/Pic/idealtest/idealtest/095/095-003.bmp
+similarity: 29.13
+/home/shushi/Pic/idealtest/idealtest/002/002-032.bmp vs /home/shushi/Pic/idealtest/idealtest/121/121-013.bmp
+similarity: 44.88
+118 /home/shushi/Pic/idealtest/idealtest/023/023-023.bmp : 内部错误
+118 /home/shushi/Pic/idealtest/idealtest/026/026-019.bmp : 未检测到人脸
+118 /home/shushi/Pic/idealtest/idealtest/108/108-002.bmp : 404 
+118 /home/shushi/Pic/idealtest/idealtest/081/081-018.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/032/032-007.bmp vs /home/shushi/Pic/idealtest/idealtest/085/085-034.bmp
+similarity: 30.71
+/home/shushi/Pic/idealtest/idealtest/052/052-007.bmp vs /home/shushi/Pic/idealtest/idealtest/085/085-029.bmp
+similarity: 24.41
+120 /home/shushi/Pic/idealtest/idealtest/045/045-019.bmp : 未检测到人脸
+120 /home/shushi/Pic/idealtest/idealtest/120/120-031.bmp : 404 
+120 /home/shushi/Pic/idealtest/idealtest/037/037-037.bmp : 404 
+/home/shushi/Pic/idealtest/idealtest/121/121-013.bmp vs /home/shushi/Pic/idealtest/idealtest/036/036-003.bmp
+similarity: 25.98
+/home/shushi/Pic/idealtest/idealtest/099/099-023.bmp vs /home/shushi/Pic/idealtest/idealtest/084/084-012.bmp
+similarity: 53.54
+122 /home/shushi/Pic/idealtest/idealtest/017/017-033.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/064/064-005.bmp vs /home/shushi/Pic/idealtest/idealtest/036/036-003.bmp
+similarity: 62.2
+/home/shushi/Pic/idealtest/idealtest/035/035-004.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-021.bmp
+similarity: 37.8
+/home/shushi/Pic/idealtest/idealtest/038/038-013.bmp vs /home/shushi/Pic/idealtest/idealtest/093/093-022.bmp
+similarity: 37.01
+/home/shushi/Pic/idealtest/idealtest/100/100-034.bmp vs /home/shushi/Pic/idealtest/idealtest/040/040-004.bmp
+similarity: 40.16
+126 /home/shushi/Pic/idealtest/idealtest/016/016-006.bmp : 404 
+/home/shushi/Pic/idealtest/idealtest/007/007-013.bmp vs /home/shushi/Pic/idealtest/idealtest/027/027-018.bmp
+similarity: 33.07
+127 /home/shushi/Pic/idealtest/idealtest/014/014-008.bmp : 404 
+/home/shushi/Pic/idealtest/idealtest/085/085-006.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-035.bmp
+similarity: 11.02
+128 /home/shushi/Pic/idealtest/idealtest/076/076-019.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/063/063-005.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-025.bmp
+similarity: 51.97
+/home/shushi/Pic/idealtest/idealtest/067/067-027.bmp vs /home/shushi/Pic/idealtest/idealtest/075/075-001.bmp
+similarity: 15.75
+/home/shushi/Pic/idealtest/idealtest/008/008-034.bmp vs /home/shushi/Pic/idealtest/idealtest/005/005-020.bmp
+similarity: 58.27
+/home/shushi/Pic/idealtest/idealtest/085/085-011.bmp vs /home/shushi/Pic/idealtest/idealtest/021/021-011.bmp
+similarity: 16.54
+132 /home/shushi/Pic/idealtest/idealtest/077/077-006.bmp : 404 
+/home/shushi/Pic/idealtest/idealtest/026/026-034.bmp vs /home/shushi/Pic/idealtest/idealtest/024/024-020.bmp
+similarity: 53.54
+133 /home/shushi/Pic/idealtest/idealtest/045/045-022.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/118/118-021.bmp vs /home/shushi/Pic/idealtest/idealtest/010/010-021.bmp
+similarity: 0
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/085/085-022.bmp
+similarity: 34.65
+/home/shushi/Pic/idealtest/idealtest/020/020-023.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-010.bmp
+similarity: 45.67
+136 /home/shushi/Pic/idealtest/idealtest/024/024-012.bmp : 404 
+/home/shushi/Pic/idealtest/idealtest/034/034-034.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-012.bmp
+similarity: 52.76
+137 /home/shushi/Pic/idealtest/idealtest/091/091-021.bmp : 404 
+/home/shushi/Pic/idealtest/idealtest/013/013-005.bmp vs /home/shushi/Pic/idealtest/idealtest/009/009-017.bmp
+similarity: 51.97
+/home/shushi/Pic/idealtest/idealtest/039/039-005.bmp vs /home/shushi/Pic/idealtest/idealtest/030/030-031.bmp
+similarity: 18.11
+139 /home/shushi/Pic/idealtest/idealtest/013/013-032.bmp : 404 
+/home/shushi/Pic/idealtest/idealtest/018/018-016.bmp vs /home/shushi/Pic/idealtest/idealtest/052/052-038.bmp
+similarity: 29.92
+/home/shushi/Pic/idealtest/idealtest/066/066-020.bmp vs /home/shushi/Pic/idealtest/idealtest/070/070-024.bmp
+similarity: 46.46
+/home/shushi/Pic/idealtest/idealtest/079/079-023.bmp vs /home/shushi/Pic/idealtest/idealtest/010/010-016.bmp
+similarity: 46.46
+142 /home/shushi/Pic/idealtest/idealtest/041/041-026.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/080/080-020.bmp vs /home/shushi/Pic/idealtest/idealtest/061/061-014.bmp
+similarity: 44.09
+143 /home/shushi/Pic/idealtest/idealtest/015/015-017.bmp : 404 
+143 /home/shushi/Pic/idealtest/idealtest/076/076-016.bmp : 404 
+/home/shushi/Pic/idealtest/idealtest/042/042-005.bmp vs /home/shushi/Pic/idealtest/idealtest/009/009-035.bmp
+similarity: 36.22
+144 /home/shushi/Pic/idealtest/idealtest/056/056-037.bmp : 未检测到人脸
+144 /home/shushi/Pic/idealtest/idealtest/049/049-018.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/093/093-023.bmp vs /home/shushi/Pic/idealtest/idealtest/012/012-012.bmp
+similarity: 48.82
+145 /home/shushi/Pic/idealtest/idealtest/010/010-019.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/019/019-036.bmp vs /home/shushi/Pic/idealtest/idealtest/122/122-018.bmp
+similarity: 54.33
+/home/shushi/Pic/idealtest/idealtest/064/064-033.bmp vs /home/shushi/Pic/idealtest/idealtest/103/103-008.bmp
+similarity: 66.93
+/home/shushi/Pic/idealtest/idealtest/099/099-004.bmp vs /home/shushi/Pic/idealtest/idealtest/003/003-002.bmp
+similarity: 100
+/home/shushi/Pic/idealtest/idealtest/009/009-013.bmp vs /home/shushi/Pic/idealtest/idealtest/068/068-027.bmp
+similarity: 19.69
+/home/shushi/Pic/idealtest/idealtest/120/120-009.bmp vs /home/shushi/Pic/idealtest/idealtest/039/039-006.bmp
+similarity: 28.35
+150 /home/shushi/Pic/idealtest/idealtest/016/016-019.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/046/046-006.bmp vs /home/shushi/Pic/idealtest/idealtest/072/072-012.bmp
+similarity: 37.01
+/home/shushi/Pic/idealtest/idealtest/020/020-002.bmp vs /home/shushi/Pic/idealtest/idealtest/047/047-033.bmp
+similarity: 53.54
+/home/shushi/Pic/idealtest/idealtest/006/006-004.bmp vs /home/shushi/Pic/idealtest/idealtest/075/075-010.bmp
+similarity: 42.52
+153 /home/shushi/Pic/idealtest/idealtest/118/118-033.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/085/085-035.bmp vs /home/shushi/Pic/idealtest/idealtest/094/094-034.bmp
+similarity: 59.84
+/home/shushi/Pic/idealtest/idealtest/113/113-029.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-021.bmp
+similarity: 58.27
+/home/shushi/Pic/idealtest/idealtest/117/117-013.bmp vs /home/shushi/Pic/idealtest/idealtest/120/120-017.bmp
+similarity: 62.2
+156 /home/shushi/Pic/idealtest/idealtest/052/052-014.bmp : 404 
+/home/shushi/Pic/idealtest/idealtest/117/117-014.bmp vs /home/shushi/Pic/idealtest/idealtest/033/033-025.bmp
+similarity: 14.96
+157 /home/shushi/Pic/idealtest/idealtest/030/030-026.bmp : 404 
+/home/shushi/Pic/idealtest/idealtest/117/117-024.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-021.bmp
+similarity: 20.47
+/home/shushi/Pic/idealtest/idealtest/057/057-010.bmp vs /home/shushi/Pic/idealtest/idealtest/008/008-031.bmp
+similarity: 33.86
+159 /home/shushi/Pic/idealtest/idealtest/100/100-006.bmp : 404 
+159 /home/shushi/Pic/idealtest/idealtest/043/043-033.bmp : 未检测到人脸
+159 /home/shushi/Pic/idealtest/idealtest/001/001-021.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/016/016-035.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-010.bmp
+similarity: 78.74
+/home/shushi/Pic/idealtest/idealtest/025/025-001.bmp vs /home/shushi/Pic/idealtest/idealtest/081/081-026.bmp
+similarity: 76.38
+161 /home/shushi/Pic/idealtest/idealtest/057/057-031.bmp : 404 
+/home/shushi/Pic/idealtest/idealtest/100/100-009.bmp vs /home/shushi/Pic/idealtest/idealtest/115/115-029.bmp
+similarity: 47.24
+/home/shushi/Pic/idealtest/idealtest/013/013-027.bmp vs /home/shushi/Pic/idealtest/idealtest/039/039-005.bmp
+similarity: 38.58
+163 /home/shushi/Pic/idealtest/idealtest/083/083-030.bmp : 未检测到人脸
+163 /home/shushi/Pic/idealtest/idealtest/029/029-018.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/020/020-028.bmp vs /home/shushi/Pic/idealtest/idealtest/025/025-024.bmp
+similarity: 55.91
+164 /home/shushi/Pic/idealtest/idealtest/107/107-004.bmp : 404 
+/home/shushi/Pic/idealtest/idealtest/039/039-014.bmp vs /home/shushi/Pic/idealtest/idealtest/075/075-011.bmp
+similarity: 29.92
+/home/shushi/Pic/idealtest/idealtest/084/084-005.bmp vs /home/shushi/Pic/idealtest/idealtest/033/033-019.bmp
+similarity: 39.37
+/home/shushi/Pic/idealtest/idealtest/028/028-035.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-007.bmp
+similarity: 47.24
+167 /home/shushi/Pic/idealtest/idealtest/118/118-030.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/002/002-008.bmp vs /home/shushi/Pic/idealtest/idealtest/116/116-016.bmp
+similarity: 35.43
+/home/shushi/Pic/idealtest/idealtest/008/008-006.bmp vs /home/shushi/Pic/idealtest/idealtest/012/012-015.bmp
+similarity: 34.65
+/home/shushi/Pic/idealtest/idealtest/004/004-011.bmp vs /home/shushi/Pic/idealtest/idealtest/101/101-022.bmp
+similarity: 37.01
+/home/shushi/Pic/idealtest/idealtest/003/003-015.bmp vs /home/shushi/Pic/idealtest/idealtest/036/036-003.bmp
+similarity: 37.8
+/home/shushi/Pic/idealtest/idealtest/010/010-013.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-011.bmp
+similarity: 27.56
+/home/shushi/Pic/idealtest/idealtest/080/080-014.bmp vs /home/shushi/Pic/idealtest/idealtest/064/064-035.bmp
+similarity: 46.46
+173 /home/shushi/Pic/idealtest/idealtest/096/096-028.bmp : 404 
+173 /home/shushi/Pic/idealtest/idealtest/071/071-022.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/071/071-026.bmp vs /home/shushi/Pic/idealtest/idealtest/006/006-015.bmp
+similarity: 23.62
+/home/shushi/Pic/idealtest/idealtest/019/019-020.bmp vs /home/shushi/Pic/idealtest/idealtest/084/084-004.bmp
+similarity: 41.73
+/home/shushi/Pic/idealtest/idealtest/029/029-017.bmp vs /home/shushi/Pic/idealtest/idealtest/052/052-028.bmp
+similarity: 45.67
+176 /home/shushi/Pic/idealtest/idealtest/015/015-037.bmp : 未检测到人脸
+176 /home/shushi/Pic/idealtest/idealtest/059/059-038.bmp : 404 
+176 /home/shushi/Pic/idealtest/idealtest/083/083-030.bmp : 未检测到人脸
+176 /home/shushi/Pic/idealtest/idealtest/015/015-026.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/080/080-005.bmp vs /home/shushi/Pic/idealtest/idealtest/039/039-004.bmp
+similarity: 44.88
+/home/shushi/Pic/idealtest/idealtest/114/114-016.bmp vs /home/shushi/Pic/idealtest/idealtest/033/033-037.bmp
+similarity: 36.22
+178 /home/shushi/Pic/idealtest/idealtest/086/086-024.bmp : 404 
+/home/shushi/Pic/idealtest/idealtest/111/111-024.bmp vs /home/shushi/Pic/idealtest/idealtest/119/119-025.bmp
+similarity: 24.41
+/home/shushi/Pic/idealtest/idealtest/097/097-012.bmp vs /home/shushi/Pic/idealtest/idealtest/060/060-026.bmp
+similarity: 57.48
+/home/shushi/Pic/idealtest/idealtest/095/095-029.bmp vs /home/shushi/Pic/idealtest/idealtest/078/078-002.bmp
+similarity: 38.58
+/home/shushi/Pic/idealtest/idealtest/082/082-004.bmp vs /home/shushi/Pic/idealtest/idealtest/057/057-037.bmp
+similarity: 40.16
+/home/shushi/Pic/idealtest/idealtest/053/053-017.bmp vs /home/shushi/Pic/idealtest/idealtest/019/019-035.bmp
+similarity: 70.87
+183 /home/shushi/Pic/idealtest/idealtest/117/117-030.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/045/045-018.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-037.bmp
+similarity: 40.16
+/home/shushi/Pic/idealtest/idealtest/050/050-001.bmp vs /home/shushi/Pic/idealtest/idealtest/035/035-010.bmp
+similarity: 56.69
+/home/shushi/Pic/idealtest/idealtest/052/052-010.bmp vs /home/shushi/Pic/idealtest/idealtest/037/037-006.bmp
+similarity: 29.92
+/home/shushi/Pic/idealtest/idealtest/039/039-035.bmp vs /home/shushi/Pic/idealtest/idealtest/098/098-011.bmp
+similarity: 31.5
+/home/shushi/Pic/idealtest/idealtest/020/020-010.bmp vs /home/shushi/Pic/idealtest/idealtest/086/086-024.bmp
+similarity: 29.13
+/home/shushi/Pic/idealtest/idealtest/103/103-012.bmp vs /home/shushi/Pic/idealtest/idealtest/116/116-035.bmp
+similarity: 44.09
+/home/shushi/Pic/idealtest/idealtest/118/118-028.bmp vs /home/shushi/Pic/idealtest/idealtest/084/084-036.bmp
+similarity: 23.62
+/home/shushi/Pic/idealtest/idealtest/099/099-023.bmp vs /home/shushi/Pic/idealtest/idealtest/118/118-020.bmp
+similarity: 0.79
+191 /home/shushi/Pic/idealtest/idealtest/029/029-031.bmp : 404 
+191 /home/shushi/Pic/idealtest/idealtest/054/054-036.bmp : 404 
+/home/shushi/Pic/idealtest/idealtest/108/108-031.bmp vs /home/shushi/Pic/idealtest/idealtest/098/098-010.bmp
+similarity: 39.37
+/home/shushi/Pic/idealtest/idealtest/121/121-004.bmp vs /home/shushi/Pic/idealtest/idealtest/118/118-028.bmp
+similarity: 0
+193 /home/shushi/Pic/idealtest/idealtest/029/029-033.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/033/033-028.bmp vs /home/shushi/Pic/idealtest/idealtest/117/117-028.bmp
+similarity: 29.92
+/home/shushi/Pic/idealtest/idealtest/039/039-004.bmp vs /home/shushi/Pic/idealtest/idealtest/018/018-004.bmp
+similarity: 57.48
+/home/shushi/Pic/idealtest/idealtest/103/103-017.bmp vs /home/shushi/Pic/idealtest/idealtest/054/054-016.bmp
+similarity: 64.57
+/home/shushi/Pic/idealtest/idealtest/060/060-007.bmp vs /home/shushi/Pic/idealtest/idealtest/005/005-007.bmp
+similarity: 39.37
+197 /home/shushi/Pic/idealtest/idealtest/023/023-037.bmp : 未检测到人脸
+197 /home/shushi/Pic/idealtest/idealtest/028/028-030.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/085/085-033.bmp vs /home/shushi/Pic/idealtest/idealtest/088/088-012.bmp
+similarity: 51.97
+198 /home/shushi/Pic/idealtest/idealtest/098/098-022.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/080/080-038.bmp vs /home/shushi/Pic/idealtest/idealtest/040/040-016.bmp
+similarity: 59.84
+/home/shushi/Pic/idealtest/idealtest/093/093-006.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-016.bmp
+similarity: 33.86
+/home/shushi/Pic/idealtest/idealtest/094/094-004.bmp vs /home/shushi/Pic/idealtest/idealtest/014/014-013.bmp
+similarity: 33.07
+201 /home/shushi/Pic/idealtest/idealtest/056/056-033.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/115/115-027.bmp vs /home/shushi/Pic/idealtest/idealtest/084/084-029.bmp
+similarity: 59.06
+202 /home/shushi/Pic/idealtest/idealtest/113/113-019.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/104/104-007.bmp vs /home/shushi/Pic/idealtest/idealtest/006/006-006.bmp
+similarity: 24.41
+/home/shushi/Pic/idealtest/idealtest/117/117-023.bmp vs /home/shushi/Pic/idealtest/idealtest/121/121-001.bmp
+similarity: 29.13
+204 /home/shushi/Pic/idealtest/idealtest/037/037-022.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/109/109-036.bmp vs /home/shushi/Pic/idealtest/idealtest/098/098-006.bmp
+similarity: 30.71
+/home/shushi/Pic/idealtest/idealtest/088/088-020.bmp vs /home/shushi/Pic/idealtest/idealtest/023/023-008.bmp
+similarity: 56.69
+/home/shushi/Pic/idealtest/idealtest/123/123-023.bmp vs /home/shushi/Pic/idealtest/idealtest/101/101-021.bmp
+similarity: 55.12
+/home/shushi/Pic/idealtest/idealtest/016/016-023.bmp vs /home/shushi/Pic/idealtest/idealtest/080/080-031.bmp
+similarity: 70.08
+/home/shushi/Pic/idealtest/idealtest/100/100-010.bmp vs /home/shushi/Pic/idealtest/idealtest/097/097-025.bmp
+similarity: 49.61
+209 /home/shushi/Pic/idealtest/idealtest/011/011-037.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/090/090-009.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-015.bmp
+similarity: 44.88
+/home/shushi/Pic/idealtest/idealtest/067/067-037.bmp vs /home/shushi/Pic/idealtest/idealtest/083/083-011.bmp
+similarity: 29.13
+/home/shushi/Pic/idealtest/idealtest/088/088-021.bmp vs /home/shushi/Pic/idealtest/idealtest/030/030-031.bmp
+similarity: 23.62
+/home/shushi/Pic/idealtest/idealtest/094/094-011.bmp vs /home/shushi/Pic/idealtest/idealtest/059/059-001.bmp
+similarity: 32.28
+/home/shushi/Pic/idealtest/idealtest/109/109-014.bmp vs /home/shushi/Pic/idealtest/idealtest/078/078-011.bmp
+similarity: 35.43
+/home/shushi/Pic/idealtest/idealtest/032/032-035.bmp vs /home/shushi/Pic/idealtest/idealtest/030/030-004.bmp
+similarity: 71.65
+215 /home/shushi/Pic/idealtest/idealtest/019/019-037.bmp : 404 
+215 /home/shushi/Pic/idealtest/idealtest/107/107-032.bmp : 404 
+/home/shushi/Pic/idealtest/idealtest/121/121-036.bmp vs /home/shushi/Pic/idealtest/idealtest/018/018-024.bmp
+similarity: 13.39
+/home/shushi/Pic/idealtest/idealtest/081/081-004.bmp vs /home/shushi/Pic/idealtest/idealtest/100/100-033.bmp
+similarity: 48.82
+/home/shushi/Pic/idealtest/idealtest/103/103-019.bmp vs /home/shushi/Pic/idealtest/idealtest/063/063-004.bmp
+similarity: 68.5
+218 /home/shushi/Pic/idealtest/idealtest/074/074-022.bmp : 未检测到人脸
+218 /home/shushi/Pic/idealtest/idealtest/035/035-036.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/016/016-008.bmp vs /home/shushi/Pic/idealtest/idealtest/020/020-038.bmp
+similarity: 51.97
+/home/shushi/Pic/idealtest/idealtest/080/080-014.bmp vs /home/shushi/Pic/idealtest/idealtest/060/060-016.bmp
+similarity: 38.58
+220 /home/shushi/Pic/idealtest/idealtest/104/104-003.bmp : 404 
+220 /home/shushi/Pic/idealtest/idealtest/085/085-037.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/038/038-029.bmp vs /home/shushi/Pic/idealtest/idealtest/012/012-018.bmp
+similarity: 38.58
+221 /home/shushi/Pic/idealtest/idealtest/035/035-036.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/087/087-006.bmp vs /home/shushi/Pic/idealtest/idealtest/122/122-024.bmp
+similarity: 62.99
+/home/shushi/Pic/idealtest/idealtest/060/060-008.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-015.bmp
+similarity: 34.65
+/home/shushi/Pic/idealtest/idealtest/076/076-014.bmp vs /home/shushi/Pic/idealtest/idealtest/081/081-027.bmp
+similarity: 46.46
+/home/shushi/Pic/idealtest/idealtest/071/071-037.bmp vs /home/shushi/Pic/idealtest/idealtest/024/024-012.bmp
+similarity: 41.73
+/home/shushi/Pic/idealtest/idealtest/039/039-032.bmp vs /home/shushi/Pic/idealtest/idealtest/120/120-026.bmp
+similarity: 33.07
+/home/shushi/Pic/idealtest/idealtest/061/061-018.bmp vs /home/shushi/Pic/idealtest/idealtest/073/073-026.bmp
+similarity: 48.82
+/home/shushi/Pic/idealtest/idealtest/078/078-017.bmp vs /home/shushi/Pic/idealtest/idealtest/101/101-006.bmp
+similarity: 24.41
+228 /home/shushi/Pic/idealtest/idealtest/051/051-011.bmp : 404 
+228 /home/shushi/Pic/idealtest/idealtest/049/049-007.bmp : 404 
+228 /home/shushi/Pic/idealtest/idealtest/015/015-030.bmp : 未检测到人脸
+228 /home/shushi/Pic/idealtest/idealtest/076/076-030.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/032/032-032.bmp vs /home/shushi/Pic/idealtest/idealtest/081/081-025.bmp
+similarity: 55.91
+/home/shushi/Pic/idealtest/idealtest/002/002-027.bmp vs /home/shushi/Pic/idealtest/idealtest/064/064-035.bmp
+similarity: 64.57
+/home/shushi/Pic/idealtest/idealtest/081/081-036.bmp vs /home/shushi/Pic/idealtest/idealtest/104/104-021.bmp
+similarity: 53.54
+231 /home/shushi/Pic/idealtest/idealtest/112/112-036.bmp : 404 
+/home/shushi/Pic/idealtest/idealtest/025/025-032.bmp vs /home/shushi/Pic/idealtest/idealtest/034/034-007.bmp
+similarity: 48.03
+232 /home/shushi/Pic/idealtest/idealtest/089/089-028.bmp : 404 
+/home/shushi/Pic/idealtest/idealtest/075/075-031.bmp vs /home/shushi/Pic/idealtest/idealtest/040/040-013.bmp
+similarity: 33.07
+/home/shushi/Pic/idealtest/idealtest/052/052-029.bmp vs /home/shushi/Pic/idealtest/idealtest/061/061-008.bmp
+similarity: 62.2
+/home/shushi/Pic/idealtest/idealtest/057/057-014.bmp vs /home/shushi/Pic/idealtest/idealtest/058/058-004.bmp
+similarity: 22.83
+/home/shushi/Pic/idealtest/idealtest/062/062-012.bmp vs /home/shushi/Pic/idealtest/idealtest/025/025-038.bmp
+similarity: 41.73
+/home/shushi/Pic/idealtest/idealtest/075/075-024.bmp vs /home/shushi/Pic/idealtest/idealtest/051/051-010.bmp
+similarity: 62.99
+/home/shushi/Pic/idealtest/idealtest/081/081-025.bmp vs /home/shushi/Pic/idealtest/idealtest/086/086-030.bmp
+similarity: 55.91
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/078/078-009.bmp
+similarity: 24.41
+239 /home/shushi/Pic/idealtest/idealtest/018/018-033.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/016/016-004.bmp vs /home/shushi/Pic/idealtest/idealtest/095/095-026.bmp
+similarity: 62.99
+/home/shushi/Pic/idealtest/idealtest/069/069-021.bmp vs /home/shushi/Pic/idealtest/idealtest/029/029-036.bmp
+similarity: 63.78
+241 /home/shushi/Pic/idealtest/idealtest/116/116-028.bmp : 404 
+/home/shushi/Pic/idealtest/idealtest/114/114-002.bmp vs /home/shushi/Pic/idealtest/idealtest/041/041-025.bmp
+similarity: 37.8
+242 /home/shushi/Pic/idealtest/idealtest/023/023-018.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/119/119-023.bmp
+similarity: 56.69
+/home/shushi/Pic/idealtest/idealtest/006/006-038.bmp vs /home/shushi/Pic/idealtest/idealtest/063/063-032.bmp
+similarity: 25.98
+/home/shushi/Pic/idealtest/idealtest/087/087-025.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-036.bmp
+similarity: 16.54
+/home/shushi/Pic/idealtest/idealtest/055/055-001.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-008.bmp
+similarity: 58.27
+/home/shushi/Pic/idealtest/idealtest/022/022-008.bmp vs /home/shushi/Pic/idealtest/idealtest/102/102-028.bmp
+similarity: 44.09
+/home/shushi/Pic/idealtest/idealtest/085/085-011.bmp vs /home/shushi/Pic/idealtest/idealtest/080/080-004.bmp
+similarity: 12.6
+/home/shushi/Pic/idealtest/idealtest/089/089-037.bmp vs /home/shushi/Pic/idealtest/idealtest/088/088-031.bmp
+similarity: 33.07
+/home/shushi/Pic/idealtest/idealtest/004/004-018.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-027.bmp
+similarity: 55.91
+/home/shushi/Pic/idealtest/idealtest/039/039-016.bmp vs /home/shushi/Pic/idealtest/idealtest/082/082-020.bmp
+similarity: 28.35
+/home/shushi/Pic/idealtest/idealtest/097/097-023.bmp vs /home/shushi/Pic/idealtest/idealtest/096/096-029.bmp
+similarity: 70.08
+/home/shushi/Pic/idealtest/idealtest/051/051-013.bmp vs /home/shushi/Pic/idealtest/idealtest/045/045-017.bmp
+similarity: 44.09
+253 /home/shushi/Pic/idealtest/idealtest/014/014-036.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/041/041-034.bmp vs /home/shushi/Pic/idealtest/idealtest/105/105-015.bmp
+similarity: 59.84
+/home/shushi/Pic/idealtest/idealtest/097/097-034.bmp vs /home/shushi/Pic/idealtest/idealtest/002/002-036.bmp
+similarity: 35.43
+/home/shushi/Pic/idealtest/idealtest/038/038-037.bmp vs /home/shushi/Pic/idealtest/idealtest/114/114-030.bmp
+similarity: 33.86
+256 /home/shushi/Pic/idealtest/idealtest/102/102-019.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/020/020-036.bmp vs /home/shushi/Pic/idealtest/idealtest/023/023-006.bmp
+similarity: 51.18
+/home/shushi/Pic/idealtest/idealtest/005/005-023.bmp vs /home/shushi/Pic/idealtest/idealtest/020/020-009.bmp
+similarity: 54.33
+258 /home/shushi/Pic/idealtest/idealtest/046/046-025.bmp : 未检测到人脸
+258 /home/shushi/Pic/idealtest/idealtest/032/032-030.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/030/030-016.bmp vs /home/shushi/Pic/idealtest/idealtest/057/057-013.bmp
+similarity: 43.31
+/home/shushi/Pic/idealtest/idealtest/077/077-021.bmp vs /home/shushi/Pic/idealtest/idealtest/032/032-003.bmp
+similarity: 53.54
+/home/shushi/Pic/idealtest/idealtest/032/032-006.bmp vs /home/shushi/Pic/idealtest/idealtest/103/103-012.bmp
+similarity: 33.07
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/088/088-025.bmp
+similarity: 22.05
+/home/shushi/Pic/idealtest/idealtest/068/068-009.bmp vs /home/shushi/Pic/idealtest/idealtest/087/087-012.bmp
+similarity: 16.54
+/home/shushi/Pic/idealtest/idealtest/006/006-018.bmp vs /home/shushi/Pic/idealtest/idealtest/065/065-027.bmp
+similarity: 7.87
+/home/shushi/Pic/idealtest/idealtest/110/110-031.bmp vs /home/shushi/Pic/idealtest/idealtest/019/019-005.bmp
+similarity: 49.61
+/home/shushi/Pic/idealtest/idealtest/096/096-004.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-026.bmp
+similarity: 57.48
+266 /home/shushi/Pic/idealtest/idealtest/050/050-013.bmp : 404 
+266 /home/shushi/Pic/idealtest/idealtest/041/041-032.bmp : 404 
+/home/shushi/Pic/idealtest/idealtest/027/027-005.bmp vs /home/shushi/Pic/idealtest/idealtest/047/047-038.bmp
+similarity: 36.22
+267 /home/shushi/Pic/idealtest/idealtest/104/104-026.bmp : 404 
+/home/shushi/Pic/idealtest/idealtest/091/091-026.bmp vs /home/shushi/Pic/idealtest/idealtest/078/078-033.bmp
+similarity: 74.8
+/home/shushi/Pic/idealtest/idealtest/036/036-003.bmp vs /home/shushi/Pic/idealtest/idealtest/057/057-003.bmp
+similarity: 30.71
+/home/shushi/Pic/idealtest/idealtest/068/068-015.bmp vs /home/shushi/Pic/idealtest/idealtest/089/089-029.bmp
+similarity: 40.16
+/home/shushi/Pic/idealtest/idealtest/098/098-010.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-004.bmp
+similarity: 40.16
+/home/shushi/Pic/idealtest/idealtest/054/054-001.bmp vs /home/shushi/Pic/idealtest/idealtest/060/060-038.bmp
+similarity: 36.22
+272 /home/shushi/Pic/idealtest/idealtest/068/068-022.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/032/032-007.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-017.bmp
+similarity: 62.2
+273 /home/shushi/Pic/idealtest/idealtest/075/075-036.bmp : 未检测到人脸
+273 /home/shushi/Pic/idealtest/idealtest/094/094-015.bmp : 404 
+/home/shushi/Pic/idealtest/idealtest/036/036-002.bmp vs /home/shushi/Pic/idealtest/idealtest/073/073-004.bmp
+similarity: 33.86
+274 /home/shushi/Pic/idealtest/idealtest/023/023-026.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/040/040-013.bmp vs /home/shushi/Pic/idealtest/idealtest/082/082-006.bmp
+similarity: 14.17
+/home/shushi/Pic/idealtest/idealtest/087/087-018.bmp vs /home/shushi/Pic/idealtest/idealtest/084/084-024.bmp
+similarity: 41.73
+276 /home/shushi/Pic/idealtest/idealtest/072/072-022.bmp : 未检测到人脸
+276 /home/shushi/Pic/idealtest/idealtest/078/078-026.bmp : 未检测到人脸
+276 /home/shushi/Pic/idealtest/idealtest/095/095-022.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/062/062-012.bmp vs /home/shushi/Pic/idealtest/idealtest/061/061-004.bmp
+similarity: 11.02
+277 /home/shushi/Pic/idealtest/idealtest/082/082-033.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/056/056-035.bmp vs /home/shushi/Pic/idealtest/idealtest/038/038-038.bmp
+similarity: 52.76
+/home/shushi/Pic/idealtest/idealtest/122/122-011.bmp vs /home/shushi/Pic/idealtest/idealtest/065/065-016.bmp
+similarity: 49.61
+/home/shushi/Pic/idealtest/idealtest/086/086-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-012.bmp
+similarity: 29.92
+280 /home/shushi/Pic/idealtest/idealtest/026/026-030.bmp : 未检测到人脸
+280 /home/shushi/Pic/idealtest/idealtest/111/111-030.bmp : 未检测到人脸
+280 /home/shushi/Pic/idealtest/idealtest/065/065-030.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/014/014-032.bmp vs /home/shushi/Pic/idealtest/idealtest/016/016-014.bmp
+similarity: 40.94
+281 /home/shushi/Pic/idealtest/idealtest/041/041-014.bmp : 404 
+281 /home/shushi/Pic/idealtest/idealtest/053/053-026.bmp : 未检测到人脸
+281 /home/shushi/Pic/idealtest/idealtest/068/068-036.bmp : 404 
+281 /home/shushi/Pic/idealtest/idealtest/044/044-030.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/052/052-002.bmp vs /home/shushi/Pic/idealtest/idealtest/016/016-024.bmp
+similarity: 29.13
+/home/shushi/Pic/idealtest/idealtest/061/061-034.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-034.bmp
+similarity: 48.82
+/home/shushi/Pic/idealtest/idealtest/069/069-032.bmp vs /home/shushi/Pic/idealtest/idealtest/047/047-038.bmp
+similarity: 23.62
+/home/shushi/Pic/idealtest/idealtest/080/080-004.bmp vs /home/shushi/Pic/idealtest/idealtest/100/100-009.bmp
+similarity: 29.13
+/home/shushi/Pic/idealtest/idealtest/098/098-034.bmp vs /home/shushi/Pic/idealtest/idealtest/060/060-027.bmp
+similarity: 53.54
+286 /home/shushi/Pic/idealtest/idealtest/099/099-034.bmp : 404 
+286 /home/shushi/Pic/idealtest/idealtest/010/010-004.bmp : 404 
+286 /home/shushi/Pic/idealtest/idealtest/095/095-030.bmp : 未检测到人脸
+286 /home/shushi/Pic/idealtest/idealtest/081/081-030.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/013/013-014.bmp vs /home/shushi/Pic/idealtest/idealtest/001/001-001.bmp
+similarity: 59.06
+287 /home/shushi/Pic/idealtest/idealtest/044/044-002.bmp : 404 
+/home/shushi/Pic/idealtest/idealtest/082/082-017.bmp vs /home/shushi/Pic/idealtest/idealtest/096/096-011.bmp
+similarity: 62.2
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/054/054-012.bmp
+similarity: 25.2
+/home/shushi/Pic/idealtest/idealtest/110/110-021.bmp vs /home/shushi/Pic/idealtest/idealtest/101/101-012.bmp
+similarity: 29.92
+/home/shushi/Pic/idealtest/idealtest/026/026-010.bmp vs /home/shushi/Pic/idealtest/idealtest/117/117-003.bmp
+similarity: 23.62
+/home/shushi/Pic/idealtest/idealtest/052/052-009.bmp vs /home/shushi/Pic/idealtest/idealtest/093/093-016.bmp
+similarity: 54.33
+/home/shushi/Pic/idealtest/idealtest/105/105-012.bmp vs /home/shushi/Pic/idealtest/idealtest/012/012-004.bmp
+similarity: 45.67
+293 /home/shushi/Pic/idealtest/idealtest/001/001-022.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/086/086-020.bmp vs /home/shushi/Pic/idealtest/idealtest/081/081-023.bmp
+similarity: 40.94
+/home/shushi/Pic/idealtest/idealtest/075/075-015.bmp vs /home/shushi/Pic/idealtest/idealtest/040/040-005.bmp
+similarity: 44.88
+295 /home/shushi/Pic/idealtest/idealtest/051/051-015.bmp : 404 
+295 /home/shushi/Pic/idealtest/idealtest/035/035-013.bmp : 404 
+295 /home/shushi/Pic/idealtest/idealtest/021/021-019.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/048/048-034.bmp vs /home/shushi/Pic/idealtest/idealtest/040/040-018.bmp
+similarity: 61.42
+/home/shushi/Pic/idealtest/idealtest/113/113-032.bmp vs /home/shushi/Pic/idealtest/idealtest/010/010-005.bmp
+similarity: 41.73
+/home/shushi/Pic/idealtest/idealtest/041/041-029.bmp vs /home/shushi/Pic/idealtest/idealtest/082/082-038.bmp
+similarity: 17.32
+298 /home/shushi/Pic/idealtest/idealtest/052/052-014.bmp : 404 
+298 /home/shushi/Pic/idealtest/idealtest/049/049-030.bmp : 未检测到人脸
+/home/shushi/Pic/idealtest/idealtest/101/101-018.bmp vs /home/shushi/Pic/idealtest/idealtest/093/093-031.bmp
+similarity: 61.42
+/home/shushi/Pic/idealtest/idealtest/028/028-011.bmp vs /home/shushi/Pic/idealtest/idealtest/004/004-014.bmp
+similarity: 61.42

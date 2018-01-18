@@ -1,0 +1,1460 @@
+0.9136104286539144
+
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-020.bmp
+confidence:0.9712371230125427
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-037.bmp
+confidence:0.966281533241272
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-029.bmp
+confidence:0.9369431734085083
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-032.bmp
+confidence:0.9512104392051697
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-013.bmp
+confidence:0.9795617461204529
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-025.bmp
+confidence:0.9641338586807251
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-008.bmp
+confidence:0.9795745611190796
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-012.bmp
+confidence:0.9732433557510376
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-002.bmp
+confidence:0.9819843769073486
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-028.bmp
+confidence:0.9532517790794373
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-021.bmp
+confidence:0.9642541408538818
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-005.bmp
+confidence:0.984574019908905
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-016.bmp
+confidence:0.9743358492851257
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-023.bmp
+confidence:0.9667596817016602
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-031.bmp
+confidence:0.973534345626831
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-009.bmp
+confidence:0.968585729598999
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-015.bmp
+confidence:0.9529492855072021
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-034.bmp
+confidence:0.9653242826461792
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-010.bmp
+confidence:0.9628602862358093
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-026.bmp
+confidence:0.9732558131217957
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-017.bmp
+confidence:0.9556171894073486
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-014.bmp
+confidence:0.9754253029823303
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-018.bmp
+confidence:0.9169707894325256
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-036.bmp
+confidence:0.94933021068573
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-004.bmp
+confidence:0.9891086220741272
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-022.bmp
+confidence:0.9202471971511841
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-003.bmp
+confidence:0.9873700141906738
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-007.bmp
+confidence:0.9682180285453796
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-024.bmp
+confidence:0.9611934423446655
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-033.bmp
+confidence:0.9231708645820618
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-019.bmp
+confidence:0.9070355892181396
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-027.bmp
+confidence:0.9833247661590576
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-011.bmp
+confidence:0.9794230461120605
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-030.bmp
+confidence:0.8755411505699158
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-006.bmp
+confidence:0.9740131497383118
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-035.bmp
+confidence:0.9550976157188416
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-036.bmp
+confidence:0.9338393807411194
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-012.bmp
+confidence:0.9280977845191956
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-011.bmp
+confidence:0.9372066855430603
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-020.bmp
+confidence:0.9718460440635681
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-035.bmp
+confidence:0.9121070504188538
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-019.bmp
+confidence:0.7399653196334839
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-005.bmp
+confidence:0.9355950951576233
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-006.bmp
+confidence:0.8974334597587585
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-032.bmp
+confidence:0.970470130443573
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-038.bmp
+confidence:0.9270846843719482
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-004.bmp
+confidence:0.9378089308738708
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-016.bmp
+confidence:0.934421956539154
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-015.bmp
+confidence:0.9255850911140442
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-027.bmp
+confidence:0.9371019601821899
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-030.bmp
+confidence:0.5225237607955933
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-010.bmp
+confidence:0.9353216886520386
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-034.bmp
+confidence:0.929088830947876
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-001.bmp
+confidence:0.9333963990211487
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-017.bmp
+confidence:0.9295954704284668
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-033.bmp
+confidence:0.9128943085670471
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-002.bmp
+confidence:0.937263011932373
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-026.bmp
+confidence:0.9468171000480652
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-022.bmp
+confidence:0.9515459537506104
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-014.bmp
+confidence:0.9380412697792053
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-018.bmp
+confidence:0.9186633229255676
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-007.bmp
+confidence:0.9242794513702393
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-031.bmp
+confidence:0.9707157015800476
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-025.bmp
+confidence:0.9300493597984314
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-024.bmp
+confidence:0.9183144569396973
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-037.bmp
+confidence:0.9450920224189758
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-013.bmp
+confidence:0.914883017539978
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-003.bmp
+confidence:0.9393576979637146
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-023.bmp
+confidence:0.9336590766906738
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-008.bmp
+confidence:0.9189227223396301
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-028.bmp
+confidence:0.9225581288337708
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-009.bmp
+confidence:0.9214577078819275
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-029.bmp
+confidence:0.9388984441757202
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-011.bmp
+confidence:0.9809313416481018
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-018.bmp
+confidence:0.6003275513648987
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-014.bmp
+confidence:0.969592273235321
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-031.bmp
+confidence:0.9708337783813477
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-025.bmp
+confidence:0.9693135023117065
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-016.bmp
+confidence:0.9787654876708984
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-008.bmp
+confidence:0.9690797328948975
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-017.bmp
+confidence:0.9212893843650818
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-037.bmp
+confidence:0.9678283333778381
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-027.bmp
+confidence:0.9687820672988892
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-009.bmp
+confidence:0.9554123878479004
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-022.bmp
+confidence:0.7701290249824524
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-034.bmp
+confidence:0.921167254447937
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-032.bmp
+confidence:0.9544150829315186
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-029.bmp
+confidence:0.8895454406738281
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-013.bmp
+confidence:0.9688273668289185
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-019.bmp
+confidence:0.3884841203689575
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-020.bmp
+confidence:0.9627200961112976
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-002.bmp
+confidence:0.9781991243362427
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-033.bmp
+confidence:0.8738025426864624
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-023.bmp
+confidence:0.9377405047416687
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-028.bmp
+confidence:0.9246606826782227
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-021.bmp
+confidence:0.941908061504364
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-030.bmp
+confidence:0.3777429759502411
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-035.bmp
+confidence:0.9185628294944763
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-010.bmp
+confidence:0.9574795961380005
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-015.bmp
+confidence:0.96523517370224
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-012.bmp
+confidence:0.9694532155990601
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-007.bmp
+confidence:0.9515376687049866
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-036.bmp
+confidence:0.963352382183075
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-005.bmp
+confidence:0.9794039130210876
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-026.bmp
+confidence:0.9747660160064697
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-038.bmp
+confidence:0.959289014339447
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-006.bmp
+confidence:0.9734586477279663
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-004.bmp
+confidence:0.9833346605300903
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-024.bmp
+confidence:0.9118478298187256
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-001.bmp
+confidence:0.983450174331665
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-036.bmp
+confidence:0.9596931338310242
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-034.bmp
+confidence:0.9599807858467102
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-005.bmp
+confidence:0.9907276630401611
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-017.bmp
+confidence:0.9653959274291992
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-032.bmp
+confidence:0.9594841599464417
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-022.bmp
+confidence:0.9105452299118042
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-009.bmp
+confidence:0.9768105149269104
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-011.bmp
+confidence:0.9816362261772156
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-035.bmp
+confidence:0.9497236609458923
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-023.bmp
+confidence:0.9616214036941528
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-001.bmp
+confidence:0.9864381551742554
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-020.bmp
+confidence:0.9774842262268066
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-021.bmp
+confidence:0.9706011414527893
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-030.bmp
+confidence:0.9031122922897339
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-028.bmp
+confidence:0.9586136341094971
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-006.bmp
+confidence:0.9750874042510986
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-033.bmp
+confidence:0.9070019721984863
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-019.bmp
+confidence:0.901180624961853
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-007.bmp
+confidence:0.9637667536735535
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-018.bmp
+confidence:0.9307057857513428
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-031.bmp
+confidence:0.9786011576652527
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-013.bmp
+confidence:0.9602381587028503
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-025.bmp
+confidence:0.9645890593528748
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-029.bmp
+confidence:0.9314256310462952
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-002.bmp
+confidence:0.9898844361305237
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-010.bmp
+confidence:0.9689521193504333
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-015.bmp
+confidence:0.9670763611793518
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-037.bmp
+confidence:0.9697825908660889
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-014.bmp
+confidence:0.980265200138092
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-012.bmp
+confidence:0.9769335985183716
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-026.bmp
+confidence:0.9705693125724792
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-016.bmp
+confidence:0.9870352149009705
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-027.bmp
+confidence:0.9836088418960571
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-004.bmp
+confidence:0.9851600527763367
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-024.bmp
+confidence:0.9549007415771484
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-008.bmp
+confidence:0.9600862264633179
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-012.bmp
+confidence:0.9457491040229797
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-005.bmp
+confidence:0.9447097182273865
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-009.bmp
+confidence:0.9463890790939331
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-032.bmp
+confidence:0.9454852938652039
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-016.bmp
+confidence:0.9479464292526245
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-027.bmp
+confidence:0.9472320079803467
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-013.bmp
+confidence:0.9388014674186707
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-023.bmp
+confidence:0.9377179741859436
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-019.bmp
+confidence:0.46778443455696106
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-001.bmp
+confidence:0.9482144713401794
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-004.bmp
+confidence:0.9440740942955017
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-025.bmp
+confidence:0.9677412509918213
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-008.bmp
+confidence:0.9480414986610413
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-026.bmp
+confidence:0.9510009288787842
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-003.bmp
+confidence:0.9398472309112549
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-015.bmp
+confidence:0.9443685412406921
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-024.bmp
+confidence:0.9253042936325073
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-029.bmp
+confidence:0.9168151617050171
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-007.bmp
+confidence:0.9408648014068604
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-022.bmp
+confidence:0.5407329797744751
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-010.bmp
+confidence:0.9427242279052734
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-031.bmp
+confidence:0.944462239742279
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-018.bmp
+confidence:0.9155904650688171
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-020.bmp
+confidence:0.9575803875923157
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-034.bmp
+confidence:0.9402504563331604
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-030.bmp
+confidence:0.4572576582431793
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-036.bmp
+confidence:0.9632363319396973
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-006.bmp
+confidence:0.9551233053207397
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-014.bmp
+confidence:0.9380372762680054
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-035.bmp
+confidence:0.9131137132644653
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-002.bmp
+confidence:0.9460934996604919
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-033.bmp
+confidence:0.37214311957359314
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-011.bmp
+confidence:0.9487630724906921
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-017.bmp
+confidence:0.9734579920768738
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-037.bmp
+confidence:0.9518720507621765
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-021.bmp
+confidence:0.9534608721733093
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-021.bmp
+confidence:0.9100708365440369
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-020.bmp
+confidence:0.9092485308647156
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-031.bmp
+confidence:0.9346716403961182
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-030.bmp
+confidence:0.5078689455986023
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-005.bmp
+confidence:0.9489105939865112
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-016.bmp
+confidence:0.9524223208427429
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-017.bmp
+confidence:0.92863929271698
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-002.bmp
+confidence:0.9519656896591187
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-011.bmp
+confidence:0.9471985697746277
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-022.bmp
+confidence:0.4273047149181366
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-038.bmp
+confidence:0.9509859681129456
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-032.bmp
+confidence:0.9105443358421326
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-012.bmp
+confidence:0.9412544965744019
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-007.bmp
+confidence:0.9488861560821533
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-027.bmp
+confidence:0.9490578770637512
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-001.bmp
+confidence:0.9620548486709595
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-006.bmp
+confidence:0.9733829498291016
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-033.bmp
+confidence:0.41533082723617554
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-019.bmp
+confidence:0.3986563980579376
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-025.bmp
+confidence:0.9666160941123962
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-013.bmp
+confidence:0.9437243342399597
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-026.bmp
+confidence:0.9425175786018372
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-036.bmp
+confidence:0.9565228819847107
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-009.bmp
+confidence:0.9666060209274292
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-010.bmp
+confidence:0.9562243819236755
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-029.bmp
+confidence:0.9238455295562744
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-023.bmp
+confidence:0.9332084655761719
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-014.bmp
+confidence:0.9289765954017639
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-037.bmp
+confidence:0.9183277487754822
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-028.bmp
+confidence:0.9309703707695007
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-003.bmp
+confidence:0.9507346153259277
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-008.bmp
+confidence:0.9641156792640686
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-015.bmp
+confidence:0.9410184025764465
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-034.bmp
+confidence:0.9347516298294067
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-024.bmp
+confidence:0.982782244682312
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-004.bmp
+confidence:0.9491532444953918
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-018.bmp
+confidence:0.9262666702270508
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-017.bmp
+confidence:0.9132093787193298
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-011.bmp
+confidence:0.9512242674827576
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-020.bmp
+confidence:0.970422089099884
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-032.bmp
+confidence:0.9894943833351135
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-015.bmp
+confidence:0.9401864409446716
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-030.bmp
+confidence:0.3446626365184784
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-036.bmp
+confidence:0.9430012106895447
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-007.bmp
+confidence:0.9453916549682617
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-014.bmp
+confidence:0.9479060173034668
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-027.bmp
+confidence:0.9413570165634155
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-022.bmp
+confidence:0.38834115862846375
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-006.bmp
+confidence:0.9331639409065247
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-002.bmp
+confidence:0.9543379545211792
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-037.bmp
+confidence:0.9514950513839722
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-012.bmp
+confidence:0.9404159784317017
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-001.bmp
+confidence:0.9564878344535828
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-019.bmp
+confidence:0.3528001308441162
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-013.bmp
+confidence:0.9481481909751892
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-033.bmp
+confidence:0.6747846007347107
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-010.bmp
+confidence:0.9408756494522095
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-028.bmp
+confidence:0.9219780564308167
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-025.bmp
+error: NO_FACE_DETECTED image: historical_selfie
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-035.bmp
+confidence:0.919712245464325
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-005.bmp
+confidence:0.9532317519187927
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-009.bmp
+confidence:0.9405778646469116
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-004.bmp
+confidence:0.9507773518562317
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-026.bmp
+confidence:0.9679152965545654
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-023.bmp
+confidence:0.9471048712730408
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-029.bmp
+confidence:0.7010404467582703
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-024.bmp
+confidence:0.9247768521308899
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-008.bmp
+confidence:0.9491546154022217
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-016.bmp
+confidence:0.9486166834831238
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-018.bmp
+confidence:0.6295148730278015
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-034.bmp
+confidence:0.9494019150733948
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-031.bmp
+confidence:0.9765348434448242
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-003.bmp
+confidence:0.9547463059425354
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-013.bmp
+confidence:0.9554298520088196
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-010.bmp
+confidence:0.9574586749076843
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-012.bmp
+confidence:0.9871360063552856
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-030.bmp
+confidence:0.3716919720172882
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-019.bmp
+confidence:0.3528969883918762
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-031.bmp
+confidence:0.9696856737136841
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-017.bmp
+confidence:0.9188660979270935
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-034.bmp
+confidence:0.9622569680213928
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-023.bmp
+confidence:0.9505890607833862
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-003.bmp
+confidence:0.9799962043762207
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-015.bmp
+confidence:0.9594420194625854
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-029.bmp
+confidence:0.9162303805351257
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-036.bmp
+confidence:0.9489076733589172
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-037.bmp
+confidence:0.9537878036499023
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-035.bmp
+confidence:0.9410375356674194
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-007.bmp
+confidence:0.974299430847168
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-033.bmp
+confidence:0.45154404640197754
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-025.bmp
+confidence:0.9547068476676941
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-001.bmp
+confidence:0.9800927042961121
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-016.bmp
+confidence:0.9746537208557129
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-002.bmp
+confidence:0.9786725044250488
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-005.bmp
+confidence:0.9843019247055054
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-022.bmp
+confidence:0.47692471742630005
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-004.bmp
+confidence:0.9818323254585266
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-026.bmp
+confidence:0.9550042152404785
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-032.bmp
+confidence:0.9346790313720703
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-020.bmp
+confidence:0.9574849009513855
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-028.bmp
+confidence:0.9315060377120972
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-018.bmp
+confidence:0.5927265882492065
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-008.bmp
+confidence:0.9674016237258911
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-006.bmp
+confidence:0.9819064736366272
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-027.bmp
+confidence:0.9788110256195068
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-014.bmp
+confidence:0.9595115780830383
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-021.bmp
+confidence:0.9355311393737793
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-009.bmp
+confidence:0.9594863057136536
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-024.bmp
+confidence:0.918148934841156
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-033.bmp
+confidence:0.9777860045433044
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-024.bmp
+confidence:0.8881586790084839
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-025.bmp
+confidence:0.9121184945106506
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-016.bmp
+confidence:0.9035229086875916
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-005.bmp
+confidence:0.9064317941665649
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-027.bmp
+confidence:0.9040990471839905
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-020.bmp
+confidence:0.9370893239974976
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-021.bmp
+confidence:0.9492321014404297
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-018.bmp
+confidence:0.928295373916626
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-001.bmp
+confidence:0.9019642472267151
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-011.bmp
+confidence:0.9089377522468567
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-015.bmp
+confidence:0.9101083278656006
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-036.bmp
+confidence:0.9166291356086731
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-037.bmp
+confidence:0.9291374683380127
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-028.bmp
+confidence:0.915141761302948
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-030.bmp
+confidence:0.9017370939254761
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-019.bmp
+confidence:0.8127288222312927
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-002.bmp
+confidence:0.9033710956573486
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-008.bmp
+confidence:0.9068594574928284
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-009.bmp
+confidence:0.7400060296058655
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-031.bmp
+confidence:0.926698625087738
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-023.bmp
+confidence:0.9076352715492249
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-014.bmp
+confidence:0.8468879461288452
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-035.bmp
+confidence:0.84725421667099
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-006.bmp
+confidence:0.8937889933586121
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-007.bmp
+confidence:0.8285740613937378
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-012.bmp
+confidence:0.8440188765525818
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-034.bmp
+confidence:0.9087721109390259
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-004.bmp
+confidence:0.9066982269287109
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-032.bmp
+confidence:0.9439929127693176
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-029.bmp
+confidence:0.9170680046081543
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-003.bmp
+confidence:0.9088881015777588
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-010.bmp
+confidence:0.9066789150238037
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-026.bmp
+confidence:0.9361639022827148
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-017.bmp
+confidence:0.9209310412406921
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-013.bmp
+confidence:0.9057190418243408
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-027.bmp
+confidence:0.9776318669319153
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-022.bmp
+confidence:0.41782045364379883
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-020.bmp
+confidence:0.9602935314178467
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-034.bmp
+confidence:0.9755128026008606
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-021.bmp
+confidence:0.9504888653755188
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-015.bmp
+confidence:0.9785352349281311
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-037.bmp
+confidence:0.9825858473777771
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-026.bmp
+confidence:0.9770740270614624
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-031.bmp
+confidence:0.9608560800552368
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-010.bmp
+confidence:0.9772995710372925
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-017.bmp
+confidence:0.9477283954620361
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-009.bmp
+confidence:0.9847496747970581
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-023.bmp
+confidence:0.9707733392715454
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-019.bmp
+confidence:0.3680727779865265
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-018.bmp
+confidence:0.9286472201347351
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-005.bmp
+confidence:0.990212619304657
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-012.bmp
+confidence:0.9863629341125488
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-035.bmp
+confidence:0.9662138223648071
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-013.bmp
+confidence:0.9791578054428101
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-006.bmp
+confidence:0.9870585203170776
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-036.bmp
+confidence:0.9862581491470337
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-033.bmp
+confidence:0.4725427031517029
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-001.bmp
+confidence:0.9915474653244019
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-011.bmp
+confidence:0.9888455271720886
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-014.bmp
+confidence:0.9868438243865967
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-024.bmp
+confidence:0.9722697734832764
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-028.bmp
+confidence:0.9489222168922424
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-016.bmp
+confidence:0.9837981462478638
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-029.bmp
+confidence:0.9012933969497681
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-030.bmp
+confidence:0.39968737959861755
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-032.bmp
+confidence:0.9371342062950134
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-008.bmp
+confidence:0.9698973298072815
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-025.bmp
+confidence:0.986241340637207
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-003.bmp
+confidence:0.9873751401901245
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-002.bmp
+confidence:0.9932368397712708
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-007.bmp
+confidence:0.9857175350189209
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-026.bmp
+confidence:0.9425591826438904
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-023.bmp
+confidence:0.9486612677574158
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-028.bmp
+confidence:0.9344424605369568
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-013.bmp
+confidence:0.9614118933677673
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-012.bmp
+confidence:0.9561447501182556
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-016.bmp
+confidence:0.9471793174743652
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-011.bmp
+confidence:0.9561094641685486
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-033.bmp
+confidence:0.6572360396385193
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-003.bmp
+confidence:0.9510415196418762
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-022.bmp
+confidence:0.46702268719673157
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-017.bmp
+confidence:0.9327166676521301
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-004.bmp
+confidence:0.9468607306480408
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-002.bmp
+confidence:0.9487826228141785
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-020.bmp
+confidence:0.9598292112350464
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-018.bmp
+confidence:0.8424645066261292
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-035.bmp
+confidence:0.9205929636955261
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-007.bmp
+confidence:0.961329996585846
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-036.bmp
+confidence:0.9451457262039185
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-006.bmp
+confidence:0.9622831344604492
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-029.bmp
+confidence:0.9108951687812805
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-015.bmp
+confidence:0.948254406452179
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-014.bmp
+confidence:0.9592200517654419
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-019.bmp
+confidence:0.3873923122882843
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-008.bmp
+confidence:0.9570496082305908
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-005.bmp
+confidence:0.9517658352851868
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-034.bmp
+confidence:0.9635744690895081
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-037.bmp
+confidence:0.9445074796676636
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-038.bmp
+confidence:0.9292113184928894
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-021.bmp
+confidence:0.963159441947937
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-009.bmp
+confidence:0.959994375705719
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-027.bmp
+confidence:0.9526944160461426
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-032.bmp
+confidence:0.9619629383087158
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-010.bmp
+confidence:0.9352588057518005
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-025.bmp
+confidence:0.9449836015701294
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-024.bmp
+confidence:0.9121310114860535
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-030.bmp
+confidence:0.393489271402359
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-001.bmp
+confidence:0.9466143250465393
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-011.bmp
+confidence:0.9867663979530334
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-013.bmp
+confidence:0.9868002533912659
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-024.bmp
+confidence:0.9521070718765259
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-007.bmp
+confidence:0.972071647644043
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-004.bmp
+confidence:0.9925379753112793
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-021.bmp
+confidence:0.9236232042312622
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-014.bmp
+confidence:0.9824234247207642
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-006.bmp
+confidence:0.9867028594017029
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-029.bmp
+confidence:0.9352389574050903
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-033.bmp
+confidence:0.35772615671157837
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-036.bmp
+error: NO_FACE_DETECTED image: historical_selfie
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-030.bmp
+confidence:0.4047864079475403
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-016.bmp
+confidence:0.9775107502937317
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-020.bmp
+confidence:0.944018542766571
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-023.bmp
+confidence:0.9676134586334229
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-008.bmp
+confidence:0.9848177433013916
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-022.bmp
+confidence:0.32787778973579407
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-026.bmp
+confidence:0.952900767326355
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-018.bmp
+confidence:0.9221855401992798
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-027.bmp
+confidence:0.981926679611206
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-032.bmp
+confidence:0.9293271899223328
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-037.bmp
+error: NO_FACE_DETECTED image: historical_selfie
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-038.bmp
+confidence:0.9548035860061646
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-015.bmp
+confidence:0.9749435186386108
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-003.bmp
+confidence:0.9857919812202454
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-028.bmp
+confidence:0.9640750885009766
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-010.bmp
+confidence:0.9779415130615234
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-025.bmp
+confidence:0.9682928323745728
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-002.bmp
+confidence:0.9881442189216614
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-001.bmp
+confidence:0.9850392937660217
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-009.bmp
+confidence:0.9772946834564209
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-019.bmp
+confidence:0.4992898106575012
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-035.bmp
+confidence:0.9521070718765259
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-031.bmp
+confidence:0.9420535564422607
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-034.bmp
+confidence:0.9671822786331177
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-012.bmp
+confidence:0.9770232439041138
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-017.bmp
+confidence:0.9606260657310486
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-006.bmp
+confidence:0.9683762192726135
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-024.bmp
+confidence:0.9398074746131897
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-018.bmp
+confidence:0.9110669493675232
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-012.bmp
+confidence:0.9522362947463989
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-014.bmp
+confidence:0.9504964351654053
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-021.bmp
+confidence:0.9452871084213257
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-003.bmp
+confidence:0.9565296769142151
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-022.bmp
+confidence:0.9122406244277954
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-007.bmp
+confidence:0.9544403553009033
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-009.bmp
+confidence:0.9452002644538879
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-030.bmp
+confidence:0.7006846070289612
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-034.bmp
+confidence:0.9744189977645874
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-031.bmp
+confidence:0.988065242767334
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-019.bmp
+confidence:0.6969965100288391
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-026.bmp
+confidence:0.9684668183326721
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-008.bmp
+confidence:0.9434589147567749
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-010.bmp
+confidence:0.9421891570091248
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-028.bmp
+confidence:0.9356772303581238
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-015.bmp
+confidence:0.9467273950576782
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-037.bmp
+confidence:0.9615349769592285
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-005.bmp
+confidence:0.9625653028488159
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-001.bmp
+confidence:0.9573642611503601
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-016.bmp
+confidence:0.9689621329307556
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-002.bmp
+confidence:0.956618070602417
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-032.bmp
+confidence:0.9636005163192749
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-029.bmp
+confidence:0.9013479351997375
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-004.bmp
+confidence:0.9578844904899597
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-036.bmp
+confidence:0.9604932069778442
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-035.bmp
+confidence:0.9306043982505798
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-023.bmp
+confidence:0.9637807011604309
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-011.bmp
+confidence:0.9607446789741516
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-013.bmp
+confidence:0.9503410458564758
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-027.bmp
+confidence:0.9661476612091064
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-025.bmp
+confidence:0.9634602665901184
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-033.bmp
+confidence:0.9146468639373779
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-017.bmp
+confidence:0.9435593485832214
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-010.bmp
+confidence:0.9777916073799133
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-004.bmp
+confidence:0.9938282370567322
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-030.bmp
+confidence:0.6521760821342468
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-018.bmp
+confidence:0.9132631421089172
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-038.bmp
+confidence:0.9696517586708069
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-003.bmp
+confidence:0.9928315281867981
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-033.bmp
+confidence:0.8096092343330383
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-006.bmp
+confidence:0.9855276942253113
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-011.bmp
+confidence:0.9889332056045532
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-026.bmp
+confidence:0.9807785749435425
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-023.bmp
+confidence:0.9505013823509216
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-024.bmp
+confidence:0.958330512046814
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-020.bmp
+confidence:0.9630497694015503
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-001.bmp
+confidence:0.9957496523857117
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-016.bmp
+confidence:0.9897936582565308
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-013.bmp
+confidence:0.9808276295661926
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-007.bmp
+confidence:0.9708114266395569
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-028.bmp
+confidence:0.9557759165763855
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-036.bmp
+confidence:0.9644114971160889
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-021.bmp
+confidence:0.9560245275497437
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-037.bmp
+confidence:0.9746935367584229
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-019.bmp
+confidence:0.5874535441398621
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-014.bmp
+confidence:0.9868646264076233
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-025.bmp
+confidence:0.984140932559967
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-017.bmp
+confidence:0.9574127793312073
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-009.bmp
+confidence:0.9833092093467712
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-031.bmp
+confidence:0.9636515974998474
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-032.bmp
+confidence:0.9576444625854492
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-008.bmp
+confidence:0.9717501401901245
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-029.bmp
+confidence:0.9244115948677063
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-034.bmp
+confidence:0.9520934820175171
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-027.bmp
+confidence:0.9830194115638733
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-022.bmp
+confidence:0.5772339105606079
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-005.bmp
+confidence:0.9951364994049072
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-012.bmp
+confidence:0.9785613417625427
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-015.bmp
+confidence:0.9752932786941528
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-035.bmp
+confidence:0.9624402523040771
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-002.bmp
+confidence:0.9668009877204895
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-036.bmp
+confidence:0.9558219313621521
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-021.bmp
+confidence:0.9321345686912537
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-029.bmp
+confidence:0.7548484206199646
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-027.bmp
+confidence:0.9707172513008118
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-018.bmp
+confidence:0.9061328768730164
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-015.bmp
+confidence:0.9606643915176392
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-023.bmp
+confidence:0.9479067921638489
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-032.bmp
+confidence:0.9383159875869751
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-012.bmp
+confidence:0.9438785314559937
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-011.bmp
+confidence:0.9403218030929565
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-024.bmp
+confidence:0.9678183197975159
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-008.bmp
+confidence:0.955024003982544
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-020.bmp
+confidence:0.9448950886726379
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-034.bmp
+confidence:0.9449991583824158
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-022.bmp
+confidence:0.9006125330924988
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-030.bmp
+confidence:0.3917965292930603
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-013.bmp
+confidence:0.9401554465293884
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-017.bmp
+confidence:0.9472079277038574
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-005.bmp
+confidence:0.948286771774292
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-033.bmp
+confidence:0.8061730861663818
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-037.bmp
+confidence:0.9615167379379272
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-026.bmp
+confidence:0.9636431932449341
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-035.bmp
+confidence:0.9610908627510071
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-031.bmp
+confidence:0.9451408982276917
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-007.bmp
+confidence:0.9657132029533386
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-003.bmp
+confidence:0.9604870080947876
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-038.bmp
+confidence:0.9693253040313721
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-004.bmp
+confidence:0.9609460234642029
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-019.bmp
+confidence:0.3928945064544678
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-001.bmp
+confidence:0.9624717235565186
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-009.bmp
+confidence:0.9588137865066528
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-025.bmp
+confidence:0.9574384093284607
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-006.bmp
+confidence:0.9676989316940308
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-028.bmp
+confidence:0.9385589361190796
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-014.bmp
+confidence:0.9417534470558167
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-016.bmp
+confidence:0.962943971157074
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-025.bmp
+confidence:0.981437623500824
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-009.bmp
+confidence:0.9894900918006897
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-010.bmp
+confidence:0.971943199634552
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-022.bmp
+confidence:0.6661689877510071
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-017.bmp
+confidence:0.9422241449356079
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-028.bmp
+confidence:0.9470394253730774
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-014.bmp
+confidence:0.9906105399131775
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-004.bmp
+confidence:0.9883079528808594
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-002.bmp
+confidence:0.9788914918899536
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-020.bmp
+confidence:0.9781908392906189
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-012.bmp
+confidence:0.9912084341049194
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-036.bmp
+confidence:0.9750046133995056
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-008.bmp
+confidence:0.9732036590576172
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-018.bmp
+confidence:0.9004626274108887
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-023.bmp
+confidence:0.9680346846580505
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-007.bmp
+confidence:0.9897404909133911
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-034.bmp
+confidence:0.9836866855621338
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-037.bmp
+confidence:0.975225567817688
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-029.bmp
+confidence:0.8226487040519714
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-035.bmp
+confidence:0.9474060535430908
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-006.bmp
+confidence:0.9870700836181641
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-026.bmp
+confidence:0.9779430627822876
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-013.bmp
+confidence:0.9794204831123352
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-016.bmp
+confidence:0.9880716800689697
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-003.bmp
+confidence:0.9796233177185059
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-031.bmp
+confidence:0.971865713596344
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-030.bmp
+confidence:0.3912334442138672
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-024.bmp
+confidence:0.9503313899040222
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-021.bmp
+confidence:0.9517557621002197
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-001.bmp
+confidence:0.9873201251029968
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-032.bmp
+confidence:0.9467720985412598
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-027.bmp
+confidence:0.99217689037323
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-005.bmp
+confidence:0.985594630241394
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-033.bmp
+confidence:0.5599434971809387
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-019.bmp
+confidence:0.3755793869495392
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-015.bmp
+confidence:0.9751495718955994
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-007.bmp
+confidence:0.965451180934906
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-002.bmp
+confidence:0.9688019156455994
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-003.bmp
+confidence:0.9799577593803406
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-031.bmp
+confidence:0.9521636366844177
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-018.bmp
+confidence:0.9098392724990845
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-023.bmp
+confidence:0.9523681998252869
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-032.bmp
+confidence:0.9478703737258911
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-015.bmp
+confidence:0.951167643070221
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-011.bmp
+confidence:0.9640907049179077
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-021.bmp
+confidence:0.9551709294319153
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-037.bmp
+confidence:0.955815851688385
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-014.bmp
+confidence:0.9749162197113037
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-016.bmp
+confidence:0.9791280031204224
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-025.bmp
+confidence:0.9577031135559082
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-012.bmp
+confidence:0.9618664979934692
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-036.bmp
+confidence:0.9600813984870911
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-033.bmp
+confidence:0.7857159376144409
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-024.bmp
+confidence:0.9522331953048706
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-006.bmp
+confidence:0.9729382395744324
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-030.bmp
+confidence:0.5987727642059326
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-013.bmp
+confidence:0.9862859845161438
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-027.bmp
+confidence:0.9701328873634338
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-038.bmp
+confidence:0.9588673114776611
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-034.bmp
+confidence:0.9433457255363464
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-009.bmp
+confidence:0.9746642708778381
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-029.bmp
+confidence:0.8804558515548706
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-017.bmp
+confidence:0.9398425221443176
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-010.bmp
+confidence:0.9571589827537537
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-001.bmp
+confidence:0.9703201651573181
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-035.bmp
+confidence:0.9476863741874695
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-019.bmp
+confidence:0.7081695199012756
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-020.bmp
+confidence:0.9662450551986694
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-004.bmp
+confidence:0.9753711223602295
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-022.bmp
+confidence:0.8010718822479248
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-026.bmp
+confidence:0.9663464426994324
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-005.bmp
+confidence:0.9720278382301331
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-028.bmp
+confidence:0.9184862971305847
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-024.bmp
+confidence:0.9288470149040222
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-015.bmp
+confidence:0.9112130403518677
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-014.bmp
+confidence:0.9472196698188782
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-005.bmp
+confidence:0.9422896504402161
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-001.bmp
+confidence:0.9446353912353516
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-026.bmp
+confidence:0.9343416690826416
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-007.bmp
+confidence:0.9353986978530884
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-006.bmp
+confidence:0.9363102316856384
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-036.bmp
+confidence:0.9527734518051147
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-030.bmp
+confidence:0.528476357460022
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-025.bmp
+confidence:0.9518700242042542
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-023.bmp
+confidence:0.9416907429695129
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-032.bmp
+confidence:0.9260362386703491
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-017.bmp
+confidence:0.9826573729515076
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-002.bmp
+confidence:0.9455575942993164
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-022.bmp
+confidence:0.38699716329574585
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-034.bmp
+confidence:0.9495516419410706
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-037.bmp
+confidence:0.8269091844558716
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-018.bmp
+confidence:0.954859733581543
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-004.bmp
+confidence:0.9377252459526062
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-009.bmp
+confidence:0.9394844770431519
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-010.bmp
+confidence:0.9277190566062927
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-033.bmp
+confidence:0.5402690172195435
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-012.bmp
+confidence:0.9324980974197388
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-011.bmp
+confidence:0.9368816614151001
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-013.bmp
+confidence:0.9359560012817383
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-016.bmp
+confidence:0.9524263739585876
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-035.bmp
+confidence:0.9249852299690247
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-008.bmp
+confidence:0.9432110786437988
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-029.bmp
+confidence:0.9589621424674988
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-019.bmp
+confidence:0.5023910999298096
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-021.bmp
+confidence:0.9247738718986511
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-027.bmp
+confidence:0.9567357897758484
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-003.bmp
+confidence:0.9406042695045471
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-020.bmp
+confidence:0.94905686378479
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-031.bmp
+confidence:0.9486941695213318
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-018.bmp
+confidence:0.9448255300521851
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-008.bmp
+confidence:0.942986249923706
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-029.bmp
+confidence:0.9247978925704956
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-023.bmp
+confidence:0.9581791162490845
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-019.bmp
+confidence:0.6933776140213013
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-016.bmp
+confidence:0.9798554182052612
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-028.bmp
+confidence:0.9563106298446655
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-032.bmp
+confidence:0.9540647864341736
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-022.bmp
+confidence:0.9244912266731262
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-024.bmp
+confidence:0.9578330516815186
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-027.bmp
+confidence:0.9872140288352966
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-006.bmp
+confidence:0.9889074563980103
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-035.bmp
+confidence:0.9504068493843079
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-031.bmp
+confidence:0.964978814125061
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-001.bmp
+confidence:0.9886481761932373
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-005.bmp
+confidence:0.9827234148979187
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-010.bmp
+confidence:0.9705456495285034
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-034.bmp
+confidence:0.957185685634613
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-037.bmp
+confidence:0.968471109867096
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-015.bmp
+confidence:0.9622259736061096
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-002.bmp
+confidence:0.9880461692810059
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-030.bmp
+confidence:0.9204607605934143
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-004.bmp
+confidence:0.9830698370933533
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-026.bmp
+confidence:0.9646307229995728
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-012.bmp
+confidence:0.9772693514823914
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-009.bmp
+confidence:0.9528518915176392
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-014.bmp
+confidence:0.9730652570724487
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-025.bmp
+confidence:0.9625797271728516
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-003.bmp
+confidence:0.9860007762908936
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-021.bmp
+confidence:0.9568104147911072
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-036.bmp
+confidence:0.976565420627594
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-017.bmp
+confidence:0.9522310495376587
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-020.bmp
+confidence:0.9632801413536072
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-013.bmp
+confidence:0.9498659372329712
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-007.bmp
+confidence:0.961313009262085
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-033.bmp
+confidence:0.924481213092804
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-031.bmp
+confidence:0.961478590965271
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-018.bmp
+confidence:0.9042079448699951
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-030.bmp
+confidence:0.4100019335746765
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-034.bmp
+confidence:0.9535723328590393
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-036.bmp
+confidence:0.9788750410079956
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-005.bmp
+confidence:0.9835439324378967
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-008.bmp
+confidence:0.9804156422615051
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-006.bmp
+confidence:0.9837284684181213
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-035.bmp
+confidence:0.9506603479385376
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-038.bmp
+confidence:0.9701871275901794
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-016.bmp
+confidence:0.9847626090049744
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-025.bmp
+confidence:0.9798184037208557
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-015.bmp
+confidence:0.9702709913253784
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-013.bmp
+confidence:0.9739536643028259
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-037.bmp
+error: NO_FACE_DETECTED image: historical_selfie
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-014.bmp
+confidence:0.9727923274040222
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-010.bmp
+confidence:0.9800165295600891
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-024.bmp
+confidence:0.965630054473877
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-023.bmp
+confidence:0.9586889743804932
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-003.bmp
+confidence:0.9799371957778931
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-029.bmp
+confidence:0.769490659236908
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-021.bmp
+confidence:0.9390435218811035
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-007.bmp
+confidence:0.9778673648834229
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-011.bmp
+confidence:0.9781350493431091
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-019.bmp
+confidence:0.42622658610343933
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-027.bmp
+confidence:0.9828476905822754
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-033.bmp
+confidence:0.4510185122489929
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-028.bmp
+confidence:0.9253515005111694
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-002.bmp
+confidence:0.9799061417579651
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-004.bmp
+confidence:0.9817171692848206
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-032.bmp
+confidence:0.942002534866333
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-001.bmp
+confidence:0.9764039516448975
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-017.bmp
+confidence:0.9366174936294556
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-012.bmp
+confidence:0.9747052788734436
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-009.bmp
+confidence:0.9803854823112488
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-022.bmp
+confidence:0.47718584537506104
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-020.bmp
+confidence:0.9646740555763245

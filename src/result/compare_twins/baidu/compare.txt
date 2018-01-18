@@ -1,0 +1,933 @@
+confidence1: 76.24414371490481
+confidence2: 72.20378658294679
+score:400
+no face:119
+
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+score: 90.133232116699
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaWen/994969388.jpg
+score: 76.063011169434
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+score: 73.082641601562
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png
+score: 52.787269592285
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+score: 69.044158935547
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png vs /home/shushi/Pic/ZhuJiaWen/1499926792.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaWen/384292195.jpg
+score: 90.607383728027
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaWen/1094188196.jpg
+score: 60.596530914307
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaWen/401828318.jpg
+score: 73.012390136719
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaWen/1094188196.jpg
+score: 69.055572509766
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+score: 69.044158935547
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaWen/2128979448.jpg
+score: 88.162750244141
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaWen/522832377.jpg
+score: 59.485008239746
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaWen/1371640660.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaWen/1499926792.jpg
+score: 65.546875
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaWen/384292195.jpg
+score: 91.16902923584
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg vs /home/shushi/Pic/ZhuJiaWen/522832377.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+score: 90.671249389648
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png
+score: 47.586231231689
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaWen/522832377.jpg
+score: 64.180160522461
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png vs /home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png : no face
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png
+score: 90.211853027344
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaWen/144969499.jpg
+score: 85.20874786377
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png
+score: 66.764915466309
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaWen/742408606.jpg
+score: 73.012390136719
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaWen/522832377.jpg
+score: 77.959854125977
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaWen/522832377.jpg
+score: 73.446510314941
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaWen/1371640660.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaWen/1094188196.jpg
+score: 100
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaWen/886078025.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaWen/1735962714.jpg
+score: 91.215156555176
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png
+score: 66.102066040039
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaWen/1553123673.jpg
+score: 78.299545288086
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaWen/2128979448.jpg
+score: 79.629791259766
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaWen/288171084.jpg
+score: 45.506896972656
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaWen/636772360.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaWen/1368453483.jpg
+score: 58.241588592529
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaWen/395018968.jpg
+score: 77.681930541992
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaWen/384292195.jpg
+score: 67.523796081543
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaWen/636772360.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg vs /home/shushi/Pic/ZhuJiaWen/994969388.jpg
+score: 69.817237854004
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaWen/742408606.jpg
+score: 77.968887329102
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaWen/636772360.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png
+score: 71.79621887207
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaWen/75195746.jpg
+score: 69.990287780762
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg vs /home/shushi/Pic/ZhuJiaWen/144969499.jpg
+score: 65.00267791748
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaWen/522832377.jpg
+score: 59.377914428711
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+score: 90.671249389648
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaWen/1553123673.jpg
+score: 84.77946472168
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png
+score: 60.379066467285
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaWen/1812528523.jpg
+score: 73.967712402344
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg vs /home/shushi/Pic/ZhuJiaWen/384292195.jpg
+score: 91.023963928223
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png
+score: 71.34700012207
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaWen/761641544.jpg
+score: 79.811584472656
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaWen/994969388.jpg
+score: 81.252426147461
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png
+score: 53.103958129883
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png vs /home/shushi/Pic/ZhuJiaWen/522832377.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaWen/384292195.jpg
+score: 91.692756652832
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png vs /home/shushi/Pic/ZhuJiaWen/1748811887.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaWen/2128979448.jpg
+score: 70.585815429688
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaWen/1812528523.jpg
+score: 100
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaWen/742408606.jpg
+score: 78.358612060547
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png : no face
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg vs /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+score: 65.044189453125
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png
+score: 45.506896972656
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaWen/2040545053.jpg
+score: 92.238418579102
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+score: 89.936752319336
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaWen/1553123673.jpg
+score: 88.356285095215
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaWen/543702080.jpg
+score: 90.231948852539
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaWen/994969388.jpg
+score: 65.638694763184
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaWen/1562718419.jpg
+score: 78.573303222656
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png : no face
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaWen/1094188196.jpg
+score: 62.090831756592
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaWen/1094188196.jpg
+score: 65.265769958496
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png vs /home/shushi/Pic/ZhuJiaWen/2128979448.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg vs /home/shushi/Pic/ZhuJiaWen/144969499.jpg
+score: 90.605819702148
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaWen/454298170.jpg
+score: 64.136260986328
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaWen/1368453483.jpg
+score: 74.027885437012
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaWen/401828318.jpg
+score: 89.497337341309
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+score: 67.755111694336
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png
+score: 47.420829772949
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaWen/1368453483.jpg
+score: 100
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaWen/1094188196.jpg
+score: 79.359046936035
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png : no face
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png
+score: 62.96549987793
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaWen/886078025.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png
+score: 50.97204208374
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaWen/1812528523.jpg
+score: 73.967712402344
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaWen/2128979448.jpg
+score: 69.651733398438
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaWen/288171084.jpg
+score: 78.178749084473
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaWen/384292195.jpg
+score: 88.786895751953
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaWen/401828318.jpg
+score: 78.928192138672
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+score: 77.746795654297
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaWen/1499926792.jpg
+score: 93.830749511719
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaWen/660317691.jpg
+score: 49.143905639648
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaWen/417015209.jpg
+score: 100
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaWen/288171084.jpg
+score: 54.181648254395
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaWen/636772360.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaWen/384292195.jpg
+score: 44.670341491699
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png
+score: 68.981887817383
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaWen/1384139730.jpg
+score: 83.621696472168
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+score: 91.256462097168
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png
+score: 54.092658996582
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaWen/417015209.jpg
+score: 56.05046081543
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaWen/2128979448.jpg
+score: 70.585815429688
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaWen/1499926792.jpg
+score: 63.005428314209
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaWen/522832377.jpg
+score: 61.240303039551
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+score: 90.990119934082
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png vs /home/shushi/Pic/ZhuJiaWen/288171084.jpg
+score: 73.003875732422
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png
+score: 68.750885009766
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png
+score: 73.003875732422
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png
+score: 81.925567626953
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png
+score: 61.90894317627
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png : no face
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg vs /home/shushi/Pic/ZhuJiaWen/1812528523.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaWen/636772360.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+score: 71.910049438477
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaWen/144969499.jpg
+score: 70.875862121582
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png
+score: 49.02014541626
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png vs /home/shushi/Pic/ZhuJiaWen/742408606.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaWen/454298170.jpg
+score: 86.189865112305
+
+
+
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png : no face
+/home/shushi/Pic/ZhuJiaYi/1487896716.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+score: 94.722915649414
+/home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+score: 91.308013916016
+/home/shushi/Pic/ZhuJiaYi/536237754.jpg vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+score: 92.618705749512
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png vs /home/shushi/Pic/ZhuJiaYi/895953682.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/967582628.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png : no face
+/home/shushi/Pic/ZhuJiaYi/1870723223.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+score: 93.997428894043
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/536237754.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+score: 71.233955383301
+/home/shushi/Pic/ZhuJiaYi/1870723223.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+score: 93.20686340332
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png vs /home/shushi/Pic/ZhuJiaYi/891633917.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg vs /home/shushi/Pic/ZhuJiaYi/396487429.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png vs /home/shushi/Pic/ZhuJiaYi/1030612579.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/1943018685.jpg vs /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+score: 73.800254821777
+/home/shushi/Pic/ZhuJiaYi/338090423.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+score: 78.870147705078
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg vs /home/shushi/Pic/ZhuJiaYi/399379745.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg vs /home/shushi/Pic/ZhuJiaYi/1742288226.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/52404415.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+score: 91.288536071777
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+score: 49.884376525879
+/home/shushi/Pic/ZhuJiaYi/338090423.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+score: 100
+/home/shushi/Pic/ZhuJiaYi/1078229885.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+score: 46.587882995605
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+score: 94.035057067871
+/home/shushi/Pic/ZhuJiaYi/1771124897.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+score: 96.879417419434
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png : no face
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+score: 83.425552368164
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+score: 47.443565368652
+/home/shushi/Pic/ZhuJiaYi/1943018685.jpg vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+score: 90.612632751465
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg vs /home/shushi/Pic/ZhuJiaYi/895953682.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+score: 72.181968688965
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+score: 57.113956451416
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+score: 79.031150817871
+/home/shushi/Pic/ZhuJiaYi/1749384580.jpg vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+score: 93.25634765625
+/home/shushi/Pic/ZhuJiaYi/1363304684.jpg vs /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+score: 76.873023986816
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+score: 64.448257446289
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+score: 90.353401184082
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png : no face
+/home/shushi/Pic/ZhuJiaYi/1836482221.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+score: 59.73503112793
+/home/shushi/Pic/ZhuJiaYi/1881654506.jpg vs /home/shushi/Pic/ZhuJiaYi/895953682.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/1026213847.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+score: 90.873138427734
+/home/shushi/Pic/ZhuJiaYi/2034710973.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+score: 66.28044128418
+/home/shushi/Pic/ZhuJiaYi/1591080402.jpg vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+score: 74.385093688965
+/home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png : no face
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png vs /home/shushi/Pic/ZhuJiaYi/1252201024.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+score: 91.389770507812
+/home/shushi/Pic/ZhuJiaYi/107414087.jpg vs /home/shushi/Pic/ZhuJiaYi/396487429.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+score: 55.116180419922
+/home/shushi/Pic/ZhuJiaYi/1591080402.jpg vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+score: 74.015014648438
+/home/shushi/Pic/ZhuJiaYi/1437230887.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+score: 74.333885192871
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png vs /home/shushi/Pic/ZhuJiaYi/396487429.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+score: 100
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png vs /home/shushi/Pic/ZhuJiaYi/1026213847.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/1771124897.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+score: 72.567749023438
+/home/shushi/Pic/ZhuJiaYi/1242374213.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+score: 51.50813293457
+/home/shushi/Pic/ZhuJiaYi/1026213847.jpg vs /home/shushi/Pic/ZhuJiaYi/1742288226.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/2051246079.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+score: 89.44832611084
+/home/shushi/Pic/ZhuJiaYi/1749384580.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+score: 61.281032562256
+/home/shushi/Pic/ZhuJiaYi/107414087.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+score: 95.39444732666
+/home/shushi/Pic/ZhuJiaYi/1980251225.jpg vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+score: 90.669708251953
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+score: 57.113956451416
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/1980251225.jpg vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+score: 91.502967834473
+/home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png : no face
+/home/shushi/Pic/ZhuJiaYi/1980251225.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+score: 72.269981384277
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+score: 91.389770507812
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/399379745.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+score: 56.287075042725
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg vs /home/shushi/Pic/ZhuJiaYi/1742288226.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png vs /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+score: 76.124816894531
+/home/shushi/Pic/ZhuJiaYi/2034710973.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+score: 92.13606262207
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+score: 71.26904296875
+/home/shushi/Pic/ZhuJiaYi/338090423.jpg vs /home/shushi/Pic/ZhuJiaYi/1030612579.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/1026213847.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+score: 90.804153442383
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+score: 92.01392364502
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/399379745.jpg vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+score: 79.991882324219
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+score: 56.042896270752
+/home/shushi/Pic/ZhuJiaYi/1836482221.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+score: 67.048957824707
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+score: 92.41429901123
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+score: 91.117774963379
+/home/shushi/Pic/ZhuJiaYi/1980251225.jpg vs /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+score: 90.069389343262
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+score: 58.772029876709
+/home/shushi/Pic/ZhuJiaYi/1026213847.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+score: 91.261138916016
+/home/shushi/Pic/ZhuJiaYi/895953682.jpg vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/1742112983.jpg vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+score: 76.672416687012
+/home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+score: 92.514778137207
+/home/shushi/Pic/ZhuJiaYi/52404415.jpg vs /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+score: 89.123565673828
+/home/shushi/Pic/ZhuJiaYi/249104539.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+score: 91.389770507812
+/home/shushi/Pic/ZhuJiaYi/1242374213.jpg vs /home/shushi/Pic/ZhuJiaYi/1030612579.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/399379745.jpg vs /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+score: 69.852180480957
+/home/shushi/Pic/ZhuJiaYi/1242374213.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+score: 82.280776977539
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/249104539.jpg vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+score: 95.234619140625
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png vs /home/shushi/Pic/ZhuJiaYi/1030612579.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/1242374213.jpg vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+score: 90.097381591797
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+score: 65.883720397949
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+score: 53.252075195312
+/home/shushi/Pic/ZhuJiaYi/895953682.jpg vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/1565773646.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+score: 60.498329162598
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png vs /home/shushi/Pic/ZhuJiaYi/396487429.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+score: 92.610260009766
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+score: 61.281032562256
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png : no face
+/home/shushi/Pic/ZhuJiaYi/1836482221.jpg vs /home/shushi/Pic/ZhuJiaYi/1742288226.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/967582628.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png : no face
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png vs /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+score: 90.413688659668
+/home/shushi/Pic/ZhuJiaYi/1242374213.jpg vs /home/shushi/Pic/ZhuJiaYi/1742288226.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/1363304684.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+score: 91.517166137695
+/home/shushi/Pic/ZhuJiaYi/1565773646.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+score: 79.324653625488
+/home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+score: 73.271820068359
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg vs /home/shushi/Pic/ZhuJiaYi/895953682.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/399379745.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+score: 73.953147888184
+/home/shushi/Pic/ZhuJiaYi/107414087.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+score: 49.866558074951
+/home/shushi/Pic/ZhuJiaYi/536237754.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+score: 57.971019744873
+/home/shushi/Pic/ZhuJiaYi/1078229885.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+score: 43.645885467529
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+score: 91.117774963379
+/home/shushi/Pic/ZhuJiaYi/1242374213.jpg vs /home/shushi/Pic/ZhuJiaYi/1556060239.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/1943018685.jpg vs /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+score: 91.496307373047
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg vs /home/shushi/Pic/ZhuJiaYi/1030612579.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/1980251225.jpg vs /home/shushi/Pic/ZhuJiaYi/1556060239.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/1742112983.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+score: 62.663867950439
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+score: 91.303077697754
+/home/shushi/Pic/ZhuJiaYi/107414087.jpg vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+score: 92.988998413086
+/home/shushi/Pic/ZhuJiaYi/967582628.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+score: 90.696029663086
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png : no face
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+score: 96.879417419434
+/home/shushi/Pic/ZhuJiaYi/1487896716.jpg vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+score: 100
+/home/shushi/Pic/ZhuJiaYi/1437230887.jpg vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+score: 78.371887207031
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+score: 95.057197570801
+/home/shushi/Pic/ZhuJiaYi/1487896716.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+score: 73.720016479492
+/home/shushi/Pic/ZhuJiaYi/1943018685.jpg vs /home/shushi/Pic/ZhuJiaYi/1030612579.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/1591080402.jpg vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+score: 74.385093688965
+/home/shushi/Pic/ZhuJiaYi/1591080402.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+score: 90.247772216797
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png vs /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+score: 54.005584716797
+/home/shushi/Pic/ZhuJiaYi/52404415.jpg vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+score: 78.35066986084
+/home/shushi/Pic/ZhuJiaYi/1591080402.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+score: 75.809516906738
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/1078229885.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+score: 90.671119689941
+/home/shushi/Pic/ZhuJiaYi/1836482221.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+score: 70.579025268555
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png vs /home/shushi/Pic/ZhuJiaYi/1742288226.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+score: 73.800254821777
+/home/shushi/Pic/ZhuJiaYi/1749384580.jpg vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+score: 92.05094909668
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg : no face
+/home/shushi/Pic/ZhuJiaYi/1943018685.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+score: 87.432098388672
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+score: 71.662673950195
+
+
+
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+score: 78.56950378418
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+score: 70.640953063965
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+score: 38.742847442627
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+score: 70.764778137207
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+score: 73.750633239746
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+score: 88.103393554688
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+score: 76.223121643066
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaYi/1556060239.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+score: 67.643730163574
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+score: 79.078063964844
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+score: 70.940765380859
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+score: 89.90397644043
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+score: 79.97420501709
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png : no face
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+score: 63.306732177734
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+score: 91.606857299805
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png : no face
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+score: 74.61092376709
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+score: 48.449241638184
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+score: 83.856254577637
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+score: 77.022468566895
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+score: 26.713874816895
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+score: 61.248310089111
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/1742288226.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png : no face
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+score: 67.203025817871
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+score: 69.225120544434
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+score: 61.781364440918
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+score: 78.857231140137
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+score: 80.406753540039
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+score: 84.585952758789
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+score: 76.93879699707
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+score: 80.920845031738
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+score: 75.29320526123
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+score: 91.614143371582
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+score: 54.011085510254
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaYi/1556060239.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+score: 90.890312194824
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+score: 66.583534240723
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+score: 67.579902648926
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+score: 64.34854888916
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+score: 76.22437286377
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+score: 91.926620483398
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+score: 66.253326416016
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/1742288226.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+score: 46.114452362061
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+score: 66.18049621582
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+score: 92.980415344238
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png : no face
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+score: 61.248310089111
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+score: 73.209983825684
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png vs /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+score: 90.341995239258
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+score: 73.463676452637
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png : no face
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+score: 63.340030670166
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+score: 87.010498046875
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+score: 91.166221618652
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+score: 74.276000976562
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaYi/396487429.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+score: 75.316925048828
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+score: 52.882247924805
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+score: 91.267044067383
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/1030612579.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png : no face
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+score: 60.38977432251
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+score: 46.709190368652
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+score: 76.658325195312
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+score: 71.392044067383
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+score: 70.436248779297
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+score: 77.044441223145
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+score: 91.454223632812
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+score: 63.337600708008
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaYi/1742288226.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+score: 49.640705108643
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+score: 67.828460693359
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+score: 76.021545410156
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+score: 81.610633850098
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+score: 84.625968933105
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaYi/1030612579.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+score: 60.830963134766
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+score: 74.141677856445
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+score: 47.572460174561
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+score: 90.524215698242
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+score: 77.083137512207
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/1556060239.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+score: 85.241523742676
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+score: 61.363746643066
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+score: 35.311553955078
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg vs /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+score: 57.581966400146
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaYi/1030612579.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png : no face
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+score: 73.268226623535
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg vs /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+score: 73.666862487793
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaYi/1030612579.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+score: 69.763511657715
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+score: 84.551475524902
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg vs /home/shushi/Pic/ZhuJiaYi/1556060239.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+score: 74.518257141113
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+score: 64.700942993164
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/1742288226.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+score: 51.461685180664
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+score: 71.643127441406
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+score: 58.715465545654
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png : no face
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+score: 79.987831115723
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+score: 79.512924194336
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+score: 86.143768310547
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+score: 74.843627929688
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+score: 61.375885009766
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+score: 78.576881408691
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaYi/1030612579.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+score: 91.619537353516
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+score: 71.824493408203
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+score: 62.71346282959
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+score: 91.936561584473
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+score: 80.682518005371
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+score: 82.74333190918
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+score: 73.252311706543
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+score: 73.47526550293
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+score: 61.025421142578
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+score: 46.674087524414
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png : no face
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+score: 76.062301635742
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+score: 61.961616516113
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+score: 73.12451171875
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+score: 83.960830688477
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+score: 92.434585571289
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+score: 55.726383209229
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+score: 76.913177490234
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+score: 78.612747192383
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+score: 82.074462890625
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/1742288226.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+score: 74.873893737793
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaYi/895953682.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+score: 91.125350952148
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaYi/1742288226.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaYi/1556060239.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+score: 76.740737915039
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+score: 93.009887695312
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+score: 91.119262695312
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+score: 90.524215698242
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+score: 90.120231628418
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png : no face
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+score: 42.567722320557
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+score: 40.088554382324
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+score: 87.341331481934
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+score: 64.212181091309
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+score: 72.894081115723
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+score: 58.149402618408
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+score: 76.062301635742
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+score: 91.373550415039
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+score: 82.814407348633
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+score: 72.199890136719
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+score: 81.97518157959
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+score: 87.439323425293
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+score: 77.659446716309
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+score: 41.273777008057
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaYi/895953682.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+score: 86.452651977539
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+score: 91.313453674316
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+score: 69.118438720703
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaYi/1742288226.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+score: 56.681602478027
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+score: 70.940765380859
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+score: 90.778129577637
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+score: 90.450752258301
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+score: 80.920845031738
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+score: 45.470600128174
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+score: 90.820495605469
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+score: 48.789772033691
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+score: 56.740047454834
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+score: 73.41527557373
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/1556060239.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+score: 79.651268005371
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaYi/895953682.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+score: 73.510757446289
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+score: 51.891227722168
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+score: 91.380569458008
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+score: 79.446067810059
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+score: 74.139938354492
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaYi/1556060239.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaYi/1742288226.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+score: 53.07230758667
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+score: 87.341331481934
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+score: 82.455612182617
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+score: 73.510757446289
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+score: 33.315155029297
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+score: 64.535537719727
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+score: 65.945510864258
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png vs /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+score: 75.357635498047
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png : no face
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+score: 75.316925048828
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+score: 54.382091522217
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+score: 68.515930175781
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+score: 48.674140930176
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+score: 51.583679199219
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png vs /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+score: 90.366172790527
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaYi/1030612579.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+score: 80.310531616211
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+score: 68.233154296875
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+score: 90.957550048828
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/396487429.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+score: 75.491683959961
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+score: 91.359603881836
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+score: 61.641937255859
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+score: 90.210266113281
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+score: 71.496650695801
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+score: 84.934829711914
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+score: 72.693656921387
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+score: 56.740047454834
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+score: 44.441631317139
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+score: 79.104522705078
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+score: 43.716083526611
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+score: 77.707710266113
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png : no face
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+score: 92.337760925293
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+score: 77.022468566895
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+score: 92.980415344238
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+score: 74.812126159668
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+score: 82.074462890625
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+score: 68.269874572754
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaYi/895953682.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+score: 79.904678344727
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg vs /home/shushi/Pic/ZhuJiaYi/399379745.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+score: 86.657409667969
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+score: 57.744407653809
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+score: 74.644752502441
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaYi/895953682.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+score: 41.007926940918
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+score: 76.515678405762
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+score: 59.436763763428
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+score: 62.850944519043
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+score: 78.995880126953
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+score: 76.982391357422
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg vs /home/shushi/Pic/ZhuJiaYi/1742288226.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+score: 61.487354278564
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+score: 79.525993347168
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg : no face
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+score: 52.356563568115
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+score: 51.583679199219
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+score: 91.185012817383
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+score: 48.729583740234
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+score: 73.81958770752
+
+
+

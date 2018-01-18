@@ -1,0 +1,15 @@
+{'request_id': '1515481373,d3e10f97-6248-4997-8b1a-361fd6ef5da5', 'results':
+[{'confidence': 96.92, 'face_token': '4c8a15d449c1e7aa92e995073f2ef059', 'user_id': ''}, {'confidence': 28.997, 'face_token': '611b1efc78642f721365d68186ebcb29', 'user_id': ''}, {'confidence': 26.869, 'face_token': 'df40b2692f179ebb50fa1c69201c7132', 'user_id': ''}, {'confidence': 12.943, 'face_token': 'e19bb0155eeb45c2200f23f9cb7da9b5', 'user_id': ''}], 'time_used': 557, 'thresholds': {'1e-5': 73.975, '1e-3': 62.327, '1e-4': 69.101}}
+
+
+{'time_used': 342, 'confidence': 97.389, 'request_id': '1515481552,b28d018c-aef1-472a-ace3-f2dfe5806df7', 'thresholds': {'1e-5': 73.975, '1e-3': 62.327, '1e-4': 69.101}}
+
+{'confidence': 30.44, 'request_id': '1515481585,c1de7b0d-39fe-431e-b533-20747b865f0a', 'time_used': 406, 'thresholds': {'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}}
+
+
+{'time_used': 318, 'confidence': 26.352, 'request_id': '1515481553,0472d9d3-44bb-40f5-b7b2-5d9fbb7d120e', 'thresholds': {'1e-5': 73.975, '1e-3': 62.327, '1e-4': 69.101}}
+
+{'confidence': 14.497, 'request_id': '1515481594,e2a61303-1cb7-4291-bcad-447f38a5b6a1', 'time_used': 425, 'thresholds': {'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}}
+
+
+

@@ -1,0 +1,933 @@
+/usr/bin/python3.5 /home/shushi/projects/3face/face_api/src/test/test_faceplusplus.py
+['MK.DI3.130.jpg', 'NA.NE2.200.jpg', 'NA.NE1.199.jpg', 'YM.FE1.67.jpg', 'KR.SA1.77.jpg', 'TM.SU2.188.jpg', 'KR.DI1.86.jpg', 'KL.AN2.168.jpg', 'UY.FE2.153.jpg', 'KL.NE1.155.jpg', 'KM.SU1.14.jpg', 'MK.FE2.132.jpg', 'TM.AN1.190.jpg', 'UY.FE3.154.jpg', 'TM.DI3.195.jpg', 'MK.SU1.122.jpg', 'KM.SA3.11.jpg', 'KA.HA1.29.jpg', 'MK.HA1.116.jpg', 'NM.DI3.109.jpg', 'KR.SA2.78.jpg', 'KM.FE2.24.jpg', 'MK.SA3.121.jpg', 'UY.SA2.141.jpg', 'KM.HA4.7.jpg', 'KL.DI4.173.jpg', 'NM.NE3.94.jpg', 'UY.DI1.149.jpg', 'NM.FE3.112.jpg', 'UY.NE3.136.jpg', 'KA.FE2.46.jpg', 'KM.SA2.10.jpg', 'UY.FE1.152.jpg', 'NA.SA2.206.jpg', 'UY.HA3.139.jpg', 'UY.DI3.151.jpg', 'KL.HA2.159.jpg', 'KA.FE3.47.jpg', 'YM.SA3.57.jpg', 'MK.FE3.133.jpg', 'KA.FE4.48.jpg', 'KA.SA1.33.jpg', 'KL.SA3.163.jpg', 'YM.AN2.62.jpg', 'NA.NE3.201.jpg', 'MK.SA1.119.jpg', 'KR.DI2.87.jpg', 'NM.HA3.97.jpg', 'UY.AN2.147.jpg', 'MK.SU3.124.jpg', 'NM.SU3.103.jpg', 'KA.SA3.35.jpg', 'KR.SA3.79.jpg', 'TM.SA1.184.jpg', 'TM.SA2.185.jpg', 'KL.FE1.174.jpg', 'NA.SU3.210.jpg', 'KA.DI1.42.jpg', 'KA.SU2.37.jpg', 'YM.AN1.61.jpg', 'YM.HA1.52.jpg', 'KM.HA2.5.jpg', 'NA.DI3.216.jpg', 'KM.SA5.13.jpg', 'KR.NE3.73.jpg', 'NA.DI1.214.jpg', 'UY.SU3.145.jpg', 'NA.FE1.217.jpg', 'UY.HA2.138.jpg', 'YM.DI3.66.jpg', 'UY.AN3.148.jpg', 'TM.AN2.191.jpg', 'YM.HA2.53.jpg', 'KA.SU3.38.jpg', 'NM.HA1.95.jpg', 'KA.NE2.27.jpg', 'UY.NE1.134.jpg', 'TM.HA3.182.jpg', 'KL.SA1.161.jpg', 'KM.HA1.4.jpg', 'YM.HA3.54.jpg', 'TM.HA1.180.jpg', 'KL.SA2.162.jpg', 'KM.SU3.16.jpg', 'NM.SA3.100.jpg', 'KR.AN2.84.jpg', 'MK.SA2.120.jpg', 'KR.FE2.90.jpg', 'YM.DI2.65.jpg', 'KL.HA3.160.jpg', 'NM.HA2.96.jpg', 'TM.SU3.189.jpg', 'NA.AN2.212.jpg', 'KA.DI3.44.jpg', 'NM.AN3.106.jpg', 'NA.FE3.219.jpg', 'NA.AN3.213.jpg', 'KR.NE1.71.jpg', 'KL.HA1.158.jpg', 'UY.SU1.143.jpg', 'KA.SU1.36.jpg', 'KM.DI3.22.jpg', 'YM.NE1.49.jpg', 'KR.SU3.82.jpg', 'KR.HA2.75.jpg', 'YM.FE4.70.jpg', 'NM.SA2.99.jpg', 'NM.SU2.102.jpg', 'KM.NE1.1.jpg', 'KM.AN1.17.jpg', 'NM.FE1.110.jpg', 'MK.HA2.117.jpg', 'KL.FE2.175.jpg', 'KA.DI2.43.jpg', 'KR.NE2.72.jpg', 'KL.DI1.170.jpg', 'KR.SU2.81.jpg', 'KA.HA2.30.jpg', 'KL.SU2.165.jpg', 'KM.SU2.15.jpg', 'TM.NE2.178.jpg', 'UY.HA1.137.jpg', 'KA.NE1.26.jpg', 'YM.SA1.55.jpg', 'KR.FE3.91.jpg', 'TM.FE1.196.jpg', 'KR.SU1.80.jpg', 'KL.NE3.157.jpg', 'KA.FE1.45.jpg', 'MK.NE1.113.jpg', 'NA.AN1.211.jpg', 'NA.SU1.208.jpg', 'NA.SA1.205.jpg', 'NA.HA1.202.jpg', 'YM.SU3.60.jpg', 'UY.SA3.142.jpg', 'YM.DI1.64.jpg', 'NM.NE2.93.jpg', 'TM.DI2.194.jpg', 'KM.AN2.18.jpg', 'KM.HA3.6.jpg', 'UY.DI2.150.jpg', 'KL.AN1.167.jpg', 'KA.AN3.41.jpg', 'MK.AN1.125.jpg', 'YM.SU2.59.jpg', 'KR.FE1.89.jpg', 'YM.NE2.50.jpg', 'KL.DI2.171.jpg', 'NA.SU2.209.jpg', 'KM.DI1.20.jpg', 'MK.DI1.128.jpg', 'MK.HA3.118.jpg', 'MK.AN3.127.jpg', 'NM.AN1.104.jpg', 'YM.FE2.68.jpg', 'TM.AN3.192.jpg', 'KA.HA3.31.jpg', 'KA.AN2.40.jpg', 'KR.AN1.83.jpg', 'NA.FE2.218.jpg', 'KM.FE1.23.jpg', 'KM.NE2.2.jpg', 'NM.SU1.101.jpg', 'TM.HA2.181.jpg', 'KL.SU3.166.jpg', 'UY.SA1.140.jpg', 'KL.NE2.156.jpg', 'UY.NE2.135.jpg', 'TM.DI1.193.jpg', 'NA.DI2.215.jpg', 'TM.NE3.179.jpg', 'TM.NE1.177.jpg', 'TM.FE2.197.jpg', 'MK.FE1.131.jpg', 'MK.DI2.129.jpg', 'YM.SA2.56.jpg', 'KM.NE3.3.jpg', 'YM.AN3.63.jpg', 'KL.FE3.176.jpg', 'NM.AN2.105.jpg', 'YM.NE3.51.jpg', 'KA.AN1.39.jpg', 'KM.FE3.25.jpg', 'YM.FE3.69.jpg', 'KL.SU1.164.jpg', 'TM.FE3.198.jpg', 'MK.SU2.123.jpg', 'MK.NE3.115.jpg', 'NM.FE2.111.jpg', 'KM.SA1.9.jpg', 'KA.NE3.28.jpg', 'YM.SU1.58.jpg', 'KR.DI3.88.jpg', 'KA.SA2.34.jpg', 'KL.DI3.172.jpg', 'KR.AN3.85.jpg', 'TM.SU1.187.jpg', 'KL.AN3.169.jpg', 'NM.DI1.107.jpg', 'NM.NE1.92.jpg', 'UY.AN1.146.jpg', 'TM.SA3.186.jpg', 'MK.AN2.126.jpg', 'UY.SU2.144.jpg', 'MK.NE2.114.jpg', 'NA.SA3.207.jpg', 'NA.HA2.203.jpg', 'KA.HA4.32.jpg', 'KM.AN3.19.jpg', 'NM.SA1.98.jpg', 'KR.HA1.74.jpg', 'NA.HA3.204.jpg']
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/MK.DI3.130.jpg
+{'error_message': 'CONCURRENCY_LIMIT_EXCEEDED'}
+error
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/MK.DI3.130.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.039, 'happiness': 98.49, 'surprise': 0.024, 'disgust': 0.749, 'anger': 0.005, 'fear': 0.012, 'neutral': 0.682}}, 'face_token': '443a55f1d17b50d8b65b0b0f1601ba7b', 'face_rectangle': {'width': 127, 'height': 127, 'left': 55, 'top': 105}}], 'time_used': 280, 'request_id': '1515406411,c516eeda-d420-4d5e-81c8-715d983f10ac', 'image_id': 'xxPKGg52j63HCLmhCLjSvg=='}
+1
+Female happiness DI
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NA.NE2.200.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.002, 'happiness': 1.211, 'surprise': 98.596, 'disgust': 0.003, 'anger': 0.002, 'fear': 0.002, 'neutral': 0.186}}, 'face_token': '3ae3df4a3e5e25ff3ded8e7835d6fc35', 'face_rectangle': {'width': 119, 'height': 119, 'left': 71, 'top': 102}}], 'time_used': 253, 'request_id': '1515406412,049ae9ce-82bf-47c8-9e47-6bd5d804a58c', 'image_id': 'naUsW9rFKdO4BJ1UHWF0qQ=='}
+1
+Female surprise NE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NA.NE1.199.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.006, 'happiness': 36.817, 'surprise': 60.086, 'disgust': 0.006, 'anger': 0.009, 'fear': 0.007, 'neutral': 3.069}}, 'face_token': '39e4571ab5e8bcf0fc2b841d31d66f2b', 'face_rectangle': {'width': 120, 'height': 120, 'left': 71, 'top': 102}}], 'time_used': 335, 'request_id': '1515406414,4222016f-6d35-4a8f-9691-d00e43c96ab5', 'image_id': 'qATuax1mz6dA9qG3uzWaiw=='}
+1
+Female surprise NE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/YM.FE1.67.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 35.57, 'happiness': 11.417, 'surprise': 8.41, 'disgust': 31.367, 'anger': 0.49, 'fear': 9.46, 'neutral': 3.287}}, 'face_token': '4383c91b2eaebba0f3b2e7e81ea3a2b6', 'face_rectangle': {'width': 131, 'height': 131, 'left': 66, 'top': 97}}], 'time_used': 244, 'request_id': '1515406415,d32b3f6c-86c4-4947-abfc-9886a8a031b3', 'image_id': 'R2rNTWHgpyhB3+cpeoHJ/g=='}
+1
+Female sadness FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KR.SA1.77.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 7.619, 'happiness': 11.959, 'surprise': 0.494, 'disgust': 0.054, 'anger': 0.135, 'fear': 0.054, 'neutral': 79.685}}, 'face_token': 'de924ec9b433ee7a52e13a3267c5fd75', 'face_rectangle': {'width': 138, 'height': 138, 'left': 60, 'top': 103}}], 'time_used': 242, 'request_id': '1515406417,b8892378-dfe8-47dc-8127-a7654b007621', 'image_id': 'mfbgLU5rdFRPak0lh6po+A=='}
+1
+Female neutral SA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/TM.SU2.188.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.011, 'happiness': 0.032, 'surprise': 99.956, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.001}}, 'face_token': '4cff70d084a4dc92c4e40271e691cfd0', 'face_rectangle': {'width': 136, 'height': 136, 'left': 65, 'top': 98}}], 'time_used': 281, 'request_id': '1515406418,b26bb14c-1133-43a8-9944-f9a81800c4d5', 'image_id': 'A390Anbkr7yvQVJzid5yMw=='}
+1
+Female surprise SU
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KR.DI1.86.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.029, 'happiness': 1.388, 'surprise': 0.067, 'disgust': 0.053, 'anger': 0.111, 'fear': 0.029, 'neutral': 98.324}}, 'face_token': 'bd1071adc4ed765c98f68b406fe27e43', 'face_rectangle': {'width': 139, 'height': 139, 'left': 61, 'top': 105}}], 'time_used': 267, 'request_id': '1515406420,c26dfb2f-d600-456c-a5cb-20a7bcb6a968', 'image_id': 'lTiS8sj2StLIs0603t0ZyQ=='}
+1
+Female neutral DI
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KL.AN2.168.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 94.11, 'happiness': 0.032, 'surprise': 0.032, 'disgust': 0.032, 'anger': 1.439, 'fear': 3.922, 'neutral': 0.432}}, 'face_token': '5d30960556b525c01348d62265b98d6f', 'face_rectangle': {'width': 125, 'height': 125, 'left': 67, 'top': 97}}], 'time_used': 249, 'request_id': '1515406421,1b817bc2-738d-4bc8-bd71-5fba4493d885', 'image_id': 'tTjFzQXUHlaQNuKTC2Uvfw=='}
+1
+Female sadness AN
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/UY.FE2.153.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 38.84, 'happiness': 0.0, 'surprise': 0.004, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 61.155}}, 'face_token': '386ba130f4fff1060a63d10a0e5e7747', 'face_rectangle': {'width': 131, 'height': 131, 'left': 56, 'top': 100}}], 'time_used': 216, 'request_id': '1515406423,46aa558b-8ed1-4396-afad-2bad4d6fb9f4', 'image_id': 'QjLJfmrsvIV87yCwGfTPEQ=='}
+1
+Female neutral FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KL.NE1.155.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.254, 'happiness': 0.068, 'surprise': 26.635, 'disgust': 0.068, 'anger': 0.106, 'fear': 0.068, 'neutral': 72.801}}, 'face_token': '1f259bd5d8149c999900d7ab24c78c01', 'face_rectangle': {'width': 126, 'height': 126, 'left': 66, 'top': 98}}], 'time_used': 202, 'request_id': '1515406430,4d8fedea-9767-4437-b6fc-435234a9b959', 'image_id': 'ih9sSGifhfVSW3pluW8kDA=='}
+1
+Female neutral NE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KM.SU1.14.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.024, 'happiness': 0.59, 'surprise': 98.951, 'disgust': 0.266, 'anger': 0.115, 'fear': 0.03, 'neutral': 0.024}}, 'face_token': 'ca2f9c5375e79b1f20d5ae516f0be0c2', 'face_rectangle': {'width': 156, 'height': 156, 'left': 49, 'top': 97}}], 'time_used': 394, 'request_id': '1515406431,e48d7969-a660-4596-84c5-93e4368a1ba7', 'image_id': 't9H06mDrwIJZl68X0NC6GA=='}
+1
+Female surprise SU
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/MK.FE2.132.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.852, 'happiness': 6.376, 'surprise': 0.245, 'disgust': 0.011, 'anger': 0.011, 'fear': 92.495, 'neutral': 0.011}}, 'face_token': '37f92f1110f942bd87a7670fd79047b8', 'face_rectangle': {'width': 132, 'height': 132, 'left': 66, 'top': 102}}], 'time_used': 335, 'request_id': '1515406433,bd71a34b-8dfe-4dd4-be10-db248d250166', 'image_id': 'FJnggogiu1nnkQ3bxAnZqw=='}
+1
+Female fear FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/TM.AN1.190.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 6.17, 'happiness': 0.028, 'surprise': 9.482, 'disgust': 0.028, 'anger': 0.028, 'fear': 0.515, 'neutral': 83.749}}, 'face_token': '58583ae999ca138f9889c6373800884b', 'face_rectangle': {'width': 130, 'height': 130, 'left': 69, 'top': 100}}], 'time_used': 370, 'request_id': '1515406434,c9e43511-98ee-4231-86de-732bfb6b6690', 'image_id': '/4EuJK4wL74WStdhmunRog=='}
+1
+Female neutral AN
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/UY.FE3.154.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 2.786, 'happiness': 0.0, 'surprise': 0.038, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 97.175}}, 'face_token': '2020f822d8f3c973bec8b816e20c969d', 'face_rectangle': {'width': 131, 'height': 131, 'left': 56, 'top': 100}}], 'time_used': 227, 'request_id': '1515406441,44f3df98-8573-4027-9d4c-b6de48a06404', 'image_id': '6e+05oP2ThRrpbXW3uHHLw=='}
+1
+Female neutral FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/TM.DI3.195.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 88.77, 'happiness': 11.2, 'surprise': 0.002, 'disgust': 0.003, 'anger': 0.002, 'fear': 0.014, 'neutral': 0.01}}, 'face_token': 'ff04cecc60517e21080249dd97f9782b', 'face_rectangle': {'width': 132, 'height': 132, 'left': 69, 'top': 101}}], 'time_used': 342, 'request_id': '1515406443,ef43c302-5f2b-4cda-9f39-2e932534537e', 'image_id': 'yJTnLQgnlhR8kobhWTKJdw=='}
+1
+Female sadness DI
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/MK.SU1.122.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 0.0, 'surprise': 99.998, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.002, 'neutral': 0.0}}, 'face_token': 'c444bef534f31c7bf779dba80d260357', 'face_rectangle': {'width': 172, 'height': 172, 'left': 43, 'top': 91}}], 'time_used': 240, 'request_id': '1515406444,90e6b260-72f5-4547-af58-2499fa537a55', 'image_id': 'BsrQpkZXDl1p20yZkKdlLQ=='}
+1
+Female surprise SU
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KM.SA3.11.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 100.0, 'happiness': 0.0, 'surprise': 0.0, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.0}}, 'face_token': '4e932c0402ce7a8b44abe80175d6ecd9', 'face_rectangle': {'width': 127, 'height': 127, 'left': 65, 'top': 104}}], 'time_used': 318, 'request_id': '1515406451,34e0c6b9-9a0b-4f1f-b120-12ce0e3979ed', 'image_id': 'ndho1WY8Bws1IFuyz7qehQ=='}
+1
+Female sadness SA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KA.HA1.29.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 99.843, 'surprise': 0.093, 'disgust': 0.0, 'anger': 0.001, 'fear': 0.0, 'neutral': 0.062}}, 'face_token': '226fe5d11f980565d218445e6b34f8a3', 'face_rectangle': {'width': 142, 'height': 142, 'left': 59, 'top': 96}}], 'time_used': 283, 'request_id': '1515406457,0456bcc5-3c49-4313-adeb-835e64095ebf', 'image_id': 'z8ACHvuOws+hEbz5Fk9XSA=='}
+1
+Female happiness HA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/MK.HA1.116.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 99.999, 'surprise': 0.0, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.0}}, 'face_token': '8dfc57f62e9b3ee292c13aa25cebcef2', 'face_rectangle': {'width': 124, 'height': 124, 'left': 68, 'top': 103}}], 'time_used': 273, 'request_id': '1515406459,db872cd7-b732-4282-bdb7-c8f89c476a79', 'image_id': 'V/8yyTJjNgmzV2OQsdn+zg=='}
+1
+Female happiness HA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NM.DI3.109.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.431, 'happiness': 0.364, 'surprise': 43.705, 'disgust': 0.8, 'anger': 0.004, 'fear': 0.004, 'neutral': 54.692}}, 'face_token': '7e63cea71bd158d050c4937d1db02a65', 'face_rectangle': {'width': 146, 'height': 146, 'left': 42, 'top': 101}}], 'time_used': 214, 'request_id': '1515406465,163deab2-3170-468f-8f4d-145873e132c1', 'image_id': 'My+ADiSlxBLudvMw8ijl2Q=='}
+1
+Female neutral DI
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KR.SA2.78.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 45.36, 'happiness': 0.461, 'surprise': 0.016, 'disgust': 0.016, 'anger': 0.016, 'fear': 0.016, 'neutral': 54.114}}, 'face_token': '01456199e9307b49c4bf07101ebff9db', 'face_rectangle': {'width': 137, 'height': 137, 'left': 63, 'top': 103}}], 'time_used': 255, 'request_id': '1515406467,be8d6455-aca2-410c-9901-3158bb2ae604', 'image_id': 'qRX3q8hXswfieq7Ss5eCew=='}
+1
+Female neutral SA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KM.FE2.24.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 98.889, 'happiness': 0.054, 'surprise': 0.922, 'disgust': 0.004, 'anger': 0.004, 'fear': 0.019, 'neutral': 0.107}}, 'face_token': 'c1bee5b3704363f232ed1ab2ef4cd786', 'face_rectangle': {'width': 135, 'height': 135, 'left': 64, 'top': 102}}], 'time_used': 293, 'request_id': '1515406468,b7859857-0699-4343-b5e3-e5ff560e3c98', 'image_id': 'QUH27LfzwxwvrJgNP9E/yw=='}
+1
+Female sadness FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/MK.SA3.121.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 99.981, 'happiness': 0.0, 'surprise': 0.0, 'disgust': 0.01, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.008}}, 'face_token': '5ad6a1f267d6041fe5ae7d8c7b02b5b1', 'face_rectangle': {'width': 126, 'height': 126, 'left': 65, 'top': 101}}], 'time_used': 346, 'request_id': '1515406470,4f809732-079d-4cb9-80d6-d6c0daeb4551', 'image_id': '+djKpBflKtkV8DK1m4MVrA=='}
+1
+Female sadness SA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/UY.SA2.141.jpg
+{'error_message': 'CONCURRENCY_LIMIT_EXCEEDED'}
+error
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/UY.SA2.141.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 99.997, 'happiness': 0.0, 'surprise': 0.0, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.002}}, 'face_token': 'f03b49c3245225dd48b6216927752ac2', 'face_rectangle': {'width': 128, 'height': 128, 'left': 62, 'top': 102}}], 'time_used': 203, 'request_id': '1515406473,5483d5a2-33e7-4857-9fdb-414537c834ea', 'image_id': 'QTNU+eZm23fXeJvai50dww=='}
+1
+Female sadness SA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KM.HA4.7.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.007, 'happiness': 99.417, 'surprise': 0.003, 'disgust': 0.045, 'anger': 0.0, 'fear': 0.528, 'neutral': 0.0}}, 'face_token': '2581208f02eccf8ff9e5f1f7163a2e67', 'face_rectangle': {'width': 134, 'height': 134, 'left': 63, 'top': 105}}], 'time_used': 286, 'request_id': '1515406479,2ee1feb1-ca15-40e5-8521-a9df4393faad', 'image_id': '3S1rQecASNEPqcPil84ZsA=='}
+1
+Female happiness HA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KL.DI4.173.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 40.049, 'happiness': 0.001, 'surprise': 0.001, 'disgust': 59.829, 'anger': 0.031, 'fear': 0.051, 'neutral': 0.038}}, 'face_token': '477b20517cc27fc22eb226123d30432d', 'face_rectangle': {'width': 128, 'height': 128, 'left': 65, 'top': 100}}], 'time_used': 257, 'request_id': '1515406486,14204358-69f1-48aa-bb1e-15f808498160', 'image_id': 'WRVH55ETfKZvPXZavit/9g=='}
+1
+Female disgust DI
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NM.NE3.94.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 0.905, 'surprise': 52.47, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 46.623}}, 'face_token': 'aff0917a9b41c39268095184af672570', 'face_rectangle': {'width': 149, 'height': 149, 'left': 56, 'top': 98}}], 'time_used': 526, 'request_id': '1515406487,a195ae59-1f23-47b9-b092-5e14a81e202d', 'image_id': 'r4u01GvW3TpcIwaxJhPdwQ=='}
+1
+Female surprise NE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/UY.DI1.149.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 40.925, 'happiness': 0.004, 'surprise': 0.002, 'disgust': 0.003, 'anger': 0.001, 'fear': 0.013, 'neutral': 59.052}}, 'face_token': 'e7e01d42612eca139cd8349a4d4ca4a2', 'face_rectangle': {'width': 127, 'height': 127, 'left': 61, 'top': 102}}], 'time_used': 347, 'request_id': '1515406489,2b644a13-4a8e-4eb2-874c-4f1108af7d42', 'image_id': 'xsYLzORIKNS0KZksHNqJYw=='}
+1
+Female neutral DI
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NM.FE3.112.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.001, 'happiness': 0.576, 'surprise': 89.733, 'disgust': 0.014, 'anger': 0.001, 'fear': 0.001, 'neutral': 9.674}}, 'face_token': 'db3127fcb88b08c8937a9cdb038cf346', 'face_rectangle': {'width': 149, 'height': 149, 'left': 53, 'top': 102}}], 'time_used': 275, 'request_id': '1515406490,5dfa67ec-9f38-45d4-80b5-cd5696b5508b', 'image_id': 'eHh4EVHO4Q7Swlq6AJFgcw=='}
+1
+Female surprise FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/UY.NE3.136.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.05, 'happiness': 0.386, 'surprise': 0.002, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 99.562}}, 'face_token': 'd3ca09eb184e3b9fefe577a8d522db98', 'face_rectangle': {'width': 132, 'height': 132, 'left': 57, 'top': 98}}], 'time_used': 255, 'request_id': '1515406492,c9d86c4f-9e41-4c9c-b171-424e1ab14f06', 'image_id': 'fCbyr4viAfAIAXSoHvSAkA=='}
+1
+Female neutral NE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KA.FE2.46.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 67.847, 'happiness': 0.028, 'surprise': 14.824, 'disgust': 7.944, 'anger': 0.028, 'fear': 8.625, 'neutral': 0.705}}, 'face_token': 'e7e00ee0c6ebf32c28acf763cabcb517', 'face_rectangle': {'width': 144, 'height': 144, 'left': 50, 'top': 96}}], 'time_used': 300, 'request_id': '1515406493,fe566111-f324-4537-80b6-976cc3223243', 'image_id': 'oUOy50GGDnoVGCupfFLFcw=='}
+1
+Female sadness FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KM.SA2.10.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 99.632, 'happiness': 0.008, 'surprise': 0.002, 'disgust': 0.022, 'anger': 0.002, 'fear': 0.002, 'neutral': 0.332}}, 'face_token': '119814bde8bcf3f81336fdd16e376a3b', 'face_rectangle': {'width': 128, 'height': 128, 'left': 64, 'top': 103}}], 'time_used': 264, 'request_id': '1515406500,283c948d-ceb2-414a-8ca4-4bb5898f6105', 'image_id': 'w/+3whVKkI6SEExCVOPSiw=='}
+1
+Female sadness SA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/UY.FE1.152.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 97.505, 'happiness': 0.0, 'surprise': 0.0, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 2.494}}, 'face_token': '6eabf90c6eecb9c3e9066dfa1d9036e8', 'face_rectangle': {'width': 136, 'height': 136, 'left': 56, 'top': 98}}], 'time_used': 260, 'request_id': '1515406507,0dfe96cd-5484-4827-adc8-55c757c85268', 'image_id': 'cLYJRZhGT0UUcRH30A2MWw=='}
+1
+Female sadness FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NA.SA2.206.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.194, 'happiness': 4.583, 'surprise': 2.718, 'disgust': 0.058, 'anger': 0.514, 'fear': 0.058, 'neutral': 91.875}}, 'face_token': 'd0bdba34ce0d713e2e938353da1b4e00', 'face_rectangle': {'width': 119, 'height': 119, 'left': 72, 'top': 103}}], 'time_used': 221, 'request_id': '1515406513,82d7768a-b25d-4c64-beb7-cb5fe708f0a6', 'image_id': 'bPk8BpPDwTdFx8o8FJ2Q0w=='}
+1
+Female neutral SA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/UY.HA3.139.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 1.823, 'happiness': 2.944, 'surprise': 0.33, 'disgust': 0.007, 'anger': 0.007, 'fear': 0.007, 'neutral': 94.883}}, 'face_token': 'cd43c57e9c5780a06b28f7ed954c933b', 'face_rectangle': {'width': 127, 'height': 127, 'left': 63, 'top': 99}}], 'time_used': 301, 'request_id': '1515406520,de0e46be-d71d-495e-88b1-ae90da1a7f00', 'image_id': 'PCN06broQd9CVeVRHi48zA=='}
+1
+Female neutral HA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/UY.DI3.151.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 99.982, 'happiness': 0.0, 'surprise': 0.0, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.018}}, 'face_token': '2b4556ebea76bd9524a61e7521e2cc8d', 'face_rectangle': {'width': 124, 'height': 124, 'left': 60, 'top': 102}}], 'time_used': 299, 'request_id': '1515406521,15092dd7-7265-4217-9211-ab4f6ff0da18', 'image_id': 'QALi0bE0GLDQPgF5rF4H0A=='}
+1
+Female sadness DI
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KL.HA2.159.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.005, 'happiness': 99.888, 'surprise': 0.0, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.107}}, 'face_token': 'ac73b1eec8c308f31cb95acde912657f', 'face_rectangle': {'width': 127, 'height': 127, 'left': 69, 'top': 99}}], 'time_used': 236, 'request_id': '1515406523,6cc2cd2d-6e45-44c4-812b-f96551b56ea3', 'image_id': 'TwYfLyux0dkqTr+txZ7cuA=='}
+1
+Female happiness HA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KA.FE3.47.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Male'}, 'emotion': {'sadness': 0.025, 'happiness': 0.022, 'surprise': 98.934, 'disgust': 0.002, 'anger': 0.002, 'fear': 0.704, 'neutral': 0.31}}, 'face_token': '3a3efc1f8d440d3a6c69b308ee80727d', 'face_rectangle': {'width': 147, 'height': 147, 'left': 51, 'top': 92}}], 'time_used': 229, 'request_id': '1515406524,e845eccb-edde-40db-a777-1f46682d80e1', 'image_id': 'oB6dPStHpRcOECOwTaRAhw=='}
+1
+Male surprise FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/YM.SA3.57.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 5.869, 'happiness': 10.291, 'surprise': 0.331, 'disgust': 37.356, 'anger': 0.331, 'fear': 0.331, 'neutral': 45.49}}, 'face_token': '835f0dfed9232f6cc204178170a2e1a2', 'face_rectangle': {'width': 130, 'height': 130, 'left': 65, 'top': 100}}], 'time_used': 317, 'request_id': '1515406526,c59cee4c-5fae-418f-b3e0-c4c0b261eb08', 'image_id': 'Y84FuGpZHHH348YTMvsA1Q=='}
+1
+Female neutral SA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/MK.FE3.133.jpg
+{'error_message': 'CONCURRENCY_LIMIT_EXCEEDED'}
+error
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/MK.FE3.133.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 72.215, 'happiness': 27.773, 'surprise': 0.001, 'disgust': 0.001, 'anger': 0.001, 'fear': 0.004, 'neutral': 0.005}}, 'face_token': 'f05a10f1f013f12cfda17bbda11232c2', 'face_rectangle': {'width': 145, 'height': 145, 'left': 64, 'top': 93}}], 'time_used': 201, 'request_id': '1515406534,a5a00191-4b47-47f6-830d-8c79829b6187', 'image_id': 'wJrbIpSkJHkBsyrxdgMxLQ=='}
+1
+Female sadness FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KA.FE4.48.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.025, 'happiness': 0.006, 'surprise': 91.1, 'disgust': 0.006, 'anger': 0.006, 'fear': 0.021, 'neutral': 8.836}}, 'face_token': '44f741ed31a6fd15bba7668054c1500a', 'face_rectangle': {'width': 148, 'height': 148, 'left': 55, 'top': 91}}], 'time_used': 302, 'request_id': '1515406535,7ffa96eb-6c72-450a-a27a-b8f7e9ee65d6', 'image_id': 'zRRPYReQ0Xw8J/u+Hn617w=='}
+1
+Female surprise FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KA.SA1.33.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 11.629, 'happiness': 0.02, 'surprise': 7.756, 'disgust': 0.533, 'anger': 0.02, 'fear': 0.02, 'neutral': 80.023}}, 'face_token': '16ec6e06706d3d2a316c6835b307a7f3', 'face_rectangle': {'width': 132, 'height': 132, 'left': 60, 'top': 99}}], 'time_used': 262, 'request_id': '1515406542,e6e3ca12-60b0-4935-a7c4-43a97500d1b3', 'image_id': 'ESYRVLbGZFyh9mygi2xd4Q=='}
+1
+Female neutral SA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KL.SA3.163.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 97.9, 'happiness': 0.011, 'surprise': 0.011, 'disgust': 0.011, 'anger': 0.285, 'fear': 0.137, 'neutral': 1.644}}, 'face_token': '83ce5e274e6fec23a9e96f194cd779d4', 'face_rectangle': {'width': 126, 'height': 126, 'left': 67, 'top': 99}}], 'time_used': 305, 'request_id': '1515406548,b29bec1b-f02b-43c8-8dbd-82844b89f51a', 'image_id': 'mVlTblhQFnjOujnNHIWOzg=='}
+1
+Female sadness SA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/YM.AN2.62.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.416, 'happiness': 0.254, 'surprise': 0.032, 'disgust': 0.019, 'anger': 1.794, 'fear': 0.92, 'neutral': 96.564}}, 'face_token': '51ccfd90f7fba7cc1b84bec1ed2482ba', 'face_rectangle': {'width': 132, 'height': 132, 'left': 65, 'top': 96}}], 'time_used': 277, 'request_id': '1515406550,2ca7c6d6-e2dc-44be-aeb8-7d627b5b8d3e', 'image_id': 'nLn38kqa36sbTMxyJaxdjA=='}
+1
+Female neutral AN
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NA.NE3.201.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.001, 'happiness': 27.556, 'surprise': 70.657, 'disgust': 0.001, 'anger': 0.001, 'fear': 0.001, 'neutral': 1.782}}, 'face_token': '13bc70c5cdbc91982e96dc3dff9c324b', 'face_rectangle': {'width': 122, 'height': 122, 'left': 70, 'top': 102}}], 'time_used': 261, 'request_id': '1515406551,724c158a-dd0b-4ed8-991e-18d4afb45af5', 'image_id': 'DJttL6cV8Cyh9LO4H8Dxhg=='}
+1
+Female surprise NE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/MK.SA1.119.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 97.235, 'happiness': 0.479, 'surprise': 0.002, 'disgust': 2.222, 'anger': 0.001, 'fear': 0.001, 'neutral': 0.059}}, 'face_token': '5985f1dbf5234be7530b13e1ffdbb657', 'face_rectangle': {'width': 132, 'height': 132, 'left': 63, 'top': 103}}], 'time_used': 276, 'request_id': '1515406553,5ca10048-4d69-4715-ad05-b8ece3c969a4', 'image_id': 'wBNA3doMVNokCu83/FJRrQ=='}
+1
+Female sadness SA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KR.DI2.87.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.811, 'happiness': 14.34, 'surprise': 7.164, 'disgust': 0.401, 'anger': 0.95, 'fear': 0.401, 'neutral': 75.933}}, 'face_token': '677ffaaf9f3d1097e08e127ac25a804b', 'face_rectangle': {'width': 137, 'height': 137, 'left': 61, 'top': 106}}], 'time_used': 255, 'request_id': '1515406554,d47133fe-cb40-4fa7-b0aa-4315da50fe8c', 'image_id': 'UnFtttaYjbBqzj0TCQ+jMQ=='}
+1
+Female neutral DI
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NM.HA3.97.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 2.322, 'surprise': 0.641, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 97.036}}, 'face_token': '7f70ccca3a6dccac7ec50d946f3ea7b0', 'face_rectangle': {'width': 148, 'height': 148, 'left': 58, 'top': 99}}], 'time_used': 321, 'request_id': '1515406556,40d68f83-39f7-45d4-8eda-4c8c9f6d0634', 'image_id': 'jQ7A/DVvg8Cz9dzg2tx85Q=='}
+1
+Female neutral HA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/UY.AN2.147.jpg
+{'error_message': 'CONCURRENCY_LIMIT_EXCEEDED'}
+error
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/UY.AN2.147.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 97.165, 'happiness': 0.0, 'surprise': 0.0, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 2.835}}, 'face_token': '4f0c0c0f64ee19af17c188b1331de4c1', 'face_rectangle': {'width': 126, 'height': 126, 'left': 62, 'top': 101}}], 'time_used': 300, 'request_id': '1515406559,976fbc23-60f6-480e-9d43-aed439792106', 'image_id': 'G4CCRotf25llGJlZJIWJMQ=='}
+1
+Female sadness AN
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/MK.SU3.124.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 0.0, 'surprise': 99.982, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.018, 'neutral': 0.0}}, 'face_token': 'a4e9c0921b43240f087b3348df246e1c', 'face_rectangle': {'width': 168, 'height': 168, 'left': 43, 'top': 92}}], 'time_used': 245, 'request_id': '1515406565,f4600ddf-ae34-4487-a1f2-5229334f916d', 'image_id': 'yaukaq5Hqfvhuy6t0VSONg=='}
+1
+Female surprise SU
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NM.SU3.103.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 0.025, 'surprise': 99.975, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.0}}, 'face_token': '0cb80819c65f7a1d183ef8c0703dea32', 'face_rectangle': {'width': 157, 'height': 157, 'left': 51, 'top': 97}}], 'time_used': 251, 'request_id': '1515406572,dc6cb807-7098-4d7c-80af-a0b5e7530519', 'image_id': 'Jym0vbjie4FRfB9vyDPdjA=='}
+1
+Female surprise SU
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KA.SA3.35.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 99.266, 'happiness': 0.002, 'surprise': 0.34, 'disgust': 0.038, 'anger': 0.002, 'fear': 0.285, 'neutral': 0.066}}, 'face_token': 'dd5ec870efb2713e442b07be276a3e76', 'face_rectangle': {'width': 133, 'height': 133, 'left': 61, 'top': 98}}], 'time_used': 208, 'request_id': '1515406573,d3d4985b-8ec0-4ceb-a723-487d5c7d540b', 'image_id': 'a81TMcWWeKewXdOQKS9gyg=='}
+1
+Female sadness SA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KR.SA3.79.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 98.061, 'surprise': 0.001, 'disgust': 0.0, 'anger': 0.001, 'fear': 0.0, 'neutral': 1.937}}, 'face_token': '136c4bdb897fc7e3368544a3b382f2e5', 'face_rectangle': {'width': 130, 'height': 130, 'left': 65, 'top': 104}}], 'time_used': 264, 'request_id': '1515406580,0c31f5f0-fb95-4aa0-9a60-68cae710019f', 'image_id': 'zkC0skZhtx1CgzdAGS8+Qw=='}
+1
+Female happiness SA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/TM.SA1.184.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 2.976, 'happiness': 13.294, 'surprise': 30.316, 'disgust': 0.033, 'anger': 0.033, 'fear': 0.033, 'neutral': 53.315}}, 'face_token': '58045906b537a48320a7fb77a913acd2', 'face_rectangle': {'width': 129, 'height': 129, 'left': 65, 'top': 101}}], 'time_used': 259, 'request_id': '1515406586,73bca759-be99-450a-86cf-1e49e1ff524e', 'image_id': '4QBF3nGHQDx/MFK3WkC7uA=='}
+1
+Female neutral SA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/TM.SA2.185.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 8.506, 'happiness': 1.011, 'surprise': 28.338, 'disgust': 0.046, 'anger': 0.046, 'fear': 0.046, 'neutral': 62.008}}, 'face_token': '39cbf26fa6f9b6c846809e713cc8461b', 'face_rectangle': {'width': 125, 'height': 125, 'left': 69, 'top': 102}}], 'time_used': 213, 'request_id': '1515406588,586448ac-a63e-46d1-a185-44bf84e78c07', 'image_id': 'TZTbUfo75ARSFgAuWhnDgQ=='}
+1
+Female neutral SA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KL.FE1.174.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 4.719, 'happiness': 0.041, 'surprise': 0.338, 'disgust': 0.023, 'anger': 0.023, 'fear': 0.138, 'neutral': 94.719}}, 'face_token': 'cd69e1b321fcdb7f2ea8ec20263b7c39', 'face_rectangle': {'width': 125, 'height': 125, 'left': 66, 'top': 101}}], 'time_used': 258, 'request_id': '1515406589,b7380467-a476-4f06-a988-69cfa68a0c56', 'image_id': 'N000Jt5Tm+/ieWinRedEhg=='}
+1
+Female neutral FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NA.SU3.210.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 0.011, 'surprise': 99.931, 'disgust': 0.001, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.057}}, 'face_token': '9358a3a35c71ca1b4ef3c16353ac22ed', 'face_rectangle': {'width': 133, 'height': 133, 'left': 66, 'top': 98}}], 'time_used': 238, 'request_id': '1515406591,d654b4b1-e3bb-4171-8c40-c68a49a99609', 'image_id': 'l3o/qzOUdaImwOdDQ0doxA=='}
+1
+Female surprise SU
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KA.DI1.42.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 99.937, 'happiness': 0.001, 'surprise': 0.01, 'disgust': 0.03, 'anger': 0.001, 'fear': 0.004, 'neutral': 0.016}}, 'face_token': '08055a1f82a65e43002114082057409a', 'face_rectangle': {'width': 130, 'height': 130, 'left': 59, 'top': 103}}], 'time_used': 240, 'request_id': '1515406592,afa4fa33-bd70-4979-932f-39b6c5713d24', 'image_id': 'NvdnQoFk9TJfToPPmeA/jw=='}
+1
+Female sadness DI
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KA.SU2.37.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.001, 'happiness': 0.0, 'surprise': 99.284, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.714}}, 'face_token': 'b25a9027e9f9837922e7897cd1c6fdd7', 'face_rectangle': {'width': 141, 'height': 141, 'left': 58, 'top': 94}}], 'time_used': 255, 'request_id': '1515406594,aadee34a-6d62-4ee8-8031-1beb2681ad1b', 'image_id': '1vOzoa/wEFTDqh54YtX3Ew=='}
+1
+Female surprise SU
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/YM.AN1.61.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 15.013, 'happiness': 0.113, 'surprise': 0.121, 'disgust': 0.14, 'anger': 0.443, 'fear': 0.827, 'neutral': 83.342}}, 'face_token': 'a3431f22aadd5fedeca76b9e204dfd28', 'face_rectangle': {'width': 129, 'height': 129, 'left': 66, 'top': 99}}], 'time_used': 215, 'request_id': '1515406595,39b7f022-87ea-44de-8e67-17a09b93263f', 'image_id': 'LMPbGg7JN9jSSROsff6lMQ=='}
+1
+Female neutral AN
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/YM.HA1.52.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 99.873, 'surprise': 0.054, 'disgust': 0.002, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.069}}, 'face_token': '20529112cf25ab5b13ee51c89f1e7440', 'face_rectangle': {'width': 127, 'height': 127, 'left': 69, 'top': 99}}], 'time_used': 321, 'request_id': '1515406602,8aabd7cc-f333-4c44-b6cd-d4de6e746c9a', 'image_id': '94luD97ZsRW9VbJT1h+nlA=='}
+1
+Female happiness HA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KM.HA2.5.jpg
+{'error_message': 'CONCURRENCY_LIMIT_EXCEEDED'}
+error
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KM.HA2.5.jpg
+{'error_message': 'CONCURRENCY_LIMIT_EXCEEDED'}
+error
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KM.HA2.5.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 100.0, 'surprise': 0.0, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.0}}, 'face_token': '1dbbbcf45e051a30035e7ab82c7fdebc', 'face_rectangle': {'width': 132, 'height': 132, 'left': 64, 'top': 101}}], 'time_used': 277, 'request_id': '1515406611,057dd8f3-56f4-44fe-869c-b1aa421adf43', 'image_id': '1KkyUQcYhY0OwCffSeif4A=='}
+1
+Female happiness HA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NA.DI3.216.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 4.756, 'happiness': 0.622, 'surprise': 0.103, 'disgust': 5.818, 'anger': 2.712, 'fear': 0.812, 'neutral': 85.176}}, 'face_token': '002d1bf39df1b7b976a7865ddcd0d30d', 'face_rectangle': {'width': 125, 'height': 125, 'left': 63, 'top': 104}}], 'time_used': 287, 'request_id': '1515406617,f2e59e0a-ed68-4a23-99f2-76d353bb948c', 'image_id': '1hww43yGUwwgM+Wtzp+Y8g=='}
+1
+Female neutral DI
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KM.SA5.13.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 98.643, 'happiness': 0.001, 'surprise': 0.026, 'disgust': 1.235, 'anger': 0.001, 'fear': 0.001, 'neutral': 0.094}}, 'face_token': '286873a2022f98e585f64d68e0a1c60a', 'face_rectangle': {'width': 131, 'height': 131, 'left': 66, 'top': 104}}], 'time_used': 362, 'request_id': '1515406619,0d454f59-f616-4d76-9d6b-a6d8ba742657', 'image_id': 'gvAMUcMwfjeSPPOqd/SBzg=='}
+1
+Female sadness SA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KR.NE3.73.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.002, 'happiness': 1.361, 'surprise': 0.209, 'disgust': 0.002, 'anger': 0.011, 'fear': 0.002, 'neutral': 98.414}}, 'face_token': '97163d1b73a57fd7edf90c60930edc49', 'face_rectangle': {'width': 138, 'height': 138, 'left': 61, 'top': 102}}], 'time_used': 260, 'request_id': '1515406625,b45c21be-3be7-41aa-a50e-5a3bf495fae8', 'image_id': '9bF59lSWJm3VRcr+PWC5LQ=='}
+1
+Female neutral NE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NA.DI1.214.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.355, 'happiness': 0.985, 'surprise': 1.986, 'disgust': 0.423, 'anger': 0.603, 'fear': 0.332, 'neutral': 95.316}}, 'face_token': '52217cae33da3953716f4af366711ccb', 'face_rectangle': {'width': 129, 'height': 129, 'left': 75, 'top': 102}}], 'time_used': 307, 'request_id': '1515406627,b003c2df-90a7-4ae8-addd-aefb914ca4ca', 'image_id': 'HLPbme4u29JFXoWrlaygkg=='}
+1
+Female neutral DI
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/UY.SU3.145.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 1.087, 'happiness': 0.03, 'surprise': 0.415, 'disgust': 0.001, 'anger': 0.001, 'fear': 0.007, 'neutral': 98.459}}, 'face_token': '1ccc45a04345995e671b767e4d4b5297', 'face_rectangle': {'width': 134, 'height': 134, 'left': 59, 'top': 97}}], 'time_used': 240, 'request_id': '1515406628,cd343ce9-99b5-49bd-85d9-cf4f46c2fb36', 'image_id': 'LM7DNGyQVnoi5U3S97Xorg=='}
+1
+Female neutral SU
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NA.FE1.217.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.001, 'happiness': 0.233, 'surprise': 99.372, 'disgust': 0.001, 'anger': 0.021, 'fear': 0.001, 'neutral': 0.371}}, 'face_token': 'df950c2009e27447b484700e6f73bba9', 'face_rectangle': {'width': 122, 'height': 122, 'left': 69, 'top': 103}}], 'time_used': 326, 'request_id': '1515406630,a6fad312-65e3-4ce5-9077-92544f739b92', 'image_id': 'X4h83gWxbFJ86sBLSmvT5A=='}
+1
+Female surprise FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/UY.HA2.138.jpg
+{'error_message': 'CONCURRENCY_LIMIT_EXCEEDED'}
+error
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/UY.HA2.138.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.002, 'happiness': 18.715, 'surprise': 0.091, 'disgust': 0.002, 'anger': 0.002, 'fear': 0.002, 'neutral': 81.188}}, 'face_token': 'abfb6efc1e4029af28499b2644421fb6', 'face_rectangle': {'width': 132, 'height': 132, 'left': 59, 'top': 99}}], 'time_used': 268, 'request_id': '1515406633,80728b06-d3fa-42c1-8b1b-839b0f058d8b', 'image_id': 'S9VLcsQFxRIhNEWG4CK5og=='}
+1
+Female neutral HA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/YM.DI3.66.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 99.812, 'happiness': 0.0, 'surprise': 0.0, 'disgust': 0.157, 'anger': 0.0, 'fear': 0.031, 'neutral': 0.0}}, 'face_token': '047f4d1e47b5068c36f926bb2fed6fb5', 'face_rectangle': {'width': 125, 'height': 125, 'left': 70, 'top': 103}}], 'time_used': 218, 'request_id': '1515406639,a5da2519-00ef-433a-90b9-7ed3a41e6a63', 'image_id': 'ORQ4UFpiT8yuungE/AD8jg=='}
+1
+Female sadness DI
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/UY.AN3.148.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 99.946, 'happiness': 0.0, 'surprise': 0.0, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.054}}, 'face_token': '2cf2cbe3b32295ff00c934ad1a8a8b09', 'face_rectangle': {'width': 127, 'height': 127, 'left': 63, 'top': 101}}], 'time_used': 239, 'request_id': '1515406641,b74e9333-3634-47af-bb5e-36d0d27537e3', 'image_id': '2cdARYHTLXHwzmlJMd1aOQ=='}
+1
+Female sadness AN
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/TM.AN2.191.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.304, 'happiness': 0.001, 'surprise': 3.372, 'disgust': 0.001, 'anger': 0.001, 'fear': 0.001, 'neutral': 96.32}}, 'face_token': '115c0281a9e13dd3be33043130955321', 'face_rectangle': {'width': 131, 'height': 131, 'left': 70, 'top': 99}}], 'time_used': 248, 'request_id': '1515406642,a818cac4-7ba9-470d-b023-82134582171d', 'image_id': '8IKiXsdBAbdYLqhKmyqUTA=='}
+1
+Female neutral AN
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/YM.HA2.53.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 99.989, 'surprise': 0.0, 'disgust': 0.011, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.0}}, 'face_token': 'ec410ed9d239b779c560fb56b2731908', 'face_rectangle': {'width': 132, 'height': 132, 'left': 64, 'top': 100}}], 'time_used': 269, 'request_id': '1515406649,3a1d95c1-13c8-422a-aa99-f5e03a10db9d', 'image_id': '1TEeSjvYUlC8EK2AHrfE8A=='}
+1
+Female happiness HA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KA.SU3.38.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 0.0, 'surprise': 99.968, 'disgust': 0.027, 'anger': 0.0, 'fear': 0.004, 'neutral': 0.0}}, 'face_token': '5f037de355d3cef1d22d78482b990157', 'face_rectangle': {'width': 149, 'height': 149, 'left': 51, 'top': 93}}], 'time_used': 231, 'request_id': '1515406655,e6f13688-5840-4139-a3cf-9d9754b1c927', 'image_id': 'T5JuQwy+Az7tdx6tPCGrsw=='}
+1
+Female surprise SU
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NM.HA1.95.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.002, 'happiness': 87.334, 'surprise': 0.137, 'disgust': 0.002, 'anger': 0.002, 'fear': 0.002, 'neutral': 12.523}}, 'face_token': '3f45763d80909b40c711b345962b4dc0', 'face_rectangle': {'width': 153, 'height': 153, 'left': 53, 'top': 99}}], 'time_used': 277, 'request_id': '1515406657,910f04fb-b342-4cf7-8272-75162964af18', 'image_id': '9eDk9tUm87gV1WLxh8xeEg=='}
+1
+Female happiness HA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KA.NE2.27.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.001, 'happiness': 0.001, 'surprise': 73.741, 'disgust': 0.001, 'anger': 0.001, 'fear': 0.001, 'neutral': 26.255}}, 'face_token': '284bcbdb4d6a445be447b604d43e3d23', 'face_rectangle': {'width': 133, 'height': 133, 'left': 64, 'top': 99}}], 'time_used': 237, 'request_id': '1515406658,895134a7-05e1-403e-9aeb-41464849715a', 'image_id': 'edqWt3lwJvSvKIUdqjg6+A=='}
+1
+Female surprise NE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/UY.NE1.134.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.342, 'happiness': 0.023, 'surprise': 0.024, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 99.61}}, 'face_token': '706a026e9e59828a134d9890b45c0f78', 'face_rectangle': {'width': 131, 'height': 131, 'left': 60, 'top': 99}}], 'time_used': 244, 'request_id': '1515406660,804b8aab-7bde-44ab-baae-17bfa7c23c1a', 'image_id': 'z7BzdkoBQ+oyk1oYtdGh5w=='}
+1
+Female neutral NE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/TM.HA3.182.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.083, 'happiness': 99.904, 'surprise': 0.01, 'disgust': 0.001, 'anger': 0.001, 'fear': 0.001, 'neutral': 0.001}}, 'face_token': '2a2a827b62fe0caaeeb6e627b0c8dd02', 'face_rectangle': {'width': 125, 'height': 125, 'left': 68, 'top': 102}}], 'time_used': 245, 'request_id': '1515406666,d3e27e4b-17ec-44d0-b87d-af271ecea0b0', 'image_id': 'xVC0YDDkEgJyu5X1cDbvvw=='}
+1
+Female happiness HA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KL.SA1.161.jpg
+{'error_message': 'CONCURRENCY_LIMIT_EXCEEDED'}
+error
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KL.SA1.161.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 73.711, 'happiness': 0.124, 'surprise': 0.044, 'disgust': 0.044, 'anger': 0.31, 'fear': 0.044, 'neutral': 25.725}}, 'face_token': '447628f7e81cfdf5ba079b7e3c9e74ad', 'face_rectangle': {'width': 126, 'height': 126, 'left': 68, 'top': 98}}], 'time_used': 423, 'request_id': '1515406674,6b7af2fb-9a28-4f3c-be06-3af42a4c54f1', 'image_id': '0SSLUJKLukch4yYk3PQewQ=='}
+1
+Female sadness SA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KM.HA1.4.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 99.986, 'surprise': 0.002, 'disgust': 0.012, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.0}}, 'face_token': '2f740895edf56ddfd09e762d9d5eb744', 'face_rectangle': {'width': 131, 'height': 131, 'left': 63, 'top': 104}}], 'time_used': 250, 'request_id': '1515406680,6351489f-af8f-4e48-b9c3-2fa98cb8226a', 'image_id': 's6SKFEiU1AEst6QDDx6HQg=='}
+1
+Female happiness HA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/YM.HA3.54.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 100.0, 'surprise': 0.0, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.0}}, 'face_token': '8f4eb02fe338a61901ec48499c581edb', 'face_rectangle': {'width': 129, 'height': 129, 'left': 67, 'top': 100}}], 'time_used': 302, 'request_id': '1515406687,43001994-995e-46d3-9dca-e6f93ad43def', 'image_id': 'MB6LfbwZfx7cgaX0+94+BQ=='}
+1
+Female happiness HA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/TM.HA1.180.jpg
+{'error_message': 'CONCURRENCY_LIMIT_EXCEEDED'}
+error
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/TM.HA1.180.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.004, 'happiness': 99.924, 'surprise': 0.058, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.013}}, 'face_token': '82646e8cb0e000355d124e9718e0dd3a', 'face_rectangle': {'width': 125, 'height': 125, 'left': 65, 'top': 101}}], 'time_used': 270, 'request_id': '1515406695,14155570-a1cc-472c-a6af-a921b35c5de9', 'image_id': 'WG/ON1QfUp9GC73K7SKWmw=='}
+1
+Female happiness HA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KL.SA2.162.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 95.137, 'happiness': 0.047, 'surprise': 0.059, 'disgust': 0.047, 'anger': 0.166, 'fear': 0.535, 'neutral': 4.009}}, 'face_token': 'a872deca2fad4326b00b9f69db7a26d6', 'face_rectangle': {'width': 121, 'height': 121, 'left': 70, 'top': 100}}], 'time_used': 245, 'request_id': '1515406696,188cecf8-5d0d-45d8-a2f8-352d2111d720', 'image_id': 'yvrNs8Nw3f8wUpNZETvVjA=='}
+1
+Female sadness SA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KM.SU3.16.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.213, 'happiness': 0.358, 'surprise': 95.68, 'disgust': 2.518, 'anger': 0.064, 'fear': 1.103, 'neutral': 0.064}}, 'face_token': '95447a2c5313dfb4c61590cba8b68447', 'face_rectangle': {'width': 158, 'height': 158, 'left': 48, 'top': 96}}], 'time_used': 293, 'request_id': '1515406698,38f9d2e3-c862-4951-a751-255b16cfb72d', 'image_id': 'UbeSvHbxRbziXY+PrFWbag=='}
+1
+Female surprise SU
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NM.SA3.100.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.001, 'happiness': 0.005, 'surprise': 99.288, 'disgust': 0.001, 'anger': 0.001, 'fear': 0.001, 'neutral': 0.705}}, 'face_token': 'f7217dd5407eafcd7397f399527f2b2d', 'face_rectangle': {'width': 156, 'height': 156, 'left': 52, 'top': 98}}], 'time_used': 276, 'request_id': '1515406699,c268ea2c-1251-45db-81e0-581b59ab3dbe', 'image_id': 'iGabakCZEuQGhr+6gvjaqg=='}
+1
+Female surprise SA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KR.AN2.84.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 1.452, 'happiness': 0.069, 'surprise': 0.042, 'disgust': 0.005, 'anger': 0.014, 'fear': 0.005, 'neutral': 98.412}}, 'face_token': '8bde0c44b1e66832da96b85950a8f4b6', 'face_rectangle': {'width': 134, 'height': 134, 'left': 61, 'top': 106}}], 'time_used': 303, 'request_id': '1515406701,826a3e90-ae3b-4c93-b469-7f06fce61afe', 'image_id': 'x+ixf7nokMEKErR2x2F5Fw=='}
+1
+Female neutral AN
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/MK.SA2.120.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 99.564, 'happiness': 0.027, 'surprise': 0.001, 'disgust': 0.222, 'anger': 0.001, 'fear': 0.027, 'neutral': 0.159}}, 'face_token': 'b6d4eb7ad189006cb80c1c9e3805faa3', 'face_rectangle': {'width': 125, 'height': 125, 'left': 66, 'top': 104}}], 'time_used': 262, 'request_id': '1515406702,a4e0212f-86ad-4183-8f14-e3f657b8add1', 'image_id': '9SPM/u3Wons0nNPumtEsMQ=='}
+1
+Female sadness SA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KR.FE2.90.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.059, 'happiness': 4.184, 'surprise': 0.166, 'disgust': 0.059, 'anger': 0.814, 'fear': 0.059, 'neutral': 94.661}}, 'face_token': 'ea9209bb09b351074910724f655b1c9e', 'face_rectangle': {'width': 138, 'height': 138, 'left': 60, 'top': 107}}], 'time_used': 246, 'request_id': '1515406709,2af4f965-941a-40b1-a612-07948c4cb8a4', 'image_id': '8vlljU9cYXJLDcucdmCDHQ=='}
+1
+Female neutral FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/YM.DI2.65.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 54.02, 'happiness': 0.012, 'surprise': 0.012, 'disgust': 26.116, 'anger': 0.013, 'fear': 19.77, 'neutral': 0.057}}, 'face_token': '33c04fbf1ba457be06fd111c186536ea', 'face_rectangle': {'width': 127, 'height': 127, 'left': 68, 'top': 104}}], 'time_used': 277, 'request_id': '1515406710,cbd6dd97-b3b9-4f8a-91ed-1233d3e9ba67', 'image_id': 'llzwXGgqJF40N2mPKMTuNw=='}
+1
+Female sadness DI
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KL.HA3.160.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.005, 'happiness': 99.959, 'surprise': 0.0, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.036}}, 'face_token': '2fa4dcfa263d099018e286a6aecfb404', 'face_rectangle': {'width': 127, 'height': 127, 'left': 69, 'top': 99}}], 'time_used': 214, 'request_id': '1515406712,36a2c8ed-dec1-45a1-8751-6e13f0d4a5f6', 'image_id': 'kZ0UiJVJxWBdLs27P/q3MA=='}
+1
+Female happiness HA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NM.HA2.96.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.053, 'happiness': 67.137, 'surprise': 9.57, 'disgust': 0.053, 'anger': 0.053, 'fear': 0.273, 'neutral': 22.86}}, 'face_token': '96f058264be435e11e7d77256a0e34a5', 'face_rectangle': {'width': 150, 'height': 150, 'left': 55, 'top': 99}}], 'time_used': 252, 'request_id': '1515406718,f9324cac-fe23-44c1-840c-026c3023c9b7', 'image_id': '9PQi8QI9vazqxxGRYYBUkg=='}
+1
+Female happiness HA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/TM.SU3.189.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.043, 'happiness': 0.315, 'surprise': 98.372, 'disgust': 0.002, 'anger': 0.002, 'fear': 0.002, 'neutral': 1.263}}, 'face_token': '67541d1c0a463787a4d4746be961530d', 'face_rectangle': {'width': 140, 'height': 140, 'left': 63, 'top': 97}}], 'time_used': 227, 'request_id': '1515406725,e1ac109f-00f0-452c-894c-4bc256ff1891', 'image_id': 'xi0w7KryJuHFzhCRg3Nycg=='}
+1
+Female surprise SU
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NA.AN2.212.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 1.308, 'happiness': 1.518, 'surprise': 36.732, 'disgust': 0.382, 'anger': 0.382, 'fear': 21.837, 'neutral': 37.84}}, 'face_token': 'c14ba18c932e7d4763e3a2f545b9cc51', 'face_rectangle': {'width': 124, 'height': 124, 'left': 73, 'top': 102}}], 'time_used': 247, 'request_id': '1515406727,7a0fa94c-e030-4507-96e7-ab6a37159f2b', 'image_id': 'S2uI9eShn51oDQvsw/yDeg=='}
+1
+Female neutral AN
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KA.DI3.44.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Male'}, 'emotion': {'sadness': 0.124, 'happiness': 0.007, 'surprise': 0.363, 'disgust': 85.288, 'anger': 0.007, 'fear': 8.852, 'neutral': 5.358}}, 'face_token': '7be84f2c585b2c93dcabb22a8e272647', 'face_rectangle': {'width': 136, 'height': 136, 'left': 54, 'top': 103}}], 'time_used': 266, 'request_id': '1515406728,1169e346-2402-4965-9284-39bdac91d18b', 'image_id': '296otXzddiHFHA1Hvb8GJg=='}
+1
+Male disgust DI
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NM.AN3.106.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.001, 'happiness': 0.025, 'surprise': 0.302, 'disgust': 0.003, 'anger': 0.001, 'fear': 0.001, 'neutral': 99.669}}, 'face_token': 'e08a8d937d6e56d771dc2e8801f92590', 'face_rectangle': {'width': 143, 'height': 143, 'left': 58, 'top': 102}}], 'time_used': 215, 'request_id': '1515406730,901cf925-bb4f-415d-aa4a-c7e48f399f14', 'image_id': 'HilYZhl4iowp+fr/XBZ4kg=='}
+1
+Female neutral AN
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NA.FE3.219.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.063, 'happiness': 49.296, 'surprise': 36.467, 'disgust': 0.034, 'anger': 0.467, 'fear': 0.091, 'neutral': 13.581}}, 'face_token': '35e9e9368ba621265391df20faec955e', 'face_rectangle': {'width': 124, 'height': 124, 'left': 68, 'top': 103}}], 'time_used': 260, 'request_id': '1515406736,31a1c926-deb6-496a-a21f-e1b50c4ac3d0', 'image_id': 'Ys6Bdj8LelWesfWLHTRvwQ=='}
+1
+Female happiness FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NA.AN3.213.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 2.906, 'happiness': 1.853, 'surprise': 5.121, 'disgust': 0.541, 'anger': 0.342, 'fear': 0.273, 'neutral': 88.964}}, 'face_token': 'b9e97fdc99ac65d0cbf111bf14c99144', 'face_rectangle': {'width': 121, 'height': 121, 'left': 72, 'top': 104}}], 'time_used': 262, 'request_id': '1515406738,c5ed36f8-8506-40b9-9a2b-9f62ab923061', 'image_id': 'aMovuX3AjYRQRTWtsQ88aw=='}
+1
+Female neutral AN
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KR.NE1.71.jpg
+{'error_message': 'CONCURRENCY_LIMIT_EXCEEDED'}
+error
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KR.NE1.71.jpg
+{'error_message': 'CONCURRENCY_LIMIT_EXCEEDED'}
+error
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KR.NE1.71.jpg
+{'error_message': 'CONCURRENCY_LIMIT_EXCEEDED'}
+error
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KR.NE1.71.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 1.503, 'surprise': 0.003, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 98.494}}, 'face_token': '901bcf018b3564ebf6378f5db5944654', 'face_rectangle': {'width': 136, 'height': 136, 'left': 62, 'top': 101}}], 'time_used': 296, 'request_id': '1515406753,dc0f51e8-3c94-4a72-b599-33f12d391ee0', 'image_id': 'dHm8NwfZk0gCddjLO8qdvg=='}
+1
+Female neutral NE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KL.HA1.158.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 99.996, 'surprise': 0.0, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.003}}, 'face_token': '572042cb54c4f253be9c07b6eda55988', 'face_rectangle': {'width': 123, 'height': 123, 'left': 71, 'top': 99}}], 'time_used': 228, 'request_id': '1515406754,c787886a-9290-4ae4-8da5-42846dc6c18d', 'image_id': '0nHsJlY0pV1rhUyxiESQOg=='}
+1
+Female happiness HA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/UY.SU1.143.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.537, 'happiness': 0.033, 'surprise': 0.438, 'disgust': 0.001, 'anger': 0.001, 'fear': 0.001, 'neutral': 98.989}}, 'face_token': '77ed2cece37916cf9beb6bf1825e26db', 'face_rectangle': {'width': 137, 'height': 137, 'left': 57, 'top': 97}}], 'time_used': 234, 'request_id': '1515406761,add9daaa-a07e-45b7-a844-8b58598cb74c', 'image_id': 'TdCJANJUsFwYEZfK14tDaQ=='}
+1
+Female neutral SU
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KA.SU1.36.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.001, 'happiness': 0.001, 'surprise': 97.348, 'disgust': 0.001, 'anger': 0.001, 'fear': 0.013, 'neutral': 2.636}}, 'face_token': '9f613520aedb06d6466ad8c0ad222387', 'face_rectangle': {'width': 145, 'height': 145, 'left': 54, 'top': 91}}], 'time_used': 379, 'request_id': '1515406762,8a75efe2-c6c5-4843-aac3-7b58f1f1826b', 'image_id': 'DMQVJkf7ck/e7CIjsvJ8Zg=='}
+1
+Female surprise SU
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KM.DI3.22.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 4.568, 'happiness': 0.008, 'surprise': 94.585, 'disgust': 0.008, 'anger': 0.008, 'fear': 0.06, 'neutral': 0.764}}, 'face_token': 'd57f462dd4db885378a635d5d4661de5', 'face_rectangle': {'width': 129, 'height': 129, 'left': 67, 'top': 106}}], 'time_used': 230, 'request_id': '1515406769,fe82dafe-2031-482b-b72b-98ede5bdbb5e', 'image_id': '7H4eyiz1F/FzYQVBeB42eg=='}
+1
+Female surprise DI
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/YM.NE1.49.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 0.002, 'surprise': 0.64, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 99.358}}, 'face_token': '0c6161a90676a4b4a331617859a335dc', 'face_rectangle': {'width': 141, 'height': 141, 'left': 61, 'top': 95}}], 'time_used': 306, 'request_id': '1515406770,0ebca9d3-7b76-43e5-8fd9-6dacf94bc254', 'image_id': 'WBjgmYvWVTGxj6Djn4fcUw=='}
+1
+Female neutral NE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KR.SU3.82.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.002, 'happiness': 0.063, 'surprise': 99.239, 'disgust': 0.005, 'anger': 0.002, 'fear': 0.002, 'neutral': 0.688}}, 'face_token': '8e132fc503c7ebc6ae0e8ece47754f2a', 'face_rectangle': {'width': 146, 'height': 146, 'left': 58, 'top': 102}}], 'time_used': 291, 'request_id': '1515406777,c4f1aad6-5446-4f47-a7a4-eb67833df91c', 'image_id': '1LOUgW7afqv3c/00eEI/2g=='}
+1
+Female surprise SU
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KR.HA2.75.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.003, 'happiness': 99.834, 'surprise': 0.009, 'disgust': 0.034, 'anger': 0.003, 'fear': 0.003, 'neutral': 0.115}}, 'face_token': '8a939ad73a5e2fd74efb9ee7b5ca3f56', 'face_rectangle': {'width': 137, 'height': 137, 'left': 60, 'top': 104}}], 'time_used': 278, 'request_id': '1515406778,41a5641c-6c1a-489f-8480-659fd428bd00', 'image_id': 'oNW9vAccaHfPiMQY01lndw=='}
+1
+Female happiness HA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/YM.FE4.70.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.055, 'happiness': 0.02, 'surprise': 97.826, 'disgust': 0.269, 'anger': 0.02, 'fear': 1.598, 'neutral': 0.213}}, 'face_token': '6e3c83103cb858c06f8a323fa7b12d68', 'face_rectangle': {'width': 133, 'height': 133, 'left': 64, 'top': 95}}], 'time_used': 238, 'request_id': '1515406785,967690e6-56e1-4f92-9e09-6fe03cec0ca9', 'image_id': 'czj2xqS26iVJhg/KQ5NXUQ=='}
+1
+Female surprise FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NM.SA2.99.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 0.06, 'surprise': 99.255, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.683}}, 'face_token': 'c52ea08446801f0c859e518c6c457a74', 'face_rectangle': {'width': 152, 'height': 152, 'left': 51, 'top': 97}}], 'time_used': 262, 'request_id': '1515406786,1eb4b626-4579-49ea-854a-f21e3fed2762', 'image_id': 'tWbRBXbob+HJFezV8aEV5Q=='}
+1
+Female surprise SA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NM.SU2.102.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 0.251, 'surprise': 99.748, 'disgust': 0.001, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.0}}, 'face_token': 'c0d70111095741de36ef4dd16bc81466', 'face_rectangle': {'width': 156, 'height': 156, 'left': 50, 'top': 99}}], 'time_used': 230, 'request_id': '1515406788,74751ef2-7310-4dc8-8a99-4e483b22a223', 'image_id': 'q51EJN9+OLYaJl9YAFrsdg=='}
+1
+Female surprise SU
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KM.NE1.1.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.001, 'happiness': 0.025, 'surprise': 0.842, 'disgust': 0.001, 'anger': 0.001, 'fear': 0.001, 'neutral': 99.13}}, 'face_token': '768d386aabd86ea6c7e81d337e72804e', 'face_rectangle': {'width': 134, 'height': 134, 'left': 60, 'top': 99}}], 'time_used': 267, 'request_id': '1515406794,ad46af30-e600-44b4-96f4-437d3470a775', 'image_id': 'q0+KdVMgDLQCYfvUgu9xoQ=='}
+1
+Female neutral NE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KM.AN1.17.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 90.434, 'happiness': 0.333, 'surprise': 0.525, 'disgust': 0.016, 'anger': 0.232, 'fear': 0.016, 'neutral': 8.444}}, 'face_token': 'e183d96227d0df86b9656ee23924e5fc', 'face_rectangle': {'width': 128, 'height': 128, 'left': 64, 'top': 105}}], 'time_used': 249, 'request_id': '1515406801,6422a0b1-1b51-4e4d-a8df-5e61cf07d7bf', 'image_id': '+gk7nm2X9zwbQWWfF3ouaQ=='}
+1
+Female sadness AN
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NM.FE1.110.jpg
+{'error_message': 'CONCURRENCY_LIMIT_EXCEEDED'}
+error
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NM.FE1.110.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 0.081, 'surprise': 99.407, 'disgust': 0.001, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.51}}, 'face_token': '458473ad974db08738e0c5a211fa0138', 'face_rectangle': {'width': 152, 'height': 152, 'left': 54, 'top': 98}}], 'time_used': 278, 'request_id': '1515406809,8f10cf1e-8fe7-4c17-a7ee-943965933a6b', 'image_id': '+2/kcnrL5EFwHMgwFYycKw=='}
+1
+Female surprise FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/MK.HA2.117.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.002, 'happiness': 99.995, 'surprise': 0.001, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.001, 'neutral': 0.001}}, 'face_token': 'a16abc06b0b36f42aa1e47745af8e15d', 'face_rectangle': {'width': 122, 'height': 122, 'left': 68, 'top': 104}}], 'time_used': 220, 'request_id': '1515406810,d4de82bf-5a30-4f84-b2a8-5d391e6983d3', 'image_id': 'KZ+Bp8/45ES3yGkeUSyEXg=='}
+1
+Female happiness HA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KL.FE2.175.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.2, 'happiness': 0.045, 'surprise': 0.004, 'disgust': 0.002, 'anger': 0.002, 'fear': 0.002, 'neutral': 99.746}}, 'face_token': '0d96562772dcb8c245971799264a562b', 'face_rectangle': {'width': 125, 'height': 125, 'left': 67, 'top': 99}}], 'time_used': 250, 'request_id': '1515406812,d97374f1-72c3-40cf-b245-2e127522b686', 'image_id': 'ISQFAC9oXGHwwut/CZxFSw=='}
+1
+Female neutral FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KA.DI2.43.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 99.611, 'happiness': 0.0, 'surprise': 0.036, 'disgust': 0.351, 'anger': 0.0, 'fear': 0.001, 'neutral': 0.002}}, 'face_token': '0ed0b7c718dadea6694a2284877834e9', 'face_rectangle': {'width': 133, 'height': 133, 'left': 56, 'top': 102}}], 'time_used': 274, 'request_id': '1515406813,2c970e0c-e984-430f-bc9e-3e98b2d1c7e3', 'image_id': 'oYQK6h6Ev5z/+vO9Z+Ftfw=='}
+1
+Female sadness DI
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KR.NE2.72.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.001, 'happiness': 0.204, 'surprise': 0.064, 'disgust': 0.001, 'anger': 0.001, 'fear': 0.001, 'neutral': 99.729}}, 'face_token': '857bf36b00c69678fec21a1749678bdf', 'face_rectangle': {'width': 136, 'height': 136, 'left': 63, 'top': 101}}], 'time_used': 263, 'request_id': '1515406820,26be0042-9592-4fad-ad66-b2e67c315cb3', 'image_id': 'TZQtM8fwzYg3c3EDfwadYg=='}
+1
+Female neutral NE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KL.DI1.170.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 87.753, 'happiness': 0.002, 'surprise': 0.002, 'disgust': 11.419, 'anger': 0.012, 'fear': 0.666, 'neutral': 0.145}}, 'face_token': 'cf15d428b2bc19bf544b8c110d749509', 'face_rectangle': {'width': 125, 'height': 125, 'left': 67, 'top': 100}}], 'time_used': 323, 'request_id': '1515406826,b236e9ff-e487-4def-9317-aa531b78b6f4', 'image_id': '3tXfDbhstRdzzBCr+BQatg=='}
+1
+Female sadness DI
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KR.SU2.81.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.001, 'happiness': 0.004, 'surprise': 99.92, 'disgust': 0.001, 'anger': 0.001, 'fear': 0.001, 'neutral': 0.074}}, 'face_token': '87143a9249dce6126f3a98575961a0c1', 'face_rectangle': {'width': 143, 'height': 143, 'left': 60, 'top': 102}}], 'time_used': 277, 'request_id': '1515406833,e3178caa-a7b3-4afa-ad9c-107fb669f12b', 'image_id': 'sVqviWl5lxt2oKAMOixisA=='}
+1
+Female surprise SU
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KA.HA2.30.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.002, 'happiness': 96.606, 'surprise': 3.373, 'disgust': 0.002, 'anger': 0.002, 'fear': 0.003, 'neutral': 0.013}}, 'face_token': '0c20958b215f7cdda8b8f5fe7b21c6d5', 'face_rectangle': {'width': 143, 'height': 143, 'left': 56, 'top': 95}}], 'time_used': 264, 'request_id': '1515406835,0794a77a-ad15-4ac1-b9df-639a3143651e', 'image_id': 'DFpwipp7msI603cUOH/nkg=='}
+1
+Female happiness HA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KL.SU2.165.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.003, 'happiness': 1.253, 'surprise': 98.731, 'disgust': 0.006, 'anger': 0.003, 'fear': 0.003, 'neutral': 0.003}}, 'face_token': 'd068927e2d4c9c7dbc4bcf5c14e323e1', 'face_rectangle': {'width': 143, 'height': 143, 'left': 59, 'top': 96}}], 'time_used': 253, 'request_id': '1515406836,ac5d4883-842f-4d78-b8fe-c8a237d38dcb', 'image_id': '16t7Dq2TK1xoNxgf1kPhIw=='}
+1
+Female surprise SU
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KM.SU2.15.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.51, 'happiness': 0.218, 'surprise': 90.428, 'disgust': 7.528, 'anger': 0.096, 'fear': 1.159, 'neutral': 0.061}}, 'face_token': '19bf33a4d01c532f615a5ab1e4d3f776', 'face_rectangle': {'width': 159, 'height': 159, 'left': 47, 'top': 95}}], 'time_used': 248, 'request_id': '1515406838,16c0df28-4e31-458f-aeb2-f9124b1d690a', 'image_id': '2iRkHvmtnoutrh0E7S6mQg=='}
+1
+Female surprise SU
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/TM.NE2.178.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.004, 'happiness': 0.07, 'surprise': 55.303, 'disgust': 0.002, 'anger': 0.002, 'fear': 0.002, 'neutral': 44.619}}, 'face_token': '4febe8ec1c6f6c33dc88029e0745490c', 'face_rectangle': {'width': 128, 'height': 128, 'left': 66, 'top': 100}}], 'time_used': 274, 'request_id': '1515406844,af94b2e0-f6d7-4693-89ba-90a7ad891e09', 'image_id': 'fZtMPGRrBWT7mcN3GOWdVA=='}
+1
+Female surprise NE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/UY.HA1.137.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.041, 'happiness': 20.016, 'surprise': 0.076, 'disgust': 0.003, 'anger': 0.003, 'fear': 0.003, 'neutral': 79.856}}, 'face_token': '11e3a56141addd6aa2bc0a98c398f415', 'face_rectangle': {'width': 132, 'height': 132, 'left': 58, 'top': 98}}], 'time_used': 300, 'request_id': '1515406846,b51f9cdb-761a-4a91-bd9d-f8edf0ce8d9d', 'image_id': 'k6Rx+T7sHxyYJ6X1xl9Y5Q=='}
+1
+Female neutral HA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KA.NE1.26.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.001, 'happiness': 0.002, 'surprise': 95.45, 'disgust': 0.001, 'anger': 0.001, 'fear': 0.001, 'neutral': 4.544}}, 'face_token': 'f84dac2ddfa328ac4c4a90a9ba2174f6', 'face_rectangle': {'width': 135, 'height': 135, 'left': 63, 'top': 99}}], 'time_used': 220, 'request_id': '1515406847,72efdf1a-e129-49b5-a303-0678317c0d77', 'image_id': 'fu17BzdDeg15QOvbYNiPsg=='}
+1
+Female surprise NE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/YM.SA1.55.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 51.394, 'happiness': 0.024, 'surprise': 0.078, 'disgust': 47.778, 'anger': 0.024, 'fear': 0.024, 'neutral': 0.677}}, 'face_token': '85485e4bdff3d18de0435166a3d155a3', 'face_rectangle': {'width': 130, 'height': 130, 'left': 65, 'top': 99}}], 'time_used': 229, 'request_id': '1515406854,120fb869-4a2f-4284-b595-4a7ee2eadbf8', 'image_id': 'Smlq8qUJjKbHhkcHzPa3tw=='}
+1
+Female sadness SA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KR.FE3.91.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.086, 'happiness': 1.525, 'surprise': 0.303, 'disgust': 0.086, 'anger': 1.437, 'fear': 0.125, 'neutral': 96.438}}, 'face_token': '9cea44041f381f7989c827a439909abd', 'face_rectangle': {'width': 146, 'height': 146, 'left': 57, 'top': 105}}], 'time_used': 211, 'request_id': '1515406860,3ae4f9cd-dbda-43c0-8925-3d4c11e51764', 'image_id': 'Ob+lMcvV9T2+sinfzwrmPQ=='}
+1
+Female neutral FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/TM.FE1.196.jpg
+{'error_message': 'CONCURRENCY_LIMIT_EXCEEDED'}
+error
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/TM.FE1.196.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 99.944, 'happiness': 0.045, 'surprise': 0.002, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.002, 'neutral': 0.006}}, 'face_token': '765b3cd62c4681c319f94ea1181858c7', 'face_rectangle': {'width': 132, 'height': 132, 'left': 58, 'top': 101}}], 'time_used': 316, 'request_id': '1515406868,4c2525a7-fce8-458f-b4fa-53117585f87d', 'image_id': 'EoHLY9/63vRhGw7KZTidVg=='}
+1
+Female sadness FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KR.SU1.80.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.002, 'happiness': 0.102, 'surprise': 17.393, 'disgust': 0.002, 'anger': 0.002, 'fear': 0.002, 'neutral': 82.497}}, 'face_token': '24167c5573a2ca228c5634412c6e8924', 'face_rectangle': {'width': 144, 'height': 144, 'left': 58, 'top': 102}}], 'time_used': 227, 'request_id': '1515406869,25189f97-7fe9-4255-ad14-dc78b73f0ccc', 'image_id': '2osenGbQFh5k+Wnv5cl1Dg=='}
+1
+Female neutral SU
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KL.NE3.157.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.043, 'happiness': 0.021, 'surprise': 1.349, 'disgust': 0.034, 'anger': 0.021, 'fear': 0.021, 'neutral': 98.513}}, 'face_token': 'd92ddfe8ade5ea362b2f936861b0c7cc', 'face_rectangle': {'width': 125, 'height': 125, 'left': 66, 'top': 98}}], 'time_used': 284, 'request_id': '1515406876,b486e340-dff7-4bf0-a37f-a22251c374e3', 'image_id': 'l5zAySfJRuO+GgszutmYUg=='}
+1
+Female neutral NE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KA.FE1.45.jpg
+{'error_message': 'CONCURRENCY_LIMIT_EXCEEDED'}
+error
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KA.FE1.45.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.03, 'happiness': 0.03, 'surprise': 90.986, 'disgust': 2.333, 'anger': 0.03, 'fear': 1.578, 'neutral': 5.013}}, 'face_token': '4eb05ff999fe9929186a9fd2a87c370d', 'face_rectangle': {'width': 145, 'height': 145, 'left': 52, 'top': 95}}], 'time_used': 238, 'request_id': '1515406888,1e2b81e3-a756-4313-b625-15e565348819', 'image_id': 'SLIc4NhMnBZKzpuswd8/Pg=='}
+1
+Female surprise FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/MK.NE1.113.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.001, 'happiness': 1.129, 'surprise': 5.505, 'disgust': 0.001, 'anger': 0.001, 'fear': 0.039, 'neutral': 93.323}}, 'face_token': '52f254c987f426a78ecb20dcca7e97de', 'face_rectangle': {'width': 133, 'height': 133, 'left': 63, 'top': 102}}], 'time_used': 257, 'request_id': '1515406890,1fa84d83-1491-45fb-9b4e-eef13d1c6d95', 'image_id': 'g0TlAMxapIBPGvFtpKt5YQ=='}
+1
+Female neutral NE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NA.AN1.211.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.156, 'happiness': 0.289, 'surprise': 6.819, 'disgust': 0.053, 'anger': 0.192, 'fear': 0.053, 'neutral': 92.437}}, 'face_token': '0c2d1ad67cb9af03045b4f9f4839ea49', 'face_rectangle': {'width': 122, 'height': 122, 'left': 76, 'top': 105}}], 'time_used': 287, 'request_id': '1515406896,f9812735-46de-452f-9f3d-e6f536edc0ff', 'image_id': 'QGL27t91KIySX/5WgUyshg=='}
+1
+Female neutral AN
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NA.SU1.208.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 98.888, 'surprise': 1.073, 'disgust': 0.0, 'anger': 0.001, 'fear': 0.036, 'neutral': 0.0}}, 'face_token': '173528fc752ef61fc2fa31a702d1b807', 'face_rectangle': {'width': 132, 'height': 132, 'left': 66, 'top': 99}}], 'time_used': 274, 'request_id': '1515406898,a412a68d-b57d-4c90-b609-c9ce71a3be8f', 'image_id': 'tAtouMq3VIhgUibn+MVGug=='}
+1
+Female happiness SU
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NA.SA1.205.jpg
+{'error_message': 'CONCURRENCY_LIMIT_EXCEEDED'}
+error
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NA.SA1.205.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.15, 'happiness': 4.374, 'surprise': 1.462, 'disgust': 0.106, 'anger': 4.269, 'fear': 0.154, 'neutral': 89.486}}, 'face_token': '70c52fc3053e0fa0b15fccc65e750a31', 'face_rectangle': {'width': 125, 'height': 125, 'left': 69, 'top': 102}}], 'time_used': 281, 'request_id': '1515406911,829596e8-c6d0-4e8f-8864-620b89db1f21', 'image_id': 'luTr/iBhZx7YPgxHO4/WRg=='}
+1
+Female neutral SA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NA.HA1.202.jpg
+{'error_message': 'CONCURRENCY_LIMIT_EXCEEDED'}
+error
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NA.HA1.202.jpg
+{'error_message': 'CONCURRENCY_LIMIT_EXCEEDED'}
+error
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NA.HA1.202.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 100.0, 'surprise': 0.0, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.0}}, 'face_token': '263bb52de9d8d428f31f0204deb9f0c2', 'face_rectangle': {'width': 127, 'height': 127, 'left': 70, 'top': 103}}], 'time_used': 226, 'request_id': '1515406925,0d9a2c60-37e9-49ab-9b30-df427876df29', 'image_id': 'xL6Cmu8bOo70i13Norlsbg=='}
+1
+Female happiness HA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/YM.SU3.60.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 0.017, 'surprise': 99.928, 'disgust': 0.05, 'anger': 0.002, 'fear': 0.001, 'neutral': 0.0}}, 'face_token': 'c81de7f637de0376ea9f9617510aec31', 'face_rectangle': {'width': 154, 'height': 154, 'left': 54, 'top': 90}}], 'time_used': 283, 'request_id': '1515406931,beb5f67f-e015-47ee-93bf-359e795a144f', 'image_id': 'f4GA76gRGnq0auUF66B2gQ=='}
+1
+Female surprise SU
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/UY.SA3.142.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 99.917, 'happiness': 0.0, 'surprise': 0.0, 'disgust': 0.001, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.082}}, 'face_token': '5ff748a47c89a3db94aa1e08dc7bb824', 'face_rectangle': {'width': 130, 'height': 130, 'left': 62, 'top': 101}}], 'time_used': 235, 'request_id': '1515406933,a602d314-9159-40be-9441-3e58db379b1e', 'image_id': 'VLdL3kuvfrQixr2c+p9GGA=='}
+1
+Female sadness SA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/YM.DI1.64.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 66.126, 'happiness': 0.025, 'surprise': 0.008, 'disgust': 33.435, 'anger': 0.008, 'fear': 0.391, 'neutral': 0.008}}, 'face_token': '16fe7e5fb0eaf2a8d12d9c7defffba64', 'face_rectangle': {'width': 127, 'height': 127, 'left': 70, 'top': 104}}], 'time_used': 313, 'request_id': '1515406934,dfac1a89-f105-4044-812c-e50cf3841535', 'image_id': 'V7BcSiwAgUMAdVGE3gvG1A=='}
+1
+Female sadness DI
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NM.NE2.93.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 0.249, 'surprise': 71.602, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 28.149}}, 'face_token': '8f0964f0bf3eb5d66738aef312530c8a', 'face_rectangle': {'width': 150, 'height': 150, 'left': 56, 'top': 99}}], 'time_used': 219, 'request_id': '1515406936,873966e5-1c4b-4b7a-a653-67ac6208b26a', 'image_id': 'noT15xgwe7o4Dq043iQHsQ=='}
+1
+Female surprise NE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/TM.DI2.194.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 98.934, 'happiness': 1.042, 'surprise': 0.005, 'disgust': 0.007, 'anger': 0.001, 'fear': 0.01, 'neutral': 0.001}}, 'face_token': '59db83546268ebc48fba9bc51594c03a', 'face_rectangle': {'width': 132, 'height': 132, 'left': 68, 'top': 103}}], 'time_used': 608, 'request_id': '1515406942,44d1e01d-72e5-47b2-bbd1-200d0ce7e33f', 'image_id': 'R2/s3rrotdNd+sM64bItlw=='}
+1
+Female sadness DI
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KM.AN2.18.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 99.895, 'happiness': 0.0, 'surprise': 0.001, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.104}}, 'face_token': '11ac23f0dbbad3810746b58b4ebad9a3', 'face_rectangle': {'width': 126, 'height': 126, 'left': 65, 'top': 105}}], 'time_used': 259, 'request_id': '1515406944,e01c5dd2-fa2c-489e-881c-aeaa7cb92550', 'image_id': '534qaR80JdkaelzWjytS5A=='}
+1
+Female sadness AN
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KM.HA3.6.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 99.902, 'surprise': 0.069, 'disgust': 0.024, 'anger': 0.0, 'fear': 0.005, 'neutral': 0.0}}, 'face_token': 'dc8600246f80a6eee58672b7f3d7c0e1', 'face_rectangle': {'width': 134, 'height': 134, 'left': 62, 'top': 100}}], 'time_used': 327, 'request_id': '1515406951,11427662-4993-4a18-98e6-d67fff249b0c', 'image_id': 'UkcgFsuTIr9T8f8wggg1Rw=='}
+1
+Female happiness HA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/UY.DI2.150.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.685, 'happiness': 0.125, 'surprise': 0.005, 'disgust': 3.79, 'anger': 0.005, 'fear': 0.011, 'neutral': 95.38}}, 'face_token': '5d5dc4583140002b42a172d1817a04f1', 'face_rectangle': {'width': 127, 'height': 127, 'left': 61, 'top': 103}}], 'time_used': 329, 'request_id': '1515406952,e7f5301f-c100-4d72-ae49-e3e4a63edfcb', 'image_id': 'C4GCHsekr1jrQ7z6+vi7Yg=='}
+1
+Female neutral DI
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KL.AN1.167.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 18.468, 'happiness': 0.047, 'surprise': 0.047, 'disgust': 0.101, 'anger': 0.047, 'fear': 65.111, 'neutral': 16.179}}, 'face_token': 'f69550e53bd9ff92a9de1727e797901d', 'face_rectangle': {'width': 127, 'height': 127, 'left': 65, 'top': 98}}], 'time_used': 361, 'request_id': '1515406954,936bfb6f-5e80-4131-bdcc-04683535a1fa', 'image_id': 'fI2dQaumRmceW3/EqIOheQ=='}
+1
+Female fear AN
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KA.AN3.41.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Male'}, 'emotion': {'sadness': 0.094, 'happiness': 0.007, 'surprise': 0.227, 'disgust': 3.81, 'anger': 0.03, 'fear': 0.076, 'neutral': 95.755}}, 'face_token': '1ffaa560ef8bdf54d759b0f70b834099', 'face_rectangle': {'width': 130, 'height': 130, 'left': 61, 'top': 105}}], 'time_used': 219, 'request_id': '1515406961,6d347614-fc77-4a1b-8161-ed1fcd889869', 'image_id': 'DRYk2GlIvCn+lpTLFCAT0w=='}
+1
+Male neutral AN
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/MK.AN1.125.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.168, 'happiness': 6.591, 'surprise': 9.595, 'disgust': 6.649, 'anger': 8.468, 'fear': 8.703, 'neutral': 59.826}}, 'face_token': 'd83c021b2bc9633d830591fbbd069d18', 'face_rectangle': {'width': 130, 'height': 130, 'left': 64, 'top': 101}}], 'time_used': 258, 'request_id': '1515406962,58a215d8-4fbd-4df3-92c3-b09dc41b1d8d', 'image_id': 'yigL7Vkc3C8IgcuVBeofgw=='}
+1
+Female neutral AN
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/YM.SU2.59.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.001, 'happiness': 27.835, 'surprise': 72.084, 'disgust': 0.001, 'anger': 0.034, 'fear': 0.001, 'neutral': 0.044}}, 'face_token': 'd459e7e9ddf5853ad0c9c67d6fbba4ea', 'face_rectangle': {'width': 146, 'height': 146, 'left': 57, 'top': 92}}], 'time_used': 244, 'request_id': '1515406964,2d8710d1-f9b4-4e0f-a919-b1253c1cd10f', 'image_id': '+wQ0QMpbkXuv1hSBrXwhRQ=='}
+1
+Female surprise SU
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KR.FE1.89.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.049, 'happiness': 8.342, 'surprise': 1.235, 'disgust': 0.049, 'anger': 1.048, 'fear': 0.049, 'neutral': 89.228}}, 'face_token': '87913b864f68781da6d2fc20ae202ccc', 'face_rectangle': {'width': 139, 'height': 139, 'left': 60, 'top': 107}}], 'time_used': 260, 'request_id': '1515406970,9747e9be-dab5-4dc1-bb69-5f31ff3aa575', 'image_id': 'YRT8tFGjOU63t7pUIXWDlA=='}
+1
+Female neutral FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/YM.NE2.50.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 0.0, 'surprise': 0.006, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 99.994}}, 'face_token': 'ca0aaa89188acc2ddc727daf68e29724', 'face_rectangle': {'width': 130, 'height': 130, 'left': 66, 'top': 97}}], 'time_used': 274, 'request_id': '1515406972,f9437a4a-6f0b-4e8c-b6c6-2178b03305b1', 'image_id': 'CwwUGFmr1WIpNC8hxsvmcg=='}
+1
+Female neutral NE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KL.DI2.171.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 97.946, 'happiness': 0.002, 'surprise': 0.002, 'disgust': 0.976, 'anger': 0.049, 'fear': 0.051, 'neutral': 0.973}}, 'face_token': '6c4a952436f376301c13ce3cfe6a1759', 'face_rectangle': {'width': 129, 'height': 129, 'left': 63, 'top': 99}}], 'time_used': 292, 'request_id': '1515406973,cbae02b1-1da1-4bdc-a9d1-b973d48c504e', 'image_id': '73pmVmY81/vtG/0rW0YypQ=='}
+1
+Female sadness DI
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NA.SU2.209.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 0.185, 'surprise': 99.806, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.008}}, 'face_token': 'a38e06bd0f800b8fd3d1cd783dfd1914', 'face_rectangle': {'width': 137, 'height': 137, 'left': 64, 'top': 98}}], 'time_used': 233, 'request_id': '1515406975,4c97a9ea-041b-4fa7-b0f6-22132646f975', 'image_id': '9VVUGae7+p4qDpS8oJklkQ=='}
+1
+Female surprise SU
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KM.DI1.20.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 21.834, 'happiness': 0.009, 'surprise': 1.3, 'disgust': 0.009, 'anger': 0.009, 'fear': 0.018, 'neutral': 76.821}}, 'face_token': '313dc017a943afdadf9fea0a45e99fcf', 'face_rectangle': {'width': 130, 'height': 130, 'left': 67, 'top': 107}}], 'time_used': 262, 'request_id': '1515406976,30a78b57-c4bb-458d-bd07-1735316aca5a', 'image_id': 'nNaYK7ZWa4TnxC2dCVz1dw=='}
+1
+Female neutral DI
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/MK.DI1.128.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.016, 'happiness': 0.003, 'surprise': 0.003, 'disgust': 96.186, 'anger': 0.001, 'fear': 0.171, 'neutral': 3.62}}, 'face_token': 'a23dc30fdfe0510cc7a70d13d1983e50', 'face_rectangle': {'width': 131, 'height': 131, 'left': 56, 'top': 103}}], 'time_used': 254, 'request_id': '1515406978,cdf8cdc4-5ebc-483e-b2dd-633eb48bb475', 'image_id': 's4wbGrRo5OdTQKCmFE/pgw=='}
+1
+Female disgust DI
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/MK.HA3.118.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 99.998, 'surprise': 0.0, 'disgust': 0.002, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.0}}, 'face_token': '3081ac5e92a478419394cf97b0d6f224', 'face_rectangle': {'width': 133, 'height': 133, 'left': 63, 'top': 102}}], 'time_used': 247, 'request_id': '1515406984,7fe41c98-1bfb-45dd-8019-adef73462e35', 'image_id': 'rj/iFDZJ4Wsvrla4ap7mKA=='}
+1
+Female happiness HA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/MK.AN3.127.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.049, 'happiness': 0.529, 'surprise': 89.323, 'disgust': 4.273, 'anger': 0.049, 'fear': 0.126, 'neutral': 5.651}}, 'face_token': 'be81e494981209381efba439a00c1911', 'face_rectangle': {'width': 132, 'height': 132, 'left': 61, 'top': 102}}], 'time_used': 276, 'request_id': '1515406986,450ed565-1311-435d-91ae-5110095950e5', 'image_id': 'lZoRMgMTyX4hFWiM/8/7Aw=='}
+1
+Female surprise AN
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NM.AN1.104.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 0.017, 'surprise': 0.021, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 99.962}}, 'face_token': '9be6035144d1d3650a4f1080d2adeee1', 'face_rectangle': {'width': 144, 'height': 144, 'left': 55, 'top': 102}}], 'time_used': 340, 'request_id': '1515406992,8b8f1252-5980-444d-b154-93c5c0fe22cb', 'image_id': '3qu2aRz/bgK/kqcDyQg8aQ=='}
+1
+Female neutral AN
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/YM.FE2.68.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.018, 'happiness': 0.039, 'surprise': 98.392, 'disgust': 0.175, 'anger': 0.058, 'fear': 0.469, 'neutral': 0.849}}, 'face_token': '54ae3078f8d18424a5d29a858650c56c', 'face_rectangle': {'width': 134, 'height': 134, 'left': 65, 'top': 96}}], 'time_used': 307, 'request_id': '1515406999,ffda73e4-55c9-4979-b339-e050c46fa5cf', 'image_id': 't06edJx0CXgKRCxU+Bk6WA=='}
+1
+Female surprise FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/TM.AN3.192.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.075, 'happiness': 0.007, 'surprise': 5.363, 'disgust': 0.007, 'anger': 0.007, 'fear': 0.135, 'neutral': 94.407}}, 'face_token': 'd093740271b302368244ed09aa06d428', 'face_rectangle': {'width': 129, 'height': 129, 'left': 71, 'top': 100}}], 'time_used': 273, 'request_id': '1515407001,40ef2c39-f201-465c-87b0-d12e5b595cd4', 'image_id': '2Yqn5dBHrboUZnpZ2rfMyg=='}
+1
+Female neutral AN
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KA.HA3.31.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.016, 'happiness': 80.372, 'surprise': 18.595, 'disgust': 0.016, 'anger': 0.016, 'fear': 0.216, 'neutral': 0.767}}, 'face_token': 'ed76869d2cb1231a63981cf24ac16ca5', 'face_rectangle': {'width': 144, 'height': 144, 'left': 55, 'top': 95}}], 'time_used': 321, 'request_id': '1515407002,9a5f82d2-0dfd-443b-9a69-c97be2705884', 'image_id': 'tUxYollgDp601xN6BeYoQA=='}
+1
+Female happiness HA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KA.AN2.40.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.027, 'happiness': 0.0, 'surprise': 0.0, 'disgust': 0.0, 'anger': 0.01, 'fear': 0.003, 'neutral': 99.96}}, 'face_token': 'c475f54bd1561e00efd758578c615848', 'face_rectangle': {'width': 130, 'height': 130, 'left': 60, 'top': 105}}], 'time_used': 229, 'request_id': '1515407004,3da92a3b-ca3e-4290-8f61-3a3cbbcc7f00', 'image_id': '4KGPzF1qGaLDPnm/noTE1A=='}
+1
+Female neutral AN
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KR.AN1.83.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.01, 'happiness': 0.171, 'surprise': 1.227, 'disgust': 0.017, 'anger': 0.022, 'fear': 0.012, 'neutral': 98.541}}, 'face_token': '4cb34ce01d352cc6f0c8dc36b768da79', 'face_rectangle': {'width': 133, 'height': 133, 'left': 61, 'top': 106}}], 'time_used': 221, 'request_id': '1515407005,ede93407-b0ce-4eb4-a50d-56897b510d4c', 'image_id': 'A/QjZI6pIFUM+jlO7pL2uQ=='}
+1
+Female neutral AN
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NA.FE2.218.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.3, 'happiness': 2.958, 'surprise': 95.486, 'disgust': 0.016, 'anger': 0.049, 'fear': 0.016, 'neutral': 1.175}}, 'face_token': '95fb578c9bd2bc217b7b3c6c6cb225dd', 'face_rectangle': {'width': 123, 'height': 123, 'left': 68, 'top': 103}}], 'time_used': 237, 'request_id': '1515407012,11bbed46-4886-47d8-a2fa-32ae35b370e5', 'image_id': '38BvQNSDCjeMAf3MZYNC8Q=='}
+1
+Female surprise FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KM.FE1.23.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 17.019, 'happiness': 1.835, 'surprise': 12.932, 'disgust': 0.057, 'anger': 0.057, 'fear': 0.057, 'neutral': 68.045}}, 'face_token': 'ae4630fba8386938883a487ecf919a86', 'face_rectangle': {'width': 136, 'height': 136, 'left': 63, 'top': 100}}], 'time_used': 216, 'request_id': '1515407018,1ed53118-a387-492d-9631-ef2c4c167ac6', 'image_id': 'nc+URPOf9cntDYZ/kvhMcA=='}
+1
+Female neutral FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KM.NE2.2.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 0.021, 'surprise': 0.143, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 99.835}}, 'face_token': '7a4bff91547416c1f2282a389ce5550a', 'face_rectangle': {'width': 131, 'height': 131, 'left': 63, 'top': 101}}], 'time_used': 278, 'request_id': '1515407025,ded97c7c-f174-4f8d-93f2-a45983cb73ed', 'image_id': 'waimGYupfzmxEe5D9rGy5w=='}
+1
+Female neutral NE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NM.SU1.101.jpg
+{'error_message': 'CONCURRENCY_LIMIT_EXCEEDED'}
+error
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NM.SU1.101.jpg
+{'error_message': 'CONCURRENCY_LIMIT_EXCEEDED'}
+error
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NM.SU1.101.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 0.092, 'surprise': 99.907, 'disgust': 0.001, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.0}}, 'face_token': '06bcfc40df59af52e5dcad9b9e4e6ac5', 'face_rectangle': {'width': 155, 'height': 155, 'left': 52, 'top': 97}}], 'time_used': 227, 'request_id': '1515407034,d7135968-712d-498c-bd6c-9a3f2c02970b', 'image_id': 'BV4BbzRYfPH5afUboTJPjg=='}
+1
+Female surprise SU
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/TM.HA2.181.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 100.0, 'surprise': 0.0, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.0}}, 'face_token': 'e79ce947e3f7dd4c9565235ca1df3dab', 'face_rectangle': {'width': 134, 'height': 134, 'left': 62, 'top': 99}}], 'time_used': 285, 'request_id': '1515407040,dd24abc6-8424-4f80-a5b4-34c3da54d996', 'image_id': '/d5UnjRwa8FugOD+3jP9ZQ=='}
+1
+Female happiness HA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KL.SU3.166.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 0.005, 'surprise': 99.994, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.0}}, 'face_token': '5a935c70448a09746d3ce24e5c02de51', 'face_rectangle': {'width': 139, 'height': 139, 'left': 61, 'top': 97}}], 'time_used': 225, 'request_id': '1515407042,3bb66539-d7ac-420a-ae59-36cc56584602', 'image_id': 'fhcuj3b8y8rKs9JQGvn1pA=='}
+1
+Female surprise SU
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/UY.SA1.140.jpg
+{'error_message': 'CONCURRENCY_LIMIT_EXCEEDED'}
+error
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/UY.SA1.140.jpg
+{'error_message': 'CONCURRENCY_LIMIT_EXCEEDED'}
+error
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/UY.SA1.140.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 99.443, 'happiness': 0.0, 'surprise': 0.0, 'disgust': 0.001, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.555}}, 'face_token': 'd60391d4f7fde215e4c36b07e6a58113', 'face_rectangle': {'width': 134, 'height': 134, 'left': 60, 'top': 101}}], 'time_used': 288, 'request_id': '1515407056,26b72c8f-da77-43f1-b868-135895da05f8', 'image_id': 'emqfsjgVMUe3DvCqUI+PNg=='}
+1
+Female sadness SA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KL.NE2.156.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 1.585, 'happiness': 0.741, 'surprise': 0.208, 'disgust': 0.059, 'anger': 0.104, 'fear': 0.059, 'neutral': 97.245}}, 'face_token': 'e9d8561c7e2d3a2bc0f433c1da77a0c0', 'face_rectangle': {'width': 123, 'height': 123, 'left': 67, 'top': 98}}], 'time_used': 255, 'request_id': '1515407057,a6d11bd1-c6d6-4043-b119-17cc21259330', 'image_id': 'rFdw80j43wyaueNLoYKPrQ=='}
+1
+Female neutral NE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/UY.NE2.135.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 6.828, 'happiness': 2.214, 'surprise': 0.275, 'disgust': 0.007, 'anger': 0.007, 'fear': 0.007, 'neutral': 90.662}}, 'face_token': '48e532672fd1ea4ed7bead6052c2bdca', 'face_rectangle': {'width': 129, 'height': 129, 'left': 61, 'top': 99}}], 'time_used': 247, 'request_id': '1515407059,865d3887-1a76-43bc-8275-84320172e4b2', 'image_id': 'tbRTHkiggiH87MHBQMvpBg=='}
+1
+Female neutral NE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/TM.DI1.193.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 98.59, 'happiness': 0.049, 'surprise': 0.004, 'disgust': 0.004, 'anger': 0.192, 'fear': 0.783, 'neutral': 0.377}}, 'face_token': '36b03c99a7e7b88a6647b1ba8c906ffc', 'face_rectangle': {'width': 131, 'height': 131, 'left': 72, 'top': 103}}], 'time_used': 290, 'request_id': '1515407065,2120496e-f14e-4ecd-926f-3f51c93e184a', 'image_id': 'ooehuUhqRqN+uZpIsTXm6w=='}
+1
+Female sadness DI
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NA.DI2.215.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.594, 'happiness': 0.293, 'surprise': 0.177, 'disgust': 1.745, 'anger': 0.052, 'fear': 0.076, 'neutral': 97.063}}, 'face_token': '3009ef37151e7ffed53cd9faee2849b0', 'face_rectangle': {'width': 125, 'height': 125, 'left': 64, 'top': 104}}], 'time_used': 236, 'request_id': '1515407067,d7047b41-772b-47ac-b0aa-7b9511361213', 'image_id': 'm96kJGnj1Kq6d15nRPGMyg=='}
+1
+Female neutral DI
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/TM.NE3.179.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.229, 'happiness': 0.194, 'surprise': 81.727, 'disgust': 0.006, 'anger': 0.006, 'fear': 0.006, 'neutral': 17.832}}, 'face_token': '91108249af4b0d9266b66bce213cdb6e', 'face_rectangle': {'width': 127, 'height': 127, 'left': 66, 'top': 99}}], 'time_used': 280, 'request_id': '1515407068,03c614bc-919b-4b2e-9363-8779ef78cd04', 'image_id': 'X/gWvOPIoJyv2jFlxojLQw=='}
+1
+Female surprise NE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/TM.NE1.177.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.289, 'happiness': 0.084, 'surprise': 41.779, 'disgust': 0.008, 'anger': 0.008, 'fear': 0.008, 'neutral': 57.825}}, 'face_token': '5fe0ceb7612e521a734cf2bdca8e4a02', 'face_rectangle': {'width': 128, 'height': 128, 'left': 66, 'top': 100}}], 'time_used': 327, 'request_id': '1515407070,44e6abe7-4b54-4ee2-9de5-8e7de9174700', 'image_id': 'od7LV2vrtTDyM7CiA0uhaA=='}
+1
+Female neutral NE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/TM.FE2.197.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 99.647, 'happiness': 0.341, 'surprise': 0.002, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.003, 'neutral': 0.007}}, 'face_token': '8902282dca9bcac7e67b943c7e118e64', 'face_rectangle': {'width': 134, 'height': 134, 'left': 58, 'top': 101}}], 'time_used': 408, 'request_id': '1515407071,ce3a6805-688d-42f4-acf4-b68ef4e8c44e', 'image_id': '/1t9wGraAykuPx1XUmgFow=='}
+1
+Female sadness FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/MK.FE1.131.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 47.624, 'happiness': 7.617, 'surprise': 4.201, 'disgust': 0.063, 'anger': 0.048, 'fear': 40.4, 'neutral': 0.048}}, 'face_token': 'aa1fe92d4ef5f822d4496c149b6ec348', 'face_rectangle': {'width': 134, 'height': 134, 'left': 64, 'top': 98}}], 'time_used': 320, 'request_id': '1515407073,9253a59c-3979-44e7-acc7-740bf60dff1d', 'image_id': 'ohKoorL2zDPSrnYkF19OGw=='}
+1
+Female sadness FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/MK.DI2.129.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Male'}, 'emotion': {'sadness': 94.194, 'happiness': 0.046, 'surprise': 0.119, 'disgust': 2.141, 'anger': 0.004, 'fear': 3.492, 'neutral': 0.004}}, 'face_token': '8fed9a200920775f08d49993d10dd807', 'face_rectangle': {'width': 132, 'height': 132, 'left': 54, 'top': 101}}], 'time_used': 235, 'request_id': '1515407075,7bdab8ad-db18-4e9f-bc37-3c6e73e82a4d', 'image_id': 'yNIpGq9m+ApkEcpp/LCjcQ=='}
+1
+Male sadness DI
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/YM.SA2.56.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 16.381, 'happiness': 1.911, 'surprise': 0.052, 'disgust': 81.498, 'anger': 0.052, 'fear': 0.053, 'neutral': 0.052}}, 'face_token': '7c98dfb5cbb762b9b44f130e8ebcd65d', 'face_rectangle': {'width': 131, 'height': 131, 'left': 63, 'top': 99}}], 'time_used': 258, 'request_id': '1515407076,51f70ff8-91c2-4972-9da1-bde66720b888', 'image_id': 'fU0ZIHq3Jrf1a+MkD4xN5w=='}
+1
+Female disgust SA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KM.NE3.3.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 0.005, 'surprise': 0.134, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 99.86}}, 'face_token': 'c5300ccea54e518926d3438debb5ed3a', 'face_rectangle': {'width': 132, 'height': 132, 'left': 61, 'top': 100}}], 'time_used': 269, 'request_id': '1515407083,18f34a53-28b2-42c6-9ca9-ea9481a24ce9', 'image_id': 'Oc13CQXEPQIVY9GRMu+QAg=='}
+1
+Female neutral NE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/YM.AN3.63.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 6.629, 'happiness': 0.635, 'surprise': 0.915, 'disgust': 0.037, 'anger': 0.037, 'fear': 0.037, 'neutral': 91.708}}, 'face_token': 'fc477e6d200aa39174bcbb88c1a24879', 'face_rectangle': {'width': 129, 'height': 129, 'left': 67, 'top': 99}}], 'time_used': 246, 'request_id': '1515407084,8f923205-e07e-4ce3-98ae-e5318ac28f60', 'image_id': 'WxZcwVmpdvLPUiaTX4YBTw=='}
+1
+Female neutral AN
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KL.FE3.176.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.568, 'happiness': 0.044, 'surprise': 0.04, 'disgust': 0.004, 'anger': 0.009, 'fear': 0.004, 'neutral': 99.33}}, 'face_token': '0405edafe901f56b7134f93ce81fb848', 'face_rectangle': {'width': 131, 'height': 131, 'left': 63, 'top': 97}}], 'time_used': 286, 'request_id': '1515407091,642eb427-df70-4363-9617-7f03d929c4e2', 'image_id': 'bvJovr0EcMVP2Zpc+/ZTZw=='}
+1
+Female neutral FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NM.AN2.105.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.001, 'happiness': 0.098, 'surprise': 1.24, 'disgust': 0.001, 'anger': 0.003, 'fear': 0.001, 'neutral': 98.654}}, 'face_token': 'e13453a8e187db7ece88b9a097b2d626', 'face_rectangle': {'width': 146, 'height': 146, 'left': 57, 'top': 102}}], 'time_used': 222, 'request_id': '1515407092,8dd75ae8-88cf-41e0-b011-6c4b28bcc919', 'image_id': 'Unc875F6Dr0Xj03jvffBcQ=='}
+1
+Female neutral AN
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/YM.NE3.51.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 0.0, 'surprise': 0.013, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 99.987}}, 'face_token': '1dff02cbfe7268e5295f449a5a425ae0', 'face_rectangle': {'width': 133, 'height': 133, 'left': 65, 'top': 97}}], 'time_used': 268, 'request_id': '1515407094,730d65ef-63b4-45aa-bb6c-de1ce34102f6', 'image_id': 'F4oFYIuy8pJiHdU/G2pUng=='}
+1
+Female neutral NE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KA.AN1.39.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.008, 'happiness': 0.002, 'surprise': 0.006, 'disgust': 99.669, 'anger': 0.023, 'fear': 0.016, 'neutral': 0.276}}, 'face_token': '98b72068e1afd3971546802a0e6120bc', 'face_rectangle': {'width': 126, 'height': 126, 'left': 66, 'top': 105}}], 'time_used': 251, 'request_id': '1515407100,0ac51566-6972-4910-8ab8-e53cf24687e5', 'image_id': 'jnKKy6gYVYfTDhEbO4NXVA=='}
+1
+Female disgust AN
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KM.FE3.25.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 99.82, 'happiness': 0.016, 'surprise': 0.118, 'disgust': 0.013, 'anger': 0.004, 'fear': 0.004, 'neutral': 0.026}}, 'face_token': '5c22fd411064a82c8abe381df747e7e0', 'face_rectangle': {'width': 136, 'height': 136, 'left': 63, 'top': 101}}], 'time_used': 309, 'request_id': '1515407102,9096f757-3dbc-4fef-817b-27245386ad9b', 'image_id': 'lDSJs6DvMinzoOI7p8qs0Q=='}
+1
+Female sadness FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/YM.FE3.69.jpg
+{'error_message': 'CONCURRENCY_LIMIT_EXCEEDED'}
+error
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/YM.FE3.69.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.008, 'happiness': 0.008, 'surprise': 94.245, 'disgust': 0.017, 'anger': 0.008, 'fear': 0.188, 'neutral': 5.527}}, 'face_token': '627ace809fa69c373fec32987408c7b5', 'face_rectangle': {'width': 134, 'height': 134, 'left': 63, 'top': 97}}], 'time_used': 262, 'request_id': '1515407105,fb611e7e-6f6d-4323-ba18-347744dd589f', 'image_id': '9w9onbtnXIVPPkvnNVcoHQ=='}
+1
+Female surprise FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KL.SU1.164.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 0.001, 'surprise': 99.998, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.0}}, 'face_token': '26ffd165b86b1b5ecd70a4fbe862ee58', 'face_rectangle': {'width': 136, 'height': 136, 'left': 63, 'top': 95}}], 'time_used': 261, 'request_id': '1515407106,42eea536-129f-46b6-adca-eee8e4642db4', 'image_id': 'tMy9wDgCcTT7gx6cXdyljA=='}
+1
+Female surprise SU
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/TM.FE3.198.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 99.972, 'happiness': 0.014, 'surprise': 0.0, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.013, 'neutral': 0.0}}, 'face_token': '486b1ba1ad8ba4b17a2f6e47cbd7d1d5', 'face_rectangle': {'width': 129, 'height': 129, 'left': 60, 'top': 102}}], 'time_used': 340, 'request_id': '1515407113,925eceda-486f-4b46-ae06-661f82730528', 'image_id': 'xkwlrUtKJu5lvJoUuNXkcw=='}
+1
+Female sadness FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/MK.SU2.123.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 0.0, 'surprise': 99.967, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.032, 'neutral': 0.0}}, 'face_token': 'a03ef38ef443c1245642914af790d173', 'face_rectangle': {'width': 165, 'height': 165, 'left': 47, 'top': 93}}], 'time_used': 280, 'request_id': '1515407114,000f37ab-9010-4739-bbd2-f8f89b4bdfca', 'image_id': 'UbcTPUZh4vRu3PKY4j9DtQ=='}
+1
+Female surprise SU
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/MK.NE3.115.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 1.182, 'surprise': 0.127, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 98.69}}, 'face_token': '6268603275d8776e5048540029a76ac3', 'face_rectangle': {'width': 128, 'height': 128, 'left': 66, 'top': 102}}], 'time_used': 284, 'request_id': '1515407116,7613f636-61f7-40ef-91fb-4d6adbd40e0b', 'image_id': 'nONewrY5kjCdNoxw9E1zWw=='}
+1
+Female neutral NE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NM.FE2.111.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.004, 'happiness': 1.51, 'surprise': 9.303, 'disgust': 0.002, 'anger': 0.002, 'fear': 0.002, 'neutral': 89.178}}, 'face_token': 'afb21e2656441b5736ea98f4bf63ebb8', 'face_rectangle': {'width': 158, 'height': 158, 'left': 50, 'top': 98}}], 'time_used': 421, 'request_id': '1515407117,024d6483-b6fc-40f2-ad18-1c8fc0e5e471', 'image_id': 'IfdVyaXbetaLb3o8q8auOg=='}
+1
+Female neutral FE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KM.SA1.9.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 99.271, 'happiness': 0.002, 'surprise': 0.002, 'disgust': 0.002, 'anger': 0.001, 'fear': 0.001, 'neutral': 0.722}}, 'face_token': '42fac3a9fbf352ed85cb1ff0a8b0d3ac', 'face_rectangle': {'width': 131, 'height': 131, 'left': 63, 'top': 103}}], 'time_used': 222, 'request_id': '1515407124,579ba063-dc36-493f-9b05-4bd46fb707e9', 'image_id': 'Rky4eFCI/cFhV0TBnNfihw=='}
+1
+Female sadness SA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KA.NE3.28.jpg
+{'error_message': 'CONCURRENCY_LIMIT_EXCEEDED'}
+error
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KA.NE3.28.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.001, 'happiness': 0.11, 'surprise': 28.439, 'disgust': 0.001, 'anger': 0.001, 'fear': 0.001, 'neutral': 71.449}}, 'face_token': '112e455618c4f47209fa2d0d1964bebb', 'face_rectangle': {'width': 133, 'height': 133, 'left': 64, 'top': 99}}], 'time_used': 239, 'request_id': '1515407132,9a2df2e1-5906-4557-b012-8af9ccc72b0e', 'image_id': 'O5ycpi7humyDHjYBxwJNNg=='}
+1
+Female neutral NE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/YM.SU1.58.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 0.04, 'surprise': 99.958, 'disgust': 0.0, 'anger': 0.001, 'fear': 0.0, 'neutral': 0.0}}, 'face_token': 'e61b819a50679e66e712dfc5f1ab4e2e', 'face_rectangle': {'width': 154, 'height': 154, 'left': 52, 'top': 92}}], 'time_used': 244, 'request_id': '1515407133,993cb5a0-4122-4ad2-a103-d242cf2e8023', 'image_id': '+mkRA677pLq62fRRSRviRg=='}
+1
+Female surprise SU
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KR.DI3.88.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.113, 'happiness': 6.014, 'surprise': 0.085, 'disgust': 0.085, 'anger': 2.605, 'fear': 0.224, 'neutral': 90.874}}, 'face_token': '1e1b4f03dbd20095f8ee135cfdf975af', 'face_rectangle': {'width': 137, 'height': 137, 'left': 62, 'top': 106}}], 'time_used': 339, 'request_id': '1515407135,026ad9c6-2bc8-4c9f-bee6-c5dd405433c4', 'image_id': '3NSMe5S6l73shRd6ZQyIIA=='}
+1
+Female neutral DI
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KA.SA2.34.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 98.747, 'happiness': 0.001, 'surprise': 0.118, 'disgust': 0.002, 'anger': 0.001, 'fear': 0.143, 'neutral': 0.987}}, 'face_token': '0d53eef5e40af7190bda97b3fa8dcfe4', 'face_rectangle': {'width': 133, 'height': 133, 'left': 59, 'top': 99}}], 'time_used': 330, 'request_id': '1515407141,d83d0b95-8d59-4c39-9710-93456156a65d', 'image_id': '28wLi2/RU7oS+DktNwBRmw=='}
+1
+Female sadness SA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KL.DI3.172.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 20.829, 'happiness': 0.002, 'surprise': 0.002, 'disgust': 72.008, 'anger': 7.133, 'fear': 0.025, 'neutral': 0.002}}, 'face_token': 'fa05bbb8d9907408306c3597ab538468', 'face_rectangle': {'width': 126, 'height': 126, 'left': 68, 'top': 100}}], 'time_used': 271, 'request_id': '1515407143,099a0ea1-c87b-4f1e-9f45-0cefb6646594', 'image_id': 'VJVYav4xYk3pKlOR0aGELA=='}
+1
+Female disgust DI
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KR.AN3.85.jpg
+{'error_message': 'CONCURRENCY_LIMIT_EXCEEDED'}
+error
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KR.AN3.85.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.078, 'happiness': 0.013, 'surprise': 0.003, 'disgust': 0.002, 'anger': 0.003, 'fear': 0.002, 'neutral': 99.901}}, 'face_token': '697f31a6e794505cd3eb0e06e2dfdb48', 'face_rectangle': {'width': 133, 'height': 133, 'left': 65, 'top': 106}}], 'time_used': 311, 'request_id': '1515407156,3bc8e7a9-d5ab-4a19-b3ff-757eb2f508bd', 'image_id': '0ekOyayEpMOWgd0y1+zujQ=='}
+1
+Female neutral AN
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/TM.SU1.187.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.002, 'happiness': 0.0, 'surprise': 99.998, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.0}}, 'face_token': '8ab32223186c372a1475f60cd34cbbed', 'face_rectangle': {'width': 136, 'height': 136, 'left': 65, 'top': 98}}], 'time_used': 246, 'request_id': '1515407157,b1d6482c-c24b-492c-858a-c02fab1170c7', 'image_id': 'vK7TB1dqqzETj9zIxoS+sQ=='}
+1
+Female surprise SU
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KL.AN3.169.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 99.649, 'happiness': 0.0, 'surprise': 0.001, 'disgust': 0.0, 'anger': 0.344, 'fear': 0.0, 'neutral': 0.006}}, 'face_token': '1885eaa07d45685b4659887c4ecad464', 'face_rectangle': {'width': 122, 'height': 122, 'left': 64, 'top': 100}}], 'time_used': 239, 'request_id': '1515407159,dc49f7a7-cd6c-4ceb-975b-f9468f730877', 'image_id': '8YEUZWSFOpMzTOnrKJ3pCg=='}
+1
+Female sadness AN
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NM.DI1.107.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.003, 'happiness': 2.978, 'surprise': 1.229, 'disgust': 0.006, 'anger': 0.002, 'fear': 0.002, 'neutral': 95.78}}, 'face_token': '5a9610d3dd796c9d7c3c8e2dfbd074c8', 'face_rectangle': {'width': 148, 'height': 148, 'left': 46, 'top': 101}}], 'time_used': 273, 'request_id': '1515407160,ff4736b0-de64-4979-a539-7a9f28c2c850', 'image_id': '0PGtD4TPbrxC6EoMYNCokw=='}
+1
+Female neutral DI
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NM.NE1.92.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 0.246, 'surprise': 64.16, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 35.594}}, 'face_token': 'a765b71053336768911c9e0a24365f01', 'face_rectangle': {'width': 148, 'height': 148, 'left': 56, 'top': 99}}], 'time_used': 244, 'request_id': '1515407162,2b3aebbe-caf5-464c-babf-c1bc36d4703a', 'image_id': 'vptGhInzkWQAkC2F8n8TNg=='}
+1
+Female surprise NE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/UY.AN1.146.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 99.884, 'happiness': 0.0, 'surprise': 0.0, 'disgust': 0.0, 'anger': 0.001, 'fear': 0.0, 'neutral': 0.115}}, 'face_token': '5d5e81186a671824a1acbfdfb58d2f76', 'face_rectangle': {'width': 127, 'height': 127, 'left': 62, 'top': 101}}], 'time_used': 292, 'request_id': '1515407168,4f7f4719-3818-45fc-94f2-5a44db9e75c6', 'image_id': '6aKGaNSCjTvMXqSHnyvsFQ=='}
+1
+Female sadness AN
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/TM.SA3.186.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 6.659, 'happiness': 0.165, 'surprise': 9.832, 'disgust': 0.024, 'anger': 0.024, 'fear': 0.024, 'neutral': 83.272}}, 'face_token': 'ffb6942eba98a58e8aeabb6428c62ea1', 'face_rectangle': {'width': 127, 'height': 127, 'left': 68, 'top': 101}}], 'time_used': 241, 'request_id': '1515407170,7b0ead98-6b91-41e3-8208-0c623de968c0', 'image_id': 'B3dSs5LUZ7Id3bdPUJP3yg=='}
+1
+Female neutral SA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/MK.AN2.126.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.045, 'happiness': 0.951, 'surprise': 0.571, 'disgust': 10.864, 'anger': 0.045, 'fear': 1.178, 'neutral': 86.347}}, 'face_token': 'bbbe9252dfc665aa742825516c0c2622', 'face_rectangle': {'width': 129, 'height': 129, 'left': 64, 'top': 100}}], 'time_used': 273, 'request_id': '1515407171,139bea63-403d-4f8e-9f41-45f987e6aada', 'image_id': 'kJ2Dax/lHE2vnGTKhhbhaw=='}
+1
+Female neutral AN
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/UY.SU2.144.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.683, 'happiness': 0.453, 'surprise': 28.8, 'disgust': 0.01, 'anger': 0.01, 'fear': 0.01, 'neutral': 70.035}}, 'face_token': 'b20a131af0e93f1b4a9b5457db1a9cba', 'face_rectangle': {'width': 140, 'height': 140, 'left': 55, 'top': 97}}], 'time_used': 270, 'request_id': '1515407178,b171dc78-8ab6-4d21-aba8-e686bf9530fa', 'image_id': 'hZKyG/Inr8+0y12MB8mjWQ=='}
+1
+Female neutral SU
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/MK.NE2.114.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 0.334, 'surprise': 0.019, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 99.646}}, 'face_token': '510c0f16aeb192b56e8f0e9f936afbea', 'face_rectangle': {'width': 134, 'height': 134, 'left': 61, 'top': 101}}], 'time_used': 219, 'request_id': '1515407179,cee755a7-4f70-4642-b413-18f42b2facff', 'image_id': 'PqAD+js9IJLGPVCOMpGE4Q=='}
+1
+Female neutral NE
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NA.SA3.207.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.654, 'happiness': 5.656, 'surprise': 7.553, 'disgust': 0.045, 'anger': 0.045, 'fear': 0.277, 'neutral': 85.769}}, 'face_token': 'f2ecc1b0b8234c320512cc89e8ffc721', 'face_rectangle': {'width': 124, 'height': 124, 'left': 68, 'top': 104}}], 'time_used': 278, 'request_id': '1515407186,f7f758ca-7ea6-4a3c-a893-45f70cfdc79f', 'image_id': '4EEpq7346fDFBlpS/mslqw=='}
+1
+Female neutral SA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NA.HA2.203.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 100.0, 'surprise': 0.0, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.0}}, 'face_token': 'fa5885ee29fbbfde71a9d6488b8c1215', 'face_rectangle': {'width': 125, 'height': 125, 'left': 70, 'top': 102}}], 'time_used': 229, 'request_id': '1515407192,c0a5111e-f4c2-4632-81f0-728b80f953e2', 'image_id': 'bOGMvs1dTwEDVeUh5mnuog=='}
+1
+Female happiness HA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KA.HA4.32.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.023, 'happiness': 0.089, 'surprise': 88.266, 'disgust': 0.062, 'anger': 0.023, 'fear': 0.029, 'neutral': 11.507}}, 'face_token': '525714045eeaa472c6fcfbfec8fc77a3', 'face_rectangle': {'width': 140, 'height': 140, 'left': 56, 'top': 95}}], 'time_used': 340, 'request_id': '1515407199,d652e4af-b556-465d-ad9d-8a6926ce1389', 'image_id': '2HBlXGSGGJvgv9+iRuXkyg=='}
+1
+Female surprise HA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KM.AN3.19.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 99.52, 'happiness': 0.0, 'surprise': 0.0, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.479}}, 'face_token': '0707fc867024238114d53dbfa38bbfb4', 'face_rectangle': {'width': 124, 'height': 124, 'left': 66, 'top': 106}}], 'time_used': 238, 'request_id': '1515407200,a425af74-024e-49d8-ac95-fad3a18c622b', 'image_id': '48pUgsuYv/NQzbUPTnl3cQ=='}
+1
+Female sadness AN
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NM.SA1.98.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.001, 'happiness': 0.483, 'surprise': 97.852, 'disgust': 0.001, 'anger': 0.001, 'fear': 0.001, 'neutral': 1.66}}, 'face_token': 'dfa7ae96a255b6737076e39086de920a', 'face_rectangle': {'width': 152, 'height': 152, 'left': 49, 'top': 97}}], 'time_used': 274, 'request_id': '1515407202,dfd41a6d-86f4-4a7a-b3e1-0eed04aeb22f', 'image_id': 'RXcXpfsJVa9/+bfMT6a43A=='}
+1
+Female surprise SA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/KR.HA1.74.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 97.658, 'surprise': 0.0, 'disgust': 0.0, 'anger': 0.005, 'fear': 0.0, 'neutral': 2.336}}, 'face_token': 'a72d8a2ac8917045d7a603abc4715c2a', 'face_rectangle': {'width': 130, 'height': 130, 'left': 64, 'top': 103}}], 'time_used': 337, 'request_id': '1515407203,ba5aa85f-d884-420f-9c0d-de3ccfd355f1', 'image_id': 'XwhxOm+HFwoRgxfp5KbByA=='}
+1
+Female happiness HA
+/home/shushi/Pic/jaffeimages.KDEF/jaffe_img/NA.HA3.204.jpg
+{'faces': [{'attributes': {'gender': {'value': 'Female'}, 'emotion': {'sadness': 0.0, 'happiness': 100.0, 'surprise': 0.0, 'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.0}}, 'face_token': '9b6f948045fcd5f56e56016451840899', 'face_rectangle': {'width': 126, 'height': 126, 'left': 70, 'top': 102}}], 'time_used': 211, 'request_id': '1515407205,0899c2e0-36af-4f95-a69b-8bcdde8112ae', 'image_id': 'EQHfe+i6DW9TWQrMi7q9Ow=='}
+1
+Female happiness HA
+0.431924882629108 0.9812206572769953
+
+Process finished with exit code 0
+

@@ -1,0 +1,1938 @@
+/usr/bin/python3.5 /home/shushi/projects/3face/face_api/src/test_compare_twins/test_tencent.py
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 83.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg /home/shushi/Pic/ZhuJiaWen/1553123673.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 85.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg /home/shushi/Pic/ZhuJiaWen/1371640660.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 75.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg /home/shushi/Pic/ZhuJiaWen/144969499.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 75.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg /home/shushi/Pic/ZhuJiaWen/2128979448.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 92.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 90.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg /home/shushi/Pic/ZhuJiaWen/144969499.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 86.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg /home/shushi/Pic/ZhuJiaWen/1553123673.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 79.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png /home/shushi/Pic/ZhuJiaWen/1562718419.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png /home/shushi/Pic/ZhuJiaWen/417015209.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 90.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg /home/shushi/Pic/ZhuJiaWen/144969499.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 87.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 79.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg /home/shushi/Pic/ZhuJiaWen/636772360.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg /home/shushi/Pic/ZhuJiaWen/288171084.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 100.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 77.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg /home/shushi/Pic/ZhuJiaWen/395018968.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 72.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg /home/shushi/Pic/ZhuJiaWen/1735962714.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 93.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png /home/shushi/Pic/ZhuJiaWen/742408606.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 75.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 78.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg /home/shushi/Pic/ZhuJiaWen/417015209.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 84.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg /home/shushi/Pic/ZhuJiaWen/1735962714.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 81.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 89.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg /home/shushi/Pic/ZhuJiaWen/2128979448.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 85.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg /home/shushi/Pic/ZhuJiaWen/1499926792.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 84.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg /home/shushi/Pic/ZhuJiaWen/75195746.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 78.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg /home/shushi/Pic/ZhuJiaWen/660317691.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 78.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaWen/543702080.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 92.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg /home/shushi/Pic/ZhuJiaWen/994969388.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 88.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg /home/shushi/Pic/ZhuJiaWen/288171084.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 65.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 85.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg /home/shushi/Pic/ZhuJiaWen/395018968.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 93.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg /home/shushi/Pic/ZhuJiaWen/636772360.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg /home/shushi/Pic/ZhuJiaWen/395018968.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg /home/shushi/Pic/ZhuJiaWen/1812528523.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 64.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg /home/shushi/Pic/ZhuJiaWen/144969499.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 86.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg /home/shushi/Pic/ZhuJiaWen/1553123673.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 86.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg /home/shushi/Pic/ZhuJiaWen/1371640660.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 71.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png /home/shushi/Pic/ZhuJiaWen/2128979448.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png /home/shushi/Pic/ZhuJiaWen/417015209.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg /home/shushi/Pic/ZhuJiaWen/1812528523.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 86.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png /home/shushi/Pic/ZhuJiaWen/288171084.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 92.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 93.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg /home/shushi/Pic/ZhuJiaWen/454298170.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 83.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg /home/shushi/Pic/ZhuJiaWen/522832377.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg /home/shushi/Pic/ZhuJiaWen/1562718419.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 100.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg /home/shushi/Pic/ZhuJiaWen/761641544.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 74.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 88.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 92.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png /home/shushi/Pic/ZhuJiaWen/1371640660.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 70.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg /home/shushi/Pic/ZhuJiaWen/994969388.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg /home/shushi/Pic/ZhuJiaWen/1562718419.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 93.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png /home/shushi/Pic/ZhuJiaWen/742408606.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 81.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg /home/shushi/Pic/ZhuJiaWen/1553123673.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png /home/shushi/Pic/ZhuJiaWen/1371640660.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 76.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 100.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg /home/shushi/Pic/ZhuJiaWen/288171084.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 76.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg /home/shushi/Pic/ZhuJiaWen/288171084.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 84.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg /home/shushi/Pic/ZhuJiaWen/384292195.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg /home/shushi/Pic/ZhuJiaWen/522832377.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg /home/shushi/Pic/ZhuJiaWen/636772360.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg /home/shushi/Pic/ZhuJiaWen/660317691.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 100.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg /home/shushi/Pic/ZhuJiaWen/454298170.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 79.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg /home/shushi/Pic/ZhuJiaWen/1094188196.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 90.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg /home/shushi/Pic/ZhuJiaWen/1371640660.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 79.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg /home/shushi/Pic/ZhuJiaWen/417015209.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 72.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg /home/shushi/Pic/ZhuJiaWen/395018968.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 83.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 81.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg /home/shushi/Pic/ZhuJiaWen/454298170.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 77.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg /home/shushi/Pic/ZhuJiaWen/636772360.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg /home/shushi/Pic/ZhuJiaWen/543702080.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 72.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaWen/886078025.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg /home/shushi/Pic/ZhuJiaWen/994969388.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaWen/1553123673.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png /home/shushi/Pic/ZhuJiaWen/417015209.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg /home/shushi/Pic/ZhuJiaWen/454298170.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 70.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg /home/shushi/Pic/ZhuJiaWen/2128979448.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg /home/shushi/Pic/ZhuJiaWen/994969388.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png /home/shushi/Pic/ZhuJiaWen/401828318.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 78.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 82.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png /home/shushi/Pic/ZhuJiaWen/288171084.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 65.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png /home/shushi/Pic/ZhuJiaWen/1368453483.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 79.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 82.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg /home/shushi/Pic/ZhuJiaWen/660317691.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 92.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 76.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg /home/shushi/Pic/ZhuJiaWen/401828318.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 87.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png /home/shushi/Pic/ZhuJiaWen/454298170.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 76.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 75.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg /home/shushi/Pic/ZhuJiaWen/886078025.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg /home/shushi/Pic/ZhuJiaWen/1384139730.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 91.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg /home/shushi/Pic/ZhuJiaWen/742408606.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 73.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png /home/shushi/Pic/ZhuJiaWen/761641544.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 72.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg /home/shushi/Pic/ZhuJiaWen/384292195.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png /home/shushi/Pic/ZhuJiaWen/2128979448.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 88.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg /home/shushi/Pic/ZhuJiaWen/636772360.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 85.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg /home/shushi/Pic/ZhuJiaWen/144969499.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png /home/shushi/Pic/ZhuJiaWen/454298170.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 66.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg /home/shushi/Pic/ZhuJiaWen/522832377.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaWen/1735962714.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 77.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg /home/shushi/Pic/ZhuJiaWen/417015209.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 75.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png /home/shushi/Pic/ZhuJiaWen/2128979448.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 84.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png /home/shushi/Pic/ZhuJiaWen/1812528523.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg /home/shushi/Pic/ZhuJiaWen/1384139730.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 89.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaWen/1562718419.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 92.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg /home/shushi/Pic/ZhuJiaWen/1562718419.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 90.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 97.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 76.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg /home/shushi/Pic/ZhuJiaWen/886078025.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg /home/shushi/Pic/ZhuJiaWen/75195746.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 90.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 74.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 97.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg /home/shushi/Pic/ZhuJiaWen/994969388.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 83.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg /home/shushi/Pic/ZhuJiaWen/454298170.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg /home/shushi/Pic/ZhuJiaWen/401828318.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 84.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png /home/shushi/Pic/ZhuJiaWen/288171084.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 65.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg /home/shushi/Pic/ZhuJiaWen/1368453483.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 51.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg /home/shushi/Pic/ZhuJiaWen/994969388.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 76.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg /home/shushi/Pic/ZhuJiaWen/1735962714.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 79.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/967582628.jpg /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 100.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1078229885.jpg /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 29.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 44.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/399379745.jpg /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 72.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1363304684.jpg /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 85.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1591080402.jpg /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 91.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1363304684.jpg /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 90.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/52404415.jpg /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 88.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1487896716.jpg /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 78.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1870723223.jpg /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 100.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1565773646.jpg /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 76.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1980251225.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 98.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1591080402.jpg /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 80.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1749384580.jpg /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/2034710973.jpg /home/shushi/Pic/ZhuJiaYi/895953682.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 76.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/399379745.jpg /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 80.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/1881654506.jpg /home/shushi/Pic/ZhuJiaYi/396487429.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/1565773646.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 98.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/107414087.jpg /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 100.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 7.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/967582628.jpg /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1742112983.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 62.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1943018685.jpg /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 93.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1742112983.jpg /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1242374213.jpg /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 72.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/399379745.jpg /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 73.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1026213847.jpg /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 74.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/536237754.jpg /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 100.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/1749384580.jpg /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 93.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png /home/shushi/Pic/ZhuJiaYi/396487429.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/1026213847.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/1565773646.jpg /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 97.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg /home/shushi/Pic/ZhuJiaYi/1556060239.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 91.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1870723223.jpg /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 87.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png /home/shushi/Pic/ZhuJiaYi/396487429.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/895953682.jpg /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 73.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/52404415.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 92.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1742112983.jpg /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 96.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/2034710973.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 10.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png /home/shushi/Pic/ZhuJiaYi/1556060239.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/1591080402.jpg /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 87.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/1980251225.jpg /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/2051246079.jpg /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 81.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/2051246079.jpg /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 100.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 71.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1749384580.jpg /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 89.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/249104539.jpg /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 98.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 82.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/967582628.jpg /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 77.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 92.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/536237754.jpg /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 87.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 67.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/1363304684.jpg /home/shushi/Pic/ZhuJiaYi/1556060239.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/895953682.jpg /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/1242374213.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 84.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/967582628.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 72.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1943018685.jpg /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 77.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/52404415.jpg /home/shushi/Pic/ZhuJiaYi/895953682.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 77.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 9.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 91.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1487896716.jpg /home/shushi/Pic/ZhuJiaYi/396487429.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/1881654506.jpg /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 83.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg /home/shushi/Pic/ZhuJiaYi/396487429.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg /home/shushi/Pic/ZhuJiaYi/895953682.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/1591080402.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/1980251225.jpg /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 97.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 99.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/52404415.jpg /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 93.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1363304684.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 60.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1242374213.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 66.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/895953682.jpg /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 76.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/52404415.jpg /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 97.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1980251225.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 98.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1437230887.jpg /home/shushi/Pic/ZhuJiaYi/895953682.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 72.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 98.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/399379745.jpg /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 88.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1487896716.jpg /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 87.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/2051246079.jpg /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 86.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1749384580.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 97.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1078229885.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/52404415.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 36.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 42.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 74.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/2051246079.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/399379745.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/2051246079.jpg /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 88.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/1487896716.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 100.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1437230887.jpg /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 82.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 92.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1881654506.jpg /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 97.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1242374213.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 84.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/536237754.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 98.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/399379745.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 60.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/2034710973.jpg /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 73.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/249104539.jpg /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 100.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/399379745.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 60.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1026213847.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1943018685.jpg /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 96.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/2034710973.jpg /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 62.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/249104539.jpg /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 93.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/399379745.jpg /home/shushi/Pic/ZhuJiaYi/1556060239.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/1836482221.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 21.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/1771124897.jpg /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 97.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/2034710973.jpg /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 73.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/967582628.jpg /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1363304684.jpg /home/shushi/Pic/ZhuJiaYi/396487429.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/1771124897.jpg /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/1363304684.jpg /home/shushi/Pic/ZhuJiaYi/396487429.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/1242374213.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg /home/shushi/Pic/ZhuJiaYi/1556060239.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png /home/shushi/Pic/ZhuJiaYi/1556060239.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 96.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 96.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 71.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/895953682.jpg /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 75.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/1980251225.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaYi/1078229885.jpg /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 100.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 82.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 29.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 71.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 62.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 81.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 74.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg /home/shushi/Pic/ZhuJiaYi/396487429.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 89.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 88.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 78.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 74.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 92.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 80.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 77.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 76.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 84.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 96.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg /home/shushi/Pic/ZhuJiaYi/1030612579.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg /home/shushi/Pic/ZhuJiaYi/895953682.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 70.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 86.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 80.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 88.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 49.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 76.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 64.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 70.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg /home/shushi/Pic/ZhuJiaYi/1030612579.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 78.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 96.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 64.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 67.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 83.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 28.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg /home/shushi/Pic/ZhuJiaYi/396487429.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 82.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 97.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 92.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 76.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 76.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 81.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 92.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 81.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 7.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 85.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 66.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 87.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 90.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 84.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 90.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png /home/shushi/Pic/ZhuJiaYi/1556060239.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png /home/shushi/Pic/ZhuJiaYi/895953682.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 62.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 98.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 44.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 92.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 67.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 83.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 88.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 75.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 24.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg /home/shushi/Pic/ZhuJiaYi/1556060239.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png /home/shushi/Pic/ZhuJiaYi/895953682.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 87.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaYi/1030612579.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 64.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 78.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 92.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 86.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 79.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 57.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 75.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 87.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 88.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg /home/shushi/Pic/ZhuJiaYi/1030612579.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 78.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 79.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 75.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 90.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png /home/shushi/Pic/ZhuJiaYi/895953682.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 64.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 65.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg /home/shushi/Pic/ZhuJiaYi/1030612579.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 78.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 74.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 41.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 81.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 84.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 96.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png /home/shushi/Pic/ZhuJiaYi/1030612579.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 80.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg /home/shushi/Pic/ZhuJiaYi/1556060239.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 83.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 74.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 93.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 99.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 69.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaYi/1556060239.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 61.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 97.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 88.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 95.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 71.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 46.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg /home/shushi/Pic/ZhuJiaYi/396487429.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 73.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg /home/shushi/Pic/ZhuJiaYi/396487429.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 77.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 74.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 96.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 71.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 68.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 90.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 71.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 65.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 54.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 21.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 81.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 80.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 70.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 87.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 65.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 76.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg /home/shushi/Pic/ZhuJiaYi/1556060239.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 85.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 77.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 85.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 89.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 72.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 66.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 76.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 80.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 75.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 88.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 10.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaYi/396487429.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 93.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 79.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg /home/shushi/Pic/ZhuJiaYi/396487429.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 64.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 84.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 71.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 82.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 76.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 82.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 90.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 81.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 32.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 96.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 70.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 96.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 80.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 47.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 92.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 24.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 87.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 93.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 73.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 61.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 75.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 75.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 78.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 93.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 73.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 91.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 54.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 76.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 75.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 51.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 90.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 88.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 78.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 71.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg /home/shushi/Pic/ZhuJiaYi/396487429.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 88.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg /home/shushi/Pic/ZhuJiaYi/396487429.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 87.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 79.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 89.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaYi/1556060239.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg /home/shushi/Pic/ZhuJiaYi/396487429.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 9.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 93.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg /home/shushi/Pic/ZhuJiaYi/1030612579.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 84.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 81.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 73.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 70.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 73.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 78.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 53.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png /home/shushi/Pic/ZhuJiaYi/1030612579.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 1, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 31.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 75.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 82.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 94.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 74.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 83.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 29.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 10.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 84.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 91.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 72.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaYi/1030612579.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 90.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 84.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 39.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 75.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+<Response [200]>
+{'data': {'session_id': '', 'fail_flag': 2, 'similarity': 0.0}, 'message': 'SDK_IMAGE_FACEDETECT_FAILED', 'code': -1101}
+error
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 86.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 90.0}, 'message': 'OK', 'code': 0}
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+<Response [200]>
+{'data': {'session_id': '', 'similarity': 79.0}, 'message': 'OK', 'code': 0}
+confidence1: 82.195
+confidence2: 76.415
+
+Process finished with exit code 0
+

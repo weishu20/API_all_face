@@ -1,0 +1,998 @@
+confidence1: 82.195
+confidence2: 76.415
+similarity:400
+SDK_IMAGE_FACEDETECT_FAILED:183
+
+
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png vs /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+similarity: 83.0
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaWen/1553123673.jpg
+similarity: 85.0
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaWen/1371640660.jpg
+similarity: 75.0
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaWen/144969499.jpg
+similarity: 75.0
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaWen/2128979448.jpg
+similarity: 92.0
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+similarity: 90.0
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaWen/144969499.jpg
+similarity: 86.0
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaWen/1553123673.jpg
+similarity: 79.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaWen/417015209.jpg
+similarity: 90.0
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaWen/144969499.jpg
+similarity: 87.0
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png
+similarity: 79.0
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaWen/288171084.jpg
+similarity: 100.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png
+similarity: 77.0
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaWen/395018968.jpg
+similarity: 72.0
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaWen/1735962714.jpg
+similarity: 93.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png vs /home/shushi/Pic/ZhuJiaWen/742408606.jpg
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png
+similarity: 75.0
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png
+similarity: 78.0
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaWen/417015209.jpg
+similarity: 84.0
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaWen/1735962714.jpg
+similarity: 81.0
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+similarity: 89.0
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaWen/2128979448.jpg
+similarity: 85.0
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaWen/1499926792.jpg
+similarity: 84.0
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaWen/75195746.jpg
+similarity: 78.0
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaWen/660317691.jpg
+similarity: 78.0
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg vs /home/shushi/Pic/ZhuJiaWen/543702080.jpg
+similarity: 92.0
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaWen/994969388.jpg
+similarity: 88.0
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png
+similarity: 65.0
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+similarity: 85.0
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaWen/395018968.jpg
+similarity: 93.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaWen/1812528523.jpg
+similarity: 64.0
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaWen/144969499.jpg
+similarity: 86.0
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaWen/1553123673.jpg
+similarity: 86.0
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaWen/1371640660.jpg
+similarity: 71.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaWen/1812528523.jpg
+similarity: 86.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaWen/288171084.jpg
+similarity: 92.0
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+similarity: 93.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaWen/454298170.jpg
+similarity: 83.0
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaWen/1562718419.jpg
+similarity: 100.0
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaWen/761641544.jpg
+similarity: 74.0
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png
+similarity: 88.0
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+similarity: 92.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaWen/1371640660.jpg
+similarity: 70.0
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaWen/1562718419.jpg
+similarity: 93.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaWen/742408606.jpg
+similarity: 81.0
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaWen/1371640660.jpg
+similarity: 76.0
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+similarity: 100.0
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaWen/288171084.jpg
+similarity: 76.0
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaWen/288171084.jpg
+similarity: 84.0
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaWen/384292195.jpg
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaWen/660317691.jpg
+similarity: 100.0
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png
+similarity: 79.0
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaWen/1094188196.jpg
+similarity: 90.0
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaWen/1371640660.jpg
+similarity: 79.0
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaWen/417015209.jpg
+similarity: 72.0
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaWen/395018968.jpg
+similarity: 83.0
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png
+similarity: 81.0
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaWen/454298170.jpg
+similarity: 77.0
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaWen/543702080.jpg
+similarity: 72.0
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg vs /home/shushi/Pic/ZhuJiaWen/1553123673.jpg
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaWen/454298170.jpg
+similarity: 70.0
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaWen/2128979448.jpg
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaWen/401828318.jpg
+similarity: 78.0
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+similarity: 82.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaWen/288171084.jpg
+similarity: 65.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaWen/1368453483.jpg
+similarity: 79.0
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png
+similarity: 82.0
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaWen/660317691.jpg
+similarity: 92.0
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png
+similarity: 76.0
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaWen/401828318.jpg
+similarity: 87.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaWen/454298170.jpg
+similarity: 76.0
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png
+similarity: 75.0
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaWen/1384139730.jpg
+similarity: 91.0
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaWen/742408606.jpg
+similarity: 73.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaWen/761641544.jpg
+similarity: 72.0
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaWen/2128979448.jpg
+similarity: 88.0
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+similarity: 85.0
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaWen/144969499.jpg
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaWen/454298170.jpg
+similarity: 66.0
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaWen/1735962714.jpg
+similarity: 77.0
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaWen/417015209.jpg
+similarity: 75.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaWen/2128979448.jpg
+similarity: 84.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaWen/1812528523.jpg
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaWen/1384139730.jpg
+similarity: 89.0
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaWen/1562718419.jpg
+similarity: 92.0
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaWen/1562718419.jpg
+similarity: 90.0
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png
+similarity: 97.0
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png
+similarity: 76.0
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaWen/75195746.jpg
+similarity: 90.0
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+similarity: 74.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png vs /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+similarity: 97.0
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png
+similarity: 83.0
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaWen/401828318.jpg
+similarity: 84.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaWen/288171084.jpg
+similarity: 65.0
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaWen/1368453483.jpg
+similarity: 51.0
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaWen/994969388.jpg
+similarity: 76.0
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaWen/1735962714.jpg
+similarity: 79.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+similarity: 94.0
+
+
+
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaYi/967582628.jpg vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+similarity: 100.0
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png vs /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+similarity: 29.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+similarity: 44.0
+/home/shushi/Pic/ZhuJiaYi/399379745.jpg vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+similarity: 72.0
+/home/shushi/Pic/ZhuJiaYi/1363304684.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+similarity: 85.0
+/home/shushi/Pic/ZhuJiaYi/1591080402.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+similarity: 91.0
+/home/shushi/Pic/ZhuJiaYi/1363304684.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+similarity: 90.0
+/home/shushi/Pic/ZhuJiaYi/52404415.jpg vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+similarity: 88.0
+/home/shushi/Pic/ZhuJiaYi/1487896716.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+similarity: 78.0
+/home/shushi/Pic/ZhuJiaYi/1870723223.jpg vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+similarity: 100.0
+/home/shushi/Pic/ZhuJiaYi/1565773646.jpg vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+similarity: 76.0
+/home/shushi/Pic/ZhuJiaYi/1980251225.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+similarity: 98.0
+/home/shushi/Pic/ZhuJiaYi/1591080402.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+similarity: 80.0
+/home/shushi/Pic/ZhuJiaYi/1749384580.jpg vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaYi/2034710973.jpg vs /home/shushi/Pic/ZhuJiaYi/895953682.jpg
+similarity: 76.0
+/home/shushi/Pic/ZhuJiaYi/399379745.jpg vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+similarity: 80.0
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1565773646.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+similarity: 98.0
+/home/shushi/Pic/ZhuJiaYi/107414087.jpg vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+similarity: 100.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+similarity: 7.0
+/home/shushi/Pic/ZhuJiaYi/967582628.jpg vs /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaYi/1742112983.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+similarity: 62.0
+/home/shushi/Pic/ZhuJiaYi/1943018685.jpg vs /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+similarity: 93.0
+/home/shushi/Pic/ZhuJiaYi/1742112983.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaYi/1242374213.jpg vs /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+similarity: 72.0
+/home/shushi/Pic/ZhuJiaYi/399379745.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+similarity: 73.0
+/home/shushi/Pic/ZhuJiaYi/1026213847.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+similarity: 74.0
+/home/shushi/Pic/ZhuJiaYi/536237754.jpg vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+similarity: 100.0
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1749384580.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+similarity: 93.0
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1565773646.jpg vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+similarity: 97.0
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png vs /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+similarity: 91.0
+/home/shushi/Pic/ZhuJiaYi/1870723223.jpg vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+similarity: 87.0
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/895953682.jpg vs /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+similarity: 73.0
+/home/shushi/Pic/ZhuJiaYi/52404415.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+similarity: 92.0
+/home/shushi/Pic/ZhuJiaYi/1742112983.jpg vs /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+similarity: 96.0
+/home/shushi/Pic/ZhuJiaYi/2034710973.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+similarity: 10.0
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1591080402.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+similarity: 87.0
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1980251225.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/2051246079.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+similarity: 81.0
+/home/shushi/Pic/ZhuJiaYi/2051246079.jpg vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+similarity: 100.0
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png vs /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+similarity: 71.0
+/home/shushi/Pic/ZhuJiaYi/1749384580.jpg vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+similarity: 89.0
+/home/shushi/Pic/ZhuJiaYi/249104539.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+similarity: 98.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+similarity: 82.0
+/home/shushi/Pic/ZhuJiaYi/967582628.jpg vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+similarity: 77.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png vs /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+similarity: 92.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/536237754.jpg vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+similarity: 87.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png vs /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+similarity: 67.0
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1242374213.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+similarity: 84.0
+/home/shushi/Pic/ZhuJiaYi/967582628.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+similarity: 72.0
+/home/shushi/Pic/ZhuJiaYi/1943018685.jpg vs /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+similarity: 77.0
+/home/shushi/Pic/ZhuJiaYi/52404415.jpg vs /home/shushi/Pic/ZhuJiaYi/895953682.jpg
+similarity: 77.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+similarity: 9.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+similarity: 91.0
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1881654506.jpg vs /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+similarity: 83.0
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1980251225.jpg vs /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+similarity: 97.0
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+similarity: 99.0
+/home/shushi/Pic/ZhuJiaYi/52404415.jpg vs /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+similarity: 93.0
+/home/shushi/Pic/ZhuJiaYi/1363304684.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+similarity: 60.0
+/home/shushi/Pic/ZhuJiaYi/1242374213.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+similarity: 66.0
+/home/shushi/Pic/ZhuJiaYi/895953682.jpg vs /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+similarity: 76.0
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/52404415.jpg vs /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+similarity: 97.0
+/home/shushi/Pic/ZhuJiaYi/1980251225.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+similarity: 98.0
+/home/shushi/Pic/ZhuJiaYi/1437230887.jpg vs /home/shushi/Pic/ZhuJiaYi/895953682.jpg
+similarity: 72.0
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+similarity: 98.0
+/home/shushi/Pic/ZhuJiaYi/399379745.jpg vs /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+similarity: 88.0
+/home/shushi/Pic/ZhuJiaYi/1487896716.jpg vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+similarity: 87.0
+/home/shushi/Pic/ZhuJiaYi/2051246079.jpg vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+similarity: 86.0
+/home/shushi/Pic/ZhuJiaYi/1749384580.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+similarity: 97.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/52404415.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+similarity: 36.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+similarity: 42.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+similarity: 74.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/2051246079.jpg vs /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+similarity: 88.0
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1487896716.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+similarity: 100.0
+/home/shushi/Pic/ZhuJiaYi/1437230887.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+similarity: 82.0
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+similarity: 92.0
+/home/shushi/Pic/ZhuJiaYi/1881654506.jpg vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+similarity: 97.0
+/home/shushi/Pic/ZhuJiaYi/1242374213.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+similarity: 84.0
+/home/shushi/Pic/ZhuJiaYi/536237754.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+similarity: 98.0
+/home/shushi/Pic/ZhuJiaYi/399379745.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+similarity: 60.0
+/home/shushi/Pic/ZhuJiaYi/2034710973.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+similarity: 73.0
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/249104539.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+similarity: 100.0
+/home/shushi/Pic/ZhuJiaYi/399379745.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+similarity: 60.0
+/home/shushi/Pic/ZhuJiaYi/1026213847.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaYi/1943018685.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+similarity: 96.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/2034710973.jpg vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+similarity: 62.0
+/home/shushi/Pic/ZhuJiaYi/249104539.jpg vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+similarity: 93.0
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1836482221.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+similarity: 21.0
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1771124897.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+similarity: 97.0
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/2034710973.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+similarity: 73.0
+/home/shushi/Pic/ZhuJiaYi/967582628.jpg vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png vs /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+similarity: 96.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+similarity: 96.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+similarity: 71.0
+/home/shushi/Pic/ZhuJiaYi/895953682.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+similarity: 75.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1078229885.jpg vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+similarity: 100.0
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+similarity: 82.0
+
+
+
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+similarity: 29.0
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+similarity: 71.0
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+similarity: 62.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+similarity: 81.0
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+similarity: 74.0
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+similarity: 89.0
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+similarity: 88.0
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+similarity: 78.0
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+similarity: 74.0
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+similarity: 92.0
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+similarity: 80.0
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+similarity: 77.0
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+similarity: 76.0
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+similarity: 84.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+similarity: 96.0
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaYi/895953682.jpg
+similarity: 70.0
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+similarity: 86.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+similarity: 80.0
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+similarity: 88.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+similarity: 49.0
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+similarity: 76.0
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+similarity: 64.0
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+similarity: 70.0
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+similarity: 78.0
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+similarity: 96.0
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+similarity: 64.0
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+similarity: 67.0
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+similarity: 83.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+similarity: 28.0
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+similarity: 82.0
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+similarity: 97.0
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+similarity: 92.0
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+similarity: 76.0
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+similarity: 76.0
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+similarity: 81.0
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+similarity: 92.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+similarity: 81.0
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+similarity: 7.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+similarity: 85.0
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+similarity: 66.0
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+similarity: 87.0
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+similarity: 90.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+similarity: 84.0
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+similarity: 90.0
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/895953682.jpg
+similarity: 62.0
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+similarity: 98.0
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+similarity: 44.0
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+similarity: 92.0
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+similarity: 67.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+similarity: 83.0
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+similarity: 88.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+similarity: 75.0
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+similarity: 24.0
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+similarity: 87.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+similarity: 64.0
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+similarity: 78.0
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+similarity: 92.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+similarity: 86.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+similarity: 79.0
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+similarity: 57.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+similarity: 75.0
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+similarity: 87.0
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+similarity: 88.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+similarity: 78.0
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+similarity: 79.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+similarity: 75.0
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+similarity: 90.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+similarity: 64.0
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+similarity: 65.0
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+similarity: 78.0
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+similarity: 74.0
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+similarity: 41.0
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+similarity: 81.0
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+similarity: 84.0
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+similarity: 96.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+similarity: 80.0
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+similarity: 83.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+similarity: 74.0
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+similarity: 93.0
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+similarity: 99.0
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+similarity: 69.0
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg vs /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+similarity: 61.0
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+similarity: 97.0
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+similarity: 88.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+similarity: 95.0
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+similarity: 71.0
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+similarity: 46.0
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+similarity: 73.0
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+similarity: 77.0
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+similarity: 74.0
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+similarity: 96.0
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+similarity: 71.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+similarity: 68.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+similarity: 90.0
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+similarity: 71.0
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg vs /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+similarity: 65.0
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+similarity: 54.0
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+similarity: 21.0
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+similarity: 81.0
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+similarity: 80.0
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+similarity: 70.0
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+similarity: 87.0
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+similarity: 65.0
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+similarity: 76.0
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+similarity: 85.0
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+similarity: 77.0
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+similarity: 85.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+similarity: 89.0
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+similarity: 72.0
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg vs /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+similarity: 66.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+similarity: 76.0
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+similarity: 80.0
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+similarity: 75.0
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+similarity: 88.0
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+similarity: 10.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg vs /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+similarity: 93.0
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+similarity: 79.0
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+similarity: 64.0
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+similarity: 84.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+similarity: 71.0
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+similarity: 82.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+similarity: 76.0
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+similarity: 82.0
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+similarity: 90.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+similarity: 81.0
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+similarity: 32.0
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+similarity: 96.0
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+similarity: 70.0
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+similarity: 96.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+similarity: 80.0
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+similarity: 47.0
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+similarity: 92.0
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+similarity: 24.0
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+similarity: 87.0
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+similarity: 93.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+similarity: 73.0
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+similarity: 61.0
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+similarity: 75.0
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg vs /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+similarity: 75.0
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+similarity: 78.0
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+similarity: 93.0
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+similarity: 73.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+similarity: 91.0
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+similarity: 54.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+similarity: 76.0
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+similarity: 75.0
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+similarity: 51.0
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+similarity: 90.0
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg vs /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+similarity: 88.0
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+similarity: 78.0
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+similarity: 71.0
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+similarity: 88.0
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg vs /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+similarity: 87.0
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg vs /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+similarity: 79.0
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+similarity: 89.0
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+similarity: 9.0
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg vs /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+similarity: 93.0
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+similarity: 84.0
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+similarity: 81.0
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+similarity: 73.0
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg vs /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+similarity: 70.0
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+similarity: 73.0
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+similarity: 78.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png vs /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+similarity: 53.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+similarity: 31.0
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+similarity: 75.0
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg vs /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+similarity: 82.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+similarity: 94.0
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png vs /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+similarity: 74.0
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg vs /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+similarity: 83.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+similarity: 29.0
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+similarity: 10.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+similarity: 84.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+similarity: 91.0
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+similarity: 72.0
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+similarity: 90.0
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg vs /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+similarity: 84.0
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+similarity: 39.0
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+similarity: 75.0
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png :SDK_IMAGE_FACEDETECT_FAILED
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg vs /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+similarity: 86.0
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg vs /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+similarity: 90.0
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg vs /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+similarity: 79.0
+
+
+

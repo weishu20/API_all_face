@@ -1,0 +1,1027 @@
+512
+31.868964843749993
+
+043-035.bmp vs 117-006.bmp
+confidence:  31.29  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+098-026.bmp vs 002-025.bmp
+confidence:  27.217  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+089-021.bmp vs 111-030.bmp
+confidence:  64.057  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+093-002.bmp vs 041-001.bmp
+confidence:  26.426  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+007-033.bmp vs 040-019.bmp
+confidence:  74.655  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+118-019.bmp vs 022-013.bmp
+confidence:  42.546  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+025-034.bmp vs 098-031.bmp
+confidence:  11.525  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+069-023.bmp vs 038-029.bmp
+confidence:  37.419  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+025-031.bmp vs 047-033.bmp
+confidence:  23.923  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+032-034.bmp vs 025-028.bmp
+confidence:  17.979  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+095-003.bmp vs 055-035.bmp
+confidence:  15.695  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+091-029.bmp vs 065-005.bmp
+confidence:  32.538  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+108-006.bmp vs 094-016.bmp
+confidence:  34.235  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+071-034.bmp vs 059-003.bmp
+confidence:  15.259  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+078-031.bmp vs 066-036.bmp
+confidence:  20.909  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+010-007.bmp vs 100-014.bmp
+confidence:  29.22  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+033-022.bmp vs 113-033.bmp
+confidence:  44.468  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+073-010.bmp vs 108-037.bmp
+confidence:  40.198  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+025-036.bmp vs 116-024.bmp
+confidence:  19.539  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+057-008.bmp vs 107-013.bmp
+confidence:  8.819  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+065-034.bmp vs 040-018.bmp
+confidence:  37.421  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+071-011.bmp vs 112-015.bmp
+confidence:  11.016  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+112-024.bmp vs 078-011.bmp
+confidence:  10.94  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+029-031.bmp vs 067-030.bmp
+confidence:  14.781  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+055-036.bmp vs 010-027.bmp
+confidence:  15.807  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+083-036.bmp vs 105-022.bmp
+confidence:  48.919  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+020-011.bmp vs 078-019.bmp
+confidence:  52.632  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+066-022.bmp vs 080-035.bmp
+confidence:  51.922  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+091-011.bmp vs 095-014.bmp
+confidence:  39.459  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+085-028.bmp vs 057-022.bmp
+confidence:  32.079  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+033-010.bmp vs 103-021.bmp
+confidence:  28.374  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+043-038.bmp vs 009-001.bmp
+confidence:  15.277  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+079-017.bmp vs 022-012.bmp
+confidence:  39.613  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+031-004.bmp vs 061-035.bmp
+confidence:  34.036  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+011-035.bmp vs 019-028.bmp
+confidence:  18.292  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+006-015.bmp vs 106-017.bmp
+confidence:  7.048  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+089-029.bmp vs 088-035.bmp
+confidence:  41.054  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+071-010.bmp vs 109-032.bmp
+confidence:  25.226  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+115-025.bmp vs 086-029.bmp
+confidence:  28.13  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+093-018.bmp vs 084-003.bmp
+confidence:  50.65  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+032-018.bmp vs 121-031.bmp
+confidence:  28.587  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+023-008.bmp vs 049-007.bmp
+confidence:  39.275  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+118-023.bmp vs 092-005.bmp
+confidence:  27.935  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+050-031.bmp vs 052-011.bmp
+confidence:  18.83  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+100-014.bmp vs 034-022.bmp
+confidence:  35.171  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+111-013.bmp vs 030-035.bmp
+confidence:  19.327  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+117-004.bmp vs 111-015.bmp
+confidence:  32.589  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+084-024.bmp vs 076-023.bmp
+confidence:  31.868  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+010-003.bmp vs 056-010.bmp
+confidence:  14.29  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+095-006.bmp vs 075-025.bmp
+confidence:  15.687  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+121-035.bmp vs 090-017.bmp
+confidence:  16.578  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+109-004.bmp vs 073-019.bmp
+confidence:  24.037  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+078-015.bmp vs 053-001.bmp
+confidence:  13.306  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+106-030.bmp vs 021-034.bmp
+confidence:  30.961  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+112-037.bmp vs 091-018.bmp
+confidence:  14.675  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+029-038.bmp vs 081-020.bmp
+confidence:  34.473  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+088-020.bmp vs 099-003.bmp
+confidence:  22.1  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+074-031.bmp vs 123-014.bmp
+confidence:  38.72  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+119-002.bmp vs 098-020.bmp
+confidence:  19.764  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+001-010.bmp vs 043-037.bmp
+confidence:  44.076  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+110-037.bmp vs 074-018.bmp
+confidence:  23.332  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+039-035.bmp vs 080-029.bmp
+confidence:  27.035  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+046-008.bmp vs 055-002.bmp
+confidence:  23.941  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+121-022.bmp vs 012-012.bmp
+confidence:  41.506  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+118-024.bmp vs 115-036.bmp
+confidence:  16.481  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+006-032.bmp vs 109-002.bmp
+confidence:  15.924  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+091-032.bmp vs 104-004.bmp
+confidence:  47.253  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+116-013.bmp vs 055-011.bmp
+confidence:  26.846  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+068-006.bmp vs 086-019.bmp
+confidence:  32.833  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+029-020.bmp vs 106-013.bmp
+confidence:  18.368  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+083-034.bmp vs 046-023.bmp
+confidence:  34.057  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+016-034.bmp vs 056-014.bmp
+confidence:  24.456  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+099-028.bmp vs 040-009.bmp
+confidence:  42.039  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+011-036.bmp vs 095-032.bmp
+confidence:  23.816  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+018-017.bmp vs 084-019.bmp
+confidence:  47.793  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+026-038.bmp vs 030-020.bmp
+confidence:  40.263  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+113-023.bmp vs 014-011.bmp
+confidence:  44.9  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+093-006.bmp vs 088-008.bmp
+confidence:  41.131  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+114-032.bmp vs 024-036.bmp
+confidence:  48.773  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+102-028.bmp vs 006-037.bmp
+confidence:  18.835  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+001-016.bmp vs 075-002.bmp
+confidence:  37.879  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+077-037.bmp vs 084-009.bmp
+confidence:  30.354  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+052-037.bmp vs 087-037.bmp
+confidence:  35.988  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+046-024.bmp vs 052-019.bmp
+confidence:  57.372  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+092-016.bmp vs 088-026.bmp
+confidence:  34.983  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+113-025.bmp vs 008-004.bmp
+confidence:  24.483  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+107-030.bmp vs 026-038.bmp
+confidence:  45.646  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+027-022.bmp vs 107-034.bmp
+confidence:  40.025  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+119-004.bmp vs 094-036.bmp
+confidence:  41.132  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+070-019.bmp vs 034-033.bmp
+confidence:  50.757  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+020-020.bmp vs 118-011.bmp
+confidence:  16.487  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+015-012.bmp vs 104-033.bmp
+confidence:  43.327  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+109-033.bmp vs 047-037.bmp
+confidence:  10.152  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+005-017.bmp vs 080-018.bmp
+confidence:  46.31  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+052-031.bmp vs 085-007.bmp
+confidence:  19.123  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+122-012.bmp vs 080-038.bmp
+confidence:  28.051  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+052-037.bmp vs 041-020.bmp
+confidence:  53.171  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+102-017.bmp vs 003-004.bmp
+confidence:  29.082  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+065-005.bmp vs 101-035.bmp
+confidence:  29.929  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+115-021.bmp vs 108-012.bmp
+confidence:  37.483  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+082-005.bmp vs 123-006.bmp
+confidence:  21.264  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+036-004.bmp vs 020-006.bmp
+confidence:  27.121  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+068-011.bmp vs 033-013.bmp
+confidence:  19.164  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+051-001.bmp vs 100-015.bmp
+confidence:  26.332  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+090-028.bmp vs 085-021.bmp
+confidence:  32.653  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+058-017.bmp vs 040-001.bmp
+confidence:  23.987  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+028-025.bmp vs 121-008.bmp
+confidence:  11.275  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+060-034.bmp vs 072-017.bmp
+confidence:  26.194  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+008-028.bmp vs 049-034.bmp
+confidence:  32.099  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+094-029.bmp vs 024-020.bmp
+confidence:  56.887  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+042-006.bmp vs 046-026.bmp
+confidence:  18.005  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+104-006.bmp vs 120-034.bmp
+confidence:  17.704  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+049-013.bmp vs 074-001.bmp
+confidence:  25.246  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+049-019.bmp vs 005-036.bmp
+confidence:  48.71  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+073-023.bmp vs 108-033.bmp
+confidence:  43.198  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+014-022.bmp vs 107-021.bmp
+confidence:  35.418  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+088-010.bmp vs 096-007.bmp
+confidence:  42.44  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+104-024.bmp vs 066-015.bmp
+confidence:  28.326  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+053-023.bmp vs 033-028.bmp
+confidence:  15.38  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+036-014.bmp vs 057-002.bmp
+confidence:  30.094  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+049-005.bmp vs 072-018.bmp
+confidence:  29.849  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+038-014.bmp vs 041-024.bmp
+confidence:  20.062  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+091-019.bmp vs 098-004.bmp
+confidence:  28.116  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+103-003.bmp vs 028-025.bmp
+confidence:  40.911  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+001-034.bmp vs 080-023.bmp
+confidence:  40.196  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+093-023.bmp vs 016-026.bmp
+confidence:  23.093  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+096-009.bmp vs 117-016.bmp
+confidence:  29.713  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+102-005.bmp vs 119-004.bmp
+confidence:  13.893  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+107-033.bmp vs 112-016.bmp
+confidence:  12.965  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+095-013.bmp vs 101-018.bmp
+confidence:  43.365  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+061-014.bmp vs 087-031.bmp
+confidence:  16.177  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+070-035.bmp vs 010-015.bmp
+confidence:  23.011  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+019-002.bmp vs 005-016.bmp
+confidence:  24.946  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+039-010.bmp vs 054-031.bmp
+confidence:  28.915  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+064-021.bmp vs 049-016.bmp
+confidence:  42.469  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+096-013.bmp vs 052-017.bmp
+confidence:  21.277  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+045-028.bmp vs 048-031.bmp
+confidence:  32.501  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+079-030.bmp vs 015-018.bmp
+confidence:  52.012  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+114-026.bmp vs 021-004.bmp
+confidence:  24.296  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+063-038.bmp vs 044-009.bmp
+confidence:  38.727  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+006-001.bmp vs 002-019.bmp
+confidence:  43.373  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+035-022.bmp vs 054-012.bmp
+confidence:  27.092  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+079-021.bmp vs 074-028.bmp
+confidence:  38.571  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+103-011.bmp vs 058-022.bmp
+confidence:  19.978  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+036-025.bmp vs 044-033.bmp
+confidence:  36.524  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+043-032.bmp vs 040-024.bmp
+confidence:  37.489  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+020-023.bmp vs 109-004.bmp
+confidence:  20.891  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+040-014.bmp vs 005-028.bmp
+confidence:  28.476  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+101-035.bmp vs 110-023.bmp
+confidence:  14.399  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+112-009.bmp vs 093-022.bmp
+confidence:  7.647  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+023-010.bmp vs 066-007.bmp
+confidence:  18.188  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+069-021.bmp vs 051-023.bmp
+confidence:  25.893  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+046-012.bmp vs 086-034.bmp
+confidence:  37.883  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+006-003.bmp vs 064-026.bmp
+confidence:  23.047  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+061-013.bmp vs 022-009.bmp
+confidence:  36.83  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+055-023.bmp vs 008-021.bmp
+confidence:  34.836  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+114-026.bmp vs 012-008.bmp
+confidence:  26.244  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+032-024.bmp vs 085-009.bmp
+confidence:  17.753  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+018-017.bmp vs 062-024.bmp
+confidence:  39.752  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+017-012.bmp vs 060-002.bmp
+confidence:  17.795  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+033-003.bmp vs 103-013.bmp
+confidence:  32.248  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+039-003.bmp vs 107-017.bmp
+confidence:  33.058  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+107-015.bmp vs 115-036.bmp
+confidence:  27.793  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+078-007.bmp vs 006-036.bmp
+confidence:  25.961  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+123-025.bmp vs 061-036.bmp
+confidence:  28.165  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+117-003.bmp vs 083-031.bmp
+confidence:  30.081  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+008-030.bmp vs 091-016.bmp
+confidence:  44.469  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+004-012.bmp vs 010-005.bmp
+confidence:  36.893  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+014-018.bmp vs 103-021.bmp
+confidence:  43.887  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+091-017.bmp vs 098-009.bmp
+confidence:  26.48  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+094-021.bmp vs 056-025.bmp
+confidence:  29.073  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+017-015.bmp vs 073-037.bmp
+confidence:  27.655  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+072-009.bmp vs 065-030.bmp
+confidence:  35.024  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+115-035.bmp vs 041-038.bmp
+confidence:  41.361  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+008-036.bmp vs 042-008.bmp
+confidence:  36.392  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+002-033.bmp vs 008-025.bmp
+confidence:  49.426  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+022-024.bmp vs 059-013.bmp
+confidence:  47.45  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+034-008.bmp vs 042-033.bmp
+confidence:  42.101  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+045-011.bmp vs 047-021.bmp
+confidence:  35.018  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+102-017.bmp vs 043-028.bmp
+confidence:  45.642  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+045-033.bmp vs 093-018.bmp
+confidence:  54.9  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+102-007.bmp vs 040-035.bmp
+confidence:  18.349  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+050-030.bmp vs 070-026.bmp
+confidence:  43.618  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+021-033.bmp vs 099-016.bmp
+confidence:  29.476  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+069-030.bmp vs 027-004.bmp
+confidence:  44.794  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+007-033.bmp vs 018-018.bmp
+confidence:  51.506  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+084-019.bmp vs 080-033.bmp
+confidence:  61.984  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+101-007.bmp vs 086-032.bmp
+confidence:  40.258  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+112-031.bmp vs 084-032.bmp
+confidence:  19.266  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+020-003.bmp vs 120-036.bmp
+confidence:  20.67  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+110-018.bmp vs 107-028.bmp
+confidence:  42.397  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+120-006.bmp vs 005-037.bmp
+confidence:  43.23  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+026-034.bmp vs 100-018.bmp
+confidence:  28.538  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+105-014.bmp vs 110-005.bmp
+confidence:  12.399  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+016-024.bmp vs 001-009.bmp
+confidence:  18.388  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+020-027.bmp vs 090-015.bmp
+confidence:  17.971  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+021-018.bmp vs 088-036.bmp
+confidence:  23.312  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+057-024.bmp vs 090-014.bmp
+confidence:  23.917  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+071-010.bmp vs 017-018.bmp
+confidence:  16.29  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+121-024.bmp vs 093-017.bmp
+confidence:  22.548  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+050-001.bmp vs 069-002.bmp
+confidence:  40.37  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+065-021.bmp vs 031-031.bmp
+confidence:  42.244  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+035-024.bmp vs 026-011.bmp
+confidence:  19.943  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+091-013.bmp vs 065-019.bmp
+confidence:  47.364  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+098-020.bmp vs 034-010.bmp
+confidence:  24.659  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+032-027.bmp vs 078-037.bmp
+confidence:  39.069  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+122-019.bmp vs 016-012.bmp
+confidence:  57.485  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+037-031.bmp vs 034-034.bmp
+confidence:  56.268  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+116-005.bmp vs 088-014.bmp
+confidence:  17.713  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+102-011.bmp vs 046-008.bmp
+confidence:  28.299  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+074-034.bmp vs 032-015.bmp
+confidence:  33.004  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+049-029.bmp vs 087-006.bmp
+confidence:  47.543  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+061-002.bmp vs 109-014.bmp
+confidence:  12.422  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+013-027.bmp vs 051-018.bmp
+confidence:  49.202  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+006-035.bmp vs 069-007.bmp
+confidence:  28.745  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+004-001.bmp vs 055-029.bmp
+confidence:  35.88  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+069-010.bmp vs 011-038.bmp
+confidence:  42.344  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+091-015.bmp vs 024-008.bmp
+confidence:  20.844  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+110-003.bmp vs 086-009.bmp
+confidence:  29.04  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+113-024.bmp vs 046-038.bmp
+confidence:  32.679  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+091-030.bmp vs 003-010.bmp
+confidence:  25.461  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+086-013.bmp vs 119-037.bmp
+confidence:  20.486  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+107-004.bmp vs 119-004.bmp
+confidence:  36.587  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+079-034.bmp vs 040-007.bmp
+confidence:  19.501  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+070-022.bmp vs 052-021.bmp
+confidence:  26.98  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+017-026.bmp vs 053-012.bmp
+confidence:  37.322  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+046-032.bmp vs 100-017.bmp
+confidence:  31.51  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+046-007.bmp vs 100-019.bmp
+confidence:  51.904  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+076-009.bmp vs 058-035.bmp
+confidence:  24.468  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+106-007.bmp vs 008-020.bmp
+confidence:  35.865  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+089-036.bmp vs 078-016.bmp
+confidence:  39.481  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+107-009.bmp vs 092-005.bmp
+confidence:  30.354  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+006-017.bmp vs 035-023.bmp
+confidence:  26.843  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+096-021.bmp vs 103-030.bmp
+confidence:  42.145  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+010-001.bmp vs 096-024.bmp
+confidence:  16.48  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+068-030.bmp vs 095-002.bmp
+confidence:  25.976  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+089-026.bmp vs 116-031.bmp
+confidence:  16.433  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+013-026.bmp vs 100-024.bmp
+confidence:  40.624  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+089-029.bmp vs 098-006.bmp
+confidence:  26.915  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+089-037.bmp vs 062-006.bmp
+confidence:  27.631  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+066-022.bmp vs 013-034.bmp
+confidence:  38.451  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+015-032.bmp vs 038-009.bmp
+confidence:  28.399  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+036-020.bmp vs 106-031.bmp
+confidence:  17.578  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+039-011.bmp vs 108-030.bmp
+confidence:  23.45  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+113-017.bmp vs 028-020.bmp
+confidence:  14.356  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+114-010.bmp vs 109-016.bmp
+confidence:  36.757  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+062-025.bmp vs 085-011.bmp
+confidence:  42.077  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+098-022.bmp vs 064-018.bmp
+confidence:  54.503  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+048-006.bmp vs 094-005.bmp
+confidence:  20.484  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+052-036.bmp vs 007-026.bmp
+confidence:  21.911  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+058-009.bmp vs 076-014.bmp
+confidence:  18.456  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+070-028.bmp vs 083-032.bmp
+confidence:  19.401  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+047-007.bmp vs 100-028.bmp
+confidence:  18.431  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+116-016.bmp vs 011-009.bmp
+confidence:  46.123  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+052-004.bmp vs 063-031.bmp
+confidence:  28.818  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+046-035.bmp vs 086-030.bmp
+confidence:  43.601  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+115-006.bmp vs 082-021.bmp
+confidence:  31.893  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+015-016.bmp vs 073-032.bmp
+confidence:  43.065  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+074-030.bmp vs 039-003.bmp
+confidence:  28.372  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+116-004.bmp vs 064-019.bmp
+confidence:  47.692  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+108-034.bmp vs 093-024.bmp
+confidence:  57.807  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+070-020.bmp vs 115-012.bmp
+confidence:  22.498  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+055-037.bmp vs 065-017.bmp
+confidence:  20.84  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+062-022.bmp vs 030-023.bmp
+confidence:  45.106  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+040-021.bmp vs 032-032.bmp
+confidence:  26.754  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+004-019.bmp vs 072-012.bmp
+confidence:  55.583  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+107-013.bmp vs 064-034.bmp
+confidence:  42.251  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+098-032.bmp vs 029-029.bmp
+confidence:  37.48  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+009-023.bmp vs 002-007.bmp
+confidence:  12.634  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+031-002.bmp vs 079-006.bmp
+confidence:  25.679  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+017-016.bmp vs 069-031.bmp
+confidence:  24.622  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+028-019.bmp vs 050-023.bmp
+confidence:  52.065  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+067-018.bmp vs 107-003.bmp
+confidence:  12.434  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+063-031.bmp vs 086-007.bmp
+confidence:  32.633  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+032-019.bmp vs 115-003.bmp
+confidence:  37.528  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+102-031.bmp vs 104-016.bmp
+confidence:  19.008  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+069-034.bmp vs 050-014.bmp
+confidence:  41.675  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+044-021.bmp vs 022-020.bmp
+confidence:  41.497  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+057-028.bmp vs 070-007.bmp
+confidence:  32.012  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+092-005.bmp vs 039-036.bmp
+confidence:  22.107  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+096-015.bmp vs 079-019.bmp
+confidence:  50.832  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+094-016.bmp vs 119-016.bmp
+confidence:  36.991  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+059-010.bmp vs 032-030.bmp
+confidence:  33.891  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+021-013.bmp vs 046-025.bmp
+confidence:  49.46  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+064-004.bmp vs 083-006.bmp
+confidence:  20.395  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+081-036.bmp vs 035-029.bmp
+confidence:  38.163  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+112-002.bmp vs 012-014.bmp
+confidence:  36.448  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+027-002.bmp vs 034-011.bmp
+confidence:  42.682  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+028-021.bmp vs 082-029.bmp
+confidence:  54.08  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+016-031.bmp vs 043-004.bmp
+confidence:  16.276  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+022-033.bmp vs 047-022.bmp
+confidence:  52.279  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+039-012.bmp vs 107-003.bmp
+confidence:  31.367  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+066-019.bmp vs 099-001.bmp
+confidence:  33.149  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+045-024.bmp vs 014-011.bmp
+confidence:  23.968  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+013-031.bmp vs 071-007.bmp
+confidence:  28.336  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+057-004.bmp vs 055-035.bmp
+confidence:  21.031  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+077-012.bmp vs 003-037.bmp
+confidence:  45.366  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+055-037.bmp vs 115-017.bmp
+confidence:  34.533  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+114-036.bmp vs 067-029.bmp
+confidence:  47.94  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+102-006.bmp vs 079-014.bmp
+confidence:  31.793  thresholds:{'1e-3': 62.327, '1e-4': 69.101, '1e-5': 73.975}
+107-015.bmp vs 054-032.bmp
+confidence:  36.63  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+099-013.bmp vs 049-010.bmp
+confidence:  33.63  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+062-024.bmp vs 082-023.bmp
+confidence:  36.409  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+004-004.bmp vs 108-003.bmp
+confidence:  36.492  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+067-021.bmp vs 070-026.bmp
+confidence:  22.133  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+110-013.bmp vs 059-010.bmp
+confidence:  11.753  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+045-009.bmp vs 104-036.bmp
+confidence:  31.77  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+090-008.bmp vs 039-009.bmp
+confidence:  21.578  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+069-016.bmp vs 007-008.bmp
+confidence:  21.438  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+033-031.bmp vs 007-002.bmp
+confidence:  17.278  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+003-003.bmp vs 021-021.bmp
+confidence:  31.429  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+059-036.bmp vs 022-007.bmp
+confidence:  60.57  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+038-021.bmp vs 046-030.bmp
+confidence:  43.863  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+120-037.bmp vs 067-032.bmp
+confidence:  12.646  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+054-037.bmp vs 101-028.bmp
+confidence:  34.541  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+047-014.bmp vs 038-017.bmp
+confidence:  19.098  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+109-027.bmp vs 038-020.bmp
+confidence:  15.928  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+055-021.bmp vs 012-031.bmp
+confidence:  26.095  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+009-036.bmp vs 018-027.bmp
+confidence:  15.438  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+021-028.bmp vs 043-016.bmp
+confidence:  35.723  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+045-032.bmp vs 091-001.bmp
+confidence:  24.933  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+020-001.bmp vs 079-008.bmp
+confidence:  48.635  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+002-012.bmp vs 096-018.bmp
+confidence:  42.224  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+099-036.bmp vs 058-016.bmp
+confidence:  36.544  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+096-007.bmp vs 075-008.bmp
+confidence:  34.528  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+030-015.bmp vs 020-002.bmp
+confidence:  54.596  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+083-013.bmp vs 042-013.bmp
+confidence:  33.8  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+056-015.bmp vs 107-015.bmp
+confidence:  22.675  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+008-015.bmp vs 071-016.bmp
+confidence:  15.936  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+040-017.bmp vs 047-038.bmp
+confidence:  16.902  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+091-013.bmp vs 010-001.bmp
+confidence:  33.712  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+093-019.bmp vs 068-036.bmp
+confidence:  35.996  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+108-020.bmp vs 078-001.bmp
+confidence:  52.047  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+022-023.bmp vs 066-022.bmp
+confidence:  46.191  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+006-002.bmp vs 117-033.bmp
+confidence:  22.493  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+111-035.bmp vs 053-001.bmp
+confidence:  43.695  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+079-006.bmp vs 068-008.bmp
+confidence:  28.908  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+090-007.bmp vs 043-022.bmp
+confidence:  33.816  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+051-030.bmp vs 104-015.bmp
+confidence:  52.486  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+052-020.bmp vs 091-014.bmp
+confidence:  43.484  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+021-006.bmp vs 051-009.bmp
+confidence:  24.728  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+054-035.bmp vs 075-005.bmp
+confidence:  30.314  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+038-007.bmp vs 077-019.bmp
+confidence:  46.441  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+002-008.bmp vs 094-006.bmp
+confidence:  24.224  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+012-007.bmp vs 015-037.bmp
+confidence:  21.716  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+014-022.bmp vs 064-008.bmp
+confidence:  38.034  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+051-006.bmp vs 082-010.bmp
+confidence:  27.597  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+060-027.bmp vs 077-009.bmp
+confidence:  9.312  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+103-027.bmp vs 039-001.bmp
+confidence:  17.39  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+029-011.bmp vs 108-025.bmp
+confidence:  42.084  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+101-034.bmp vs 089-018.bmp
+confidence:  23.57  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+043-018.bmp vs 077-002.bmp
+confidence:  36.962  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+061-007.bmp vs 032-030.bmp
+confidence:  30.89  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+048-023.bmp vs 057-032.bmp
+confidence:  27.814  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+044-013.bmp vs 073-034.bmp
+confidence:  33.058  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+044-037.bmp vs 097-029.bmp
+confidence:  30.609  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+046-026.bmp vs 093-032.bmp
+confidence:  35.108  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+112-031.bmp vs 072-011.bmp
+confidence:  22.842  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+035-033.bmp vs 049-029.bmp
+confidence:  58.199  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+077-035.bmp vs 037-016.bmp
+confidence:  25.064  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+054-022.bmp vs 115-025.bmp
+confidence:  40.427  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+076-022.bmp vs 123-017.bmp
+confidence:  53.98  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+060-001.bmp vs 063-011.bmp
+confidence:  38.867  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+122-020.bmp vs 112-014.bmp
+confidence:  46.289  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+097-032.bmp vs 095-020.bmp
+confidence:  41.305  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+113-011.bmp vs 089-019.bmp
+confidence:  53.642  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+060-019.bmp vs 112-024.bmp
+confidence:  41.46  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+095-021.bmp vs 044-024.bmp
+confidence:  29.486  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+070-022.bmp vs 099-026.bmp
+confidence:  25.287  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+061-028.bmp vs 001-024.bmp
+confidence:  17.564  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+033-024.bmp vs 008-026.bmp
+confidence:  43.263  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+048-029.bmp vs 025-035.bmp
+confidence:  53.221  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+110-004.bmp vs 040-038.bmp
+confidence:  21.541  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+091-011.bmp vs 080-003.bmp
+confidence:  47.702  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+009-016.bmp vs 069-033.bmp
+confidence:  28.046  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+110-015.bmp vs 050-032.bmp
+confidence:  11.506  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+116-034.bmp vs 008-008.bmp
+confidence:  22.545  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+099-018.bmp vs 024-011.bmp
+confidence:  40.194  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+094-014.bmp vs 096-030.bmp
+confidence:  19.322  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+063-017.bmp vs 018-005.bmp
+confidence:  27.878  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+117-016.bmp vs 055-035.bmp
+confidence:  20.251  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+035-037.bmp vs 048-015.bmp
+confidence:  19.814  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+052-022.bmp vs 104-001.bmp
+confidence:  41.835  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+019-031.bmp vs 098-014.bmp
+confidence:  16.366  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+072-026.bmp vs 117-016.bmp
+confidence:  26.127  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+035-024.bmp vs 034-031.bmp
+confidence:  39.717  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+045-016.bmp vs 069-012.bmp
+confidence:  29.904  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+020-005.bmp vs 087-002.bmp
+confidence:  40.64  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+097-010.bmp vs 056-030.bmp
+confidence:  30.69  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+011-032.bmp vs 021-032.bmp
+confidence:  37.659  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+100-032.bmp vs 073-002.bmp
+confidence:  36.587  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+105-026.bmp vs 021-014.bmp
+confidence:  38.732  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+076-025.bmp vs 012-038.bmp
+confidence:  24.367  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+053-027.bmp vs 019-035.bmp
+confidence:  30.187  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+049-010.bmp vs 081-036.bmp
+confidence:  29.329  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+002-023.bmp vs 091-014.bmp
+confidence:  34.459  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+058-009.bmp vs 012-033.bmp
+confidence:  31.335  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+026-013.bmp vs 082-033.bmp
+confidence:  44.313  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+104-015.bmp vs 027-037.bmp
+confidence:  29.266  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+104-018.bmp vs 001-024.bmp
+confidence:  38.13  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+120-006.bmp vs 022-013.bmp
+confidence:  27.323  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+004-028.bmp vs 071-017.bmp
+confidence:  32.838  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+071-016.bmp vs 123-038.bmp
+confidence:  29.194  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+039-037.bmp vs 014-018.bmp
+confidence:  36.849  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+022-028.bmp vs 111-033.bmp
+confidence:  53.689  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+069-021.bmp vs 065-029.bmp
+confidence:  28.861  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+073-009.bmp vs 062-033.bmp
+confidence:  54.695  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+020-015.bmp vs 033-008.bmp
+confidence:  55.602  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+110-009.bmp vs 104-032.bmp
+confidence:  38.058  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+068-035.bmp vs 038-027.bmp
+confidence:  52.689  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+106-003.bmp vs 117-017.bmp
+confidence:  19.515  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+096-001.bmp vs 121-028.bmp
+confidence:  16.83  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+017-021.bmp vs 111-020.bmp
+confidence:  41.971  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+052-009.bmp vs 086-024.bmp
+confidence:  33.348  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+076-022.bmp vs 042-003.bmp
+confidence:  26.254  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+094-030.bmp vs 018-025.bmp
+confidence:  29.963  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+046-018.bmp vs 117-032.bmp
+confidence:  40.533  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+050-030.bmp vs 083-016.bmp
+confidence:  40.517  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+001-013.bmp vs 013-025.bmp
+confidence:  32.305  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+009-037.bmp vs 112-012.bmp
+confidence:  52.072  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+099-017.bmp vs 036-023.bmp
+confidence:  46.693  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+048-010.bmp vs 020-014.bmp
+confidence:  30.251  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+001-019.bmp vs 111-031.bmp
+confidence:  40.857  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+100-018.bmp vs 084-016.bmp
+confidence:  29.474  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+019-026.bmp vs 105-013.bmp
+confidence:  17.879  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+085-026.bmp vs 100-038.bmp
+confidence:  29.107  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+014-021.bmp vs 032-019.bmp
+confidence:  42.499  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+017-034.bmp vs 097-038.bmp
+confidence:  36.02  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+098-014.bmp vs 095-031.bmp
+confidence:  20.895  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+026-005.bmp vs 023-015.bmp
+confidence:  33.183  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+024-033.bmp vs 060-009.bmp
+confidence:  22.257  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+037-028.bmp vs 084-004.bmp
+confidence:  50.389  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+073-016.bmp vs 075-027.bmp
+confidence:  19.644  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+109-018.bmp vs 075-001.bmp
+confidence:  24.125  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+049-025.bmp vs 042-001.bmp
+confidence:  7.643  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+072-015.bmp vs 111-033.bmp
+confidence:  49.775  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+032-032.bmp vs 103-012.bmp
+confidence:  28.062  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+032-011.bmp vs 091-019.bmp
+confidence:  53.302  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+120-018.bmp vs 061-014.bmp
+confidence:  47.013  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+031-022.bmp vs 045-001.bmp
+confidence:  42.001  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+063-027.bmp vs 079-018.bmp
+confidence:  24.155  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+073-016.bmp vs 055-026.bmp
+confidence:  38.979  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+045-022.bmp vs 016-029.bmp
+confidence:  34.524  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+097-025.bmp vs 053-024.bmp
+confidence:  52.585  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+016-031.bmp vs 117-018.bmp
+confidence:  25.094  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+077-015.bmp vs 038-009.bmp
+confidence:  26.063  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+073-037.bmp vs 094-008.bmp
+confidence:  16.967  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+027-008.bmp vs 010-006.bmp
+confidence:  13.969  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+028-029.bmp vs 117-038.bmp
+confidence:  37.793  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+115-009.bmp vs 097-003.bmp
+confidence:  18.74  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+003-006.bmp vs 070-013.bmp
+confidence:  11.217  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+010-031.bmp vs 105-023.bmp
+confidence:  24.502  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+007-037.bmp vs 022-028.bmp
+confidence:  18.381  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+073-021.bmp vs 081-016.bmp
+confidence:  34.362  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+096-024.bmp vs 015-021.bmp
+confidence:  46.81  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+021-017.bmp vs 020-028.bmp
+confidence:  25.805  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+103-033.bmp vs 071-033.bmp
+confidence:  40.616  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+111-032.bmp vs 062-014.bmp
+confidence:  41.06  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+053-025.bmp vs 066-015.bmp
+confidence:  28.278  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+020-013.bmp vs 055-035.bmp
+confidence:  45.03  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+001-027.bmp vs 046-012.bmp
+confidence:  48.698  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+044-005.bmp vs 107-033.bmp
+confidence:  16.851  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+066-017.bmp vs 025-034.bmp
+confidence:  31.281  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+066-005.bmp vs 122-020.bmp
+confidence:  39.812  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+071-025.bmp vs 062-004.bmp
+confidence:  25.327  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+095-015.bmp vs 063-016.bmp
+confidence:  15.27  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+042-029.bmp vs 068-010.bmp
+confidence:  16.581  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+010-035.bmp vs 066-006.bmp
+confidence:  35.109  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+087-006.bmp vs 101-005.bmp
+confidence:  20.32  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+034-030.bmp vs 092-016.bmp
+confidence:  37.676  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+064-004.bmp vs 019-035.bmp
+confidence:  43.036  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+115-007.bmp vs 106-038.bmp
+confidence:  27.428  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+038-006.bmp vs 058-004.bmp
+confidence:  40.011  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+079-037.bmp vs 049-017.bmp
+confidence:  27.224  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+109-011.bmp vs 040-029.bmp
+confidence:  30.636  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+002-034.bmp vs 053-011.bmp
+confidence:  17.921  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+025-013.bmp vs 041-007.bmp
+confidence:  43.42  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+105-024.bmp vs 007-008.bmp
+confidence:  29.036  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+027-019.bmp vs 099-006.bmp
+confidence:  35.424  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+106-002.bmp vs 080-030.bmp
+confidence:  40.328  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+058-036.bmp vs 069-007.bmp
+confidence:  29.578  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+103-013.bmp vs 087-002.bmp
+confidence:  19.865  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+024-027.bmp vs 084-032.bmp
+confidence:  27.524  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+087-004.bmp vs 122-036.bmp
+confidence:  26.213  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+012-029.bmp vs 024-012.bmp
+confidence:  28.294  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+112-032.bmp vs 054-031.bmp
+confidence:  14.921  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+107-018.bmp vs 079-024.bmp
+confidence:  21.493  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+098-011.bmp vs 074-018.bmp
+confidence:  45.808  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+061-008.bmp vs 002-005.bmp
+confidence:  50.999  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+013-005.bmp vs 031-026.bmp
+confidence:  38.161  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+114-037.bmp vs 029-038.bmp
+confidence:  20.558  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+111-036.bmp vs 015-003.bmp
+confidence:  21.661  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+100-029.bmp vs 043-025.bmp
+confidence:  40.31  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+052-013.bmp vs 029-007.bmp
+confidence:  41.703  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+054-023.bmp vs 109-031.bmp
+confidence:  24.983  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+087-028.bmp vs 049-037.bmp
+confidence:  30.843  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+041-020.bmp vs 106-027.bmp
+confidence:  18.658  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+111-011.bmp vs 094-027.bmp
+confidence:  19.268  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+071-014.bmp vs 114-032.bmp
+confidence:  22.861  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+011-034.bmp vs 023-002.bmp
+confidence:  52.315  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+056-034.bmp vs 034-008.bmp
+confidence:  29.755  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+038-032.bmp vs 108-029.bmp
+confidence:  27.859  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+094-015.bmp vs 101-034.bmp
+confidence:  28.473  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+103-037.bmp vs 024-007.bmp
+confidence:  14.756  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+079-013.bmp vs 103-021.bmp
+confidence:  25.637  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+039-002.bmp vs 097-021.bmp
+confidence:  24.204  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+041-018.bmp vs 123-021.bmp
+confidence:  35.551  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+041-026.bmp vs 105-038.bmp
+confidence:  44.497  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+118-009.bmp vs 078-027.bmp
+confidence:  7.983  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+045-035.bmp vs 040-034.bmp
+confidence:  37.431  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+013-014.bmp vs 040-022.bmp
+confidence:  50.91  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}
+056-034.bmp vs 093-002.bmp
+confidence:  26.22  thresholds:{'1e-4': 69.101, '1e-3': 62.327, '1e-5': 73.975}

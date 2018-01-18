@@ -1,0 +1,576 @@
+/usr/bin/python3.5 /home/shushi/projects/3face/face_api/src/test_twins/test_linkface.py
+{'status': 'OK', 'request_id': 'TID14c81408b2f44c59a846670a0948029b', 'confidence': 0.3973597288131714, 'historical_selfie': {'image_id': '4bc6253dcdc5415884e1574f920ce8a0'}, 'selfie': {'image_id': 'e89d5ea11040402f8c9766c1fa7e0f27'}}
+{'status': 'OK', 'request_id': 'TID2af2f0cbdc064854a26cc036a062657b', 'confidence': 0.3856925666332245, 'historical_selfie': {'image_id': 'd732b19928864db499007c346bc63681'}, 'selfie': {'image_id': '07bcc2c1c97843db930472ccb3c17f26'}}
+{'status': 'OK', 'request_id': 'TID3525bf04882146d8bc93b7cb1cdb560e', 'confidence': 0.8306757807731628, 'historical_selfie': {'image_id': '0755414d3baf4a0eb455bbea17509c58'}, 'selfie': {'image_id': '019d8c7aee224063a5772eb34107c516'}}
+{'status': 'OK', 'request_id': 'TIDdde39fddadd8438792f81bc39cd88b22', 'confidence': 0.48749643564224243, 'historical_selfie': {'image_id': '48b839fe418b4757be66a21276cdddb0'}, 'selfie': {'image_id': 'd525eb20d13042e09e9da044dbe842c8'}}
+{'status': 'OK', 'request_id': 'TIDb6923e1c2a6940a8ade1d4cdd73e433b', 'confidence': 0.631936252117157, 'historical_selfie': {'image_id': '62310a179ff842c9abf44838ebeaa7e8'}, 'selfie': {'image_id': '90feaa8c7f72459b807bd05dd5b5d7b0'}}
+{'status': 'OK', 'request_id': 'TID5f4fa50b13a949858fe0a62ea5c273c0', 'confidence': 0.33697396516799927, 'historical_selfie': {'image_id': '006d45f7f55e43e0a28b7c6b696bffb9'}, 'selfie': {'image_id': '9ab5aa344adc4fbbbf0318ef5e396fee'}}
+{'status': 'OK', 'request_id': 'TID508dc4b398d540e99a59760935994f58', 'confidence': 0.5735324621200562, 'historical_selfie': {'image_id': '57fe55c2dc4a40149da66e8db62d8284'}, 'selfie': {'image_id': '2b1e982f65ae47919223e3afed468a1f'}}
+{'status': 'OK', 'request_id': 'TIDcbe2127f6720465f8ec0e4d6db6eb102', 'confidence': 0.5926133394241333, 'historical_selfie': {'image_id': '5add9db95b3c4e1fb024a4931fdd463f'}, 'selfie': {'image_id': '508c3a8e0e194827966f3f4d899b0cb3'}}
+{'status': 'OK', 'request_id': 'TID362306a6e27c431f89faeeb4ef08792e', 'confidence': 0.45074862241744995, 'historical_selfie': {'image_id': '2dad1284a08049339aee51424ba05424'}, 'selfie': {'image_id': 'e8e5dfeb8b7b41e688cd4e69d5d8fe1c'}}
+{'status': 'OK', 'request_id': 'TID3fdc58e50dd244b1801f2dd6efda49a4', 'confidence': 0.3636230528354645, 'historical_selfie': {'image_id': 'a8291c68273443dc9c00489403bd4403'}, 'selfie': {'image_id': 'd03caf8be65442d3a3315f91a3bbcb23'}}
+{'status': 'OK', 'request_id': 'TIDf5429c0cb4014b62bcd791ebe4fc326e', 'confidence': 0.3895559012889862, 'historical_selfie': {'image_id': '7aa15b5a8ccc4e4eaa1479de373e103e'}, 'selfie': {'image_id': 'ddbecee6e61746ebb0e487aa4010a152'}}
+{'status': 'OK', 'request_id': 'TID8c7506769e72408496c0c2017dad565d', 'confidence': 0.33912190794944763, 'historical_selfie': {'image_id': 'e47b069b86ce44fb92b0817dacf60bfb'}, 'selfie': {'image_id': 'd6c4d25399c8464ea31795c9ef86bb5b'}}
+{'status': 'OK', 'request_id': 'TIDbf74e9adc4534ecca8b2b6bebeb47398', 'confidence': 0.6858890652656555, 'historical_selfie': {'image_id': 'a5ce1fe7cc8942208a9a3fecb803206f'}, 'selfie': {'image_id': '84a69569add64821baf17b49ff68bd58'}}
+{'status': 'OK', 'request_id': 'TID2831ae32344b4e48962c134ddef354cd', 'confidence': 1.0, 'historical_selfie': {'image_id': '8dd0393ed85e4fada44ce7b8851fe854'}, 'selfie': {'image_id': '0ec9da3cb3064e068e510346a80ea704'}}
+{'status': 'OK', 'request_id': 'TID8e3b2b0992e54abfb396c015ff043d98', 'confidence': 0.9265732765197754, 'historical_selfie': {'image_id': '5dcaa18167f449d8afa7276c8a43ca80'}, 'selfie': {'image_id': '9b7ce50ea8e3432a91b90cd5110477c4'}}
+{'status': 'OK', 'request_id': 'TID920eef5294b445828973aa2054aaa893', 'confidence': 0.5216326117515564, 'historical_selfie': {'image_id': '2e13d43738ae4f9db978dfae6553b6ab'}, 'selfie': {'image_id': '718dfe0e4b6c43bf9d90d5b69ff94d6a'}}
+{'status': 'OK', 'request_id': 'TID1c648db14f3b4a52b8e7994cbee904e3', 'confidence': 0.48058316111564636, 'historical_selfie': {'image_id': '9a95a73c581f497d8b16a5f10a830c45'}, 'selfie': {'image_id': '65da7ca1d6ce4650900425667f0b0d21'}}
+{'status': 'OK', 'request_id': 'TID0588edff3f0c4c0a92a092a905dffd38', 'confidence': 0.6715999245643616, 'historical_selfie': {'image_id': 'dd10d39bdd744582aca82f35c9ab8f2b'}, 'selfie': {'image_id': 'dd639704c2864988b5cfd04a9896ac7c'}}
+{'status': 'OK', 'request_id': 'TIDbf36cfb743e14f2cb825dd72dcc16768', 'confidence': 0.5799513459205627, 'historical_selfie': {'image_id': '87a8968911ad47219e4517ff83407fb6'}, 'selfie': {'image_id': 'f0476a6692d6426ca05c127e61e46c89'}}
+{'status': 'OK', 'request_id': 'TID297f049e66d24a0bb0a6b7340072e9f3', 'confidence': 0.3782969117164612, 'historical_selfie': {'image_id': 'a04e56dee8b34cd3882e57934eb25192'}, 'selfie': {'image_id': '9a8595e59511406c8337d76d139e16a1'}}
+{'status': 'OK', 'request_id': 'TID44e9bff564d44f399a5b79cf10b952c4', 'confidence': 0.8168887495994568, 'historical_selfie': {'image_id': '86949b0714c347b289abea55bc8fdbc8'}, 'selfie': {'image_id': '29faebeb2fd24f9aba86115d48a07b38'}}
+{'status': 'OK', 'request_id': 'TID8a411beea1c648c38d19f8579d7ebb38', 'confidence': 0.39039236307144165, 'historical_selfie': {'image_id': 'd8eef1e13dcd4c71b1ee48757c2f9b5b'}, 'selfie': {'image_id': '0d05354116db4399b21fae38be087d76'}}
+{'status': 'OK', 'request_id': 'TID8e18a6e5dbd44aa8b42184e45250cd6d', 'confidence': 0.8779079914093018, 'historical_selfie': {'image_id': 'c5e5b1a6d8a34f5daf460b322fc5bd8d'}, 'selfie': {'image_id': 'ef46b4bd006a4915b22060c0c4ebcf40'}}
+{'status': 'OK', 'request_id': 'TID69be5103bc444f4295c24c8781a08079', 'confidence': 0.9151893258094788, 'historical_selfie': {'image_id': '81050e34f4744f1bbf0bfe899af0f32c'}, 'selfie': {'image_id': '0eaeadf9f62f4606ae208aa4a0f59f49'}}
+{'status': 'OK', 'request_id': 'TID4d32cddcd2e04f35830aec211472cf31', 'confidence': 0.4462353587150574, 'historical_selfie': {'image_id': '9c3de97bdb074293942ee20fd0e6f241'}, 'selfie': {'image_id': '479d2c4c21e84c8789475628df65bda6'}}
+{'status': 'OK', 'request_id': 'TID9117905a35e14d64943e29193cb4ef00', 'confidence': 0.7399041056632996, 'historical_selfie': {'image_id': '7e6ac06960a14b70bd8c8fd3b9351955'}, 'selfie': {'image_id': 'e00fc9e5dd4d401c85bfd56903200518'}}
+{'status': 'OK', 'request_id': 'TID40451b7c92f647ec91e96989bd1071c4', 'confidence': 0.620843768119812, 'historical_selfie': {'image_id': '7f7bab279e1a4590ae08d0c395d5b962'}, 'selfie': {'image_id': 'd9277c8e53e4411faaece3783e28a37b'}}
+{'status': 'OK', 'request_id': 'TID50f827057ddd462ea34cf098ba734884', 'confidence': 0.3848751485347748, 'historical_selfie': {'image_id': '1eee870fb3e441c2bbf55ca06decae88'}, 'selfie': {'image_id': '9b4b2e4177694d6586ab9a092ce90160'}}
+{'status': 'OK', 'request_id': 'TID5498ba58aa0f49a1a99e394415a1236b', 'confidence': 0.9020280838012695, 'historical_selfie': {'image_id': '98195e90f3fe43c1b58342d84968bdf3'}, 'selfie': {'image_id': '494ee668b2064f2b96ea37751f659978'}}
+{'status': 'OK', 'request_id': 'TID0e192119afa34480b3ec0ccbaf9b9eb8', 'confidence': 0.7819111347198486, 'historical_selfie': {'image_id': '8984a0e8a1154f9491e7585fbab42afc'}, 'selfie': {'image_id': 'fe94fa0558034d069b1b8e4bd4cf8308'}}
+{'status': 'OK', 'request_id': 'TIDe9043b2ab113427a906ef558b5f0afd8', 'confidence': 0.7551707029342651, 'historical_selfie': {'image_id': '2454b0e74b334661ac85e3c3273c0e87'}, 'selfie': {'image_id': '5061eaefde8549bf8d293bad8987646f'}}
+{'status': 'OK', 'request_id': 'TIDde54a549a5c0475cbe6c1a26e554b45f', 'confidence': 0.6192690134048462, 'historical_selfie': {'image_id': '4e2c5a40cf4d4f519013b02805e0d14d'}, 'selfie': {'image_id': 'eab65f2151e948a09f98e813271089af'}}
+{'status': 'OK', 'request_id': 'TID349200eb2e3c4beaaf383ed4511c4e8c', 'confidence': 0.8860961198806763, 'historical_selfie': {'image_id': '997d3d2130aa4af6a9b3c0d013d4c123'}, 'selfie': {'image_id': 'e86ff7db436546eb90b070ac862ea6d0'}}
+{'status': 'OK', 'request_id': 'TID5aef17863eba4e4394589f63e1502aa3', 'confidence': 0.39084750413894653, 'historical_selfie': {'image_id': '09f21f06aac0445a8123ccb53a8d5a4f'}, 'selfie': {'image_id': '8e7a1d39cafb4fd0a92ba4f7b3baa913'}}
+{'status': 'OK', 'request_id': 'TID3dbe36f253d848bbbaf2d6fd3e30fc98', 'confidence': 0.8623719215393066, 'historical_selfie': {'image_id': '97d50b5df27646f499e2477e82367c2f'}, 'selfie': {'image_id': 'bf9013703b214f59b0969bed3d4003e9'}}
+{'status': 'OK', 'request_id': 'TIDecfeeb41e58044c989bdd61e364457f7', 'confidence': 0.8586130738258362, 'historical_selfie': {'image_id': '84bb439e7ba849dbb0ce10a1223879a8'}, 'selfie': {'image_id': '25416b5550ac4ea0a94a307ce1492fdd'}}
+{'status': 'OK', 'request_id': 'TID12fec3d6ce03475b82fccb2aadd46f16', 'confidence': 0.44290727376937866, 'historical_selfie': {'image_id': '1de2b53d9a244b6b8e09d6b889b9798c'}, 'selfie': {'image_id': '2c631a54c7fd4942af4283f5d26d92b1'}}
+{'status': 'OK', 'request_id': 'TID77d7dd9c2f0943ccaf754bcdf6543af8', 'confidence': 0.9087879657745361, 'historical_selfie': {'image_id': '997f9f34f84649e0845801b4811292dd'}, 'selfie': {'image_id': '0fe54450ad8446d1affe30d07da132bb'}}
+{'status': 'OK', 'request_id': 'TIDa5074288654547a49c657cddbde86e5f', 'confidence': 0.9289095401763916, 'historical_selfie': {'image_id': '7b91101e2ef34f348f7a07ae44ee039f'}, 'selfie': {'image_id': '7321f19d37c541308186364dcb07850d'}}
+{'status': 'OK', 'request_id': 'TIDa16b5839d99a413a8615c4cd497d88a0', 'confidence': 0.874252438545227, 'historical_selfie': {'image_id': '225ae457975647b684c437eaccdee792'}, 'selfie': {'image_id': '831c078b54a24e73a53d1fcf5fac2731'}}
+{'status': 'OK', 'request_id': 'TID81bf83f50399499cbdbbb826bdcf0a3d', 'confidence': 0.9098029136657715, 'historical_selfie': {'image_id': 'a765508e2d2d42d6af26510d59bafe97'}, 'selfie': {'image_id': 'fac24ee2ec504ca89504f534fbfa9823'}}
+{'status': 'OK', 'request_id': 'TID2fe5e404b38242d08b615c3cc03d5488', 'confidence': 0.4330773651599884, 'historical_selfie': {'image_id': '930b9549eddf401db7a599e8f3ba9132'}, 'selfie': {'image_id': '878b944b5bed47ed8f63481211fdce81'}}
+{'status': 'OK', 'request_id': 'TID82c13cf2fa0847e8b15df72c370b1780', 'confidence': 0.33757495880126953, 'historical_selfie': {'image_id': 'e8fa06b4ba49465a8c4874de9cd585e6'}, 'selfie': {'image_id': 'd8e92b2777d34b24b50cafc1c5e8f92c'}}
+{'status': 'OK', 'request_id': 'TIDf00c01d6d2a343a8a32ce3cd05c49165', 'confidence': 0.4466325640678406, 'historical_selfie': {'image_id': 'b75a246f2c384d8aaa58d7bbea18d03b'}, 'selfie': {'image_id': 'ff0c7810515046318d92f7f70a518e69'}}
+{'status': 'OK', 'request_id': 'TIDb541779ccd5242d5ac0c9f7d4a5e8cc1', 'confidence': 0.6985810995101929, 'historical_selfie': {'image_id': 'b0e0c4bc89724c40ae8f8a65cc477489'}, 'selfie': {'image_id': '880572fb83de48ff95642d93f83608fb'}}
+{'status': 'OK', 'request_id': 'TIDa94da37fe9024a37809d65067dd72e2e', 'confidence': 0.8423019647598267, 'historical_selfie': {'image_id': '47c34dd953fb4d63865df4436f7000e2'}, 'selfie': {'image_id': '41326c684cd042df9cadd6c4fd2a8b15'}}
+{'status': 'OK', 'request_id': 'TID8100dfcaacb24441ad97e80b59fdd8ea', 'confidence': 0.2950403690338135, 'historical_selfie': {'image_id': 'cdb868bb93c94e7fb98ddaa80eb6f29e'}, 'selfie': {'image_id': '2492a265be59479dae8c68d63c81283b'}}
+{'status': 'OK', 'request_id': 'TIDf5acbd738269400cbd2b9f8fe479bf16', 'confidence': 0.9254586696624756, 'historical_selfie': {'image_id': 'babec7218de747839b9a24a44f9860c7'}, 'selfie': {'image_id': '39c5890d4a6d4ab2963fa3dd04610f7d'}}
+{'status': 'OK', 'request_id': 'TID80e1ae7aa9484bec9bc0b32fb92584e2', 'confidence': 0.5952162146568298, 'historical_selfie': {'image_id': 'c1732192381d405b90b0e99687c4ec17'}, 'selfie': {'image_id': '1d95d569f1f5441897d85e0fe7660ad1'}}
+{'status': 'OK', 'request_id': 'TID4165fa62f2e14d428295af178f39e9e5', 'confidence': 0.8804455399513245, 'historical_selfie': {'image_id': '9dd1f271131441d4b7a75c7379cfbb8e'}, 'selfie': {'image_id': 'ec4f88756d974181b22cc5590b230bfa'}}
+{'status': 'OK', 'request_id': 'TID40f0f7cae3b543f2a5b16592e4659166', 'confidence': 0.3317354917526245, 'historical_selfie': {'image_id': '5eb31fb99af84e63babe01b38db3e032'}, 'selfie': {'image_id': '0ee0fe5248654b798cd51ca7c6f09897'}}
+{'status': 'OK', 'request_id': 'TID9ae9d6c36f694f9ea7706a94647d8eb9', 'confidence': 0.39506345987319946, 'historical_selfie': {'image_id': '7ff9faf58a854dfabd69293d5b931fb6'}, 'selfie': {'image_id': '7fadba7df89d49948b3cfe3443d32394'}}
+{'status': 'OK', 'request_id': 'TIDe551bcbb7f3f429798013fcd327e6e35', 'confidence': 0.9154510498046875, 'historical_selfie': {'image_id': '4d0893632fb1432e8eb1cb7b19bf1c5f'}, 'selfie': {'image_id': 'c82f9082a8904f0ab9c11db8e9b8855a'}}
+{'status': 'OK', 'request_id': 'TIDc0a557d18cdf4bfa8ebda3fad217a20b', 'confidence': 0.8418192267417908, 'historical_selfie': {'image_id': 'e18bcb8e0fa34e78aad40845e999a3f5'}, 'selfie': {'image_id': '15b6bf119fc4486a96498496ce5f758b'}}
+{'status': 'OK', 'request_id': 'TID61c1763429344a349e47d89d41e4e1c6', 'confidence': 0.3027605712413788, 'historical_selfie': {'image_id': 'b86aefcbf5194f27971b0be7f78508bc'}, 'selfie': {'image_id': '761a4050b415443fad343e0f592e9bf8'}}
+{'status': 'OK', 'request_id': 'TID234917ec3217419dadfb3a2579b4af7f', 'confidence': 0.37720584869384766, 'historical_selfie': {'image_id': '7caaed373aef4340bb5fd3fbe993004f'}, 'selfie': {'image_id': '432af3251160480b97f7bddbd98858bd'}}
+{'status': 'OK', 'request_id': 'TID926a6c4bb8a74dbdb3f21f7af5bb6967', 'confidence': 0.7229434847831726, 'historical_selfie': {'image_id': 'e2801b18c9f741e49c83382f3f8b6d91'}, 'selfie': {'image_id': 'b28e6bfebf1f4b3c8f4cc0e08fec5d0b'}}
+{'status': 'OK', 'request_id': 'TID4a0224f250034a058e86f11b0c16b728', 'confidence': 0.6151749491691589, 'historical_selfie': {'image_id': '9ab3f2dd54b64e09a950e323935b0a9e'}, 'selfie': {'image_id': '528c63173058428b9ca3562153c72d59'}}
+{'status': 'OK', 'request_id': 'TIDb1e9ca081ef0420eb5d13933978201f1', 'confidence': 0.9022129774093628, 'historical_selfie': {'image_id': '6d2579a32ca64920a6436444d469f350'}, 'selfie': {'image_id': '0ad548f042f9491993560034be993367'}}
+{'status': 'OK', 'request_id': 'TID2090ceeb533349b1832b30155bea63d1', 'confidence': 0.723422646522522, 'historical_selfie': {'image_id': 'ebc398ce2ba64329a177a50bba966f7b'}, 'selfie': {'image_id': '14d61a7e009d486f92750fa770b68c22'}}
+{'status': 'OK', 'request_id': 'TID230dcde3a4724a318f695646dcfd9add', 'confidence': 0.5025529861450195, 'historical_selfie': {'image_id': '189969ca078e4a24a7bec0b883c44b75'}, 'selfie': {'image_id': '8d801c09afae499296dbd732658307ea'}}
+{'status': 'OK', 'request_id': 'TID04ee577b795e4c58be0c9635982a7ffb', 'confidence': 0.7437213063240051, 'historical_selfie': {'image_id': '68732fecc7bb44c8b3844fdc9be99e1a'}, 'selfie': {'image_id': 'a9603317cce24d9f88f9c091388052e7'}}
+{'status': 'OK', 'request_id': 'TID82592667ad2a44518804f19c1886aae3', 'confidence': 0.909626305103302, 'historical_selfie': {'image_id': '3a12e63409964fb19fbdd826d44b5c10'}, 'selfie': {'image_id': '32b6da4b30404b0a87592c3e0d7e41d2'}}
+{'status': 'OK', 'request_id': 'TID3f89fc570d0a43aab915d863047dc357', 'confidence': 0.5391604900360107, 'historical_selfie': {'image_id': '0d3801190b144cf8a3d25e56a330c8fe'}, 'selfie': {'image_id': '2003cfe2196045feb5f288acd741a8a8'}}
+{'status': 'OK', 'request_id': 'TID484b876633f8470aa99577d7d993eddb', 'confidence': 0.46815523505210876, 'historical_selfie': {'image_id': 'b1a6ebac47ed451b892ec3aa301b7533'}, 'selfie': {'image_id': '63d8f6f65c094483a3e43e239cefd9b1'}}
+{'status': 'OK', 'request_id': 'TID4ee8662622d743dfb281ca12e9e4f8bb', 'confidence': 0.739818811416626, 'historical_selfie': {'image_id': 'fe822d2a75fe475aa99b572615104e6e'}, 'selfie': {'image_id': '496e15546600421f86dcb0cb389982ae'}}
+{'status': 'OK', 'request_id': 'TID86ae8254451246f6be86e1bf6f99977a', 'confidence': 0.8331136703491211, 'historical_selfie': {'image_id': '54ad027e29f04016803467ea0b3b5613'}, 'selfie': {'image_id': '4a7333a518a64de5b364358a9d8373dd'}}
+{'status': 'OK', 'request_id': 'TID3771db53b7a648f687594de28dbe30f8', 'confidence': 0.5266619324684143, 'historical_selfie': {'image_id': 'd394a82ebfa04407902685411b938265'}, 'selfie': {'image_id': '4be9b4952d134a4180217aa3e62d4b31'}}
+{'status': 'OK', 'request_id': 'TIDca04a22105e84a9b86ac5f352730c0a5', 'confidence': 0.6680079698562622, 'historical_selfie': {'image_id': 'e11f2717ecc64cfe8a16c844eabfca69'}, 'selfie': {'image_id': '71ad0fe3f23a43409098acd21b2a23a1'}}
+{'status': 'OK', 'request_id': 'TID64ee359e97a84ac9aa62540f7a660a8a', 'confidence': 0.8276473879814148, 'historical_selfie': {'image_id': '4beee16755554b7190c1969c2792b7fd'}, 'selfie': {'image_id': '2046c7a701874d098cbd1ace3bf481b3'}}
+{'status': 'OK', 'request_id': 'TID1dd49da823364e63916ac7306410cc89', 'confidence': 0.9217004179954529, 'historical_selfie': {'image_id': '59533c09d5c04b0dbcdbfbfdc585a92b'}, 'selfie': {'image_id': 'e17341834a1a41b1ac84d224ede6e710'}}
+{'status': 'OK', 'request_id': 'TIDeebe73c1fb2d45d0bb4146f61ba9c399', 'confidence': 0.3978651165962219, 'historical_selfie': {'image_id': '0416cdc7199e4ab59ab3580137b2ce28'}, 'selfie': {'image_id': '9f8f6f0f168d4457bfee6aa016830742'}}
+{'status': 'OK', 'request_id': 'TID115649367ce54be19fcbb10f78c712df', 'confidence': 0.35362279415130615, 'historical_selfie': {'image_id': 'ae83e627f7ef4273961ec3b3657346b4'}, 'selfie': {'image_id': '91cdac219c0f4cb9abca405495b70494'}}
+{'status': 'OK', 'request_id': 'TID89c11c8997a84fbfb3c110eac0abdd4d', 'confidence': 0.9050630927085876, 'historical_selfie': {'image_id': 'bc31994c62ca46f19bade256fec3dfa4'}, 'selfie': {'image_id': '88a777e2f7784de28b008fc010ebb236'}}
+{'status': 'OK', 'request_id': 'TID5c07c57c656742898617d2aabdf33044', 'confidence': 0.4851967692375183, 'historical_selfie': {'image_id': '459ff1b86d6843599103cbd91bd194b1'}, 'selfie': {'image_id': '5c202caad5e146c08dac2717b2a6b304'}}
+{'status': 'OK', 'request_id': 'TIDd3957dcd7416408ca266e2239022bbc1', 'confidence': 0.764787495136261, 'historical_selfie': {'image_id': '2ac6e02f53044bc9b74e654af33dd8ba'}, 'selfie': {'image_id': 'e0a08c562a3e47c6aeecb44c165a8625'}}
+{'status': 'OK', 'request_id': 'TIDf6af8952d101441b85061c5637111037', 'confidence': 0.5878298282623291, 'historical_selfie': {'image_id': '25f29b6eae59446bb5016fbb0bb6fa93'}, 'selfie': {'image_id': '6cf39a789c114156beaca50c685fcf45'}}
+{'status': 'OK', 'request_id': 'TID787bc4416d3b40ba9dfce6935d0aa2e6', 'confidence': 0.3453850746154785, 'historical_selfie': {'image_id': '9d6fcdf4082d45acabb88760fc70f410'}, 'selfie': {'image_id': 'e6d0525817ac400eb006b80763b242d8'}}
+{'status': 'OK', 'request_id': 'TIDdad6cecb0ca3487690f292fe3adca260', 'confidence': 0.631936252117157, 'historical_selfie': {'image_id': '43d5e40681e84a2a9a4dbd097be11d7b'}, 'selfie': {'image_id': '67d333fed2df464ab10c3e92c97bbf1a'}}
+{'status': 'OK', 'request_id': 'TID98ce7935252c49d99ea4ae2c507504af', 'confidence': 0.32796454429626465, 'historical_selfie': {'image_id': '287c90eceb014dcc833d2e8eff04f159'}, 'selfie': {'image_id': '2d2c4ba9fd704ca190708c9b74a278b8'}}
+{'status': 'OK', 'request_id': 'TIDe47f589eeddf40c0bf890fbc796196bf', 'confidence': 0.6944534182548523, 'historical_selfie': {'image_id': '9d2700c5fce64ef2a4251e7295a17760'}, 'selfie': {'image_id': 'e82b1684e7334d2f956727d4766b94fd'}}
+{'status': 'OK', 'request_id': 'TID3a6324cf730c488eb6616c9515d71e46', 'confidence': 0.8123711943626404, 'historical_selfie': {'image_id': '70a94c62492f4018990df5cd5b32e963'}, 'selfie': {'image_id': 'ee88656bd0b443a4b8917e5148f0ab14'}}
+{'status': 'OK', 'request_id': 'TID7d9d09ae137d48e39e904712d05dcbe5', 'confidence': 0.39743292331695557, 'historical_selfie': {'image_id': 'c25c56abd04b4afe8e57e9147a416120'}, 'selfie': {'image_id': '0e088be021c649918e66b4baabb16051'}}
+{'status': 'OK', 'request_id': 'TIDd13001433dd64bc7b0959350b69da4e7', 'confidence': 0.9018824696540833, 'historical_selfie': {'image_id': '2227b7b4172440db821df8cead68b611'}, 'selfie': {'image_id': '32dca04811c648009bfa567a43e18598'}}
+{'status': 'OK', 'request_id': 'TIDe2174aa1d5c64671b70e71ee83f132ed', 'confidence': 0.9395341277122498, 'historical_selfie': {'image_id': '2940debc7bda440cad2ed4c7b5931ada'}, 'selfie': {'image_id': '74519bfaf765485488da18c3391b49f1'}}
+{'status': 'OK', 'request_id': 'TID423a078447a144fdad32b7904722122a', 'confidence': 0.5266619324684143, 'historical_selfie': {'image_id': 'c146aab897674033aa0d0be04e9bfdcc'}, 'selfie': {'image_id': '04972c98c3394861a603921de0692028'}}
+{'status': 'OK', 'request_id': 'TIDafee1677ab7048b3bb0af21a477c90a8', 'confidence': 0.8654047846794128, 'historical_selfie': {'image_id': '66f69b8160624aa8ad3e07c75a2fb4b8'}, 'selfie': {'image_id': 'e45c8bc9c3394cda821816081f99c7e3'}}
+{'status': 'OK', 'request_id': 'TID89f7d939bb3645a59e057778a106df1a', 'confidence': 0.5012401938438416, 'historical_selfie': {'image_id': '0944866cf255477f896011e6ffda9adf'}, 'selfie': {'image_id': '10784733782543a09ca2cdb7040485c6'}}
+{'status': 'OK', 'request_id': 'TIDa1998f84373b47fea7bb787792ce4e9b', 'confidence': 0.9136349558830261, 'historical_selfie': {'image_id': '46027d68d6094552a7b10225f368fd83'}, 'selfie': {'image_id': '81e8d33cf4624587bfb3d2ff24538617'}}
+{'status': 'OK', 'request_id': 'TID15ccff80dd9f4071bf40cdfc47c570b7', 'confidence': 0.723331868648529, 'historical_selfie': {'image_id': '1becc0bf2dbf4c8782fa7997ff1070f5'}, 'selfie': {'image_id': '6ac0660bc91846eea6b26cc6267a2707'}}
+{'status': 'OK', 'request_id': 'TID7c1281b03d384b77a530dba3d151f29e', 'confidence': 0.6234130263328552, 'historical_selfie': {'image_id': '659be13ec1c74f63bc84a363736345be'}, 'selfie': {'image_id': 'f8f54b7a5f934fcd8314ee5af2a40005'}}
+{'status': 'OK', 'request_id': 'TID5b6cbeb1fb014510b6c56fe85c3d853a', 'confidence': 0.44391506910324097, 'historical_selfie': {'image_id': 'bfdd375f8fac4384a19486755a27255f'}, 'selfie': {'image_id': 'eacc285d3a584fa29a6dd2f4433c351c'}}
+{'status': 'OK', 'request_id': 'TID7ac84fc016db4b56a7e56efe7aa3b87c', 'confidence': 0.9289095401763916, 'historical_selfie': {'image_id': 'bce0748f295c492ab5620149cb872846'}, 'selfie': {'image_id': '3e3c5244a44c4147811c031402aad094'}}
+{'status': 'OK', 'request_id': 'TID6c44bf5e618140989568937be78847aa', 'confidence': 0.34645241498947144, 'historical_selfie': {'image_id': '2d9c66073ba04efb982b5ff33152a97c'}, 'selfie': {'image_id': 'b8dd1ed654d849eba30690512c44447b'}}
+{'status': 'OK', 'request_id': 'TID7cde456d70634f5d9e5ee5185b13fc6d', 'confidence': 0.49343907833099365, 'historical_selfie': {'image_id': 'b868074c1551444e842771a956882ec1'}, 'selfie': {'image_id': 'b521c334fcca459faa197996c5ade541'}}
+{'status': 'OK', 'request_id': 'TIDedf6301da06e40aab51b59a0d9b399ec', 'confidence': 0.9035921692848206, 'historical_selfie': {'image_id': 'e3267fada6834ff3b9a02f220ebc1480'}, 'selfie': {'image_id': '348a891550ae4d3aaeb6227ae3032924'}}
+{'status': 'OK', 'request_id': 'TID89fa248a135f4e8780322c490f3fcb6d', 'confidence': 0.760596513748169, 'historical_selfie': {'image_id': '738b09cc5e7048f88e5fd7076c2c2d3d'}, 'selfie': {'image_id': 'adf81b16df9145529ca142aaa702c792'}}
+{'status': 'OK', 'request_id': 'TID4d706c577256453d804e8775e08f9cb9', 'confidence': 0.6250505447387695, 'historical_selfie': {'image_id': '5ec1a1666e114cb8a165e23bab171bb0'}, 'selfie': {'image_id': 'c00d9497334740ef94a3b48fde834bdd'}}
+{'status': 'OK', 'request_id': 'TID4923dacdd7fe476faf4dd676c3c4fe59', 'confidence': 0.5607990622520447, 'historical_selfie': {'image_id': 'cdc7da0b1f66450195fe5a08a7a0fc82'}, 'selfie': {'image_id': 'a1b6bedeb9214b51b6bb335bc27bb0dc'}}
+{'status': 'OK', 'request_id': 'TID82f9394749b742409dabcc13a75b5435', 'confidence': 0.4330773651599884, 'historical_selfie': {'image_id': '23f7c8c95cac41bc873dbc9d57d20a6e'}, 'selfie': {'image_id': 'e8b532da0e044c3fbd5297e665d82838'}}
+{'status': 'OK', 'request_id': 'TID7a95440e0fea4b2c88dd9ca7a792f2dc', 'confidence': 0.5359500646591187, 'historical_selfie': {'image_id': '8fec1de9607342db86cb706eeec3e900'}, 'selfie': {'image_id': 'b6293c75b2c94cea89d4cec5834bf4f0'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TIDc890875ff14d44919e5f8916f898989e', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TID039305a808f04f838a40d043aab076dd', 'confidence': 0.5058952569961548, 'historical_selfie': {'image_id': '665ff11595c242cd8022428b8a3ae704'}, 'selfie': {'image_id': 'dfa60ad8a7f54823914000252b2ce589'}}
+{'status': 'OK', 'request_id': 'TID7e39f4f49c7b414f8784e755be4a5665', 'confidence': 0.8506362438201904, 'historical_selfie': {'image_id': 'cd76e0a877274da6865e1aa8d3220079'}, 'selfie': {'image_id': '427229f341e24601883edb14b8498899'}}
+{'status': 'OK', 'request_id': 'TID49c3d50952da4d28b59893a82e01a8a7', 'confidence': 0.5583934187889099, 'historical_selfie': {'image_id': '55a4fc1413474c5aa83593c76a2dbae3'}, 'selfie': {'image_id': '616fe18652c24ab094d4be013b73f80d'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID3e790f8647024f0b98a336987fe96936', 'image': 'historical_selfie'}
+error
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TIDeb3be8ee7a6e4c10ad1a1545e3be1823', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TIDfda3373adaee4ec893b3c8b3a372f890', 'confidence': 0.49052125215530396, 'historical_selfie': {'image_id': '58efddf120ee42ca9b059db4cf790672'}, 'selfie': {'image_id': '473b3c96bbad49a7ae8a6cce378ecdf9'}}
+{'status': 'OK', 'request_id': 'TID6df1576027174ac7b21caf721575574b', 'confidence': 0.86215740442276, 'historical_selfie': {'image_id': '5d723a7b882342eda978498e100fb53e'}, 'selfie': {'image_id': '2e4d3267dcb04158bb0687d19b79014c'}}
+{'status': 'OK', 'request_id': 'TID69c90c7cea8c41a4aa22ee2d688abba5', 'confidence': 0.9352105259895325, 'historical_selfie': {'image_id': 'bd79fbdb7fc04bdca6d986a9ee1bf00e'}, 'selfie': {'image_id': '6f3779f580054e288e69caedb53b0cf1'}}
+{'status': 'OK', 'request_id': 'TID692315b252b7421bb6dbd42db71af36d', 'confidence': 0.566623330116272, 'historical_selfie': {'image_id': 'c30b1585ab6f4fb6a55c187561557fc9'}, 'selfie': {'image_id': 'c32453f640b742c2b2a9f6044886bd26'}}
+{'status': 'OK', 'request_id': 'TID99892e9aeba1436395dfc76a5fa6d042', 'confidence': 0.9049403071403503, 'historical_selfie': {'image_id': 'c71148d16a0342c2bf494b65554f3b7b'}, 'selfie': {'image_id': 'a4f88d96451a4a44acd233119127fa2a'}}
+{'status': 'OK', 'request_id': 'TIDf072218c905a41478a8f51af6de6aee5', 'confidence': 0.9305137395858765, 'historical_selfie': {'image_id': '10d3096f71ee4fb09f84b2afbe17494d'}, 'selfie': {'image_id': '812008f321e948078866587c858b709d'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TIDaa18ff527d534dfe9e9a0db9031bdc79', 'image': 'selfie'}
+error
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID2065687ef701450caeb5774ebfffe7a6', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TIDa0b5be1249044f3a89b5719f0f9a5bb7', 'confidence': 0.5431039333343506, 'historical_selfie': {'image_id': 'c57c2c834dfe4800a8240ef602efca77'}, 'selfie': {'image_id': '5093e6dce28e49619b64c6220a07c8ea'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID20e2c8577f36420eaf0423c63be5df14', 'image': 'selfie'}
+error
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TIDc010b708840a4071bf55e2d7e49d6d63', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TID4cf5125f7a1543f2816c67097518dba8', 'confidence': 0.9223175048828125, 'historical_selfie': {'image_id': '0a1b547a4962430da1a7ed315af87d64'}, 'selfie': {'image_id': 'c65a5a3efeca472a88e90eaadff763a0'}}
+{'status': 'OK', 'request_id': 'TID46998aab68924241a375be3df05225f6', 'confidence': 0.6181398034095764, 'historical_selfie': {'image_id': '34d585eb98f340929980b3bcd579b5a1'}, 'selfie': {'image_id': '1af609208eb34915b4ca5d766271d9d1'}}
+{'status': 'OK', 'request_id': 'TID5d6cf81275814db19deb373af1b0c9d7', 'confidence': 0.3883054554462433, 'historical_selfie': {'image_id': '8c448defb33647f48ab885cbec7316b8'}, 'selfie': {'image_id': '0befc795790a43cbb901819ef087b704'}}
+{'status': 'OK', 'request_id': 'TID37cf1a4392be4837a396ca474ef97aff', 'confidence': 0.393410325050354, 'historical_selfie': {'image_id': 'f4830cff19734085aa740cbcee336bf2'}, 'selfie': {'image_id': '371e226a427345dd9d12ba9682c36d36'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID152436ef31844100983bf7813882497b', 'image': 'selfie'}
+error
+{'status': 'OK', 'request_id': 'TID6c67dd78199a47c5a26864473818a485', 'confidence': 0.8492659330368042, 'historical_selfie': {'image_id': '6a41bd76b6304d0693592523d1d58866'}, 'selfie': {'image_id': 'be845d87b6ad4619940bb575538c42ff'}}
+{'status': 'OK', 'request_id': 'TID252af7bf5cef435d84e45d5791f7b87f', 'confidence': 0.9999999403953552, 'historical_selfie': {'image_id': '14d131bd2b2f4c579dc28f8c7c2add25'}, 'selfie': {'image_id': '37b88a0f5d6e453aa66485dea47eab53'}}
+{'status': 'OK', 'request_id': 'TIDde2517528d4a4f5ea6783c931343b5ae', 'confidence': 0.9999999403953552, 'historical_selfie': {'image_id': 'c4a9db0c3f124ac58fe2dd3a1895ae4c'}, 'selfie': {'image_id': '3c55393576a64fd3a824a997fc1c098e'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID5101f4955bb04a949afb9d3125b5f14f', 'image': 'selfie'}
+error
+{'status': 'OK', 'request_id': 'TIDd70694e6df9a41b79dfe2ed137d9b254', 'confidence': 0.9300814867019653, 'historical_selfie': {'image_id': '3f4aec5823ba44c9b81fe0e017012be0'}, 'selfie': {'image_id': 'f699d02db1e24a539f869be2109cc979'}}
+{'status': 'OK', 'request_id': 'TID89bab04c6adc4cdaa2c9a6c9c4eb296f', 'confidence': 0.9192323684692383, 'historical_selfie': {'image_id': '7348c7c2980446938a1c7968ed3ee5ca'}, 'selfie': {'image_id': '85e42a54ea5143f08bbd2ed9ed441dfa'}}
+{'status': 'OK', 'request_id': 'TIDbd94257c382544f5b432ebf2bd9f8c9e', 'confidence': 0.5294825434684753, 'historical_selfie': {'image_id': 'a87f63b48d4f4c39a76545c11453530d'}, 'selfie': {'image_id': '2e8cba0148334e4b8483a895ed32e493'}}
+{'status': 'OK', 'request_id': 'TID66190c9a419f45f6ada98d695bc0f441', 'confidence': 0.3853762745857239, 'historical_selfie': {'image_id': '7102d4cc317943b4b8236f13f72e42ad'}, 'selfie': {'image_id': 'dcb7d62580df43e2a4752e4926e8d474'}}
+{'status': 'OK', 'request_id': 'TIDbe284ad8941045bab9b66b9e08bba440', 'confidence': 0.9084398150444031, 'historical_selfie': {'image_id': 'e3d2e0e7e35a47568eb6c64e7e5b1ebe'}, 'selfie': {'image_id': 'a9f441f7d69843f3bc92b2cd84a6d01d'}}
+{'status': 'OK', 'request_id': 'TID52ee206811134f3997635c85c5c9497e', 'confidence': 0.9269129633903503, 'historical_selfie': {'image_id': '702d38d340034207aa0c03a80d737724'}, 'selfie': {'image_id': '93a1a9615ee14d32875323dd209fb107'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TIDf718dfbdba8444cf8b579c4c809b68c4', 'image': 'historical_selfie'}
+error
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID535d5481dca5449983aaaf992e7ad0f7', 'image': 'selfie'}
+error
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TIDb3206300c3274ddd8fd826735ade5cff', 'image': 'selfie'}
+error
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TIDe05cc727d77e43c5af24a20b9ddd7618', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TIDe107ac13358e4eef9d34593584a9b33e', 'confidence': 0.9222323298454285, 'historical_selfie': {'image_id': '20d2fa96ad274daeb21d53a0d7f3f72c'}, 'selfie': {'image_id': 'c99453728b6b48f38649704462a859d3'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID1ac13f9405104c598a07eeb9cbffc40f', 'image': 'historical_selfie'}
+error
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID2a7dc8cfa5f1412ea3e8a24e5fd3242c', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TIDf36a36c9047342539ab2475f25c13397', 'confidence': 0.48576343059539795, 'historical_selfie': {'image_id': '3ca171f217864b808bcfe9893f15ee20'}, 'selfie': {'image_id': '3e1893b30d51445bbc843a174d40c155'}}
+{'status': 'OK', 'request_id': 'TIDd68178c670364229b655ca6d3c0c4181', 'confidence': 0.6449285745620728, 'historical_selfie': {'image_id': 'd1cec57fad4d4b8ea43a444adc89a004'}, 'selfie': {'image_id': 'fc35776858e346f7bd3d0fac229ef9ea'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID63a230b25dbc4192814a9f6b9ec0f212', 'image': 'selfie'}
+error
+{'status': 'OK', 'request_id': 'TID9d7d1c5217e2420cb643bf2609269663', 'confidence': 0.5844990015029907, 'historical_selfie': {'image_id': 'e9a965a95d35453d8c4743740649c8cb'}, 'selfie': {'image_id': 'ea51752f909142fe84c45d1db51e9a64'}}
+{'status': 'OK', 'request_id': 'TIDf226299cac51406f9bbff11d03e77b2a', 'confidence': 0.9222822785377502, 'historical_selfie': {'image_id': 'fd7c67e6cc334f5bb77f49589f6187be'}, 'selfie': {'image_id': '0b3485879ff745d2afc33a59e6bbaed0'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID59c4a000afb3490fbacfb6dfabfa2f84', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TID0691d66854a7460bb6f5be8bc2e5ed13', 'confidence': 0.9087718725204468, 'historical_selfie': {'image_id': '78972035627f4773902c82fff6955d07'}, 'selfie': {'image_id': 'bbfbf85778b8471283a8e7d73247b223'}}
+{'status': 'OK', 'request_id': 'TID3a10902f56d34c66b1e506f967a8c293', 'confidence': 0.9066110253334045, 'historical_selfie': {'image_id': '7ea29fd78a09445f9f09aad658aa540b'}, 'selfie': {'image_id': 'cc6846133be2428a82931e5622b2bec3'}}
+{'status': 'OK', 'request_id': 'TID1b61700f052f4a4a973b255bba4eae47', 'confidence': 0.7849864959716797, 'historical_selfie': {'image_id': '2ec818e25f824fd6b7babf1b09f9cf94'}, 'selfie': {'image_id': '00452718cc1b41d5b8ebc2182f0dd2af'}}
+{'status': 'OK', 'request_id': 'TIDcda279bb57d24ba992f61e7d4502f4ad', 'confidence': 0.9178435802459717, 'historical_selfie': {'image_id': 'f9b0b5098a9d4d4c866591c95d3bba43'}, 'selfie': {'image_id': 'f06e8e1d529e446983d3f82ac8e73257'}}
+{'status': 'OK', 'request_id': 'TID5f78908abab346cfbc605c3fb6e2da0d', 'confidence': 0.7118120193481445, 'historical_selfie': {'image_id': '1dcde0e9a04d4f3d838c9d641187d7d2'}, 'selfie': {'image_id': 'e032246d9fab4943982fc0cf06f19ffe'}}
+{'status': 'OK', 'request_id': 'TID47588d6542de45508b36162cc844d689', 'confidence': 0.9291799068450928, 'historical_selfie': {'image_id': '91425159737d470695d334243638d8c0'}, 'selfie': {'image_id': '718cb61175c44077ba5f0723101f6015'}}
+{'status': 'OK', 'request_id': 'TID41cd16d0d6d1472aa4e598a2a4eea0cd', 'confidence': 0.46878212690353394, 'historical_selfie': {'image_id': 'a23ec783a0f34e48811fce7290c8c78d'}, 'selfie': {'image_id': '575b8204a3fe41829be6b38fc89d26b9'}}
+{'status': 'OK', 'request_id': 'TID98965d736bf84b40870f46e4c0bad6b9', 'confidence': 0.6688764691352844, 'historical_selfie': {'image_id': 'd60ee681ee9d43b5b8084fb2bc41ba4a'}, 'selfie': {'image_id': '8859ef17890042c4989dba59e988fd7c'}}
+{'status': 'OK', 'request_id': 'TIDb9038b95bebf41818a3b6f3b0148199a', 'confidence': 0.9330528974533081, 'historical_selfie': {'image_id': 'cc0f87f367d943c2ae35e38c8519d665'}, 'selfie': {'image_id': '81f780e5a1de432186a6bedff2928902'}}
+{'status': 'OK', 'request_id': 'TID2eeedb77409b496c94264e54b1df4d77', 'confidence': 0.9102276563644409, 'historical_selfie': {'image_id': 'ab7f19149630490383b58d85c810791e'}, 'selfie': {'image_id': '33d721b27d6f4c0bb5485e9bdd71ada2'}}
+{'status': 'OK', 'request_id': 'TIDa63270d891f24bb4b2b1aa9e464ae672', 'confidence': 0.5294825434684753, 'historical_selfie': {'image_id': '6baee74c9acf4d43929a1c03f8092faf'}, 'selfie': {'image_id': '20940138e0784c3c8d1251ea11513526'}}
+{'status': 'OK', 'request_id': 'TID25e12d1f30c145649730cfee0e5d5e4c', 'confidence': 0.6698597073554993, 'historical_selfie': {'image_id': 'cf973e861f81469f9a8c1320f5a29eef'}, 'selfie': {'image_id': 'c2d8a646e45a4e0e865dd7c6e228e842'}}
+{'status': 'OK', 'request_id': 'TID45e781f20b1441f697eb4cc89692f64b', 'confidence': 0.5716034173965454, 'historical_selfie': {'image_id': '6a6e874b7d7a46279e561351e2493c1f'}, 'selfie': {'image_id': 'd928644c81e64522a9845597751c9dea'}}
+{'status': 'OK', 'request_id': 'TID11c7a53792bf4b109fab090fbda19bc1', 'confidence': 0.6204547882080078, 'historical_selfie': {'image_id': '4fa0c2e6f0f149f995c56735ffc9b5e3'}, 'selfie': {'image_id': '751d623fd8e64d1aa7902f9277a83335'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID44ecee6413a94d059c5efe5fbda614a9', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TID3e6fbb87beb04a42b70dfc5c79a3416a', 'confidence': 0.8870401382446289, 'historical_selfie': {'image_id': '8c88807980384588973806ff7af33812'}, 'selfie': {'image_id': 'dc976ab1201f4f219a20f3a98edb0092'}}
+{'status': 'OK', 'request_id': 'TID821abd3b1d1949889f7316288887b3fe', 'confidence': 0.5431589484214783, 'historical_selfie': {'image_id': '75b7f5f08a274de48623c9fd70a1e903'}, 'selfie': {'image_id': '01bcfcd52da44a81a861c6c20770cfe6'}}
+{'status': 'OK', 'request_id': 'TID9daad630baea40efbd60ae7a887f3289', 'confidence': 0.8977084755897522, 'historical_selfie': {'image_id': 'd4472275fb984b3fa39d64e469ade6b4'}, 'selfie': {'image_id': 'e628552145ca43b1a454718a4f71ff47'}}
+{'status': 'OK', 'request_id': 'TID5046200ee3514dceb88ef93ba9a5086f', 'confidence': 0.3739219605922699, 'historical_selfie': {'image_id': '83710bfd983a4fc6ae858c3d4fbe58ae'}, 'selfie': {'image_id': 'ddfa17077e4d4d239ca7fd214fadc3a4'}}
+{'status': 'OK', 'request_id': 'TID948d5968045f4867b1a56380e404205d', 'confidence': 0.4256729483604431, 'historical_selfie': {'image_id': '753c68fde654421dbabcb9e5de76754e'}, 'selfie': {'image_id': '93f5e422fb6240f89d577008142eaa12'}}
+{'status': 'OK', 'request_id': 'TIDae3cae721b9c48e7992afa59b9b7a8ff', 'confidence': 0.86215740442276, 'historical_selfie': {'image_id': '854b630193a841cc974f533ef4ca3055'}, 'selfie': {'image_id': '0387425a448e43959511859aae27b6d5'}}
+{'status': 'OK', 'request_id': 'TID73f2922178f049618d3c4c55f77b1d49', 'confidence': 0.9262850880622864, 'historical_selfie': {'image_id': 'b3b8807824aa4f51bfd40df8422b9257'}, 'selfie': {'image_id': '162070d110ed4b96bc1f0561793cf18e'}}
+{'status': 'OK', 'request_id': 'TID2ec4234edb024a788c26b8a3e740d0ab', 'confidence': 0.6983689069747925, 'historical_selfie': {'image_id': '75a222bf8e0b4022874a5d4def8bce54'}, 'selfie': {'image_id': '8568116e9bc944818d2cd257d0e959b8'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID48ff2035f2704dbdaee091eea35b1aa6', 'image': 'selfie'}
+error
+{'status': 'OK', 'request_id': 'TID701b8b2814664cab9cd4ca2a6a4f8e8b', 'confidence': 0.3577553927898407, 'historical_selfie': {'image_id': 'fc2733090fbc416681c20a981368ac9a'}, 'selfie': {'image_id': 'e695a4f7f9b84dfb93d7b3b0fa5fd229'}}
+{'status': 'OK', 'request_id': 'TID1e25e617a73848b9b0c1d300607c480d', 'confidence': 0.7148218154907227, 'historical_selfie': {'image_id': 'ffe361a96802419e8ca162bfc8c87f25'}, 'selfie': {'image_id': '42e3e441a8654101b342f57a22bcd65c'}}
+{'status': 'OK', 'request_id': 'TID3fba3d2643a74e5e913eed65ea8896df', 'confidence': 0.9052178263664246, 'historical_selfie': {'image_id': 'b2dc38fbcc524924aeca76c67694d922'}, 'selfie': {'image_id': '8987122d10214d078777eb67222ba897'}}
+{'status': 'OK', 'request_id': 'TID9b6a87c967ad45058581ccf0e5e68227', 'confidence': 0.9001216292381287, 'historical_selfie': {'image_id': '37ae84a7a670413191d7507a0c6397d0'}, 'selfie': {'image_id': '8e63108ba3b8485983fd34ea6f11d0e6'}}
+{'status': 'OK', 'request_id': 'TIDd7397d84868e4d5a82c868384cab2da4', 'confidence': 0.36114954948425293, 'historical_selfie': {'image_id': '7f8768d0195d44acb37a815580594ae7'}, 'selfie': {'image_id': '4a273e9dad3f48db9298ff4add1319ff'}}
+{'status': 'OK', 'request_id': 'TIDb4f975ca229e46d5a6b18d640ea69212', 'confidence': 0.5313579440116882, 'historical_selfie': {'image_id': 'ff860c255c2249269d8f390a1c696a0d'}, 'selfie': {'image_id': '3161b893d4cc41e4a192a747490321eb'}}
+{'status': 'OK', 'request_id': 'TID4108ebec145c4ef0a299659953326d44', 'confidence': 0.9310042858123779, 'historical_selfie': {'image_id': 'b17fa400fd4b4eba83e887b23d3cc96e'}, 'selfie': {'image_id': '7bce7d74b84949aab6ecac8bac50ec82'}}
+{'status': 'OK', 'request_id': 'TID0a860863556047198ba57af07294b6e2', 'confidence': 0.7008680701255798, 'historical_selfie': {'image_id': 'bcf588b731ee4d3a9ffa6a85f8ff1279'}, 'selfie': {'image_id': 'e6c996ac3f1746f9b89535c482526533'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TIDabcbb62515a74d2cb558453093b30c56', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TIDb6b38c56b9cd414fb15043584368272b', 'confidence': 0.48817408084869385, 'historical_selfie': {'image_id': '7aa9613a4fda4fd3bb8fd6cd16b8160f'}, 'selfie': {'image_id': '317dbdfe184c4774a46e47e07171cbfb'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID1d335f540f2b4943846d207b21de751f', 'image': 'selfie'}
+error
+{'status': 'OK', 'request_id': 'TID299045e535ed484c84f135c448b59a4e', 'confidence': 0.9152459502220154, 'historical_selfie': {'image_id': '97db38024f824ec889b72c83a5378fdb'}, 'selfie': {'image_id': '77910085c0524be889e2becf30043c85'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID9ab41fc079334f1caf01500d6435cace', 'image': 'selfie'}
+error
+{'status': 'OK', 'request_id': 'TID35bcfcc9c71a4513a1039903bfb5dcc1', 'confidence': 0.9452481269836426, 'historical_selfie': {'image_id': '599858458b7441d69a6e84e8d31aa347'}, 'selfie': {'image_id': 'b2ccedbf84c94c82a598753088e718d8'}}
+{'status': 'OK', 'request_id': 'TIDc977eef6dea947148e86fe0fd25ea5c9', 'confidence': 0.7975482940673828, 'historical_selfie': {'image_id': '3a5e28099a9a4428af4fe1e8a76dd9bb'}, 'selfie': {'image_id': '7c8818d6f66d45c891aca1a067730efe'}}
+{'status': 'OK', 'request_id': 'TID282eeb763742410caad3dfb7c3bde301', 'confidence': 0.9245105981826782, 'historical_selfie': {'image_id': '5605e74053e445c18f475d9a6804a982'}, 'selfie': {'image_id': '687c07008b7f431687824615870979ae'}}
+{'status': 'OK', 'request_id': 'TID1ae56f27e23d4294b488f83f935e25ca', 'confidence': 0.49031832814216614, 'historical_selfie': {'image_id': 'e66cc83ac42d44218374f97945e67f8b'}, 'selfie': {'image_id': '67e773505461457886030219e6016ad6'}}
+{'status': 'OK', 'request_id': 'TIDc990d7cc92324792bafc58efee8213bb', 'confidence': 0.5716034173965454, 'historical_selfie': {'image_id': 'ffb3e7db340d45648e842b0cb955b14a'}, 'selfie': {'image_id': '53f11b26d4404fb99173a33fcedf60ef'}}
+{'status': 'OK', 'request_id': 'TID8d8b5d471e934332a535120f9de60225', 'confidence': 0.9305137395858765, 'historical_selfie': {'image_id': '47657931784d4c81a6206b7d026d6780'}, 'selfie': {'image_id': 'ef81d120483f4e8596c98ac910ccd3f0'}}
+{'status': 'OK', 'request_id': 'TID573bb361e8ab4a5b8210ec337e3a77ca', 'confidence': 0.7008680701255798, 'historical_selfie': {'image_id': '1cdf49acadd0415e971e86d19d6a5a97'}, 'selfie': {'image_id': '747f3531717a46c6bb9ffaa0f9c1dea2'}}
+{'status': 'OK', 'request_id': 'TIDc54bd30c31004b9aadbbd4af443bbb62', 'confidence': 0.9131466746330261, 'historical_selfie': {'image_id': '8553a290677b46eb9e394f9753a3744e'}, 'selfie': {'image_id': '099a706a59ca4eb1951b988385be4234'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID64c96aff89b041f980a7458e0c53bf5a', 'image': 'selfie'}
+error
+{'status': 'OK', 'request_id': 'TIDefc99324971e4414aeebe78662615473', 'confidence': 1.0, 'historical_selfie': {'image_id': '9b1b5ff495c84367b3d0df7510550e41'}, 'selfie': {'image_id': '20343f39298f40af9d18111332971867'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID8e509898e54942c1b7e73f9bd8439492', 'image': 'selfie'}
+error
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID20faf325cde448d38b9a4cf107728ce1', 'image': 'selfie'}
+error
+{'status': 'OK', 'request_id': 'TIDc3f6d580c61f41dd98f90b000a791ce2', 'confidence': 0.894131600856781, 'historical_selfie': {'image_id': 'd4f5f88301b5464fab640ab92a1538f9'}, 'selfie': {'image_id': 'a8485300773d4ec396a1916949c96547'}}
+{'status': 'OK', 'request_id': 'TID35cab04c7d52405c8856ea200133f927', 'confidence': 0.3754882514476776, 'historical_selfie': {'image_id': 'f5f7586c1728482298660c73b7cb2dcc'}, 'selfie': {'image_id': '6b143c01479547df8ba20a8d45e4c553'}}
+{'status': 'OK', 'request_id': 'TIDa03d80de400d49d5a75a26af3feafe5b', 'confidence': 0.6123088598251343, 'historical_selfie': {'image_id': 'a07ee0c6a8c349f598b31ba4f576a8d3'}, 'selfie': {'image_id': 'd5416b05276c436593dcf1d1c8926d9a'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID7fe5fe5aec5f4103af6a4200136aed71', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TID7ed1aa6adfdc46fb93d0011624d226e7', 'confidence': 0.9049403071403503, 'historical_selfie': {'image_id': 'e5094b071eb7467e9f9b51d1eebbfe7c'}, 'selfie': {'image_id': '13942b8017a8412188ad2b948a3d4ed5'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TIDb6098e6dbc754b4fad65ac220cfbea8c', 'image': 'selfie'}
+error
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID894346e134e94d5e8318c76627a85f14', 'image': 'selfie'}
+error
+{'status': 'OK', 'request_id': 'TIDa4101b07e3e64effbc03110bbf3c81b1', 'confidence': 0.6358470320701599, 'historical_selfie': {'image_id': '83b0f32525a04437abd7ce259b850753'}, 'selfie': {'image_id': '42c82b8e492448cc90d2412206f9d1b7'}}
+{'status': 'OK', 'request_id': 'TIDc1c2da5d602a41de8945aeee0a849f98', 'confidence': 0.3470068871974945, 'historical_selfie': {'image_id': '4a278aa4ae5f4a51b576267fc0cb6e9c'}, 'selfie': {'image_id': 'd3424beeebdc4be1948c6d846daac91b'}}
+{'status': 'OK', 'request_id': 'TID9d05defd4d124074beccb8b70f3c3d3a', 'confidence': 0.3968401551246643, 'historical_selfie': {'image_id': 'b9e5c9e83811452ab9eba55b19fb3678'}, 'selfie': {'image_id': 'de0b52a64566489db7db3be16c6ff9bf'}}
+{'status': 'OK', 'request_id': 'TIDe2ccf2fe354d469ca07e4d742be50c98', 'confidence': 0.49031832814216614, 'historical_selfie': {'image_id': 'abd41f925297494ba88e7b795e924710'}, 'selfie': {'image_id': 'da48a49967404c61922c066399eaa07b'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TIDe6e0fa67b3614fd886bb1208c9171815', 'image': 'selfie'}
+error
+{'status': 'OK', 'request_id': 'TID5ef17f77138d4cb6b797a80a6e4e1796', 'confidence': 0.48809242248535156, 'historical_selfie': {'image_id': '9c1e9a038d044c21bf8cb5952c40c412'}, 'selfie': {'image_id': 'ce5f99a1fe1d43b8831329d2872741b0'}}
+{'status': 'OK', 'request_id': 'TID3e62ca0d752946b2b32982e883178af3', 'confidence': 0.7128473520278931, 'historical_selfie': {'image_id': '731e8f1377fe4b2399c506fe7fe188c0'}, 'selfie': {'image_id': '7add3dc9d93b464fa24617a3af537f35'}}
+{'status': 'OK', 'request_id': 'TID1c2d052271314d70935a084bd0188617', 'confidence': 1.0, 'historical_selfie': {'image_id': '0e04ba578a2d4aa4b6c4336fe7236744'}, 'selfie': {'image_id': '54c082bdec4e41ae90fb27315e3ba9dc'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID555fa279b2e547ff99303e9d73c11f31', 'image': 'selfie'}
+error
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID7b74263250c4476f8adfdf5fd3b9b638', 'image': 'selfie'}
+error
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TIDde12008590c7451d8c305fa98169a326', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TIDb6a3639c76064f15a66cdad7b3a92f87', 'confidence': 0.58305823802948, 'historical_selfie': {'image_id': 'd894c733373f4ad6b78e73d5cb99b9cb'}, 'selfie': {'image_id': '9c1ca44d481c4c4d80144f207565ad8d'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TIDcaeec70d76064cf895951bcb504a00f9', 'image': 'selfie'}
+error
+{'status': 'OK', 'request_id': 'TID3ed46d2b2b4e45808d79c40733ba585f', 'confidence': 0.7440677285194397, 'historical_selfie': {'image_id': 'bfcae076d35b4a229f69ed3edd2f478d'}, 'selfie': {'image_id': '214f40ec56dc4bdcb2e2fee327763bb9'}}
+{'status': 'OK', 'request_id': 'TID003ba2c05645418e99f63a62b54b46bd', 'confidence': 0.5936278700828552, 'historical_selfie': {'image_id': 'a59839db5e6a4d5eae24fcfe73008dc8'}, 'selfie': {'image_id': '279aae3ab8c748e0a31109dee74f03e0'}}
+{'status': 'OK', 'request_id': 'TID578dd5f705d347e58b45cb34938fa315', 'confidence': 0.894131600856781, 'historical_selfie': {'image_id': '2c4907628afe45d9a5ce43f019ecb649'}, 'selfie': {'image_id': 'd5543f84587848a984473ecd03dc488f'}}
+{'status': 'OK', 'request_id': 'TIDca83b64126884f6d838440023172fc6b', 'confidence': 0.6010358929634094, 'historical_selfie': {'image_id': '453fff58fa424717a84aec3ff2a78e89'}, 'selfie': {'image_id': '1c9aad09d52a41428868523f02d09673'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID6d138c61ab0c40acbfdc99a04ba44905', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TID0f1006c50c584a82998ef1afa388c0b6', 'confidence': 0.816713809967041, 'historical_selfie': {'image_id': '30c10da4a83b4373b028be69ad38ec56'}, 'selfie': {'image_id': '0792d23f25d1436d805dc52756964e8d'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TIDbb6ca41b424847f68c96d2f56caf7967', 'image': 'historical_selfie'}
+error
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID04d6b833a7a14c3d87ac026ed8a65c58', 'image': 'selfie'}
+error
+{'status': 'OK', 'request_id': 'TID96f9203b906f4855b8db0476c2706f57', 'confidence': 0.7977892756462097, 'historical_selfie': {'image_id': '13b56a07c24b475985a04bed145f1537'}, 'selfie': {'image_id': 'b79cc838c36a4aaca406afb4f5cc3e8f'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID148d955007744d31ab4954ca69a55618', 'image': 'historical_selfie'}
+error
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID002a610fc9a945c3a06dd35c29435deb', 'image': 'selfie'}
+error
+{'status': 'OK', 'request_id': 'TID7d93ab0ee3b041ef94f6420cb4b391e6', 'confidence': 0.8949739933013916, 'historical_selfie': {'image_id': '9afea5ac282c4795ab9d34992cc4dd2c'}, 'selfie': {'image_id': '34d3d964a8604ddfb7acfc417a2ab9e4'}}
+{'status': 'OK', 'request_id': 'TID4e90e7af5e6a42cc8dc79aa74675462c', 'confidence': 0.8898952007293701, 'historical_selfie': {'image_id': 'ff3d2bd807f046f49131ee57495aa4df'}, 'selfie': {'image_id': '1b06e5db9e774d2bb5897c303cea90de'}}
+{'status': 'OK', 'request_id': 'TID37b06306f1434613bf2e5050361c34c0', 'confidence': 0.49387243390083313, 'historical_selfie': {'image_id': 'a065cde840f6440a913cc3b062443b32'}, 'selfie': {'image_id': 'd573eb89a6364c3aa29ab66d1b1a77df'}}
+{'status': 'OK', 'request_id': 'TID91c0c937861e41aeaccf792ec4d0911f', 'confidence': 0.9171965718269348, 'historical_selfie': {'image_id': 'b43b8dcacbcd41a7ac6e8b4bc4436bbe'}, 'selfie': {'image_id': '5faee45a99a24c9baf8add757f120a13'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TIDbf007aebf2fd4605aaeba38bb51774af', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TIDf4cefe1b29f045adbd194446a60f8e66', 'confidence': 0.894131600856781, 'historical_selfie': {'image_id': 'c16f69fdbd76413c805294912046f667'}, 'selfie': {'image_id': '8b4c10e1d7e04751ab0b7dc95b0a7630'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TIDca655e6f2de942bd88e2fed99631cc65', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TIDf2c479225abe4983a13b13341eac3651', 'confidence': 0.5888358950614929, 'historical_selfie': {'image_id': 'e4e1927a9f694540a06db820bbff7c51'}, 'selfie': {'image_id': 'f340ee0f7183408c8e2ff092ed640599'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID5775e684eae747edbd10d1c12fd04cd5', 'image': 'selfie'}
+error
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID5d2e73af273d4fecb4afbd9a867e7f10', 'image': 'selfie'}
+error
+{'status': 'OK', 'request_id': 'TIDd5d704f858454cdf8467e3e46f929cce', 'confidence': 0.3739219605922699, 'historical_selfie': {'image_id': 'b53385a09558429c964f3b5d7c6cacc4'}, 'selfie': {'image_id': '7473d12d05cd447caafe7199194d0878'}}
+{'status': 'OK', 'request_id': 'TID32100fa1f81d4b1caee6d53fff9e5e4a', 'confidence': 0.6852988600730896, 'historical_selfie': {'image_id': 'b0eb23fa99d44ee1a08c1f5f9f052744'}, 'selfie': {'image_id': '8d20afd79b4c486192cf9ef2a1d5b298'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TIDd6ff36789a8745ccb638f6593c21a908', 'image': 'selfie'}
+error
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID46ab9d4ced0b4524a6d9d578a4b62284', 'image': 'selfie'}
+error
+{'status': 'OK', 'request_id': 'TIDe17d54e74269470284a687a3909567e5', 'confidence': 0.3257179260253906, 'historical_selfie': {'image_id': 'a2c5aba28feb45f2ba44c7e1ab8d034a'}, 'selfie': {'image_id': '4bfaaccaf0ad4af3aa05fece3f558fca'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID99851e1520124f9f928483b458480de0', 'image': 'historical_selfie'}
+error
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID307c11feb5ef4ba0a5d26194d60041e1', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TID8bfc88d935fe4d7f8ba6c3337be00dc7', 'confidence': 0.4738166332244873, 'historical_selfie': {'image_id': 'd95594be288a425a8aa1eeba1cc9b7bf'}, 'selfie': {'image_id': '000c3339137a4e0bacc247d878275b55'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID6a65d4b0f4cb4e4d8a61cd5025f66c18', 'image': 'historical_selfie'}
+error
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID73658055ddfb4e1caf55c8b8b3b8e777', 'image': 'selfie'}
+error
+{'status': 'OK', 'request_id': 'TIDda1331d4bd8e4d65a88ea551a5f9d316', 'confidence': 0.7391775846481323, 'historical_selfie': {'image_id': '1731956898f547c482b66b3638d3b488'}, 'selfie': {'image_id': 'd18d2637413b4ccbb1cd530045bccb9d'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID3e4e2b15a1994b64a6ac72054ed8b7ff', 'image': 'selfie'}
+error
+{'status': 'OK', 'request_id': 'TIDd683fb22da9c40428a1f10674de3d6da', 'confidence': 0.3960830867290497, 'historical_selfie': {'image_id': '0f611fdcfa0d4101a025b889fa69b827'}, 'selfie': {'image_id': 'bb0a74e85c6d41e288e83178a145faab'}}
+{'status': 'OK', 'request_id': 'TID1bee0d224cd3461caca2a6a8f3966df4', 'confidence': 0.7614288926124573, 'historical_selfie': {'image_id': '8bb6e5fca47b4c9bb85632dcf10fa4eb'}, 'selfie': {'image_id': 'bcb5744cf9d8453c8703b6f540de841e'}}
+{'status': 'OK', 'request_id': 'TIDfadd7af31bad48dfa530acadf327c07d', 'confidence': 0.9126535058021545, 'historical_selfie': {'image_id': '7bf41428b47f451baf9317796ac5bb57'}, 'selfie': {'image_id': '33991d939c7947c7a4857addc0e99f3c'}}
+{'status': 'OK', 'request_id': 'TID635d50c3dbb642fdad328707c60bab47', 'confidence': 0.9024543166160583, 'historical_selfie': {'image_id': 'ca1e20ae367546169ea4cddc85aa3996'}, 'selfie': {'image_id': '2537b28e579a4847b592a8a366797775'}}
+{'status': 'OK', 'request_id': 'TIDa61776446b80435b9a1917f1e480714c', 'confidence': 0.9179555773735046, 'historical_selfie': {'image_id': '5fd834e913674852b2fd2febff0b0971'}, 'selfie': {'image_id': 'bbc1367a7ea440f9bb70158d9bf6bca1'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID780365b00d944910a186e9f8686d407c', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TIDac0c713ddcc64f1687219d1971d34245', 'confidence': 0.9213443398475647, 'historical_selfie': {'image_id': '3425d09d2c574a0d8f6bfdf74dab054b'}, 'selfie': {'image_id': '0a868a8310f54064a22cca0e72778403'}}
+{'status': 'OK', 'request_id': 'TIDd274f5d9ae8c41f9a8df0b996c60c59a', 'confidence': 0.9069656133651733, 'historical_selfie': {'image_id': 'bef73f0dad3a436c94380387aae73037'}, 'selfie': {'image_id': 'cbbb282bfc264e92832ae6d881b0dc83'}}
+{'status': 'OK', 'request_id': 'TIDa686c102fb8d492197a8d6e05f44fd4a', 'confidence': 0.36689987778663635, 'historical_selfie': {'image_id': '79eb9a840264423a9917ada0812d0add'}, 'selfie': {'image_id': 'b3f87a366cf4450192d227a2da30aa03'}}
+{'status': 'OK', 'request_id': 'TIDb3b5d4bd52c74e17906c789654a0fad1', 'confidence': 0.484056681394577, 'historical_selfie': {'image_id': '55d8ccd1d08748bebe0058dab8420c4e'}, 'selfie': {'image_id': '617c63c19fda4a6cb379eef5094e43a3'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID4e6907654d8541febd387465ba6a4430', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TID8ce5a8aff38c40b085eca50b38809b64', 'confidence': 0.7372718453407288, 'historical_selfie': {'image_id': '426747bda62e4b90af3738166b082278'}, 'selfie': {'image_id': 'c9c8dc61d6e448b999c7fcd7d71cc9a0'}}
+{'status': 'OK', 'request_id': 'TID20be069a8b48422da07cca289779f80b', 'confidence': 0.903327465057373, 'historical_selfie': {'image_id': 'ac746373e8d84d81b794eae018de8aba'}, 'selfie': {'image_id': 'eb1da340dac8478881a2aa4c3484d5c4'}}
+{'status': 'OK', 'request_id': 'TIDa01b48fc7fe14a158925a066564df10b', 'confidence': 0.4595319628715515, 'historical_selfie': {'image_id': 'cbb62e89219e49c095b2154be6778957'}, 'selfie': {'image_id': '2f4db534d89d43a6ae115963794fa269'}}
+{'status': 'OK', 'request_id': 'TIDc06e45485d14483cb8547e5fa3fd5117', 'confidence': 0.8590964674949646, 'historical_selfie': {'image_id': 'bb73ca87824548e89fc4eda366aaa725'}, 'selfie': {'image_id': 'b66ae8859d5a416d98d890aa926d032b'}}
+{'status': 'OK', 'request_id': 'TID752b2e14312c41cf9b697b56b66649f0', 'confidence': 0.39815962314605713, 'historical_selfie': {'image_id': '090b6786c74146ef8058c30f2c10c18e'}, 'selfie': {'image_id': '97b1462421c44c1ea60dd733d6c6a09e'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TIDb6e6105fb4cd40baab2b896cbdedb89f', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TID5b2e79b28e6f471c9f632b1c534d7712', 'confidence': 0.5259793996810913, 'historical_selfie': {'image_id': '50216e426fc54ce0ac483aa0e220b6ea'}, 'selfie': {'image_id': 'f9471148acae420a9472b30b8c742811'}}
+{'status': 'OK', 'request_id': 'TID81cc3399d67b49519494e6461db483b3', 'confidence': 0.885581374168396, 'historical_selfie': {'image_id': 'b838ad94d96d49c084b63dcc35672acd'}, 'selfie': {'image_id': '79133c89c4de4726af5bb1581060b34e'}}
+{'status': 'OK', 'request_id': 'TID552f5f5d75ef4ff7a0ad648f93caed9b', 'confidence': 0.9074019193649292, 'historical_selfie': {'image_id': 'ae3f0fbfe359484f93a09ebc9b6675c3'}, 'selfie': {'image_id': 'e8febe670bab4e3e840456c95c1fb88e'}}
+{'status': 'OK', 'request_id': 'TID04c7ed6453364959a7befc0bb87cdbb6', 'confidence': 0.8141965866088867, 'historical_selfie': {'image_id': '864ffb4b12444cdcbdcb613a20b9937e'}, 'selfie': {'image_id': '324be6f7ac914cbbb6a733c3418f48e4'}}
+{'status': 'OK', 'request_id': 'TID8ba4ad7083204662a10ece22da98a7d3', 'confidence': 0.5645533800125122, 'historical_selfie': {'image_id': '94d4777ddb59418fbced11182ad57132'}, 'selfie': {'image_id': '71e4141f72d541d0b00f862b6f27b180'}}
+{'status': 'OK', 'request_id': 'TID5fcee670e3bb4230a89a836621d5c55e', 'confidence': 0.38428881764411926, 'historical_selfie': {'image_id': 'dcc9b8ac7cac44409f307c17e1c478cf'}, 'selfie': {'image_id': 'd6985463d3134f6a854178e753d7ea71'}}
+{'status': 'OK', 'request_id': 'TIDb3de5a6a428f412e9d9901875b514bc7', 'confidence': 0.39318713545799255, 'historical_selfie': {'image_id': '5f232c219f4641f0b6298dc8c5682e06'}, 'selfie': {'image_id': '74fbac6a94ed47c590f44b17c3b73fdf'}}
+{'status': 'OK', 'request_id': 'TID821cf8da513e45018f4351127bc6ac9c', 'confidence': 0.7711521983146667, 'historical_selfie': {'image_id': 'c016711734394894a6e57b29f8d13853'}, 'selfie': {'image_id': '9627beaccd3e4fc0a13f31afcf86f493'}}
+{'status': 'OK', 'request_id': 'TIDc54c2d43440a40e4b369608e8f6fe476', 'confidence': 0.4025440514087677, 'historical_selfie': {'image_id': 'de0509d7f45643ceb65defb071f1969f'}, 'selfie': {'image_id': '56b970ecf9a9401b82ff64deaff2d003'}}
+{'status': 'OK', 'request_id': 'TIDab7272fa1b354844ba304c74cd38f46e', 'confidence': 0.6155752539634705, 'historical_selfie': {'image_id': '0f1faf6139c446c3968d47113c3d91f4'}, 'selfie': {'image_id': 'e399b51443bc4e12adb4218b7c5b60be'}}
+{'status': 'OK', 'request_id': 'TID1fc56c3a601a405c81c376ed49348bfb', 'confidence': 0.614676296710968, 'historical_selfie': {'image_id': '1a31a6cbaf7e4fffb68dc90f781f1776'}, 'selfie': {'image_id': '2c5cab4fdf5040deb173daa148d98eae'}}
+{'status': 'OK', 'request_id': 'TIDd16fd33835ac4999a623b74727eda0ec', 'confidence': 0.821932315826416, 'historical_selfie': {'image_id': '6f154819dbaa47638e51b8110e098c9c'}, 'selfie': {'image_id': '8b1b89beb33c4357821df6d0a68082cf'}}
+{'status': 'OK', 'request_id': 'TIDd29e7c9763a748a6b76a5f2ebd044b48', 'confidence': 0.5676866769790649, 'historical_selfie': {'image_id': '6feac558bd544b0499fdbb6d311d7955'}, 'selfie': {'image_id': '1dae4961b5804deea8f823ef832efec4'}}
+{'status': 'OK', 'request_id': 'TID60ca5657cb6e49d990256ecab407f33a', 'confidence': 0.9005855917930603, 'historical_selfie': {'image_id': '6357e78bb1f945ca8df26ce7c3ff3e71'}, 'selfie': {'image_id': '9b13568f155647528d1b2c5bf491d85b'}}
+{'status': 'OK', 'request_id': 'TID90016ebf341b4f5ca276f3976bab61f0', 'confidence': 0.43767794966697693, 'historical_selfie': {'image_id': 'b247d1f2a8844a5fa8b21f05413c7ef1'}, 'selfie': {'image_id': '91d20c5ef3e74b35972575b822767328'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TIDd7bba31a099d4049825ae36c421c28f8', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TIDa89e53c7ecb047ffb57a0be3ea28bf23', 'confidence': 0.9070385694503784, 'historical_selfie': {'image_id': '2473dab568d84c51acabaaa93f8bee0b'}, 'selfie': {'image_id': '51869921bc1444c1bcd112a97f91d918'}}
+{'status': 'OK', 'request_id': 'TID29b867fcbf2246778fdda923bee8cc80', 'confidence': 0.7604650259017944, 'historical_selfie': {'image_id': 'b1d2c108b9654156bef55966c4394180'}, 'selfie': {'image_id': '7e13dea5af0d4f8f86c34f7a73d2c5a2'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TIDcc6d9c4ed951458a9bde653e44c4ba04', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TID77163c2a17cc4ed59ce09d9113113385', 'confidence': 0.7687745094299316, 'historical_selfie': {'image_id': 'f1908f3d01334c68a64ef24c9ba9398b'}, 'selfie': {'image_id': '668cfa8dc00342b7b3aed36c0f25047a'}}
+{'status': 'OK', 'request_id': 'TID24768ddef58e4871bc888e951002118f', 'confidence': 0.39066606760025024, 'historical_selfie': {'image_id': '94f410c7869547beb8a9e7eedf068340'}, 'selfie': {'image_id': '9cf4950c6dc34d02af38b2f7ef7608e4'}}
+{'status': 'OK', 'request_id': 'TIDc9984e2d96384bc48f4e435f29580d13', 'confidence': 0.3790748417377472, 'historical_selfie': {'image_id': '684e8b95599f4a6f90849fe238670e3d'}, 'selfie': {'image_id': 'de15f425860f460a9d276bffeed3d3c1'}}
+{'status': 'OK', 'request_id': 'TIDf5be53d1cb9342ffbb14c75f15dc03bd', 'confidence': 0.40584951639175415, 'historical_selfie': {'image_id': '169cf3bf78064458bc8ace829c0daec7'}, 'selfie': {'image_id': '3ff936689c2244d1be1f9e52c5bd9909'}}
+{'status': 'OK', 'request_id': 'TIDb02a8fa0738b48609cf0bc164e768a77', 'confidence': 0.9193747639656067, 'historical_selfie': {'image_id': '7393bc40043841568fd6bb135acca074'}, 'selfie': {'image_id': 'b62db1f4b4a0491482885654987a1a1f'}}
+{'status': 'OK', 'request_id': 'TID09a278cbd64847e386a6666e7a15cae0', 'confidence': 0.3953360915184021, 'historical_selfie': {'image_id': '255f548f112a40ad9c0d030eeb734109'}, 'selfie': {'image_id': '63dbd44eb9b9439e9d9650e4242abe6b'}}
+{'status': 'OK', 'request_id': 'TID051e159769da432d80d794fcfc6be3d0', 'confidence': 0.4644152522087097, 'historical_selfie': {'image_id': '5d203cd2573f4535bbb1a7580582120c'}, 'selfie': {'image_id': '215eb030105f4bc898991f651ef21587'}}
+{'status': 'OK', 'request_id': 'TID369d3b92f85f4f13aea2eb6c15407106', 'confidence': 0.9186639189720154, 'historical_selfie': {'image_id': 'aba148ff02a449a2b607260370a8908f'}, 'selfie': {'image_id': '0d50e1c629ec499d98eeb7ab3f019182'}}
+{'status': 'OK', 'request_id': 'TIDcb11948c60e54e1885593f51fe15b34d', 'confidence': 0.6834474205970764, 'historical_selfie': {'image_id': '721a7ce9098e4ab0a3e392b8bbf9aa46'}, 'selfie': {'image_id': 'ab38500cbae24e3ca96f39d6f8ae9a6c'}}
+{'status': 'OK', 'request_id': 'TID120e01d8b3e3417987a43e1d0b1269e5', 'confidence': 0.4958798289299011, 'historical_selfie': {'image_id': 'fd20c7573c7a48fb81c5daa7a204ed8c'}, 'selfie': {'image_id': '611432affca5466f945016e3c83484ba'}}
+{'status': 'OK', 'request_id': 'TID9e7fb8c7916d492990cdd976e6ce9196', 'confidence': 0.6232621073722839, 'historical_selfie': {'image_id': '4b59ff5660804616a455c00b1c66d74d'}, 'selfie': {'image_id': '01189982c18b46829d0ec3935ceab7d2'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TIDd4297d4008494b748f2966ee3313b2cc', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TIDc1692eedbb6b4f82aabfeac930900763', 'confidence': 0.8509888648986816, 'historical_selfie': {'image_id': '5837fdd32160465b8af76dc9b571edfb'}, 'selfie': {'image_id': '69a7b46068c94d9aa73aaa2b59bd2a39'}}
+{'status': 'OK', 'request_id': 'TID892e21d577bd41d6bdf25602dd40217b', 'confidence': 0.39688050746917725, 'historical_selfie': {'image_id': '01bd24bac6ff4661a631f18271c2f327'}, 'selfie': {'image_id': '23d3ee97d10c4cfea73936098969e1ee'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TIDfe760c6e803a4fd1bec721e3899db890', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TIDea1ace5f68244180ab4e43b9bbaa7c0c', 'confidence': 0.9038598537445068, 'historical_selfie': {'image_id': '4741a7681a014f6aa35b7209e7d370d8'}, 'selfie': {'image_id': '3892335212064a77a8f80577f6dc2ebf'}}
+{'status': 'OK', 'request_id': 'TIDceead840e88f4134ac2795db0c9b29a1', 'confidence': 0.5819628238677979, 'historical_selfie': {'image_id': '154641b04ce74df8a2f96427320d7b6a'}, 'selfie': {'image_id': '7b5dbf2b7d324714bbe6705b22b5b038'}}
+{'status': 'OK', 'request_id': 'TID38ef28b33dc44dfbbf02bfac08d9ddd9', 'confidence': 0.9145731329917908, 'historical_selfie': {'image_id': '92dc2abb8df541d8a19d7e9185a687fb'}, 'selfie': {'image_id': 'e9c1fd447bf94288a103be80f817b312'}}
+{'status': 'OK', 'request_id': 'TID55a58b0b4e1841d586b59007d03cb4a1', 'confidence': 0.8054766058921814, 'historical_selfie': {'image_id': 'a87eecb7e64c42779d980ec1cefac50b'}, 'selfie': {'image_id': '5d82a1cec89f48fab5da83c9ed8a555d'}}
+{'status': 'OK', 'request_id': 'TID057db39e3bdb4321bc6b9dd249aabf35', 'confidence': 0.7477219104766846, 'historical_selfie': {'image_id': '665a807e48794e13a4adb636c45926bb'}, 'selfie': {'image_id': '12afe7cdee404f8ebb598a77bd7ad640'}}
+{'status': 'OK', 'request_id': 'TID07cee763173d4624bb111ece46d7fb26', 'confidence': 0.9025559425354004, 'historical_selfie': {'image_id': 'ccccf9bfe79546f2a8ede465241d3640'}, 'selfie': {'image_id': '673da987d91a463281525f74c282813c'}}
+{'status': 'OK', 'request_id': 'TID5104a8ee2f5a4adda0a6bf488370cc30', 'confidence': 0.9041706919670105, 'historical_selfie': {'image_id': '0b3bcb93af7b4912a73add56c3c85919'}, 'selfie': {'image_id': 'a5365f48f97c419aa6bb44aa77f87231'}}
+{'status': 'OK', 'request_id': 'TID332152e5151e4a64ba60a9a77ba8b7da', 'confidence': 0.6898275017738342, 'historical_selfie': {'image_id': 'd359c188d4814d169236f9587f73f440'}, 'selfie': {'image_id': '1fa974e3c3384477842dd8bae5bf2302'}}
+{'status': 'OK', 'request_id': 'TID40ec0201dee243d68509d484a4c2166b', 'confidence': 0.9286608695983887, 'historical_selfie': {'image_id': 'b9d83a9b5d2f44d390f3e3fc5ba721cc'}, 'selfie': {'image_id': '993a52e9b0e84fd1a920c82e88682b98'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TIDdbea04a502ce4a1895b55b5ecf0065b8', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TIDdb3e9f7528414d4085dd94868b7aaf37', 'confidence': 0.776191771030426, 'historical_selfie': {'image_id': 'e94d0d67250f4d3ea5031dcd741c852d'}, 'selfie': {'image_id': 'de9316e8bba64198b3e11eca6773dcd9'}}
+{'status': 'OK', 'request_id': 'TIDd83e4ce483344f37ad8d51f42b2efa68', 'confidence': 0.37862351536750793, 'historical_selfie': {'image_id': 'e3c57290f72d4b079dc2e96f02bb5685'}, 'selfie': {'image_id': '55566f5f0b0b4ea8ac8bc300ba69f958'}}
+{'status': 'OK', 'request_id': 'TIDd95eca29ae8946ff90a67777b9af4fc1', 'confidence': 0.9119912385940552, 'historical_selfie': {'image_id': '2ae8a639f5764dcdaaa808afef904caf'}, 'selfie': {'image_id': '3d798c04a0864897b01e2257cd6f566a'}}
+{'status': 'OK', 'request_id': 'TID4e9134cb5c594182ba91780c6b088435', 'confidence': 0.433396577835083, 'historical_selfie': {'image_id': 'b707779b75b94fd78d22ba97da08df5a'}, 'selfie': {'image_id': '9e0fb07606c841beb848889eae62b5ff'}}
+{'status': 'OK', 'request_id': 'TID452c091e45764ad9876bb663c9e2a660', 'confidence': 0.9184818863868713, 'historical_selfie': {'image_id': 'e08deb2e27a54c90902e6cf11568a5bf'}, 'selfie': {'image_id': '7e4637a002574a419dfb1e01f4fc3e9d'}}
+{'status': 'OK', 'request_id': 'TID27c8e164b03a4268a56020c058b7693a', 'confidence': 0.4325892925262451, 'historical_selfie': {'image_id': '78f1e1ce79044a4f80166a7c516ba9fe'}, 'selfie': {'image_id': '4f0f8bdca5b64c2386e7e1740e0a9e92'}}
+{'status': 'OK', 'request_id': 'TID647914c7a05641f9806280f400669cc8', 'confidence': 0.8923155069351196, 'historical_selfie': {'image_id': '384b9e96172e4e2495d66c34facea5cf'}, 'selfie': {'image_id': 'fd92499b234e4bc09e9cbc27fb7059e4'}}
+{'status': 'OK', 'request_id': 'TIDa83a19fdd96a47b5bbc653f918f1c50f', 'confidence': 0.41759923100471497, 'historical_selfie': {'image_id': '9de0f91964d1423d846e9ae7f84a9c5d'}, 'selfie': {'image_id': '5f4ecbdd65c54cfa8ea4601a5e128ad3'}}
+{'status': 'OK', 'request_id': 'TID120e44c53cdc49c6b0cb263fd33c3e49', 'confidence': 0.39283549785614014, 'historical_selfie': {'image_id': 'dd9c2206c7044d579b2d453da3d05424'}, 'selfie': {'image_id': 'ddf2568a445b464e86477a1dcae88ef7'}}
+{'status': 'OK', 'request_id': 'TIDdcd4a0dc5c5e4358ad18fa38ec9a4c8b', 'confidence': 0.39191240072250366, 'historical_selfie': {'image_id': '4873dd14c3684649bb15a30e6f7b93b0'}, 'selfie': {'image_id': 'dfbc99c615384c3d9e09d1a81fe527c2'}}
+{'status': 'OK', 'request_id': 'TIDcf785c891ea24c66b3429090a856e61f', 'confidence': 0.5824238657951355, 'historical_selfie': {'image_id': '4a1fcf70622c47d3968444d72885209b'}, 'selfie': {'image_id': '3fdf2450c52c483db39dfdaa4678e5d9'}}
+{'status': 'OK', 'request_id': 'TID1493d3dd67ef4d9d8decfe6f5e8a86e8', 'confidence': 0.9192906022071838, 'historical_selfie': {'image_id': '7400c26a7cbe4b519a07f66a20b12a2a'}, 'selfie': {'image_id': 'c66bfe6883f64ebd8eb3b47f8583c180'}}
+{'status': 'OK', 'request_id': 'TIDc5b65f6fd3694b2a8431c2bcb454d190', 'confidence': 0.9374704360961914, 'historical_selfie': {'image_id': '78e13163c3904ae884f3e503ab7e5085'}, 'selfie': {'image_id': '5f6a4135ce9d47deb914ef6e2431626c'}}
+{'status': 'OK', 'request_id': 'TID7722cd4c3107489da6b956666858c361', 'confidence': 0.6898275017738342, 'historical_selfie': {'image_id': '68ddf4555e8d4ca08e04b48853d14aa4'}, 'selfie': {'image_id': '25319b325f0a414988d8c78cf7a6e9aa'}}
+{'status': 'OK', 'request_id': 'TID4e03acb038b24b839831314226c464e2', 'confidence': 0.901086688041687, 'historical_selfie': {'image_id': '5f2e1de455d54d2fa866e69872a14aa3'}, 'selfie': {'image_id': '70c959a5f0e24d9a945cb531d79049eb'}}
+{'status': 'OK', 'request_id': 'TID9eeb3f4784c145a6b01a76414c99402a', 'confidence': 0.9370098114013672, 'historical_selfie': {'image_id': '7729dc6d91d04e6a82a627ccd09d6169'}, 'selfie': {'image_id': 'c075c73865b546639d92fbe99fd49eef'}}
+{'status': 'OK', 'request_id': 'TID2c000d5a804c4c53830895238d539052', 'confidence': 0.5676866769790649, 'historical_selfie': {'image_id': 'b37420de901743469194d7b8347d81c1'}, 'selfie': {'image_id': 'de5f9704fc734232b1fb677c0856cbe1'}}
+{'status': 'OK', 'request_id': 'TIDa773dafd6b8745d9b69a3e3de85bac8b', 'confidence': 0.3207337558269501, 'historical_selfie': {'image_id': '2ac84e8a987b40c0aaa62bd6cc527adf'}, 'selfie': {'image_id': '6b33b50a39b5426f8c66bfe819a8fdb3'}}
+{'status': 'OK', 'request_id': 'TID76031a411c2146a9a61537fa54c45659', 'confidence': 0.3651807904243469, 'historical_selfie': {'image_id': '35a169d9f18d4b72a3ea6b00c2a78c79'}, 'selfie': {'image_id': 'd0935793b4b14ed0a75c5044eda999f3'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID721b0f62fafe4dafbf6f2cf8b7bbdf7f', 'image': 'historical_selfie'}
+error
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID873a299d5e234c64aa687757827cfefd', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TID9652caa33cda41abbcd8c68ca9da6dec', 'confidence': 0.7239177823066711, 'historical_selfie': {'image_id': 'f5515987a7ea4af1a8ec0de07991eb93'}, 'selfie': {'image_id': '8279f0ad028e4b91899df02cb1404adf'}}
+{'status': 'OK', 'request_id': 'TID59301a802f5a40678e6eeb247dbb638c', 'confidence': 0.9378936886787415, 'historical_selfie': {'image_id': 'c68b6aa76577485ea0ac1df356ae1f97'}, 'selfie': {'image_id': '863d70e644ce49a380a4c33adeb63942'}}
+{'status': 'OK', 'request_id': 'TID91dc4dfc606144dda98fb17fba56a02c', 'confidence': 0.5046089887619019, 'historical_selfie': {'image_id': 'b04482b0a7314580a9666774c0a13301'}, 'selfie': {'image_id': '48d8de6e444b49e9a5f48c53df69a312'}}
+{'status': 'OK', 'request_id': 'TID29e142a7749f4a73902ef0869309b9af', 'confidence': 0.9210910201072693, 'historical_selfie': {'image_id': '958ebfd49fe4412e8575d06ac1697ab7'}, 'selfie': {'image_id': '8a95fc520fd349cbbe6ec453c7cd0a53'}}
+{'status': 'OK', 'request_id': 'TIDa0ac164a0c1842f8b6f2c28e07e6c03c', 'confidence': 0.9212960004806519, 'historical_selfie': {'image_id': '52a2ae0ee03d44a7b1d637f62e578f85'}, 'selfie': {'image_id': '00a3a37da2f2410796852377590f938b'}}
+{'status': 'OK', 'request_id': 'TIDbdaf9ef510af438fb3639f969a9adb89', 'confidence': 0.9049521684646606, 'historical_selfie': {'image_id': '865f495d7b084b0dbb014d731d5c22c0'}, 'selfie': {'image_id': '03631b4cef5643218d5a9cc05ec99ef3'}}
+{'status': 'OK', 'request_id': 'TID4fe83ed36fd2400ab2bce1611bec527e', 'confidence': 0.8430789709091187, 'historical_selfie': {'image_id': '43f6a3d4359549ceab4eaeaee1f05dc1'}, 'selfie': {'image_id': '87e5ef0491de4350a5a40cff58dc2339'}}
+{'status': 'OK', 'request_id': 'TIDb5c5ba0e7b9a4e1cae82aa108d047211', 'confidence': 0.514816403388977, 'historical_selfie': {'image_id': '3cc6f76866a74c9793fe7c45c1aa8269'}, 'selfie': {'image_id': '7ec6d3dd1d524c04b4554543dc36c8af'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TIDf2ef99cabfca4c0783deb360b99820c7', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TIDa0271941a53944ab8a54526d65bd13f9', 'confidence': 0.6158408522605896, 'historical_selfie': {'image_id': 'b0c03a383aca4a56b34886649a1233da'}, 'selfie': {'image_id': '1cbe909fde6144b99c5ce487318e17b6'}}
+{'status': 'OK', 'request_id': 'TID588771935c5c433e81c9b2e241bb8e19', 'confidence': 0.7349275350570679, 'historical_selfie': {'image_id': 'e92a9e38b06740e3be086b16e2932927'}, 'selfie': {'image_id': '53b6e2ae084c46dc9976e5001b48222d'}}
+{'status': 'OK', 'request_id': 'TIDae642d5c8e254eeebc5071e004804c15', 'confidence': 0.48638540506362915, 'historical_selfie': {'image_id': '12cab80aea8d4bdb906532c0ee48a2eb'}, 'selfie': {'image_id': '44faa5702c524406a44b1393d91f2fe3'}}
+{'status': 'OK', 'request_id': 'TID7028002e1f454bcd97570e1f839906c8', 'confidence': 0.8272343873977661, 'historical_selfie': {'image_id': '1ed136dd21794005b534d6020cd71740'}, 'selfie': {'image_id': '0d5807ab32bd4cd2a1423952bad09e6c'}}
+{'status': 'OK', 'request_id': 'TIDb94d85deca06475589936dd2736ef458', 'confidence': 0.7649101614952087, 'historical_selfie': {'image_id': '92c46c07e454475ea6f64c13c6d090a2'}, 'selfie': {'image_id': '167417a0218f475ca87a4ce991d4a1b7'}}
+{'status': 'OK', 'request_id': 'TIDbfa6fce3acf34776aab92ee4f8ed917a', 'confidence': 0.38831189274787903, 'historical_selfie': {'image_id': '7930f26869d1462b92173bb9390cedab'}, 'selfie': {'image_id': '57bf000af2c845c2ba1ff32756798876'}}
+{'status': 'OK', 'request_id': 'TIDa38b076fdf2a43b0812d2695ac2f3dfa', 'confidence': 0.9091275334358215, 'historical_selfie': {'image_id': 'f9cb33295e5642aa9fc1ac70183cddef'}, 'selfie': {'image_id': '4d001fcaf80e411796642aa7bec1afc5'}}
+{'status': 'OK', 'request_id': 'TID77e109b9560a4244ad6efe216e63782e', 'confidence': 0.7602167725563049, 'historical_selfie': {'image_id': '6299c634faef4bc194a6b7ca828aefc2'}, 'selfie': {'image_id': 'cd5f32441a2e4d84bbcc816c25e3205b'}}
+{'status': 'OK', 'request_id': 'TID16d82aca921c4989a7e68d78c33563f1', 'confidence': 0.3291550874710083, 'historical_selfie': {'image_id': '1c0fdd9ffc46415ab57880ab7ca84845'}, 'selfie': {'image_id': '3943ac7865524e1b8b5221818b0e3669'}}
+{'status': 'OK', 'request_id': 'TIDe97e932b8aa449278c5246edea959f17', 'confidence': 0.47351914644241333, 'historical_selfie': {'image_id': '47ed0a7e49bb4004b920a7e03c3de870'}, 'selfie': {'image_id': '0c6a83a6b0e24e89a97d6c98d066c3fd'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID47cedc71df64402ebee5e942907afafc', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TID7cb9ef1ae4bf4ef5aa4a036543fc131e', 'confidence': 0.41612887382507324, 'historical_selfie': {'image_id': '839fb6bb94e041f2b662f0c17cd5334c'}, 'selfie': {'image_id': '8e902a6e7f644a67a9cdb661af967836'}}
+{'status': 'OK', 'request_id': 'TID71bc04cce9a447a78582d476687e63f7', 'confidence': 0.4242751896381378, 'historical_selfie': {'image_id': '200ec81f2a8a4a658f6f021ac526a808'}, 'selfie': {'image_id': 'c8e6e03aa2984e5cbb50a6dc210878e6'}}
+{'status': 'OK', 'request_id': 'TID950c5f4e59424a3d871dc5f89a679711', 'confidence': 0.8902196288108826, 'historical_selfie': {'image_id': '0720c55ee3bf43e4ad35780270cd28f5'}, 'selfie': {'image_id': '52a0b9937fa74e349374e1dcccd1cb5f'}}
+{'status': 'OK', 'request_id': 'TID8d43016d70b74cc4ba568a78175f1869', 'confidence': 0.44107913970947266, 'historical_selfie': {'image_id': 'a6a5483b85b145c7bbd752a33c3f76b8'}, 'selfie': {'image_id': '8c6beb9c45664d259323513e601beaee'}}
+{'status': 'OK', 'request_id': 'TID1c6282723d76435eb8d15a0ee9d1d043', 'confidence': 0.361084520816803, 'historical_selfie': {'image_id': '4fcce9581af44ca6b36a655e5a8c97d4'}, 'selfie': {'image_id': '5a2ee5c56a844ec8984d96ba52198655'}}
+{'status': 'OK', 'request_id': 'TID41da31fad1a54cfe9b4e36ee672ab402', 'confidence': 0.5630896687507629, 'historical_selfie': {'image_id': 'd3b277485eba432bb56987f12b77ea7c'}, 'selfie': {'image_id': 'dc6f141c1d4e47fb8930071402449014'}}
+{'status': 'OK', 'request_id': 'TIDf9190c69962948a4942f37484ea8a50f', 'confidence': 0.9047893285751343, 'historical_selfie': {'image_id': 'a5732dcf37e64c6ebec7a5c512e94989'}, 'selfie': {'image_id': 'd18f02a1808b4f7ebbe9a9232ef77aeb'}}
+{'status': 'OK', 'request_id': 'TID5725581b16b64c4f834f0c016e4f0b0a', 'confidence': 0.517658531665802, 'historical_selfie': {'image_id': 'fca279ec5fe9463eb1c6a5d74c4b3cb7'}, 'selfie': {'image_id': 'cea22acd32b1440e9fea482e6c90a2d2'}}
+{'status': 'OK', 'request_id': 'TID14b78837cfc94975a091679165cce43b', 'confidence': 0.4281653165817261, 'historical_selfie': {'image_id': 'bdbbc5ef6ce44fdc80e13da4a6f275c5'}, 'selfie': {'image_id': 'b3a12929d903488cbfb679a795549991'}}
+{'status': 'OK', 'request_id': 'TID6f65ea44e7ca4bd889a632af5a951876', 'confidence': 0.42566126585006714, 'historical_selfie': {'image_id': '60958a09d5ba405a8a8e9852d04101a3'}, 'selfie': {'image_id': 'ef6179062ad7491ab0dc71309024ef1e'}}
+{'status': 'OK', 'request_id': 'TID9cd6113a129a4031aac8c4cbb9ac3a15', 'confidence': 0.912546694278717, 'historical_selfie': {'image_id': 'd3b293449d024cd28e228fa880d79acd'}, 'selfie': {'image_id': '5c67602fa9d546b187d2fd5f824383fb'}}
+{'status': 'OK', 'request_id': 'TIDd32959ae9c6741638ac2fff40e24b1d4', 'confidence': 0.6112253665924072, 'historical_selfie': {'image_id': 'fb93f6fb8a534906adf96f974595d514'}, 'selfie': {'image_id': '80416279854a4e969a3fc5661b54aa16'}}
+{'status': 'OK', 'request_id': 'TID14e40824e88b429e825702724fc06a24', 'confidence': 0.33403855562210083, 'historical_selfie': {'image_id': '7e5f4f6f3e8f4e7a96deb982dd34b89a'}, 'selfie': {'image_id': '6e8c6331c69540139c9928b4bfe3a964'}}
+{'status': 'OK', 'request_id': 'TIDdcc163a252a245beaa746473b94e2274', 'confidence': 0.7689592838287354, 'historical_selfie': {'image_id': '06b6e41e4fc04885ac30fc3d6071d159'}, 'selfie': {'image_id': '21d1d36da9b04a9f823644bcadf88b4b'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID64d8a0a95fc145ec8b6b159e30972adc', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TIDa5dfc00c65c9472784916bae50a4ada9', 'confidence': 0.6961798667907715, 'historical_selfie': {'image_id': '2c05ef72d3fe41c69b68d2e34b86d9da'}, 'selfie': {'image_id': '4242a731c5404fb6bea47b48f7fb7da3'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID512dccd2c78f40be8e63a53c4b66e4b2', 'image': 'historical_selfie'}
+error
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID77044827a2e34b30926878b18c5519d0', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TID3007479526ee4cd8b6c872de02f54193', 'confidence': 0.48494210839271545, 'historical_selfie': {'image_id': '87bf8f82e5a643128b075b0cf1dd6c7a'}, 'selfie': {'image_id': '2110fdf952f54caaa8336da92265bce5'}}
+{'status': 'OK', 'request_id': 'TID8eb7b275fd564dc9864d91dcf1f7ffb8', 'confidence': 0.7124665379524231, 'historical_selfie': {'image_id': '946302b29a754d36b65a887bd7a10d1e'}, 'selfie': {'image_id': '55dc91e90bed4ebdbe7dfb3c76f8fd2b'}}
+{'status': 'OK', 'request_id': 'TID18725da697004feeb505a2dff5e65e25', 'confidence': 0.3967914581298828, 'historical_selfie': {'image_id': '866cff008cca4d3a84b5bdad691a670d'}, 'selfie': {'image_id': 'd7d4808d323047f9a4288de8834138c9'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID0bf1a0c95a3d498b8ea710ff9f5f8f70', 'image': 'historical_selfie'}
+error
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID97f11c4289b24549b688cad7d9f3cdd8', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TID92d0b225a1a64937bf967de89543a3de', 'confidence': 0.37214532494544983, 'historical_selfie': {'image_id': '5a1741a9ae324752aee2dfe70f554941'}, 'selfie': {'image_id': '331611640fe446d1970e39ad81fe5cf5'}}
+{'status': 'OK', 'request_id': 'TID1bc3014cdce04b1281e8cd2b9e8dfd8d', 'confidence': 0.8951728343963623, 'historical_selfie': {'image_id': '7e7a4b533ff84f80a09d3e6b847610cd'}, 'selfie': {'image_id': 'e313c794df7b4479b92afeab9b12f972'}}
+{'status': 'OK', 'request_id': 'TIDd1be8c461d634c62a5410a3b22c9745e', 'confidence': 0.9149832725524902, 'historical_selfie': {'image_id': '2ff0a62fb6684a50adf8c7f2a4dde509'}, 'selfie': {'image_id': 'e2fd7bde80ce4cb08aeed9a1b625de2e'}}
+{'status': 'OK', 'request_id': 'TID6d396ef797524bc0b76ab7ca0547f9ee', 'confidence': 0.6026266813278198, 'historical_selfie': {'image_id': 'cd861066cd25438cbe0bf2349aa99bb1'}, 'selfie': {'image_id': '01ccfeb0580b4f799ebab67c09981b11'}}
+{'status': 'OK', 'request_id': 'TIDcf01976d52104934a4e47ecfa027a926', 'confidence': 0.9143710136413574, 'historical_selfie': {'image_id': '51a3e063ab5143619e121d9fec19058c'}, 'selfie': {'image_id': 'dfbace047dba484eb29f184e3055093d'}}
+{'status': 'OK', 'request_id': 'TID3291b93861a84a60a95f329b4c4b27cb', 'confidence': 0.651679277420044, 'historical_selfie': {'image_id': 'cc127d91dc4f41b0bdb92b576eac212b'}, 'selfie': {'image_id': '1adfd98cb19b4cca8216008646932f99'}}
+{'status': 'OK', 'request_id': 'TIDf7a4c067101d465aab57a6c03c00f9a2', 'confidence': 0.6191573739051819, 'historical_selfie': {'image_id': 'bb23abd571f74597836a8cb2689e2391'}, 'selfie': {'image_id': '6664a3973cea47eebd78c29d78e6b921'}}
+{'status': 'OK', 'request_id': 'TID0dff6b9eae62480fbd4f45ecd31d990c', 'confidence': 0.4581117331981659, 'historical_selfie': {'image_id': 'b2a91a1602b1461ab4c8d239f6c5bed5'}, 'selfie': {'image_id': '9cca5a1b1c5e4491918d451156f42bbc'}}
+{'status': 'OK', 'request_id': 'TID82d1953eba454e1c8e57778ad2856cb9', 'confidence': 0.6259705424308777, 'historical_selfie': {'image_id': '3ceae13fd70c411a9e6ed43208aca8c5'}, 'selfie': {'image_id': '79cc62c846754870adc4aa980299cff9'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID5497e8c5066d4dd6b9101fa1c002f129', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TID13f4e375ad334e048d9f9466c7113b4a', 'confidence': 0.5555053353309631, 'historical_selfie': {'image_id': '4add4f8bb6f544a4a238872014d6516a'}, 'selfie': {'image_id': '023bc6fb3dee4780bd4dc5a028b0b153'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID67dfdd06d32e43249bd4180bcd9bee0c', 'image': 'historical_selfie'}
+error
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID6079a7e9e6f74c59869795c4e3695312', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TID2dfee89c35694100a993a5bf2e44e51f', 'confidence': 0.4332055151462555, 'historical_selfie': {'image_id': 'd77cc743b1634cddb3d6fe6d07e738fa'}, 'selfie': {'image_id': '077644fb1f8f4caf91237d1d69d99972'}}
+{'status': 'OK', 'request_id': 'TIDa1b2e8656d5f4eb39f3747bf41317ec9', 'confidence': 0.5055886507034302, 'historical_selfie': {'image_id': '53918a8386e74dd38d30e42531f8ae5a'}, 'selfie': {'image_id': '806f7b1c5db540a4a4f62044a16abe5c'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID3544730e6e5e429cb3e16a38039da5dc', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TID44988c4dbaae46cb9210a588ed4060e1', 'confidence': 0.6164126992225647, 'historical_selfie': {'image_id': '0155204debca4c75a72ccd33f76ce999'}, 'selfie': {'image_id': '070e95493502420296371213e97d4b41'}}
+{'status': 'OK', 'request_id': 'TID8f1353aeea854b0780343df181c08662', 'confidence': 0.8036043643951416, 'historical_selfie': {'image_id': '7f2057bc385e4ec1ab68fd2ef451cabc'}, 'selfie': {'image_id': '8e024dd3f9ae409eb0491921f0a27141'}}
+{'status': 'OK', 'request_id': 'TID38c67be0cae043e1904bdbe4885257b9', 'confidence': 0.3134879767894745, 'historical_selfie': {'image_id': 'b4ed3ebd7ff445aaa6ca6e220e58a147'}, 'selfie': {'image_id': '24857424549a4e9e98096ecf2066f24a'}}
+{'status': 'OK', 'request_id': 'TID39c9fe198ebb4bcb96435bd7ecc88480', 'confidence': 0.5616115927696228, 'historical_selfie': {'image_id': '935bb4bdd7024f50b408da4cda28e5e6'}, 'selfie': {'image_id': '57fa92407ae84c8a8db049d802dc135a'}}
+{'status': 'OK', 'request_id': 'TIDa9f7f0a7f57e4b8d801890bd2761938e', 'confidence': 0.7087823748588562, 'historical_selfie': {'image_id': '57756831d052435ca8c602e733456ec4'}, 'selfie': {'image_id': 'f6108c50265541e7b28e31b2fb665070'}}
+{'status': 'OK', 'request_id': 'TID966170866b55443b93a5ed8cae351cb5', 'confidence': 0.9065373539924622, 'historical_selfie': {'image_id': 'f680f0ad1b3341069235534c2d894a9a'}, 'selfie': {'image_id': '09ac9eec3bda4e818287a1f7d65181e0'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TIDd5bf03b295714c43968dc2a50f15b1b6', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TIDe4c9f56ce79e487bacca1ed96c618f1b', 'confidence': 0.5728726387023926, 'historical_selfie': {'image_id': '3f02aefccfce4c498083edf495b5ac91'}, 'selfie': {'image_id': '9b38a0e2350641d7bcc220a1c96fb316'}}
+{'status': 'OK', 'request_id': 'TIDff1271fcbf404f17adb1fc9b335ecdb8', 'confidence': 0.5242083668708801, 'historical_selfie': {'image_id': '9079e88e7bbc4812b45468824275f566'}, 'selfie': {'image_id': 'e9de251c0a8c42ddb673b6dd46f367a1'}}
+{'status': 'OK', 'request_id': 'TID88abd193bb2e4220b710ad395ae72ec5', 'confidence': 0.9119950532913208, 'historical_selfie': {'image_id': '4461920f18f94b55b05e9d4687964b56'}, 'selfie': {'image_id': '3c21c372ea244ab8aee92c221171d6d2'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TIDdae12c2cda7e4becb55929de043ac051', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TID2ade656b96c44e42bb0f50abfafdf86d', 'confidence': 0.6824784874916077, 'historical_selfie': {'image_id': '0704b8a556784e2cbb3e249fe8653cd0'}, 'selfie': {'image_id': 'ecbdb4bb4a7a46868a57f60fc0013670'}}
+{'status': 'OK', 'request_id': 'TID0c369a04c8914b90ad85c1d62539d625', 'confidence': 0.9235945343971252, 'historical_selfie': {'image_id': '8fa8eb2410d94884afe9ebee0b75a55e'}, 'selfie': {'image_id': '82caaffa6b4f46fa950acf461dcb5789'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID1a93072c6e224f3797f58a3d125be9bc', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TID8634fe2e577140d8be16743057b3831a', 'confidence': 0.9058523178100586, 'historical_selfie': {'image_id': 'cae98ca0626744949230608c9ed379c9'}, 'selfie': {'image_id': 'b5320d04d0ce434092be81aa96fc7624'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID943fb65c2f1344ceb3d02050a6711042', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TID36e28262b33d4a998d560204f054618e', 'confidence': 0.6307836771011353, 'historical_selfie': {'image_id': 'f981b80854284171b3a0456bafa275f6'}, 'selfie': {'image_id': '745e6e10de5a4bd8ada2ff09febd3350'}}
+{'status': 'OK', 'request_id': 'TIDa6f87858847e48cbbfeb2a15f6e1dd14', 'confidence': 0.8842220902442932, 'historical_selfie': {'image_id': '4b29c0a2b08b4b9cbfc376ab60b486ef'}, 'selfie': {'image_id': 'a276c4fa97de40debf1591641e518466'}}
+{'status': 'OK', 'request_id': 'TIDa17f5d2105c6405ca044f785a2665b5e', 'confidence': 0.5119515061378479, 'historical_selfie': {'image_id': 'f05bfeaab01441bcb0fa12266e0b9248'}, 'selfie': {'image_id': 'becb6eee1181441eba998b02c0a3069e'}}
+{'status': 'OK', 'request_id': 'TIDf21b4212306c41a5b7ab3ea9186b7fde', 'confidence': 0.3677186667919159, 'historical_selfie': {'image_id': 'ccfd53154c7b4dde91aa4df6d858941e'}, 'selfie': {'image_id': 'b8ea853ebbad4847a456e331cefd5ed2'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID9e6517dd421e4be7ae5ca1509ff21802', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TID322e74cccd40497185302e39cc1fb49e', 'confidence': 0.8328924775123596, 'historical_selfie': {'image_id': 'da80b0844ea3470e94029fe252ddbab5'}, 'selfie': {'image_id': '5329875488964360b3188dd8bff96236'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID5b6f7987358b4221a5016f0a6c2fc4d7', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TID657fa931bcf2437ca3310cf466573be0', 'confidence': 0.7394974827766418, 'historical_selfie': {'image_id': '75510e8f9a414e55bd51f1d5cdbf6be3'}, 'selfie': {'image_id': '58c30e6d632d4eadb1978f9ecf511971'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID0d9c2360dd224b0ea65f026d2eab4b27', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TID1d657a0d8102471987af129800aaf347', 'confidence': 0.696627676486969, 'historical_selfie': {'image_id': '967ce751fc5f4bb1baf8875dee8af9d7'}, 'selfie': {'image_id': '9b3624e87fde4407a8010f882d2908eb'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID94a383b005674dfc852393ae1ab03c1b', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TID19ccb00ab1ca46b396c18dda6907a661', 'confidence': 0.3271440863609314, 'historical_selfie': {'image_id': '43bbd33728794f26aa8fc431c8bd5020'}, 'selfie': {'image_id': '9bc4ec380d0344a39810d90182860c3e'}}
+{'status': 'OK', 'request_id': 'TIDc3d1572bdb4f488cb4fa1232f2a0183c', 'confidence': 0.5819860696792603, 'historical_selfie': {'image_id': 'b46a03c836ed4145a32b2ad132aab4a6'}, 'selfie': {'image_id': '22131a64d5df4aa5b751ae253c45d1a5'}}
+{'status': 'OK', 'request_id': 'TIDd15fcedde2f64455b9c84ea7719fb514', 'confidence': 0.6191573739051819, 'historical_selfie': {'image_id': '58f9b7cd78e04c8e8c4adba9c703028e'}, 'selfie': {'image_id': 'fb6af26493b447958fff7070314b6a70'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID2c42712cd4de477ca2e98d121ec7f8e0', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TID15c4a9faa4fc4a17b5a47478666ed683', 'confidence': 0.8010580539703369, 'historical_selfie': {'image_id': '07ae177d889440b9ab9c0e948f9e8d93'}, 'selfie': {'image_id': '2d6ae22f9a364e7d814854a1ac6690ce'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID14d43e0acab24626be667f95ede4bdfe', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TID5bee725e44c54fa0aa1e04e901b9b515', 'confidence': 0.7256678342819214, 'historical_selfie': {'image_id': '245d0a407fef4bb6be1ca0f54457d5fe'}, 'selfie': {'image_id': '135c0ee13d89485baf79277de9bc759c'}}
+{'status': 'OK', 'request_id': 'TIDdd729b9f1d1c4fbea1b2853138515e29', 'confidence': 0.916560173034668, 'historical_selfie': {'image_id': 'adacd34695574cbfaf3a3b010690b730'}, 'selfie': {'image_id': '71e046cb044443299aa4403860152cc3'}}
+{'status': 'OK', 'request_id': 'TID42fc60ec2e06448890f569ef7072b05a', 'confidence': 0.3396078646183014, 'historical_selfie': {'image_id': '009ca2461c1e4c369c2cf34fc510984f'}, 'selfie': {'image_id': '4f121feec02345f6823a9c39e83fdbc3'}}
+{'status': 'OK', 'request_id': 'TID7d1e421fef8b462fa71034ada51c91d2', 'confidence': 0.9002465605735779, 'historical_selfie': {'image_id': 'da66d9ccf179475a91e7fe3076c0f35e'}, 'selfie': {'image_id': '0c239a37a45e4699a2b6e6cdcb837701'}}
+{'status': 'OK', 'request_id': 'TID94d99a08ae8d4c9aad2c9a370d1f5378', 'confidence': 0.8678600788116455, 'historical_selfie': {'image_id': 'f3b0f59ae93640bb8aa6fa41b0d3d112'}, 'selfie': {'image_id': '06fed8b994ae450dbc982113edb3b9b2'}}
+{'status': 'OK', 'request_id': 'TID3ce4c60fb8474d9dbc00904c94fb502f', 'confidence': 0.4289090931415558, 'historical_selfie': {'image_id': '0231debc0b4d40cfb3cd8285906d992b'}, 'selfie': {'image_id': 'cd6e71f9046a4e43833d305e9eb339c7'}}
+{'status': 'OK', 'request_id': 'TID4eb8518807694787883d7911a06ac492', 'confidence': 0.9136137962341309, 'historical_selfie': {'image_id': 'bc0f6402fde04ddfbb0d6004d12280e0'}, 'selfie': {'image_id': '1e246563182b46efb7aa442164d24e0d'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID6c4e098f08df4dcca8c3bfad8dba7143', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TID1b1a5b07308e485ba368256a1da67dbc', 'confidence': 0.8036043643951416, 'historical_selfie': {'image_id': '66a6dcca16a84cf68a54ec295dfbe8ca'}, 'selfie': {'image_id': 'b7ed5c6a42d94a339a9b161789aed175'}}
+{'status': 'OK', 'request_id': 'TIDe673210d087c40719c31406c6afa7dbc', 'confidence': 0.9284886717796326, 'historical_selfie': {'image_id': '894dc0d374fe4db09897aad6604ce556'}, 'selfie': {'image_id': 'a281da20eba440f2bde23c4318a24517'}}
+{'status': 'OK', 'request_id': 'TID378972d1e98d436ca1eeb8b8e9dbe79a', 'confidence': 0.5981747508049011, 'historical_selfie': {'image_id': '4485c98bf82f4ecf877729c5fdd8d650'}, 'selfie': {'image_id': '46d40b960aa84e338e9b0122e182c28f'}}
+{'status': 'OK', 'request_id': 'TIDc2945a851dd746ea95c28ca8317e3520', 'confidence': 0.6699491739273071, 'historical_selfie': {'image_id': 'aa06684690a748f592c0538d1c452e1b'}, 'selfie': {'image_id': '78584cd84d2d41de94b798f748076ecf'}}
+{'status': 'OK', 'request_id': 'TID676de1221d604c2dbb815a6adb7b1e16', 'confidence': 0.6642271280288696, 'historical_selfie': {'image_id': 'bc46d52194424f109943b0d2fa715cd7'}, 'selfie': {'image_id': '92cc2a0b8b4e425d8d6e78e1c9b6963b'}}
+{'status': 'OK', 'request_id': 'TID329518bca7374f028dd01ffbd44a7c1a', 'confidence': 0.43435636162757874, 'historical_selfie': {'image_id': 'e1f2b651c93f4a2d960c0b583023d70b'}, 'selfie': {'image_id': '85cd33b433ed42f1960f187fc9916843'}}
+{'status': 'OK', 'request_id': 'TID5ebf2a3ce02e47ab929d9d6eef32f4a2', 'confidence': 0.7870495319366455, 'historical_selfie': {'image_id': 'd692104dbac040f3a28091e819ccf36a'}, 'selfie': {'image_id': 'b8042f7861bb4cd083e281de2392ac75'}}
+{'status': 'OK', 'request_id': 'TID9b00d610dd044b93af3db699e169524b', 'confidence': 0.37438398599624634, 'historical_selfie': {'image_id': '8ccc20a5f601401bae939319ef280734'}, 'selfie': {'image_id': '07ba77192abd4d548e09c722fe2585dd'}}
+{'status': 'OK', 'request_id': 'TIDcd67aa295d2542cab166024125781185', 'confidence': 0.36812758445739746, 'historical_selfie': {'image_id': 'a00d19ad3e524fb5ad24b3301b786e65'}, 'selfie': {'image_id': '5e6f719be0d04f828eacc6702181390e'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TIDd12f670882d44fc9a3576068dd609ac3', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TID79881b1b1c944b60b40280f765ac30bd', 'confidence': 0.9002577662467957, 'historical_selfie': {'image_id': 'a3f0293af7f84616a58873ddd90ee871'}, 'selfie': {'image_id': '4676ff38977249289750ffe768049fd3'}}
+{'status': 'OK', 'request_id': 'TID727b6de839174692810cdfbd273c4ba1', 'confidence': 0.7612853646278381, 'historical_selfie': {'image_id': 'a3185b3be1e845f888f4d3782a375d91'}, 'selfie': {'image_id': 'a1cf12df023241f5a15b9c9f4e60f1f2'}}
+{'status': 'OK', 'request_id': 'TID55d9ee754f0d42cba3a4eddc227f7f05', 'confidence': 0.6673758029937744, 'historical_selfie': {'image_id': '45d163003db8468cbea072149269ea24'}, 'selfie': {'image_id': '17247ccb889a4672989b4a532a35a652'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TIDf54e5b366f2840ed8087ed2a999d61b7', 'image': 'historical_selfie'}
+error
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TIDa3ce2122b54e4e62b37885297f952c0b', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TID5edf159801f94b4db91a5de553b75ea3', 'confidence': 0.9126535058021545, 'historical_selfie': {'image_id': '4d0e3cb8641f4e4a99ace3757c3af685'}, 'selfie': {'image_id': 'e5fa5f83c7ac4b6c93fbb9ea11643d04'}}
+{'status': 'OK', 'request_id': 'TID974fbca2bce54e3284d2b889d00ed4c8', 'confidence': 0.6123895049095154, 'historical_selfie': {'image_id': '5ff447994d9d4644aa20298465439180'}, 'selfie': {'image_id': '909a7a71fbca449ca158d1eb7aefe18a'}}
+{'status': 'OK', 'request_id': 'TID8000bffd097f4268afd80981f2b93f72', 'confidence': 0.47376522421836853, 'historical_selfie': {'image_id': '44e48985d89d4bfe934dc06f5e34d6db'}, 'selfie': {'image_id': '9f9ce7ca8fb34ba7bbf1db2820bc4e58'}}
+{'status': 'OK', 'request_id': 'TIDd0c4204577a347628d469602dc798c25', 'confidence': 0.7388295531272888, 'historical_selfie': {'image_id': 'ee138534a8a2430dafe4f5d0d345e8fd'}, 'selfie': {'image_id': '1c407ad6a1f84109bb7a179c8163246f'}}
+{'status': 'OK', 'request_id': 'TID7d5a76b0bf294a8ba8adc3641c6ae09b', 'confidence': 0.738821268081665, 'historical_selfie': {'image_id': 'b54e9cd5fafa4aa783e3abd2dbd4dca0'}, 'selfie': {'image_id': 'f82c4778523c4d408f98005f1cc306b6'}}
+{'status': 'OK', 'request_id': 'TIDd87387e912984aaaba11e8ce9747e2cd', 'confidence': 0.37551140785217285, 'historical_selfie': {'image_id': 'd20dde2eb41149bba35cc5b65b81e5e6'}, 'selfie': {'image_id': 'dcc53546be31400eb8f37f90d9eb8a14'}}
+{'status': 'OK', 'request_id': 'TIDbf1eb0e823534e939db6d9822e24a1ce', 'confidence': 0.5786967277526855, 'historical_selfie': {'image_id': '97a7e990690a4abd871a907197faf87d'}, 'selfie': {'image_id': 'a3960d1310ed4071afa4b6828ea5764d'}}
+{'status': 'OK', 'request_id': 'TID3574425e47a5473db360ef144ba25d67', 'confidence': 0.4789370596408844, 'historical_selfie': {'image_id': '0e17f13d38c24dbbb8a9869b6ff56a8e'}, 'selfie': {'image_id': 'be84d48dd5a64640bf24776a108c9bef'}}
+{'status': 'OK', 'request_id': 'TID427709bd6d934ba28d82c3b50175e9e4', 'confidence': 0.6261911988258362, 'historical_selfie': {'image_id': 'eab9a5ba098b4747990f837178ff19ad'}, 'selfie': {'image_id': '853b689731b94d3e9998fc6d6d621496'}}
+{'status': 'OK', 'request_id': 'TIDf85d3179f34f4339b168d3d4ed3026f3', 'confidence': 0.8705718517303467, 'historical_selfie': {'image_id': '02477e86b4c24074b449d2095258e21d'}, 'selfie': {'image_id': 'fec96389dfcc45508fa32c8cb479386a'}}
+{'status': 'OK', 'request_id': 'TID7dd85ca8671c49f7966563960db7e21e', 'confidence': 0.43517398834228516, 'historical_selfie': {'image_id': '92030f0b8ed847d2b3594e9fd7e38b49'}, 'selfie': {'image_id': '8936ba09bd604b818818bb874c82670e'}}
+{'status': 'OK', 'request_id': 'TID4dfd6d4ec0ad479b9bef76dc12587f68', 'confidence': 0.9126535058021545, 'historical_selfie': {'image_id': 'bc8132624e3740e1b1d15ff2c254215f'}, 'selfie': {'image_id': '676fce2a531043e69b2be8904a5ce487'}}
+{'status': 'OK', 'request_id': 'TID111383b1c6404189982ac3b91aef0b7f', 'confidence': 0.7501985430717468, 'historical_selfie': {'image_id': '1ab4eb8b8786465aa028aeefb162edb8'}, 'selfie': {'image_id': '6e16c1a33a5c4f82a4256e08af72bb40'}}
+{'status': 'OK', 'request_id': 'TID9f080ddfab0646428c27c3991a65ba84', 'confidence': 0.9012306332588196, 'historical_selfie': {'image_id': 'ca9606dc53be4e0b99043f6a9f895b94'}, 'selfie': {'image_id': '8f308c2f96504d2d9f6d0dd49f5a7bf2'}}
+{'status': 'OK', 'request_id': 'TIDa226fdc6b9484db1b131cc75bc3bd4f9', 'confidence': 0.4818273186683655, 'historical_selfie': {'image_id': 'b5dc8eaaa9b6457f9ca465f0405e7db0'}, 'selfie': {'image_id': '68c10a754e25429bb7618d5382f7d2f9'}}
+{'status': 'OK', 'request_id': 'TID3f3f2b3abcc245c18f044f4e56423c45', 'confidence': 0.7773538827896118, 'historical_selfie': {'image_id': '75e532445e5f4c53b7fab8c8aa06abf9'}, 'selfie': {'image_id': '45f97ee2a1174c548f9f009d3114a49e'}}
+{'status': 'OK', 'request_id': 'TIDcff2a709d1f74ce6afff80648ed25f5f', 'confidence': 0.7402127981185913, 'historical_selfie': {'image_id': '2e02b0b6b2c2450a9d996d85585f3198'}, 'selfie': {'image_id': '2e03e059f5e54816a7c09de2119e6285'}}
+{'status': 'OK', 'request_id': 'TID19b08ac4bd8545eba78a51c201d94409', 'confidence': 0.3994120657444, 'historical_selfie': {'image_id': '084508e264374c849357fc42cd6fa469'}, 'selfie': {'image_id': '85e7ea8fc7b84a7d9f4300a12fae9670'}}
+{'status': 'OK', 'request_id': 'TIDfacb2409ee204186ba691a0483f384a6', 'confidence': 0.5915343165397644, 'historical_selfie': {'image_id': 'e66f6ca2c2c24bfc87c36bae0b19bb2f'}, 'selfie': {'image_id': '60b18e31b1304768a28da7c6a79aae46'}}
+{'status': 'OK', 'request_id': 'TIDc021ee34b0c24ba999c950f448e9d95c', 'confidence': 0.9107622504234314, 'historical_selfie': {'image_id': '4768e2c919554bdcbefbbf9cb019d179'}, 'selfie': {'image_id': 'a047bcb925b343e3a63daf077a76770c'}}
+{'status': 'OK', 'request_id': 'TIDfe777e619a884853bfca1f071050f100', 'confidence': 0.4281653165817261, 'historical_selfie': {'image_id': '731df4c2a4434a59ba814d2a9a91f28d'}, 'selfie': {'image_id': '2281c1538088430a900715558550a4c7'}}
+{'status': 'OK', 'request_id': 'TID5ba0909052e04651aef5ddb19940cbd4', 'confidence': 0.49951016902923584, 'historical_selfie': {'image_id': '6dd36ffc2cd2444280c0b81a5e62018d'}, 'selfie': {'image_id': 'bb8c0e60f5374286ac8c8495d4fed0e0'}}
+{'status': 'OK', 'request_id': 'TID7ae7faebecac43e6aab39f29ecd269db', 'confidence': 0.3147304356098175, 'historical_selfie': {'image_id': 'eb37e5307c4147d9877a4d56c495fe73'}, 'selfie': {'image_id': '4ab6da3592fa4aaf87543347e696fdee'}}
+{'status': 'OK', 'request_id': 'TID775478fe41c34f25984ad1fe67bf8a33', 'confidence': 0.9045904278755188, 'historical_selfie': {'image_id': 'bdc5c303c1f741038395db5d13291ac7'}, 'selfie': {'image_id': '6236e12650c247909a96bb5d22b1c24d'}}
+{'status': 'OK', 'request_id': 'TID14b834f19ddb4be1967ecf7e9c5bab98', 'confidence': 0.9076634645462036, 'historical_selfie': {'image_id': 'e93d534e598b413cafa21754bba1a584'}, 'selfie': {'image_id': '5bda2bc5a0c64a34b9a743a980112f10'}}
+{'status': 'OK', 'request_id': 'TIDb6f3d7d382e5444eb52f48be45801460', 'confidence': 0.33403855562210083, 'historical_selfie': {'image_id': 'c6e557e30b81451ca0d2c3dd6650d9da'}, 'selfie': {'image_id': 'fd7e68c42ca7428e9d50bd9205ab51cd'}}
+{'status': 'OK', 'request_id': 'TIDddcaaf1de1cf4cbcbfb97425b6dad46e', 'confidence': 0.7711521983146667, 'historical_selfie': {'image_id': 'e6001521037242d7bd68f3ae13b4815a'}, 'selfie': {'image_id': 'ba0e8e7ba13742238e34fc1eccfd4121'}}
+{'status': 'OK', 'request_id': 'TID13c2b4333fa84702a3beb6334c14713e', 'confidence': 0.5882615447044373, 'historical_selfie': {'image_id': 'a9613ae6b2d04cb3a8f2cbcf4ab93f0d'}, 'selfie': {'image_id': '8dbcdf2136d14f96a86574e0689d88e0'}}
+{'status': 'OK', 'request_id': 'TID2ba42b9ce9a3438096413d262941a811', 'confidence': 0.8650837540626526, 'historical_selfie': {'image_id': '3d230ec1b53f417c9055a9b1132974b1'}, 'selfie': {'image_id': '84a3cdbea122430fbedf6a6cb08807e8'}}
+{'status': 'NO_FACE_DETECTED', 'request_id': 'TID97b6bb209ce44e5397507fcabb8a3259', 'image': 'historical_selfie'}
+error
+{'status': 'OK', 'request_id': 'TID58f614569996415880cd98b5da7d344c', 'confidence': 0.5830683708190918, 'historical_selfie': {'image_id': '900f05e6f85d413eb6445b178dddca19'}, 'selfie': {'image_id': '3d9b0c64b15747c99db234787f6517bf'}}
+{'status': 'OK', 'request_id': 'TIDd4bb4010337d4a4fb78f5d9fe7ebc4bc', 'confidence': 0.907178521156311, 'historical_selfie': {'image_id': 'da0732b08f7e428b902a4d775d4c6883'}, 'selfie': {'image_id': 'd38c1712a5484472ad95e27260d2f733'}}
+{'status': 'OK', 'request_id': 'TID4e442d35337948ceb54b741fcc3f9298', 'confidence': 0.6241557598114014, 'historical_selfie': {'image_id': '69f75986edb645c0be834e68f13117d9'}, 'selfie': {'image_id': '7473a78bd3084468bfd683198fd8b7c7'}}
+{'status': 'OK', 'request_id': 'TID652a5ed248234bf58ce4da7f6e373b0a', 'confidence': 0.9156326651573181, 'historical_selfie': {'image_id': 'a1256d4f374d47ac85a4f2fb8baedbc0'}, 'selfie': {'image_id': '0850a8f9847a450498297250217228d9'}}
+{'status': 'OK', 'request_id': 'TID085d0af296274033a1c64814164164cc', 'confidence': 0.7695544362068176, 'historical_selfie': {'image_id': 'e2946623ba2e4eb1b667c2f4c3b2474c'}, 'selfie': {'image_id': '07e2c7b7819c4483b4c0812a103e26d5'}}
+{'status': 'OK', 'request_id': 'TID09c6c7316a4b480e9b894408ca548137', 'confidence': 0.9044927954673767, 'historical_selfie': {'image_id': 'e0fc60e6b2a94c93a6a2fe2f8c579d4b'}, 'selfie': {'image_id': '3315bbb07286465abb398fcd9005a1af'}}
+{'status': 'OK', 'request_id': 'TID7949a3783c2441deafbc3d52ef542d67', 'confidence': 0.5071338415145874, 'historical_selfie': {'image_id': '0b221ed005994ff7b5dfbafb12035468'}, 'selfie': {'image_id': '18e2c2c9b4424d82ab1f3ef4c4e48d97'}}
+{'status': 'OK', 'request_id': 'TIDe046c5fabf424db297ebd5c5008157ce', 'confidence': 0.8027570247650146, 'historical_selfie': {'image_id': '602fe301bee347719fa89a2df65b1a5b'}, 'selfie': {'image_id': '9742ca4cf45e4987a12217132512147e'}}
+{'status': 'OK', 'request_id': 'TID5d8471e71268429c92c57ac5eae33a73', 'confidence': 0.45857226848602295, 'historical_selfie': {'image_id': 'b4726742cfdb406fb6f80d3e3692bce3'}, 'selfie': {'image_id': 'bd339988003549dcb08ed035f5ad31ca'}}
+{'status': 'OK', 'request_id': 'TIDa6e561cf51674016b09b5c2fd0dcd2d9', 'confidence': 0.8953931331634521, 'historical_selfie': {'image_id': 'fca907ac58434e4eb6c895853645ea45'}, 'selfie': {'image_id': '9024dbfd1a55488eaa45c4a853af8ef3'}}
+confidence1: 0.6729765218496323
+confidence2: 0.6660246278345585
+
+Process finished with exit code 0
+

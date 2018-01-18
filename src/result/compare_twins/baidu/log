@@ -1,0 +1,1296 @@
+/usr/bin/python3.5 /home/shushi/projects/3face/face_api/src/test_compare_twins/test_baidu.py
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+{'result': [{'score': 90.133232116699, 'index_i': '0', 'index_j': '1'}], 'log_id': 3884245931011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg /home/shushi/Pic/ZhuJiaWen/994969388.jpg
+{'result': [{'score': 76.063011169434, 'index_i': '0', 'index_j': '1'}], 'log_id': 3884332219011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+{'result': [{'score': 73.082641601562, 'index_i': '0', 'index_j': '1'}], 'log_id': 3884451097011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png
+{'result': [{'score': 52.787269592285, 'index_i': '0', 'index_j': '1'}], 'log_id': 3884564668011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+{'result': [{'score': 69.044158935547, 'index_i': '0', 'index_j': '1'}], 'log_id': 3884657007011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png /home/shushi/Pic/ZhuJiaWen/1499926792.jpg
+{'result': [], 'log_id': 3884779750011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg /home/shushi/Pic/ZhuJiaWen/395018968.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png /home/shushi/Pic/ZhuJiaWen/384292195.jpg
+{'result': [{'score': 90.607383728027, 'index_i': '0', 'index_j': '1'}], 'log_id': 3884941077011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg /home/shushi/Pic/ZhuJiaWen/1094188196.jpg
+{'result': [{'score': 60.596530914307, 'index_i': '0', 'index_j': '1'}], 'log_id': 3885054849011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg /home/shushi/Pic/ZhuJiaWen/401828318.jpg
+{'result': [{'score': 73.012390136719, 'index_i': '0', 'index_j': '1'}], 'log_id': 3885151831011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg /home/shushi/Pic/ZhuJiaWen/1094188196.jpg
+{'result': [{'score': 69.055572509766, 'index_i': '0', 'index_j': '1'}], 'log_id': 3885243169011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+{'result': [{'score': 69.044158935547, 'index_i': '0', 'index_j': '1'}], 'log_id': 3885334895011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg /home/shushi/Pic/ZhuJiaWen/1812528523.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg /home/shushi/Pic/ZhuJiaWen/2128979448.jpg
+{'result': [{'score': 88.162750244141, 'index_i': '0', 'index_j': '1'}], 'log_id': 3885443419011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg /home/shushi/Pic/ZhuJiaWen/522832377.jpg
+{'result': [{'score': 59.485008239746, 'index_i': '0', 'index_j': '1'}], 'log_id': 3885549579011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg /home/shushi/Pic/ZhuJiaWen/1371640660.jpg
+{'result': [], 'log_id': 3885649173011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg /home/shushi/Pic/ZhuJiaWen/1499926792.jpg
+{'result': [{'score': 65.546875, 'index_i': '0', 'index_j': '1'}], 'log_id': 3885751618011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg /home/shushi/Pic/ZhuJiaWen/384292195.jpg
+{'result': [{'score': 91.16902923584, 'index_i': '0', 'index_j': '1'}], 'log_id': 3885845305011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg /home/shushi/Pic/ZhuJiaWen/522832377.jpg
+{'result': [], 'log_id': 3885949044011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+{'result': [{'score': 90.671249389648, 'index_i': '0', 'index_j': '1'}], 'log_id': 3886022146011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png
+{'result': [{'score': 47.586231231689, 'index_i': '0', 'index_j': '1'}], 'log_id': 3886148489011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg /home/shushi/Pic/ZhuJiaWen/522832377.jpg
+{'result': [{'score': 64.180160522461, 'index_i': '0', 'index_j': '1'}], 'log_id': 3886259344011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg /home/shushi/Pic/ZhuJiaWen/1384139730.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg /home/shushi/Pic/ZhuJiaWen/1553123673.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg /home/shushi/Pic/ZhuJiaWen/2040545053.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png /home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png
+{'result': [], 'log_id': 3886472204011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png
+{'result': [{'score': 90.211853027344, 'index_i': '0', 'index_j': '1'}], 'log_id': 3886593917011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg /home/shushi/Pic/ZhuJiaWen/144969499.jpg
+{'result': [{'score': 85.20874786377, 'index_i': '0', 'index_j': '1'}], 'log_id': 3886729370011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png
+{'result': [{'score': 66.764915466309, 'index_i': '0', 'index_j': '1'}], 'log_id': 3886875037011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg /home/shushi/Pic/ZhuJiaWen/742408606.jpg
+{'result': [{'score': 73.012390136719, 'index_i': '0', 'index_j': '1'}], 'log_id': 3886957900011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg /home/shushi/Pic/ZhuJiaWen/522832377.jpg
+{'result': [{'score': 77.959854125977, 'index_i': '0', 'index_j': '1'}], 'log_id': 3887064013011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg /home/shushi/Pic/ZhuJiaWen/522832377.jpg
+{'result': [{'score': 73.446510314941, 'index_i': '0', 'index_j': '1'}], 'log_id': 3887163140011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg /home/shushi/Pic/ZhuJiaWen/1371640660.jpg
+{'result': [], 'log_id': 3887255330011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg /home/shushi/Pic/ZhuJiaWen/1094188196.jpg
+{'result': [{'score': 100, 'index_i': '0', 'index_j': '1'}], 'log_id': 3887336526011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg /home/shushi/Pic/ZhuJiaWen/886078025.jpg
+{'result': [], 'log_id': 3887458354011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg /home/shushi/Pic/ZhuJiaWen/1735962714.jpg
+{'result': [{'score': 91.215156555176, 'index_i': '0', 'index_j': '1'}], 'log_id': 3887592346011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png
+{'result': [{'score': 66.102066040039, 'index_i': '0', 'index_j': '1'}], 'log_id': 3887706763011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg /home/shushi/Pic/ZhuJiaWen/1553123673.jpg
+{'result': [{'score': 78.299545288086, 'index_i': '0', 'index_j': '1'}], 'log_id': 3887812157011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png /home/shushi/Pic/ZhuJiaWen/2128979448.jpg
+{'result': [{'score': 79.629791259766, 'index_i': '0', 'index_j': '1'}], 'log_id': 3887937823011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png /home/shushi/Pic/ZhuJiaWen/288171084.jpg
+{'result': [{'score': 45.506896972656, 'index_i': '0', 'index_j': '1'}], 'log_id': 3888042643011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png /home/shushi/Pic/ZhuJiaWen/636772360.jpg
+{'result': [], 'log_id': 3888154296011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png /home/shushi/Pic/ZhuJiaWen/1368453483.jpg
+{'result': [{'score': 58.241588592529, 'index_i': '0', 'index_j': '1'}], 'log_id': 3888277232011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg /home/shushi/Pic/ZhuJiaWen/395018968.jpg
+{'result': [{'score': 77.681930541992, 'index_i': '0', 'index_j': '1'}], 'log_id': 3888406322011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg /home/shushi/Pic/ZhuJiaWen/384292195.jpg
+{'result': [{'score': 67.523796081543, 'index_i': '0', 'index_j': '1'}], 'log_id': 3888482415011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg /home/shushi/Pic/ZhuJiaWen/636772360.jpg
+{'result': [], 'log_id': 3888568314011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaWen/994969388.jpg
+{'result': [{'score': 69.817237854004, 'index_i': '0', 'index_j': '1'}], 'log_id': 3888642102011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg /home/shushi/Pic/ZhuJiaWen/742408606.jpg
+{'result': [{'score': 77.968887329102, 'index_i': '0', 'index_j': '1'}], 'log_id': 3888751927011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg /home/shushi/Pic/ZhuJiaWen/636772360.jpg
+{'result': [], 'log_id': 3888854541011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png
+{'result': [{'score': 71.79621887207, 'index_i': '0', 'index_j': '1'}], 'log_id': 3888938945011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png /home/shushi/Pic/ZhuJiaWen/75195746.jpg
+{'result': [{'score': 69.990287780762, 'index_i': '0', 'index_j': '1'}], 'log_id': 3889072575011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg /home/shushi/Pic/ZhuJiaWen/401828318.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg /home/shushi/Pic/ZhuJiaWen/636772360.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg /home/shushi/Pic/ZhuJiaWen/144969499.jpg
+{'result': [{'score': 65.00267791748, 'index_i': '0', 'index_j': '1'}], 'log_id': 3889247078011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg /home/shushi/Pic/ZhuJiaWen/522832377.jpg
+{'result': [{'score': 59.377914428711, 'index_i': '0', 'index_j': '1'}], 'log_id': 3889379992011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+{'result': [{'score': 90.671249389648, 'index_i': '0', 'index_j': '1'}], 'log_id': 3889461726011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaWen/1553123673.jpg
+{'result': [{'score': 84.77946472168, 'index_i': '0', 'index_j': '1'}], 'log_id': 3889548654011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png
+{'result': [{'score': 60.379066467285, 'index_i': '0', 'index_j': '1'}], 'log_id': 3889656193011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg /home/shushi/Pic/ZhuJiaWen/1812528523.jpg
+{'result': [{'score': 73.967712402344, 'index_i': '0', 'index_j': '1'}], 'log_id': 3889756971011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaWen/384292195.jpg
+{'result': [{'score': 91.023963928223, 'index_i': '0', 'index_j': '1'}], 'log_id': 3889850898011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png
+{'result': [{'score': 71.34700012207, 'index_i': '0', 'index_j': '1'}], 'log_id': 3889971339011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg /home/shushi/Pic/ZhuJiaWen/761641544.jpg
+{'result': [{'score': 79.811584472656, 'index_i': '0', 'index_j': '1'}], 'log_id': 3890064903011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg /home/shushi/Pic/ZhuJiaWen/994969388.jpg
+{'result': [{'score': 81.252426147461, 'index_i': '0', 'index_j': '1'}], 'log_id': 3890151155011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png
+{'result': [{'score': 53.103958129883, 'index_i': '0', 'index_j': '1'}], 'log_id': 3890246145011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg /home/shushi/Pic/ZhuJiaWen/522832377.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png /home/shushi/Pic/ZhuJiaWen/522832377.jpg
+{'result': [], 'log_id': 3890470529011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg /home/shushi/Pic/ZhuJiaWen/384292195.jpg
+{'result': [{'score': 91.692756652832, 'index_i': '0', 'index_j': '1'}], 'log_id': 3890546618011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+{'result': [], 'log_id': 3890664640011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg /home/shushi/Pic/ZhuJiaWen/2128979448.jpg
+{'result': [{'score': 70.585815429688, 'index_i': '0', 'index_j': '1'}], 'log_id': 3890746814011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg /home/shushi/Pic/ZhuJiaWen/1812528523.jpg
+{'result': [{'score': 100, 'index_i': '0', 'index_j': '1'}], 'log_id': 3890830423011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg /home/shushi/Pic/ZhuJiaWen/742408606.jpg
+{'result': [{'score': 78.358612060547, 'index_i': '0', 'index_j': '1'}], 'log_id': 3890928706011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png
+{'result': [], 'log_id': 3891075122011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+{'result': [{'score': 65.044189453125, 'index_i': '0', 'index_j': '1'}], 'log_id': 3891175650011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png
+{'result': [{'score': 45.506896972656, 'index_i': '0', 'index_j': '1'}], 'log_id': 3891277379011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg /home/shushi/Pic/ZhuJiaWen/2040545053.jpg
+{'result': [{'score': 92.238418579102, 'index_i': '0', 'index_j': '1'}], 'log_id': 3891366833011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+{'result': [{'score': 89.936752319336, 'index_i': '0', 'index_j': '1'}], 'log_id': 3891465934011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaWen/543702080.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg /home/shushi/Pic/ZhuJiaWen/886078025.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png /home/shushi/Pic/ZhuJiaWen/1553123673.jpg
+{'result': [{'score': 88.356285095215, 'index_i': '0', 'index_j': '1'}], 'log_id': 3891663501011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg /home/shushi/Pic/ZhuJiaWen/543702080.jpg
+{'result': [{'score': 90.231948852539, 'index_i': '0', 'index_j': '1'}], 'log_id': 3891753582011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg /home/shushi/Pic/ZhuJiaWen/994969388.jpg
+{'result': [{'score': 65.638694763184, 'index_i': '0', 'index_j': '1'}], 'log_id': 3891838042011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg /home/shushi/Pic/ZhuJiaWen/1562718419.jpg
+{'result': [{'score': 78.573303222656, 'index_i': '0', 'index_j': '1'}], 'log_id': 3891947750011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png
+{'result': [], 'log_id': 3892076882011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg /home/shushi/Pic/ZhuJiaWen/1094188196.jpg
+{'result': [{'score': 62.090831756592, 'index_i': '0', 'index_j': '1'}], 'log_id': 3892152800011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg /home/shushi/Pic/ZhuJiaWen/1094188196.jpg
+{'result': [{'score': 65.265769958496, 'index_i': '0', 'index_j': '1'}], 'log_id': 3892247270011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png /home/shushi/Pic/ZhuJiaWen/2128979448.jpg
+{'result': [], 'log_id': 3892392479011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaWen/144969499.jpg
+{'result': [{'score': 90.605819702148, 'index_i': '0', 'index_j': '1'}], 'log_id': 3892477771011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg /home/shushi/Pic/ZhuJiaWen/454298170.jpg
+{'result': [{'score': 64.136260986328, 'index_i': '0', 'index_j': '1'}], 'log_id': 3892586968011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg /home/shushi/Pic/ZhuJiaWen/1384139730.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg /home/shushi/Pic/ZhuJiaWen/1368453483.jpg
+{'result': [{'score': 74.027885437012, 'index_i': '0', 'index_j': '1'}], 'log_id': 3892728563011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg /home/shushi/Pic/ZhuJiaWen/401828318.jpg
+{'result': [{'score': 89.497337341309, 'index_i': '0', 'index_j': '1'}], 'log_id': 3892822784011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg /home/shushi/Pic/ZhuJiaWen/1371640660.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+{'result': [{'score': 67.755111694336, 'index_i': '0', 'index_j': '1'}], 'log_id': 3892937940011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png
+{'result': [{'score': 47.420829772949, 'index_i': '0', 'index_j': '1'}], 'log_id': 3893038215011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg /home/shushi/Pic/ZhuJiaWen/1368453483.jpg
+{'result': [{'score': 100, 'index_i': '0', 'index_j': '1'}], 'log_id': 3893179893011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg /home/shushi/Pic/ZhuJiaWen/1094188196.jpg
+{'result': [{'score': 79.359046936035, 'index_i': '0', 'index_j': '1'}], 'log_id': 3893293377011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg /home/shushi/Pic/ZhuJiaWen/1499926792.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg /home/shushi/Pic/ZhuJiaWen/636772360.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png
+{'result': [], 'log_id': 3893458225011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png
+{'result': [{'score': 62.96549987793, 'index_i': '0', 'index_j': '1'}], 'log_id': 3893552406011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg /home/shushi/Pic/ZhuJiaWen/886078025.jpg
+{'result': [], 'log_id': 3893719962011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png
+{'result': [{'score': 50.97204208374, 'index_i': '0', 'index_j': '1'}], 'log_id': 3893885620011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg /home/shushi/Pic/ZhuJiaWen/1812528523.jpg
+{'result': [{'score': 73.967712402344, 'index_i': '0', 'index_j': '1'}], 'log_id': 3893998230011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg /home/shushi/Pic/ZhuJiaWen/2128979448.jpg
+{'result': [{'score': 69.651733398438, 'index_i': '0', 'index_j': '1'}], 'log_id': 3894109181011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg /home/shushi/Pic/ZhuJiaWen/288171084.jpg
+{'result': [{'score': 78.178749084473, 'index_i': '0', 'index_j': '1'}], 'log_id': 3894195726011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg /home/shushi/Pic/ZhuJiaWen/384292195.jpg
+{'result': [{'score': 88.786895751953, 'index_i': '0', 'index_j': '1'}], 'log_id': 3894279961011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg /home/shushi/Pic/ZhuJiaWen/1371640660.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg /home/shushi/Pic/ZhuJiaWen/401828318.jpg
+{'result': [{'score': 78.928192138672, 'index_i': '0', 'index_j': '1'}], 'log_id': 3894610015011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+{'result': [{'score': 77.746795654297, 'index_i': '0', 'index_j': '1'}], 'log_id': 3894723282011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaWen/1499926792.jpg
+{'result': [{'score': 93.830749511719, 'index_i': '0', 'index_j': '1'}], 'log_id': 3894810280011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png /home/shushi/Pic/ZhuJiaWen/660317691.jpg
+{'result': [{'score': 49.143905639648, 'index_i': '0', 'index_j': '1'}], 'log_id': 3894940030011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg /home/shushi/Pic/ZhuJiaWen/417015209.jpg
+{'result': [{'score': 100, 'index_i': '0', 'index_j': '1'}], 'log_id': 3895030081011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg /home/shushi/Pic/ZhuJiaWen/1094188196.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png /home/shushi/Pic/ZhuJiaWen/288171084.jpg
+{'result': [{'score': 54.181648254395, 'index_i': '0', 'index_j': '1'}], 'log_id': 3895161174011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg /home/shushi/Pic/ZhuJiaWen/636772360.jpg
+{'result': [], 'log_id': 3895267815011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png /home/shushi/Pic/ZhuJiaWen/384292195.jpg
+{'result': [{'score': 44.670341491699, 'index_i': '0', 'index_j': '1'}], 'log_id': 3895351993011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg /home/shushi/Pic/ZhuJiaWen/823499221.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg /home/shushi/Pic/ZhuJiaWen/994969388.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png
+{'result': [{'score': 68.981887817383, 'index_i': '0', 'index_j': '1'}], 'log_id': 3895562529011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg /home/shushi/Pic/ZhuJiaWen/1384139730.jpg
+{'result': [{'score': 83.621696472168, 'index_i': '0', 'index_j': '1'}], 'log_id': 3895645308011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+{'result': [{'score': 91.256462097168, 'index_i': '0', 'index_j': '1'}], 'log_id': 3895726939011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaWen/454298170.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png
+{'result': [{'score': 54.092658996582, 'index_i': '0', 'index_j': '1'}], 'log_id': 3895863067011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png /home/shushi/Pic/ZhuJiaWen/417015209.jpg
+{'result': [{'score': 56.05046081543, 'index_i': '0', 'index_j': '1'}], 'log_id': 3895980272011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg /home/shushi/Pic/ZhuJiaWen/2128979448.jpg
+{'result': [{'score': 70.585815429688, 'index_i': '0', 'index_j': '1'}], 'log_id': 3896064139011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg /home/shushi/Pic/ZhuJiaWen/1499926792.jpg
+{'result': [{'score': 63.005428314209, 'index_i': '0', 'index_j': '1'}], 'log_id': 3896158647011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg /home/shushi/Pic/ZhuJiaWen/522832377.jpg
+{'result': [{'score': 61.240303039551, 'index_i': '0', 'index_j': '1'}], 'log_id': 3896265930011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg /home/shushi/Pic/ZhuJiaWen/1735962714.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+{'result': [{'score': 90.990119934082, 'index_i': '0', 'index_j': '1'}], 'log_id': 3896423921011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg /home/shushi/Pic/ZhuJiaWen/522832377.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png /home/shushi/Pic/ZhuJiaWen/288171084.jpg
+{'result': [{'score': 73.003875732422, 'index_i': '0', 'index_j': '1'}], 'log_id': 3896562812011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png
+{'result': [{'score': 68.750885009766, 'index_i': '0', 'index_j': '1'}], 'log_id': 3896710505011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png
+{'result': [{'score': 73.003875732422, 'index_i': '0', 'index_j': '1'}], 'log_id': 3896820454011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png
+{'result': [{'score': 81.925567626953, 'index_i': '0', 'index_j': '1'}], 'log_id': 3896946142011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png
+{'result': [{'score': 61.90894317627, 'index_i': '0', 'index_j': '1'}], 'log_id': 3897066967011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png
+{'result': [], 'log_id': 3897237617011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaWen/1812528523.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg /home/shushi/Pic/ZhuJiaWen/1812528523.jpg
+{'result': [], 'log_id': 3897370848011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg /home/shushi/Pic/ZhuJiaWen/636772360.jpg
+{'result': [], 'log_id': 3897492749011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg /home/shushi/Pic/ZhuJiaWen/1748811887.jpg
+{'result': [{'score': 71.910049438477, 'index_i': '0', 'index_j': '1'}], 'log_id': 3897584072011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg /home/shushi/Pic/ZhuJiaWen/144969499.jpg
+{'result': [{'score': 70.875862121582, 'index_i': '0', 'index_j': '1'}], 'log_id': 3897695287011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png
+{'result': [{'score': 49.02014541626, 'index_i': '0', 'index_j': '1'}], 'log_id': 3897810080011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png /home/shushi/Pic/ZhuJiaWen/742408606.jpg
+{'result': [], 'log_id': 3897928472011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg /home/shushi/Pic/ZhuJiaWen/454298170.jpg
+{'result': [{'score': 86.189865112305, 'index_i': '0', 'index_j': '1'}], 'log_id': 3898017268011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+{'result': [], 'log_id': 3898143719011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/1487896716.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+{'result': [{'score': 94.722915649414, 'index_i': '0', 'index_j': '1'}], 'log_id': 3898230615011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+{'result': [{'score': 91.308013916016, 'index_i': '0', 'index_j': '1'}], 'log_id': 3898347899011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/536237754.jpg /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+{'result': [{'score': 92.618705749512, 'index_i': '0', 'index_j': '1'}], 'log_id': 3898437398011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png /home/shushi/Pic/ZhuJiaYi/895953682.jpg
+{'result': [], 'log_id': 3898559267011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/338090423.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaYi/967582628.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png
+{'result': [], 'log_id': 3898751454011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/1870723223.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+{'result': [{'score': 93.997428894043, 'index_i': '0', 'index_j': '1'}], 'log_id': 3898850046011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+{'result': [], 'log_id': 3898978111011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/536237754.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+{'result': [{'score': 71.233955383301, 'index_i': '0', 'index_j': '1'}], 'log_id': 3899091707011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1870723223.jpg /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+{'result': [{'score': 93.20686340332, 'index_i': '0', 'index_j': '1'}], 'log_id': 3899198562011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+{'result': [], 'log_id': 3899310462011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/107414087.jpg /home/shushi/Pic/ZhuJiaYi/1556060239.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg /home/shushi/Pic/ZhuJiaYi/396487429.jpg
+{'result': [], 'log_id': 3899440050011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png /home/shushi/Pic/ZhuJiaYi/1030612579.jpg
+{'result': [], 'log_id': 3899565725011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/1943018685.jpg /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+{'result': [{'score': 73.800254821777, 'index_i': '0', 'index_j': '1'}], 'log_id': 3899667333011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/338090423.jpg /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+{'result': [{'score': 78.870147705078, 'index_i': '0', 'index_j': '1'}], 'log_id': 3899765153011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+{'result': [], 'log_id': 3899873167011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+{'result': [], 'log_id': 3899977808011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/52404415.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+{'result': [{'score': 91.288536071777, 'index_i': '0', 'index_j': '1'}], 'log_id': 3900046841011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+{'result': [{'score': 49.884376525879, 'index_i': '0', 'index_j': '1'}], 'log_id': 3900161595011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/338090423.jpg /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+{'result': [{'score': 100, 'index_i': '0', 'index_j': '1'}], 'log_id': 3900254850011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1078229885.jpg /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+{'result': [{'score': 46.587882995605, 'index_i': '0', 'index_j': '1'}], 'log_id': 3900343315011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+{'result': [{'score': 94.035057067871, 'index_i': '0', 'index_j': '1'}], 'log_id': 3900426928011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1742112983.jpg /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaYi/1771124897.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+{'result': [{'score': 96.879417419434, 'index_i': '0', 'index_j': '1'}], 'log_id': 3900552681011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png
+{'result': [], 'log_id': 3900658425011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+{'result': [{'score': 83.425552368164, 'index_i': '0', 'index_j': '1'}], 'log_id': 3900725325011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+{'result': [{'score': 47.443565368652, 'index_i': '0', 'index_j': '1'}], 'log_id': 3900838248011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1943018685.jpg /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+{'result': [{'score': 90.612632751465, 'index_i': '0', 'index_j': '1'}], 'log_id': 3900939367011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg /home/shushi/Pic/ZhuJiaYi/895953682.jpg
+{'result': [], 'log_id': 3901029975011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/249104539.jpg /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+{'result': [{'score': 72.181968688965, 'index_i': '0', 'index_j': '1'}], 'log_id': 3901170426011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+{'result': [{'score': 57.113956451416, 'index_i': '0', 'index_j': '1'}], 'log_id': 3901398938011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+{'result': [], 'log_id': 3901527021011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+{'result': [{'score': 79.031150817871, 'index_i': '0', 'index_j': '1'}], 'log_id': 3901653700011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1749384580.jpg /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+{'result': [{'score': 93.25634765625, 'index_i': '0', 'index_j': '1'}], 'log_id': 3901742252011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1363304684.jpg /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+{'result': [{'score': 76.873023986816, 'index_i': '0', 'index_j': '1'}], 'log_id': 3901837169011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+{'result': [{'score': 64.448257446289, 'index_i': '0', 'index_j': '1'}], 'log_id': 3901980422011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+{'result': [{'score': 90.353401184082, 'index_i': '0', 'index_j': '1'}], 'log_id': 3902176201011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+{'result': [], 'log_id': 3902310455011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/1836482221.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+{'result': [{'score': 59.73503112793, 'index_i': '0', 'index_j': '1'}], 'log_id': 3902441980011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1881654506.jpg /home/shushi/Pic/ZhuJiaYi/895953682.jpg
+{'result': [], 'log_id': 3902558204011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/1026213847.jpg /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+{'result': [{'score': 90.873138427734, 'index_i': '0', 'index_j': '1'}], 'log_id': 3902644529011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2034710973.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+{'result': [{'score': 66.28044128418, 'index_i': '0', 'index_j': '1'}], 'log_id': 3902768333011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1591080402.jpg /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+{'result': [{'score': 74.385093688965, 'index_i': '0', 'index_j': '1'}], 'log_id': 3902856368011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png
+{'result': [], 'log_id': 3902965901011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+{'result': [], 'log_id': 3903057504011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+{'result': [{'score': 91.389770507812, 'index_i': '0', 'index_j': '1'}], 'log_id': 3903157464011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/107414087.jpg /home/shushi/Pic/ZhuJiaYi/396487429.jpg
+{'result': [], 'log_id': 3903263913011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+{'result': [{'score': 55.116180419922, 'index_i': '0', 'index_j': '1'}], 'log_id': 3903363384011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1591080402.jpg /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+{'result': [{'score': 74.015014648438, 'index_i': '0', 'index_j': '1'}], 'log_id': 3903453912011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1437230887.jpg /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+{'result': [{'score': 74.333885192871, 'index_i': '0', 'index_j': '1'}], 'log_id': 3903556381011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png /home/shushi/Pic/ZhuJiaYi/396487429.jpg
+{'result': [], 'log_id': 3903679229011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+{'result': [{'score': 100, 'index_i': '0', 'index_j': '1'}], 'log_id': 3903803277011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+{'result': [], 'log_id': 3903960732011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/1771124897.jpg /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+{'result': [{'score': 72.567749023438, 'index_i': '0', 'index_j': '1'}], 'log_id': 3904038247011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1242374213.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+{'result': [{'score': 51.50813293457, 'index_i': '0', 'index_j': '1'}], 'log_id': 3904160466011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1026213847.jpg /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+{'result': [], 'log_id': 3904262503011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+{'result': [], 'log_id': 3904341106011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaYi/2051246079.jpg /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+{'result': [{'score': 89.44832611084, 'index_i': '0', 'index_j': '1'}], 'log_id': 3904438281011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1749384580.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+{'result': [{'score': 61.281032562256, 'index_i': '0', 'index_j': '1'}], 'log_id': 3904545168011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/107414087.jpg /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+{'result': [{'score': 95.39444732666, 'index_i': '0', 'index_j': '1'}], 'log_id': 3904640312011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1980251225.jpg /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+{'result': [{'score': 90.669708251953, 'index_i': '0', 'index_j': '1'}], 'log_id': 3904732074011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+{'result': [{'score': 57.113956451416, 'index_i': '0', 'index_j': '1'}], 'log_id': 3904866546011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+{'result': [], 'log_id': 3904970361011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/1980251225.jpg /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+{'result': [{'score': 91.502967834473, 'index_i': '0', 'index_j': '1'}], 'log_id': 3905045814011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png
+{'result': [], 'log_id': 3905153581011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/1980251225.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+{'result': [{'score': 72.269981384277, 'index_i': '0', 'index_j': '1'}], 'log_id': 3905285666011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+{'result': [{'score': 91.389770507812, 'index_i': '0', 'index_j': '1'}], 'log_id': 3905392973011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1078229885.jpg /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+{'result': [], 'log_id': 3905526875011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/399379745.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+{'result': [{'score': 56.287075042725, 'index_i': '0', 'index_j': '1'}], 'log_id': 3905646882011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1742288226.jpg /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+{'result': [], 'log_id': 3905750581011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+{'result': [{'score': 76.124816894531, 'index_i': '0', 'index_j': '1'}], 'log_id': 3905883098011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2034710973.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+{'result': [{'score': 92.13606262207, 'index_i': '0', 'index_j': '1'}], 'log_id': 3906008198011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+{'result': [{'score': 71.26904296875, 'index_i': '0', 'index_j': '1'}], 'log_id': 3906117269011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/338090423.jpg /home/shushi/Pic/ZhuJiaYi/1030612579.jpg
+{'result': [], 'log_id': 3906251517011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/1026213847.jpg /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+{'result': [{'score': 90.804153442383, 'index_i': '0', 'index_j': '1'}], 'log_id': 3906369711011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+{'result': [{'score': 92.01392364502, 'index_i': '0', 'index_j': '1'}], 'log_id': 3906570753011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+{'result': [], 'log_id': 3906672984011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png /home/shushi/Pic/ZhuJiaYi/895953682.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaYi/399379745.jpg /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+{'result': [{'score': 79.991882324219, 'index_i': '0', 'index_j': '1'}], 'log_id': 3906861140011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+{'result': [{'score': 56.042896270752, 'index_i': '0', 'index_j': '1'}], 'log_id': 3906973320011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1836482221.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+{'result': [{'score': 67.048957824707, 'index_i': '0', 'index_j': '1'}], 'log_id': 3907068730011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+{'result': [{'score': 92.41429901123, 'index_i': '0', 'index_j': '1'}], 'log_id': 3907167743011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+{'result': [{'score': 91.117774963379, 'index_i': '0', 'index_j': '1'}], 'log_id': 3907257289011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1980251225.jpg /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+{'result': [{'score': 90.069389343262, 'index_i': '0', 'index_j': '1'}], 'log_id': 3907339825011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+{'result': [{'score': 58.772029876709, 'index_i': '0', 'index_j': '1'}], 'log_id': 3907457170011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1026213847.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+{'result': [{'score': 91.261138916016, 'index_i': '0', 'index_j': '1'}], 'log_id': 3907558500011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/895953682.jpg /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+{'result': [], 'log_id': 3907648256011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/1749384580.jpg /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaYi/1742112983.jpg /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+{'result': [{'score': 76.672416687012, 'index_i': '0', 'index_j': '1'}], 'log_id': 3907739693011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+{'result': [{'score': 92.514778137207, 'index_i': '0', 'index_j': '1'}], 'log_id': 3907830147011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/52404415.jpg /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+{'result': [{'score': 89.123565673828, 'index_i': '0', 'index_j': '1'}], 'log_id': 3907907028011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2034710973.jpg /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaYi/1363304684.jpg /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaYi/249104539.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+{'result': [{'score': 91.389770507812, 'index_i': '0', 'index_j': '1'}], 'log_id': 3908058503011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1242374213.jpg /home/shushi/Pic/ZhuJiaYi/1030612579.jpg
+{'result': [], 'log_id': 3908169158011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/399379745.jpg /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+{'result': [{'score': 69.852180480957, 'index_i': '0', 'index_j': '1'}], 'log_id': 3908289903011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1242374213.jpg /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+{'result': [{'score': 82.280776977539, 'index_i': '0', 'index_j': '1'}], 'log_id': 3908383853011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaYi/1030612579.jpg /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+{'result': [], 'log_id': 3908568098011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/249104539.jpg /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+{'result': [{'score': 95.234619140625, 'index_i': '0', 'index_j': '1'}], 'log_id': 3908656525011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png /home/shushi/Pic/ZhuJiaYi/1030612579.jpg
+{'result': [], 'log_id': 3908840738011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+{'result': [], 'log_id': 3908943002011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/1870723223.jpg /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaYi/1242374213.jpg /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+{'result': [{'score': 90.097381591797, 'index_i': '0', 'index_j': '1'}], 'log_id': 3909052735011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+{'result': [{'score': 65.883720397949, 'index_i': '0', 'index_j': '1'}], 'log_id': 3909203284011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+{'result': [{'score': 53.252075195312, 'index_i': '0', 'index_j': '1'}], 'log_id': 3909353338011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/895953682.jpg /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+{'result': [], 'log_id': 3909476603011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/1565773646.jpg /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+{'result': [{'score': 60.498329162598, 'index_i': '0', 'index_j': '1'}], 'log_id': 3909577136011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png /home/shushi/Pic/ZhuJiaYi/396487429.jpg
+{'result': [], 'log_id': 3909776286011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+{'result': [{'score': 92.610260009766, 'index_i': '0', 'index_j': '1'}], 'log_id': 3909934344011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+{'result': [{'score': 61.281032562256, 'index_i': '0', 'index_j': '1'}], 'log_id': 3910053897011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png
+{'result': [], 'log_id': 3910182083011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/1836482221.jpg /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+{'result': [], 'log_id': 3910266891011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/967582628.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png
+{'result': [], 'log_id': 3910355898011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+{'result': [{'score': 90.413688659668, 'index_i': '0', 'index_j': '1'}], 'log_id': 3910460493011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1242374213.jpg /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+{'result': [], 'log_id': 3910549983011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/1363304684.jpg /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+{'result': [{'score': 91.517166137695, 'index_i': '0', 'index_j': '1'}], 'log_id': 3910637638011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1565773646.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+{'result': [{'score': 79.324653625488, 'index_i': '0', 'index_j': '1'}], 'log_id': 3910808547011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+{'result': [{'score': 73.271820068359, 'index_i': '0', 'index_j': '1'}], 'log_id': 3910944007011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg /home/shushi/Pic/ZhuJiaYi/895953682.jpg
+{'result': [], 'log_id': 3911035526011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/399379745.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+{'result': [{'score': 73.953147888184, 'index_i': '0', 'index_j': '1'}], 'log_id': 3911123643011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/107414087.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+{'result': [{'score': 49.866558074951, 'index_i': '0', 'index_j': '1'}], 'log_id': 3911234087011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/536237754.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+{'result': [{'score': 57.971019744873, 'index_i': '0', 'index_j': '1'}], 'log_id': 3911344119011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1078229885.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+{'result': [{'score': 43.645885467529, 'index_i': '0', 'index_j': '1'}], 'log_id': 3911510757011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+{'result': [{'score': 91.117774963379, 'index_i': '0', 'index_j': '1'}], 'log_id': 3911602942011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1242374213.jpg /home/shushi/Pic/ZhuJiaYi/1556060239.jpg
+{'result': [], 'log_id': 3911686052011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/1943018685.jpg /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+{'result': [{'score': 91.496307373047, 'index_i': '0', 'index_j': '1'}], 'log_id': 3911767136011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/396487429.jpg /home/shushi/Pic/ZhuJiaYi/1030612579.jpg
+{'result': [], 'log_id': 3911893341011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/1980251225.jpg /home/shushi/Pic/ZhuJiaYi/1556060239.jpg
+{'result': [], 'log_id': 3911968459011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/1742112983.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+{'result': [{'score': 62.663867950439, 'index_i': '0', 'index_j': '1'}], 'log_id': 3912078226011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+{'result': [{'score': 91.303077697754, 'index_i': '0', 'index_j': '1'}], 'log_id': 3912186603011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/107414087.jpg /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+{'result': [{'score': 92.988998413086, 'index_i': '0', 'index_j': '1'}], 'log_id': 3912272509011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/967582628.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+{'result': [{'score': 90.696029663086, 'index_i': '0', 'index_j': '1'}], 'log_id': 3912382576011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+{'result': [], 'log_id': 3912504474011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+{'result': [{'score': 96.879417419434, 'index_i': '0', 'index_j': '1'}], 'log_id': 3912599021011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1487896716.jpg /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+{'result': [{'score': 100, 'index_i': '0', 'index_j': '1'}], 'log_id': 3912685823011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1437230887.jpg /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+{'result': [{'score': 78.371887207031, 'index_i': '0', 'index_j': '1'}], 'log_id': 3912777914011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+{'result': [{'score': 95.057197570801, 'index_i': '0', 'index_j': '1'}], 'log_id': 3912857712011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1487896716.jpg /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+{'result': [{'score': 73.720016479492, 'index_i': '0', 'index_j': '1'}], 'log_id': 3912942991011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1943018685.jpg /home/shushi/Pic/ZhuJiaYi/1030612579.jpg
+{'result': [], 'log_id': 3913058256011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/1591080402.jpg /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+{'result': [{'score': 74.385093688965, 'index_i': '0', 'index_j': '1'}], 'log_id': 3913153734011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1591080402.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+{'result': [{'score': 90.247772216797, 'index_i': '0', 'index_j': '1'}], 'log_id': 3913245886011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+{'result': [{'score': 54.005584716797, 'index_i': '0', 'index_j': '1'}], 'log_id': 3913354860011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/52404415.jpg /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+{'result': [{'score': 78.35066986084, 'index_i': '0', 'index_j': '1'}], 'log_id': 3913440812011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1591080402.jpg /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+{'result': [{'score': 75.809516906738, 'index_i': '0', 'index_j': '1'}], 'log_id': 3913525891011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1437230887.jpg /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaYi/1556060239.jpg /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+{'result': [], 'log_id': 3913637616011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/895953682.jpg /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaYi/1078229885.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+{'result': [{'score': 90.671119689941, 'index_i': '0', 'index_j': '1'}], 'log_id': 3913746526011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1836482221.jpg /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+{'result': [{'score': 70.579025268555, 'index_i': '0', 'index_j': '1'}], 'log_id': 3913827670011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+{'result': [], 'log_id': 3913935645011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/891633917.jpg /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+{'result': [{'score': 73.800254821777, 'index_i': '0', 'index_j': '1'}], 'log_id': 3914013007011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1749384580.jpg /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+{'result': [{'score': 92.05094909668, 'index_i': '0', 'index_j': '1'}], 'log_id': 3914105798011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+{'result': [], 'log_id': 3914204973011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaYi/1943018685.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+{'result': [{'score': 87.432098388672, 'index_i': '0', 'index_j': '1'}], 'log_id': 3914303467011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaYi/1252201024.jpg /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+{'result': [{'score': 71.662673950195, 'index_i': '0', 'index_j': '1'}], 'log_id': 3914388990011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+{'result': [{'score': 78.56950378418, 'index_i': '0', 'index_j': '1'}], 'log_id': 3914498768011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+{'result': [{'score': 70.640953063965, 'index_i': '0', 'index_j': '1'}], 'log_id': 3914615877011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+{'result': [{'score': 38.742847442627, 'index_i': '0', 'index_j': '1'}], 'log_id': 3914712452011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+{'result': [{'score': 70.764778137207, 'index_i': '0', 'index_j': '1'}], 'log_id': 3914798550011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+{'result': [{'score': 73.750633239746, 'index_i': '0', 'index_j': '1'}], 'log_id': 3914911025011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+{'result': [{'score': 88.103393554688, 'index_i': '0', 'index_j': '1'}], 'log_id': 3915027984011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+{'result': [{'score': 76.223121643066, 'index_i': '0', 'index_j': '1'}], 'log_id': 3915153133011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg /home/shushi/Pic/ZhuJiaYi/1556060239.jpg
+{'result': [], 'log_id': 3915236471011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+{'result': [{'score': 67.643730163574, 'index_i': '0', 'index_j': '1'}], 'log_id': 3915334411011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+{'result': [{'score': 79.078063964844, 'index_i': '0', 'index_j': '1'}], 'log_id': 3915449261011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+{'result': [{'score': 70.940765380859, 'index_i': '0', 'index_j': '1'}], 'log_id': 3915569261011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+{'result': [{'score': 89.90397644043, 'index_i': '0', 'index_j': '1'}], 'log_id': 3915688641011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+{'result': [{'score': 79.97420501709, 'index_i': '0', 'index_j': '1'}], 'log_id': 3915783472011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png
+{'result': [], 'log_id': 3915884642011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+{'result': [{'score': 63.306732177734, 'index_i': '0', 'index_j': '1'}], 'log_id': 3915981729011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+{'result': [{'score': 91.606857299805, 'index_i': '0', 'index_j': '1'}], 'log_id': 3916065210011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png
+{'result': [], 'log_id': 3916164917011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+{'result': [{'score': 74.61092376709, 'index_i': '0', 'index_j': '1'}], 'log_id': 3916242136011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+{'result': [], 'log_id': 3916364097011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+{'result': [{'score': 48.449241638184, 'index_i': '0', 'index_j': '1'}], 'log_id': 3916464891011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg /home/shushi/Pic/ZhuJiaYi/895953682.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+{'result': [{'score': 83.856254577637, 'index_i': '0', 'index_j': '1'}], 'log_id': 3916633416011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+{'result': [{'score': 77.022468566895, 'index_i': '0', 'index_j': '1'}], 'log_id': 3916739856011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+{'result': [{'score': 26.713874816895, 'index_i': '0', 'index_j': '1'}], 'log_id': 3916854391011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+{'result': [{'score': 61.248310089111, 'index_i': '0', 'index_j': '1'}], 'log_id': 3916946790011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+{'result': [], 'log_id': 3917096698011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png
+{'result': [], 'log_id': 3917227079011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+{'result': [{'score': 67.203025817871, 'index_i': '0', 'index_j': '1'}], 'log_id': 3917295094011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+{'result': [{'score': 69.225120544434, 'index_i': '0', 'index_j': '1'}], 'log_id': 3917438990011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+{'result': [{'score': 61.781364440918, 'index_i': '0', 'index_j': '1'}], 'log_id': 3917543748011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+{'result': [{'score': 78.857231140137, 'index_i': '0', 'index_j': '1'}], 'log_id': 3917640409011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+{'result': [{'score': 80.406753540039, 'index_i': '0', 'index_j': '1'}], 'log_id': 3917725902011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+{'result': [{'score': 84.585952758789, 'index_i': '0', 'index_j': '1'}], 'log_id': 3917816399011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+{'result': [{'score': 76.93879699707, 'index_i': '0', 'index_j': '1'}], 'log_id': 3917901125011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+{'result': [{'score': 80.920845031738, 'index_i': '0', 'index_j': '1'}], 'log_id': 3917984432011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+{'result': [{'score': 75.29320526123, 'index_i': '0', 'index_j': '1'}], 'log_id': 3918088016011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+{'result': [{'score': 91.614143371582, 'index_i': '0', 'index_j': '1'}], 'log_id': 3918211983011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+{'result': [{'score': 54.011085510254, 'index_i': '0', 'index_j': '1'}], 'log_id': 3918313934011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg /home/shushi/Pic/ZhuJiaYi/1556060239.jpg
+{'result': [], 'log_id': 3918424976011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+{'result': [{'score': 90.890312194824, 'index_i': '0', 'index_j': '1'}], 'log_id': 3918528482011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+{'result': [{'score': 66.583534240723, 'index_i': '0', 'index_j': '1'}], 'log_id': 3918670720011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+{'result': [{'score': 67.579902648926, 'index_i': '0', 'index_j': '1'}], 'log_id': 3918768581011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+{'result': [{'score': 64.34854888916, 'index_i': '0', 'index_j': '1'}], 'log_id': 3918854680011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+{'result': [{'score': 76.22437286377, 'index_i': '0', 'index_j': '1'}], 'log_id': 3918968481011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+{'result': [{'score': 91.926620483398, 'index_i': '0', 'index_j': '1'}], 'log_id': 3919062486011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+{'result': [{'score': 66.253326416016, 'index_i': '0', 'index_j': '1'}], 'log_id': 3919153036011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+{'result': [], 'log_id': 3919262958011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+{'result': [{'score': 46.114452362061, 'index_i': '0', 'index_j': '1'}], 'log_id': 3919367072011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+{'result': [{'score': 66.18049621582, 'index_i': '0', 'index_j': '1'}], 'log_id': 3919464744011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+{'result': [{'score': 92.980415344238, 'index_i': '0', 'index_j': '1'}], 'log_id': 3919562112011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png
+{'result': [], 'log_id': 3919658359011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+{'result': [{'score': 61.248310089111, 'index_i': '0', 'index_j': '1'}], 'log_id': 3919735918011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+{'result': [{'score': 73.209983825684, 'index_i': '0', 'index_j': '1'}], 'log_id': 3919846624011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+{'result': [{'score': 90.341995239258, 'index_i': '0', 'index_j': '1'}], 'log_id': 3919950835011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+{'result': [{'score': 73.463676452637, 'index_i': '0', 'index_j': '1'}], 'log_id': 3920034017011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png
+{'result': [], 'log_id': 3920145113011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+{'result': [{'score': 63.340030670166, 'index_i': '0', 'index_j': '1'}], 'log_id': 3920262620011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+{'result': [{'score': 87.010498046875, 'index_i': '0', 'index_j': '1'}], 'log_id': 3920366896011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+{'result': [{'score': 91.166221618652, 'index_i': '0', 'index_j': '1'}], 'log_id': 3920452013011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+{'result': [{'score': 74.276000976562, 'index_i': '0', 'index_j': '1'}], 'log_id': 3920550701011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg /home/shushi/Pic/ZhuJiaYi/396487429.jpg
+{'result': [], 'log_id': 3920647271011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+{'result': [{'score': 75.316925048828, 'index_i': '0', 'index_j': '1'}], 'log_id': 3920720480011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+{'result': [{'score': 52.882247924805, 'index_i': '0', 'index_j': '1'}], 'log_id': 3920842923011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+{'result': [{'score': 91.267044067383, 'index_i': '0', 'index_j': '1'}], 'log_id': 3920923238011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg /home/shushi/Pic/ZhuJiaYi/1030612579.jpg
+{'result': [], 'log_id': 3921094560011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png
+{'result': [], 'log_id': 3921196576011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+{'result': [{'score': 60.38977432251, 'index_i': '0', 'index_j': '1'}], 'log_id': 3921285486011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+{'result': [{'score': 46.709190368652, 'index_i': '0', 'index_j': '1'}], 'log_id': 3921410160011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+{'result': [{'score': 76.658325195312, 'index_i': '0', 'index_j': '1'}], 'log_id': 3921565110011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+{'result': [{'score': 71.392044067383, 'index_i': '0', 'index_j': '1'}], 'log_id': 3921660353011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+{'result': [{'score': 70.436248779297, 'index_i': '0', 'index_j': '1'}], 'log_id': 3921740620011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+{'result': [{'score': 77.044441223145, 'index_i': '0', 'index_j': '1'}], 'log_id': 3921842083011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+{'result': [{'score': 91.454223632812, 'index_i': '0', 'index_j': '1'}], 'log_id': 3921927175011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+{'result': [{'score': 63.337600708008, 'index_i': '0', 'index_j': '1'}], 'log_id': 3922046443011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+{'result': [], 'log_id': 3922132900011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+{'result': [{'score': 49.640705108643, 'index_i': '0', 'index_j': '1'}], 'log_id': 3922230543011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+{'result': [{'score': 67.828460693359, 'index_i': '0', 'index_j': '1'}], 'log_id': 3922332809011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+{'result': [{'score': 76.021545410156, 'index_i': '0', 'index_j': '1'}], 'log_id': 3922419563011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+{'result': [{'score': 81.610633850098, 'index_i': '0', 'index_j': '1'}], 'log_id': 3922584737011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+{'result': [{'score': 84.625968933105, 'index_i': '0', 'index_j': '1'}], 'log_id': 3922719499011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg /home/shushi/Pic/ZhuJiaYi/1030612579.jpg
+{'result': [], 'log_id': 3922848370011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+{'result': [{'score': 60.830963134766, 'index_i': '0', 'index_j': '1'}], 'log_id': 3922948616011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+{'result': [{'score': 74.141677856445, 'index_i': '0', 'index_j': '1'}], 'log_id': 3923052043011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+{'result': [{'score': 47.572460174561, 'index_i': '0', 'index_j': '1'}], 'log_id': 3923166816011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+{'result': [{'score': 90.524215698242, 'index_i': '0', 'index_j': '1'}], 'log_id': 3923381870011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+{'result': [{'score': 77.083137512207, 'index_i': '0', 'index_j': '1'}], 'log_id': 3923473851011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg /home/shushi/Pic/ZhuJiaYi/1556060239.jpg
+{'result': [], 'log_id': 3923567857011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+{'result': [{'score': 85.241523742676, 'index_i': '0', 'index_j': '1'}], 'log_id': 3923636010011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+{'result': [{'score': 61.363746643066, 'index_i': '0', 'index_j': '1'}], 'log_id': 3923740530011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+{'result': [{'score': 35.311553955078, 'index_i': '0', 'index_j': '1'}], 'log_id': 3923859340011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+{'result': [{'score': 57.581966400146, 'index_i': '0', 'index_j': '1'}], 'log_id': 3924464790011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg /home/shushi/Pic/ZhuJiaYi/1030612579.jpg
+{'result': [], 'log_id': 3924577599011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg /home/shushi/Pic/ZhuJiaYi/1556060239.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png
+{'result': [], 'log_id': 3924754513011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+{'result': [{'score': 73.268226623535, 'index_i': '0', 'index_j': '1'}], 'log_id': 3924853428011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+{'result': [{'score': 73.666862487793, 'index_i': '0', 'index_j': '1'}], 'log_id': 3924942253011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg /home/shushi/Pic/ZhuJiaYi/1030612579.jpg
+{'result': [], 'log_id': 3925058300011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+{'result': [{'score': 69.763511657715, 'index_i': '0', 'index_j': '1'}], 'log_id': 3925200297011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+{'result': [{'score': 84.551475524902, 'index_i': '0', 'index_j': '1'}], 'log_id': 3925304999011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg /home/shushi/Pic/ZhuJiaYi/1556060239.jpg
+{'result': [], 'log_id': 3925390959011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+{'result': [{'score': 74.518257141113, 'index_i': '0', 'index_j': '1'}], 'log_id': 3925531220011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+{'result': [{'score': 64.700942993164, 'index_i': '0', 'index_j': '1'}], 'log_id': 3925649336011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+{'result': [], 'log_id': 3925742900011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+{'result': [{'score': 51.461685180664, 'index_i': '0', 'index_j': '1'}], 'log_id': 3925861256011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+{'result': [{'score': 71.643127441406, 'index_i': '0', 'index_j': '1'}], 'log_id': 3926475355011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+{'result': [{'score': 58.715465545654, 'index_i': '0', 'index_j': '1'}], 'log_id': 3926595494011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+{'result': [], 'log_id': 3926729112011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+{'result': [{'score': 79.987831115723, 'index_i': '0', 'index_j': '1'}], 'log_id': 3926810128011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+{'result': [{'score': 79.512924194336, 'index_i': '0', 'index_j': '1'}], 'log_id': 3926898370011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+{'result': [{'score': 86.143768310547, 'index_i': '0', 'index_j': '1'}], 'log_id': 3926990929011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+{'result': [{'score': 74.843627929688, 'index_i': '0', 'index_j': '1'}], 'log_id': 3927082662011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+{'result': [{'score': 61.375885009766, 'index_i': '0', 'index_j': '1'}], 'log_id': 3927229942011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+{'result': [{'score': 78.576881408691, 'index_i': '0', 'index_j': '1'}], 'log_id': 3927321770011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png /home/shushi/Pic/ZhuJiaYi/1030612579.jpg
+{'result': [], 'log_id': 3927484479011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+{'result': [{'score': 91.619537353516, 'index_i': '0', 'index_j': '1'}], 'log_id': 3927609363011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png /home/shushi/Pic/ZhuJiaYi/1487896716.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+{'result': [{'score': 71.824493408203, 'index_i': '0', 'index_j': '1'}], 'log_id': 3927747235011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+{'result': [{'score': 62.71346282959, 'index_i': '0', 'index_j': '1'}], 'log_id': 3927845182011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+{'result': [{'score': 91.936561584473, 'index_i': '0', 'index_j': '1'}], 'log_id': 3927940135011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+{'result': [{'score': 80.682518005371, 'index_i': '0', 'index_j': '1'}], 'log_id': 3928047459011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+{'result': [{'score': 82.74333190918, 'index_i': '0', 'index_j': '1'}], 'log_id': 3928129172011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+{'result': [{'score': 73.252311706543, 'index_i': '0', 'index_j': '1'}], 'log_id': 3928248880011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+{'result': [{'score': 73.47526550293, 'index_i': '0', 'index_j': '1'}], 'log_id': 3928343927011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+{'result': [{'score': 61.025421142578, 'index_i': '0', 'index_j': '1'}], 'log_id': 3928434944011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+{'result': [], 'log_id': 3928542177011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+{'result': [{'score': 46.674087524414, 'index_i': '0', 'index_j': '1'}], 'log_id': 3928626905011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png
+{'result': [], 'log_id': 3928726878011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+{'result': [{'score': 76.062301635742, 'index_i': '0', 'index_j': '1'}], 'log_id': 3928810509011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+{'result': [{'score': 61.961616516113, 'index_i': '0', 'index_j': '1'}], 'log_id': 3928933766011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+{'result': [{'score': 73.12451171875, 'index_i': '0', 'index_j': '1'}], 'log_id': 3929043046011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg /home/shushi/Pic/ZhuJiaYi/891633917.jpg
+{'result': [{'score': 83.960830688477, 'index_i': '0', 'index_j': '1'}], 'log_id': 3929130016011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+{'result': [{'score': 92.434585571289, 'index_i': '0', 'index_j': '1'}], 'log_id': 3929208243011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+{'result': [{'score': 55.726383209229, 'index_i': '0', 'index_j': '1'}], 'log_id': 3929306897011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+{'result': [{'score': 76.913177490234, 'index_i': '0', 'index_j': '1'}], 'log_id': 3929439647011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+{'result': [{'score': 78.612747192383, 'index_i': '0', 'index_j': '1'}], 'log_id': 3929535528011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+{'result': [{'score': 82.074462890625, 'index_i': '0', 'index_j': '1'}], 'log_id': 3929645806011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+{'result': [], 'log_id': 3929752169011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+{'result': [{'score': 74.873893737793, 'index_i': '0', 'index_j': '1'}], 'log_id': 3929953164011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png /home/shushi/Pic/ZhuJiaYi/895953682.jpg
+{'result': [], 'log_id': 3930062184011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+{'result': [{'score': 91.125350952148, 'index_i': '0', 'index_j': '1'}], 'log_id': 3930163726011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+{'result': [], 'log_id': 3930253034011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg /home/shushi/Pic/ZhuJiaYi/1556060239.jpg
+{'result': [], 'log_id': 3930329617011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+{'result': [{'score': 76.740737915039, 'index_i': '0', 'index_j': '1'}], 'log_id': 3930427385011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+{'result': [{'score': 93.009887695312, 'index_i': '0', 'index_j': '1'}], 'log_id': 3930512020011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+{'result': [{'score': 91.119262695312, 'index_i': '0', 'index_j': '1'}], 'log_id': 3930594736011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+{'result': [{'score': 90.524215698242, 'index_i': '0', 'index_j': '1'}], 'log_id': 3930704356011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+{'result': [], 'log_id': 3930825856011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-26.png /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+{'result': [{'score': 90.120231628418, 'index_i': '0', 'index_j': '1'}], 'log_id': 3930941505011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1371640660.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+{'result': [], 'log_id': 3931056417011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+{'result': [{'score': 42.567722320557, 'index_i': '0', 'index_j': '1'}], 'log_id': 3931179245011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/288171084.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+{'result': [{'score': 40.088554382324, 'index_i': '0', 'index_j': '1'}], 'log_id': 3931305856011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+{'result': [{'score': 87.341331481934, 'index_i': '0', 'index_j': '1'}], 'log_id': 3931468475011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+{'result': [{'score': 64.212181091309, 'index_i': '0', 'index_j': '1'}], 'log_id': 3931561378011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+{'result': [{'score': 72.894081115723, 'index_i': '0', 'index_j': '1'}], 'log_id': 3931644898011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+{'result': [{'score': 58.149402618408, 'index_i': '0', 'index_j': '1'}], 'log_id': 3931736285011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+{'result': [{'score': 76.062301635742, 'index_i': '0', 'index_j': '1'}], 'log_id': 3931822942011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+{'result': [{'score': 91.373550415039, 'index_i': '0', 'index_j': '1'}], 'log_id': 3931942696011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+{'result': [{'score': 82.814407348633, 'index_i': '0', 'index_j': '1'}], 'log_id': 3932031275011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/1368453483.jpg /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+{'result': [{'score': 72.199890136719, 'index_i': '0', 'index_j': '1'}], 'log_id': 3932167147011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+{'result': [{'score': 81.97518157959, 'index_i': '0', 'index_j': '1'}], 'log_id': 3932266691011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg /home/shushi/Pic/ZhuJiaYi/1749384580.jpg
+{'result': [{'score': 87.439323425293, 'index_i': '0', 'index_j': '1'}], 'log_id': 3932345632011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+{'result': [{'score': 77.659446716309, 'index_i': '0', 'index_j': '1'}], 'log_id': 3932426906011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+{'result': [{'score': 41.273777008057, 'index_i': '0', 'index_j': '1'}], 'log_id': 3932566936011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg /home/shushi/Pic/ZhuJiaYi/895953682.jpg
+{'result': [], 'log_id': 3932666722011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+{'result': [{'score': 86.452651977539, 'index_i': '0', 'index_j': '1'}], 'log_id': 3932742252011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg /home/shushi/Pic/ZhuJiaYi/52404415.jpg
+{'result': [{'score': 91.313453674316, 'index_i': '0', 'index_j': '1'}], 'log_id': 3932870435011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+{'result': [{'score': 69.118438720703, 'index_i': '0', 'index_j': '1'}], 'log_id': 3933010526011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+{'result': [], 'log_id': 3933138985011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+{'result': [{'score': 56.681602478027, 'index_i': '0', 'index_j': '1'}], 'log_id': 3933235400011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+{'result': [{'score': 70.940765380859, 'index_i': '0', 'index_j': '1'}], 'log_id': 3933344230011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+{'result': [{'score': 90.778129577637, 'index_i': '0', 'index_j': '1'}], 'log_id': 3933448520011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+{'result': [{'score': 90.450752258301, 'index_i': '0', 'index_j': '1'}], 'log_id': 3933532736011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+{'result': [], 'log_id': 3933665966011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+{'result': [{'score': 80.920845031738, 'index_i': '0', 'index_j': '1'}], 'log_id': 3933743676011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+{'result': [{'score': 45.470600128174, 'index_i': '0', 'index_j': '1'}], 'log_id': 3933848358011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+{'result': [{'score': 90.820495605469, 'index_i': '0', 'index_j': '1'}], 'log_id': 3933934035011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+{'result': [{'score': 48.789772033691, 'index_i': '0', 'index_j': '1'}], 'log_id': 3934039162011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+{'result': [{'score': 56.740047454834, 'index_i': '0', 'index_j': '1'}], 'log_id': 3934171774011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+{'result': [{'score': 73.41527557373, 'index_i': '0', 'index_j': '1'}], 'log_id': 3934259238011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg /home/shushi/Pic/ZhuJiaYi/1556060239.jpg
+{'result': [], 'log_id': 3934341018011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-40-05.png /home/shushi/Pic/ZhuJiaYi/1742112983.jpg
+{'result': [{'score': 79.651268005371, 'index_i': '0', 'index_j': '1'}], 'log_id': 3934457984011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg /home/shushi/Pic/ZhuJiaYi/895953682.jpg
+{'result': [], 'log_id': 3934565646011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+{'result': [{'score': 73.510757446289, 'index_i': '0', 'index_j': '1'}], 'log_id': 3934674923011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+{'result': [{'score': 51.891227722168, 'index_i': '0', 'index_j': '1'}], 'log_id': 3934781490011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+{'result': [], 'log_id': 3934902542011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+{'result': [{'score': 91.380569458008, 'index_i': '0', 'index_j': '1'}], 'log_id': 3934982107011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+{'result': [{'score': 79.446067810059, 'index_i': '0', 'index_j': '1'}], 'log_id': 3935089190011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png /home/shushi/Pic/ZhuJiaYi/1881654506.jpg
+{'result': [{'score': 74.139938354492, 'index_i': '0', 'index_j': '1'}], 'log_id': 3935195688011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg /home/shushi/Pic/ZhuJiaYi/1556060239.jpg
+{'result': [], 'log_id': 3935282761011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+{'result': [], 'log_id': 3935370880011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+{'result': [{'score': 53.07230758667, 'index_i': '0', 'index_j': '1'}], 'log_id': 3935437692011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1735962714.jpg /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-55.png
+{'result': [{'score': 87.341331481934, 'index_i': '0', 'index_j': '1'}], 'log_id': 3935576387011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg /home/shushi/Pic/ZhuJiaYi/1363304684.jpg
+{'result': [{'score': 82.455612182617, 'index_i': '0', 'index_j': '1'}], 'log_id': 3935672902011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+{'result': [{'score': 73.510757446289, 'index_i': '0', 'index_j': '1'}], 'log_id': 3935785180011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+{'result': [{'score': 33.315155029297, 'index_i': '0', 'index_j': '1'}], 'log_id': 3935922911011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+{'result': [{'score': 64.535537719727, 'index_i': '0', 'index_j': '1'}], 'log_id': 3936033232011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-04 17-32-14.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+{'result': [{'score': 65.945510864258, 'index_i': '0', 'index_j': '1'}], 'log_id': 3936156830011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+{'result': [{'score': 75.357635498047, 'index_i': '0', 'index_j': '1'}], 'log_id': 3936305133011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+{'result': [], 'log_id': 3936402019011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-41.png
+{'result': [], 'log_id': 3936493693011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+{'result': [{'score': 75.316925048828, 'index_i': '0', 'index_j': '1'}], 'log_id': 3936557996011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-40-55.png
+{'result': [{'score': 54.382091522217, 'index_i': '0', 'index_j': '1'}], 'log_id': 3936666043011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg /home/shushi/Pic/ZhuJiaYi/2051246079.jpg
+{'result': [{'score': 68.515930175781, 'index_i': '0', 'index_j': '1'}], 'log_id': 3936750735011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+{'result': [{'score': 48.674140930176, 'index_i': '0', 'index_j': '1'}], 'log_id': 3936893984011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+{'result': [], 'log_id': 3937051700011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+{'result': [{'score': 51.583679199219, 'index_i': '0', 'index_j': '1'}], 'log_id': 3937141103011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-38-1.png /home/shushi/Pic/ZhuJiaYi/1252201024.jpg
+{'result': [{'score': 90.366172790527, 'index_i': '0', 'index_j': '1'}], 'log_id': 3937245042011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg /home/shushi/Pic/ZhuJiaYi/1030612579.jpg
+{'result': [], 'log_id': 3937357782011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+{'result': [], 'log_id': 3937558856011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg /home/shushi/Pic/ZhuJiaYi/107414087.jpg
+{'result': [{'score': 80.310531616211, 'index_i': '0', 'index_j': '1'}], 'log_id': 3937640466011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/144969499.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-44-20.png
+{'result': [{'score': 68.233154296875, 'index_i': '0', 'index_j': '1'}], 'log_id': 3937773366011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg /home/shushi/Pic/ZhuJiaYi/536237754.jpg
+{'result': [{'score': 90.957550048828, 'index_i': '0', 'index_j': '1'}], 'log_id': 3937876258011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2128979448.jpg /home/shushi/Pic/ZhuJiaYi/396487429.jpg
+{'result': [], 'log_id': 3937965407011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+{'result': [{'score': 75.491683959961, 'index_i': '0', 'index_j': '1'}], 'log_id': 3938038990011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+{'result': [{'score': 91.359603881836, 'index_i': '0', 'index_j': '1'}], 'log_id': 3938138443011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/994969388.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+{'result': [{'score': 61.641937255859, 'index_i': '0', 'index_j': '1'}], 'log_id': 3938238202011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/543702080.jpg /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+{'result': [{'score': 90.210266113281, 'index_i': '0', 'index_j': '1'}], 'log_id': 3938321830011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg /home/shushi/Pic/ZhuJiaYi/1591080402.jpg
+{'result': [{'score': 71.496650695801, 'index_i': '0', 'index_j': '1'}], 'log_id': 3938432445011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/742408606.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+{'result': [{'score': 84.934829711914, 'index_i': '0', 'index_j': '1'}], 'log_id': 3938545068011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1499926792.jpg /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+{'result': [{'score': 72.693656921387, 'index_i': '0', 'index_j': '1'}], 'log_id': 3938638571011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/522832377.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+{'result': [{'score': 56.740047454834, 'index_i': '0', 'index_j': '1'}], 'log_id': 3938755054011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/75195746.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+{'result': [{'score': 44.441631317139, 'index_i': '0', 'index_j': '1'}], 'log_id': 3939054749011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg /home/shushi/Pic/ZhuJiaYi/338090423.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaYi/1943018685.jpg
+{'error_code': 18, 'error_msg': 'Open api qps request limit reached'}
+error
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-04-35.png
+{'result': [{'score': 79.104522705078, 'index_i': '0', 'index_j': '1'}], 'log_id': 3939258541011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/823499221.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+{'result': [{'score': 43.716083526611, 'index_i': '0', 'index_j': '1'}], 'log_id': 3939371128011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1562718419.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-42-30.png
+{'result': [{'score': 77.707710266113, 'index_i': '0', 'index_j': '1'}], 'log_id': 3939492173011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-48.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+{'result': [], 'log_id': 3939656487011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg /home/shushi/Pic/ZhuJiaYi/967582628.jpg
+{'result': [{'score': 92.337760925293, 'index_i': '0', 'index_j': '1'}], 'log_id': 3939742225011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+{'result': [{'score': 77.022468566895, 'index_i': '0', 'index_j': '1'}], 'log_id': 3939847467011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1748811887.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-04 18-05-10.png
+{'result': [{'score': 92.980415344238, 'index_i': '0', 'index_j': '1'}], 'log_id': 3939952114011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg /home/shushi/Pic/ZhuJiaYi/1026213847.jpg
+{'result': [{'score': 74.812126159668, 'index_i': '0', 'index_j': '1'}], 'log_id': 3940049046011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg /home/shushi/Pic/ZhuJiaYi/1870723223.jpg
+{'result': [{'score': 82.074462890625, 'index_i': '0', 'index_j': '1'}], 'log_id': 3940136666011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/401828318.jpg /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+{'result': [{'score': 68.269874572754, 'index_i': '0', 'index_j': '1'}], 'log_id': 3940240601011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1812528523.jpg /home/shushi/Pic/ZhuJiaYi/895953682.jpg
+{'result': [], 'log_id': 3940336467011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+{'result': [{'score': 79.904678344727, 'index_i': '0', 'index_j': '1'}], 'log_id': 3940414334011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg /home/shushi/Pic/ZhuJiaYi/399379745.jpg
+{'result': [], 'log_id': 3940507539011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/2040545053.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+{'result': [{'score': 86.657409667969, 'index_i': '0', 'index_j': '1'}], 'log_id': 3940583271011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/395018968.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-57.png
+{'result': [{'score': 57.744407653809, 'index_i': '0', 'index_j': '1'}], 'log_id': 3940684119011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+{'result': [{'score': 74.644752502441, 'index_i': '0', 'index_j': '1'}], 'log_id': 3940795378011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg /home/shushi/Pic/ZhuJiaYi/895953682.jpg
+{'result': [], 'log_id': 3940883532011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-40.png
+{'result': [{'score': 41.007926940918, 'index_i': '0', 'index_j': '1'}], 'log_id': 3940978845011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/454298170.jpg /home/shushi/Pic/ZhuJiaYi/1771124897.jpg
+{'result': [{'score': 76.515678405762, 'index_i': '0', 'index_j': '1'}], 'log_id': 3941068779011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+{'result': [{'score': 59.436763763428, 'index_i': '0', 'index_j': '1'}], 'log_id': 3941180955011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/384292195.jpg /home/shushi/Pic/ZhuJiaYi/1242374213.jpg
+{'result': [{'score': 62.850944519043, 'index_i': '0', 'index_j': '1'}], 'log_id': 3941264802011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg /home/shushi/Pic/ZhuJiaYi/1078229885.jpg
+{'result': [{'score': 78.995880126953, 'index_i': '0', 'index_j': '1'}], 'log_id': 3941352778011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/660317691.jpg /home/shushi/Pic/ZhuJiaYi/249104539.jpg
+{'result': [{'score': 76.982391357422, 'index_i': '0', 'index_j': '1'}], 'log_id': 3941456487011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/636772360.jpg /home/shushi/Pic/ZhuJiaYi/1742288226.jpg
+{'result': [], 'log_id': 3941552498011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/1553123673.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+{'result': [{'score': 61.487354278564, 'index_i': '0', 'index_j': '1'}], 'log_id': 3941641742011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg /home/shushi/Pic/ZhuJiaYi/1980251225.jpg
+{'result': [{'score': 79.525993347168, 'index_i': '0', 'index_j': '1'}], 'log_id': 3941729729011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/886078025.jpg /home/shushi/Pic/ZhuJiaYi/1437230887.jpg
+{'result': [], 'log_id': 3941840177011019, 'result_num': 0}
+/home/shushi/Pic/ZhuJiaWen/2018-01-09 15-39-0.png /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-41-14.png
+{'result': [{'score': 52.356563568115, 'index_i': '0', 'index_j': '1'}], 'log_id': 3941961385011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/761641544.jpg /home/shushi/Pic/ZhuJiaYi/1565773646.jpg
+{'result': [{'score': 51.583679199219, 'index_i': '0', 'index_j': '1'}], 'log_id': 3942084612011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1384139730.jpg /home/shushi/Pic/ZhuJiaYi/2018-01-09 15-43-43.png
+{'result': [{'score': 91.185012817383, 'index_i': '0', 'index_j': '1'}], 'log_id': 3942182993011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/1094188196.jpg /home/shushi/Pic/ZhuJiaYi/1836482221.jpg
+{'result': [{'score': 48.729583740234, 'index_i': '0', 'index_j': '1'}], 'log_id': 3942268304011019, 'result_num': 1}
+/home/shushi/Pic/ZhuJiaWen/417015209.jpg /home/shushi/Pic/ZhuJiaYi/2034710973.jpg
+{'result': [{'score': 73.81958770752, 'index_i': '0', 'index_j': '1'}], 'log_id': 3942349009011019, 'result_num': 1}
+confidence1: 76.24414371490481
+confidence2: 72.20378658294679
+
+Process finished with exit code 0
+

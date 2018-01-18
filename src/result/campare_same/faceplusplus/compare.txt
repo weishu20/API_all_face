@@ -1,0 +1,1463 @@
+729
+91.03803561643832
+
+
+
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-020.bmp
+confidence: 94.254  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-037.bmp
+confidence: 94.754  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-029.bmp
+confidence: 92.741  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-032.bmp
+confidence: 93.66  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-013.bmp
+confidence: 95.829  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-025.bmp
+confidence: 94.256  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-008.bmp
+confidence: 95.728  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-012.bmp
+confidence: 95.013  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-002.bmp
+confidence: 95.84  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-028.bmp
+confidence: 94.431  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-021.bmp
+confidence: 93.897  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-005.bmp
+confidence: 96.082  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-016.bmp
+confidence: 95.017  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-023.bmp
+confidence: 94.452  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-031.bmp
+confidence: 95.333  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-009.bmp
+confidence: 94.241  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-015.bmp
+confidence: 93.656  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-034.bmp
+confidence: 94.325  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-010.bmp
+confidence: 93.317  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-026.bmp
+confidence: 95.343  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-017.bmp
+confidence: 93.611  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-014.bmp
+confidence: 95.263  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-018.bmp
+confidence: 89.974  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-036.bmp
+confidence: 93.648  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-004.bmp
+confidence: 96.569  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-022.bmp
+confidence: 91.531  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-003.bmp
+confidence: 96.123  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-007.bmp
+confidence: 94.454  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-024.bmp
+confidence: 94.318  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-033.bmp
+confidence: 90.687  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-019.bmp
+confidence: 85.499  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-027.bmp
+confidence: 95.863  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-011.bmp
+confidence: 95.989  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-030.bmp
+confidence: 83.223  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-006.bmp
+confidence: 95.623  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/110/110-001.bmp vs /home/shushi/Pic/idealtest/idealtest/110/110-035.bmp
+confidence: 93.517  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-036.bmp
+confidence: 90.778  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-012.bmp
+confidence: 90.566  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-011.bmp
+confidence: 91.588  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-020.bmp
+confidence: 95.481  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-035.bmp
+confidence: 90.466  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-019.bmp
+confidence: 88.674  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-005.bmp
+confidence: 92.474  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-006.bmp
+confidence: 88.942  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-032.bmp
+confidence: 94.722  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-038.bmp
+confidence: 89.883  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-004.bmp
+confidence: 92.006  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-016.bmp
+confidence: 92.294  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-015.bmp
+confidence: 90.245  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-027.bmp
+confidence: 92.6  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-030.bmp
+confidence: 85.226  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-010.bmp
+confidence: 91.152  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-034.bmp
+confidence: 91.487  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-001.bmp
+confidence: 91.92  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-017.bmp
+confidence: 93.01  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-033.bmp
+confidence: 88.004  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-002.bmp
+confidence: 91.839  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-026.bmp
+confidence: 93.022  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-022.bmp
+confidence: 93.443  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-014.bmp
+confidence: 92.015  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-018.bmp
+confidence: 91.866  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-007.bmp
+confidence: 90.142  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-031.bmp
+confidence: 94.909  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-025.bmp
+confidence: 90.802  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-024.bmp
+confidence: 90.804  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-037.bmp
+confidence: 92.203  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-013.bmp
+confidence: 89.917  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-003.bmp
+confidence: 91.807  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-023.bmp
+confidence: 91.324  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-008.bmp
+confidence: 88.694  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-028.bmp
+confidence: 91.617  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-009.bmp
+confidence: 86.665  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/026/026-021.bmp vs /home/shushi/Pic/idealtest/idealtest/026/026-029.bmp
+confidence: 91.571  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-011.bmp
+confidence: 95.695  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-018.bmp
+confidence: 76.946  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-014.bmp
+confidence: 95.798  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-031.bmp
+confidence: 93.423  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-025.bmp
+confidence: 94.66  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-016.bmp
+confidence: 95.21  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-008.bmp
+confidence: 93.917  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-017.bmp
+confidence: 92.241  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-037.bmp
+confidence: 93.648  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-027.bmp
+confidence: 93.971  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-009.bmp
+confidence: 93.849  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-022.bmp
+confidence: 84.763  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-034.bmp
+confidence: 87.457  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-032.bmp
+confidence: 93.515  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-029.bmp
+confidence: 76.19  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-013.bmp
+confidence: 94.604  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-019.bmp
+confidence: 49.951  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-020.bmp
+confidence: 94.332  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-002.bmp
+confidence: 95.248  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-033.bmp
+confidence: 83.166  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-023.bmp
+confidence: 93.322  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-028.bmp
+confidence: 91.476  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-021.bmp
+confidence: 93.561  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-030.bmp
+confidence: 49.555  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-035.bmp
+confidence: 84.285  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-010.bmp
+confidence: 93.959  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-015.bmp
+confidence: 95.132  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-012.bmp
+confidence: 94.65  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-007.bmp
+confidence: 91.988  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-036.bmp
+confidence: 92.636  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-005.bmp
+confidence: 96.247  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-026.bmp
+confidence: 94.849  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-038.bmp
+confidence: 93.575  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-006.bmp
+confidence: 94.468  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-004.bmp
+confidence: 96.49  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-024.bmp
+confidence: 87.849  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/044/044-003.bmp vs /home/shushi/Pic/idealtest/idealtest/044/044-001.bmp
+confidence: 95.788  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-036.bmp
+confidence: 94.705  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-034.bmp
+confidence: 94.688  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-005.bmp
+confidence: 96.642  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-017.bmp
+confidence: 94.85  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-032.bmp
+confidence: 95.042  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-022.bmp
+confidence: 87.077  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-009.bmp
+confidence: 94.942  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-011.bmp
+confidence: 95.541  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-035.bmp
+confidence: 92.842  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-023.bmp
+confidence: 94.71  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-001.bmp
+confidence: 96.322  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-020.bmp
+confidence: 95.816  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-021.bmp
+confidence: 94.612  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-030.bmp
+confidence: 81.365  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-028.bmp
+confidence: 94.485  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-006.bmp
+confidence: 95.286  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-033.bmp
+confidence: 89.664  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-019.bmp
+confidence: 86.961  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-007.bmp
+confidence: 93.234  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-018.bmp
+confidence: 92.731  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-031.bmp
+confidence: 95.778  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-013.bmp
+confidence: 94.282  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-025.bmp
+confidence: 95.172  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-029.bmp
+confidence: 91.382  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-002.bmp
+confidence: 96.463  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-010.bmp
+confidence: 94.469  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-015.bmp
+confidence: 94.61  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-037.bmp
+confidence: 93.563  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-014.bmp
+confidence: 95.345  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-012.bmp
+confidence: 94.603  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-026.bmp
+confidence: 94.05  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-016.bmp
+confidence: 96.658  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-027.bmp
+confidence: 96.122  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-004.bmp
+confidence: 96.385  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-024.bmp
+confidence: 92.893  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/109/109-003.bmp vs /home/shushi/Pic/idealtest/idealtest/109/109-008.bmp
+confidence: 94.253  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-012.bmp
+confidence: 93.825  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-005.bmp
+confidence: 93.457  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-009.bmp
+confidence: 93.953  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-032.bmp
+confidence: 93.663  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-016.bmp
+confidence: 94.307  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-027.bmp
+confidence: 93.731  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-013.bmp
+confidence: 93.004  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-023.bmp
+confidence: 92.937  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-019.bmp
+confidence: 77.713  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-001.bmp
+confidence: 93.969  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-004.bmp
+confidence: 93.822  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-025.bmp
+confidence: 94.965  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-008.bmp
+confidence: 93.941  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-026.bmp
+confidence: 93.776  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-003.bmp
+confidence: 92.905  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-015.bmp
+confidence: 92.64  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-024.bmp
+confidence: 92.048  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-029.bmp
+confidence: 93.069  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-007.bmp
+confidence: 93.569  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-022.bmp
+confidence: 84.117  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-010.bmp
+confidence: 93.469  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-031.bmp
+confidence: 94.344  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-018.bmp
+confidence: 92.185  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-020.bmp
+confidence: 94.245  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-034.bmp
+confidence: 92.163  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-030.bmp
+confidence: 65.239  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-036.bmp
+confidence: 94.695  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-006.bmp
+confidence: 94.264  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-014.bmp
+confidence: 93.084  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-035.bmp
+confidence: 89.551  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-002.bmp
+confidence: 93.958  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-033.bmp
+confidence: 75.204  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-011.bmp
+confidence: 93.7  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-017.bmp
+confidence: 96.09  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-037.bmp
+confidence: 93.43  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/056/056-028.bmp vs /home/shushi/Pic/idealtest/idealtest/056/056-021.bmp
+confidence: 93.699  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-021.bmp
+confidence: 88.997  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-020.bmp
+confidence: 91.167  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-031.bmp
+confidence: 92.907  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-030.bmp
+confidence: 45.105  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-005.bmp
+confidence: 92.372  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-016.bmp
+confidence: 92.885  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-017.bmp
+confidence: 89.182  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-002.bmp
+confidence: 92.629  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-011.bmp
+confidence: 91.561  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-022.bmp
+confidence: 45.408  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-038.bmp
+confidence: 91.393  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-032.bmp
+confidence: 90.502  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-012.bmp
+confidence: 89.892  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-007.bmp
+confidence: 91.343  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-027.bmp
+confidence: 92.529  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-001.bmp
+confidence: 92.79  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-006.bmp
+confidence: 94.301  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-033.bmp
+confidence: 43.178  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-019.bmp
+confidence: 45.727  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-025.bmp
+confidence: 93.237  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-013.bmp
+confidence: 90.761  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-026.bmp
+confidence: 92.808  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-036.bmp
+confidence: 93.369  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-009.bmp
+confidence: 92.757  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-010.bmp
+confidence: 93.591  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-029.bmp
+confidence: 91.159  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-023.bmp
+confidence: 90.908  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-014.bmp
+confidence: 90.035  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-037.bmp
+confidence: 91.72  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-028.bmp
+confidence: 92.801  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-003.bmp
+confidence: 92.226  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-008.bmp
+confidence: 94.947  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-015.bmp
+confidence: 91.142  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-034.bmp
+confidence: 91.469  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-024.bmp
+confidence: 96.311  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-004.bmp
+confidence: 91.635  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/011/011-035.bmp vs /home/shushi/Pic/idealtest/idealtest/011/011-018.bmp
+confidence: 89.042  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-017.bmp
+confidence: 93.185  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-011.bmp
+confidence: 93.562  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-020.bmp
+confidence: 95.43  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-032.bmp
+confidence: 96.577  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-015.bmp
+confidence: 92.401  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-030.bmp
+confidence: 58.397  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-036.bmp
+confidence: 92.655  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-007.bmp
+confidence: 92.635  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-014.bmp
+confidence: 92.905  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-027.bmp
+confidence: 92.905  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-022.bmp
+confidence: 61.655  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-006.bmp
+confidence: 93.604  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-002.bmp
+confidence: 93.393  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-037.bmp
+confidence: 93.836  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-012.bmp
+confidence: 92.46  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-001.bmp
+confidence: 93.702  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-019.bmp
+confidence: 60.066  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-013.bmp
+confidence: 93.13  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-033.bmp
+confidence: 82.76  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-010.bmp
+confidence: 92.781  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-028.bmp
+confidence: 93.752  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-025.bmp
+confidence: 93.417  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-035.bmp
+confidence: 92.882  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-005.bmp
+confidence: 94.062  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-009.bmp
+confidence: 92.684  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-004.bmp
+confidence: 93.863  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-026.bmp
+confidence: 94.99  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-023.bmp
+confidence: 94.105  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-029.bmp
+confidence: 85.159  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-024.bmp
+confidence: 92.886  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-008.bmp
+confidence: 93.213  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-016.bmp
+confidence: 93.806  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-018.bmp
+confidence: 82.458  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-034.bmp
+confidence: 93.488  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-031.bmp
+confidence: 95.53  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/055/055-021.bmp vs /home/shushi/Pic/idealtest/idealtest/055/055-003.bmp
+confidence: 93.784  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-013.bmp
+confidence: 91.799  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-010.bmp
+confidence: 94.57  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-012.bmp
+confidence: 96.957  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-030.bmp
+confidence: 62.868  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-019.bmp
+confidence: 50.611  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-031.bmp
+confidence: 95.229  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-017.bmp
+confidence: 91.448  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-034.bmp
+confidence: 94.351  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-023.bmp
+confidence: 93.728  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-003.bmp
+confidence: 95.275  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-015.bmp
+confidence: 94.733  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-029.bmp
+confidence: 89.459  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-036.bmp
+confidence: 93.434  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-037.bmp
+confidence: 93.845  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-035.bmp
+confidence: 93.172  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-007.bmp
+confidence: 96.201  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-033.bmp
+confidence: 57.971  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-025.bmp
+confidence: 93.353  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-001.bmp
+confidence: 96.073  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-016.bmp
+confidence: 95.89  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-002.bmp
+confidence: 95.918  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-005.bmp
+confidence: 96.292  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-022.bmp
+confidence: 75.369  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-004.bmp
+confidence: 95.921  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-026.bmp
+confidence: 93.612  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-032.bmp
+confidence: 93.579  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-020.bmp
+confidence: 93.949  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-028.bmp
+confidence: 92.943  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-018.bmp
+confidence: 78.022  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-008.bmp
+confidence: 93.849  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-006.bmp
+confidence: 96.167  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-027.bmp
+confidence: 95.776  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-014.bmp
+confidence: 93.959  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-021.bmp
+confidence: 92.275  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-009.bmp
+confidence: 93.12  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/071/071-011.bmp vs /home/shushi/Pic/idealtest/idealtest/071/071-024.bmp
+confidence: 89.237  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-033.bmp
+confidence: 96.908  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-024.bmp
+confidence: 87.653  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-025.bmp
+confidence: 91.472  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-016.bmp
+confidence: 89.821  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-005.bmp
+confidence: 89.509  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-027.bmp
+confidence: 89.725  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-020.bmp
+confidence: 92.677  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-021.bmp
+confidence: 94.38  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-018.bmp
+confidence: 91.915  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-001.bmp
+confidence: 88.248  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-011.bmp
+confidence: 89.031  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-015.bmp
+confidence: 87.739  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-036.bmp
+confidence: 91.218  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-037.bmp
+confidence: 93.735  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-028.bmp
+confidence: 90.913  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-030.bmp
+confidence: 83.71  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-019.bmp
+confidence: 81.911  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-002.bmp
+confidence: 89.168  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-008.bmp
+confidence: 89.526  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-009.bmp
+confidence: 87.703  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-031.bmp
+confidence: 92.275  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-023.bmp
+confidence: 90.158  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-014.bmp
+confidence: 87.674  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-035.bmp
+confidence: 86.122  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-006.bmp
+confidence: 89.406  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-007.bmp
+confidence: 88.982  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-012.bmp
+confidence: 89.304  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-034.bmp
+confidence: 90.312  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-004.bmp
+confidence: 89.365  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-032.bmp
+confidence: 93.514  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-029.bmp
+confidence: 91.489  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-003.bmp
+confidence: 89.201  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-010.bmp
+confidence: 88.225  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-026.bmp
+confidence: 93.696  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-017.bmp
+confidence: 90.86  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/028/028-022.bmp vs /home/shushi/Pic/idealtest/idealtest/028/028-013.bmp
+confidence: 89.174  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-027.bmp
+confidence: 95.479  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-022.bmp
+confidence: 53.59  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-020.bmp
+confidence: 94.209  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-034.bmp
+confidence: 95.12  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-021.bmp
+confidence: 93.64  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-015.bmp
+confidence: 95.899  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-037.bmp
+confidence: 95.344  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-026.bmp
+confidence: 95.122  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-031.bmp
+confidence: 94.039  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-010.bmp
+confidence: 95.925  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-017.bmp
+confidence: 94.778  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-009.bmp
+confidence: 96.172  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-023.bmp
+confidence: 95.003  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-019.bmp
+confidence: 55.9  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-018.bmp
+confidence: 93.313  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-005.bmp
+confidence: 96.716  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-012.bmp
+confidence: 96.081  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-035.bmp
+confidence: 95.3  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-013.bmp
+confidence: 95.882  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-006.bmp
+confidence: 96.481  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-036.bmp
+confidence: 95.555  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-033.bmp
+confidence: 48.68  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-001.bmp
+confidence: 96.87  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-011.bmp
+confidence: 96.419  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-014.bmp
+confidence: 95.973  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-024.bmp
+confidence: 95.599  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-028.bmp
+confidence: 94.562  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-016.bmp
+confidence: 95.905  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-029.bmp
+confidence: 88.746  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-030.bmp
+confidence: 69.489  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-032.bmp
+confidence: 92.987  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-008.bmp
+confidence: 95.376  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-025.bmp
+confidence: 95.794  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-003.bmp
+confidence: 96.665  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-002.bmp
+confidence: 96.695  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/042/042-004.bmp vs /home/shushi/Pic/idealtest/idealtest/042/042-007.bmp
+confidence: 96.066  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-026.bmp
+confidence: 92.943  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-023.bmp
+confidence: 91.482  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-028.bmp
+confidence: 94.039  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-013.bmp
+confidence: 93.143  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-012.bmp
+confidence: 94.278  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-016.bmp
+confidence: 92.804  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-011.bmp
+confidence: 94.509  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-033.bmp
+confidence: 81.447  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-003.bmp
+confidence: 92.906  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-022.bmp
+confidence: 81.768  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-017.bmp
+confidence: 91.622  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-004.bmp
+confidence: 92.191  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-002.bmp
+confidence: 91.486  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-020.bmp
+confidence: 94.619  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-018.bmp
+confidence: 91.145  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-035.bmp
+confidence: 90.661  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-007.bmp
+confidence: 94.801  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-036.bmp
+confidence: 93.667  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-006.bmp
+confidence: 94.386  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-029.bmp
+confidence: 91.456  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-015.bmp
+confidence: 92.359  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-014.bmp
+confidence: 94.067  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-019.bmp
+confidence: 74.287  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-008.bmp
+confidence: 92.96  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-005.bmp
+confidence: 92.789  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-034.bmp
+confidence: 94.399  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-037.bmp
+confidence: 94.125  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-038.bmp
+confidence: 91.796  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-021.bmp
+confidence: 93.774  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-009.bmp
+confidence: 94.216  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-027.bmp
+confidence: 94.249  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-032.bmp
+confidence: 94.88  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-010.bmp
+confidence: 92.866  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-025.bmp
+confidence: 92.207  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-024.bmp
+confidence: 90.391  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-030.bmp
+confidence: 79.219  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/113/113-031.bmp vs /home/shushi/Pic/idealtest/idealtest/113/113-001.bmp
+confidence: 91.02  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-011.bmp
+confidence: 96.085  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-013.bmp
+confidence: 96.539  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-024.bmp
+confidence: 92.809  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-007.bmp
+confidence: 94.097  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-004.bmp
+confidence: 96.809  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-021.bmp
+confidence: 89.016  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-014.bmp
+confidence: 96.033  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-006.bmp
+confidence: 95.964  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-029.bmp
+confidence: 93.734  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-033.bmp
+confidence: 52.432  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-036.bmp
+confidence: 93.017  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-030.bmp
+confidence: 58.951  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-016.bmp
+confidence: 95.8  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-020.bmp
+confidence: 92.61  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-023.bmp
+confidence: 93.183  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-008.bmp
+confidence: 96.146  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-022.bmp
+confidence: 52.257  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-026.bmp
+confidence: 92.37  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-018.bmp
+confidence: 91.068  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-027.bmp
+confidence: 95.598  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-032.bmp
+confidence: 90.004  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-037.bmp
+confidence: 88.761  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-038.bmp
+confidence: 93.548  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-015.bmp
+confidence: 95.301  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-003.bmp
+confidence: 94.954  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-028.bmp
+confidence: 95.136  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-010.bmp
+confidence: 95.191  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-025.bmp
+confidence: 93.891  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-002.bmp
+confidence: 96.147  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-001.bmp
+confidence: 95.699  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-009.bmp
+confidence: 95.28  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-019.bmp
+confidence: 61.22  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-035.bmp
+confidence: 92.809  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-031.bmp
+confidence: 92.754  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-034.bmp
+confidence: 92.842  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-012.bmp
+confidence: 94.863  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/007/007-005.bmp vs /home/shushi/Pic/idealtest/idealtest/007/007-017.bmp
+confidence: 95.214  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-006.bmp
+confidence: 95.494  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-024.bmp
+confidence: 90.586  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-018.bmp
+confidence: 91.376  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-012.bmp
+confidence: 91.62  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-014.bmp
+confidence: 92.621  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-021.bmp
+confidence: 95.045  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-003.bmp
+confidence: 95.098  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-022.bmp
+confidence: 89.1  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-007.bmp
+confidence: 93.575  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-009.bmp
+confidence: 93.543  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-030.bmp
+confidence: 84.672  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-034.bmp
+confidence: 95.593  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-031.bmp
+confidence: 96.582  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-019.bmp
+confidence: 86.5  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-026.bmp
+confidence: 95.353  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-008.bmp
+confidence: 92.564  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-010.bmp
+confidence: 94.32  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-028.bmp
+confidence: 92.355  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-015.bmp
+confidence: 93.448  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-037.bmp
+confidence: 94.238  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-005.bmp
+confidence: 95.196  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-001.bmp
+confidence: 94.903  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-016.bmp
+confidence: 95.364  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-002.bmp
+confidence: 94.819  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-032.bmp
+confidence: 94.865  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-029.bmp
+confidence: 89.564  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-004.bmp
+confidence: 95.173  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-036.bmp
+confidence: 94.975  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-035.bmp
+confidence: 91.14  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-023.bmp
+confidence: 94.862  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-011.bmp
+confidence: 94.497  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-013.bmp
+confidence: 93.306  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-027.bmp
+confidence: 95.438  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-025.bmp
+confidence: 94.376  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-033.bmp
+confidence: 91.754  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/069/069-020.bmp vs /home/shushi/Pic/idealtest/idealtest/069/069-017.bmp
+confidence: 93.181  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-010.bmp
+confidence: 95.735  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-004.bmp
+confidence: 96.781  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-030.bmp
+confidence: 75.412  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-018.bmp
+confidence: 89.587  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-038.bmp
+confidence: 94.799  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-003.bmp
+confidence: 96.717  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-033.bmp
+confidence: 82.749  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-006.bmp
+confidence: 96.43  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-011.bmp
+confidence: 96.543  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-026.bmp
+confidence: 95.732  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-023.bmp
+confidence: 93.711  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-024.bmp
+confidence: 94.107  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-020.bmp
+confidence: 95.555  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-001.bmp
+confidence: 96.985  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-016.bmp
+confidence: 96.562  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-013.bmp
+confidence: 95.963  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-007.bmp
+confidence: 95.294  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-028.bmp
+confidence: 94.326  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-036.bmp
+confidence: 94.793  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-021.bmp
+confidence: 94.547  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-037.bmp
+confidence: 95.105  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-019.bmp
+confidence: 73.472  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-014.bmp
+confidence: 96.368  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-025.bmp
+confidence: 95.732  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-017.bmp
+confidence: 94.453  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-009.bmp
+confidence: 95.925  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-031.bmp
+confidence: 95.26  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-032.bmp
+confidence: 94.688  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-008.bmp
+confidence: 95.233  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-029.bmp
+confidence: 91.103  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-034.bmp
+confidence: 93.16  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-027.bmp
+confidence: 96.195  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-022.bmp
+confidence: 81.554  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-005.bmp
+confidence: 96.861  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-012.bmp
+confidence: 95.95  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-015.bmp
+confidence: 96.036  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/074/074-002.bmp vs /home/shushi/Pic/idealtest/idealtest/074/074-035.bmp
+confidence: 94.322  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-002.bmp
+confidence: 92.8  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-036.bmp
+confidence: 93.497  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-021.bmp
+confidence: 91.227  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-029.bmp
+confidence: 82.486  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-027.bmp
+confidence: 94.698  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-018.bmp
+confidence: 85.274  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-015.bmp
+confidence: 94.757  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-023.bmp
+confidence: 92.319  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-032.bmp
+confidence: 92.67  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-012.bmp
+confidence: 90.947  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-011.bmp
+confidence: 92.259  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-024.bmp
+confidence: 94.342  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-008.bmp
+confidence: 92.712  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-020.bmp
+confidence: 92.507  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-034.bmp
+confidence: 92.235  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-022.bmp
+confidence: 85.459  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-030.bmp
+confidence: 64.83  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-013.bmp
+confidence: 91.966  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-017.bmp
+confidence: 93.333  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-005.bmp
+confidence: 92.024  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-033.bmp
+confidence: 87.717  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-037.bmp
+confidence: 93.436  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-026.bmp
+confidence: 93.774  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-035.bmp
+confidence: 94.553  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-031.bmp
+confidence: 92.844  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-007.bmp
+confidence: 93.794  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-003.bmp
+confidence: 92.667  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-038.bmp
+confidence: 94.246  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-004.bmp
+confidence: 92.664  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-019.bmp
+confidence: 60.805  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-001.bmp
+confidence: 93.072  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-009.bmp
+confidence: 93.589  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-025.bmp
+confidence: 93.636  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-006.bmp
+confidence: 94.368  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-028.bmp
+confidence: 92.267  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-014.bmp
+confidence: 90.853  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/050/050-010.bmp vs /home/shushi/Pic/idealtest/idealtest/050/050-016.bmp
+confidence: 94.311  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-025.bmp
+confidence: 94.938  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-009.bmp
+confidence: 96.044  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-010.bmp
+confidence: 93.996  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-022.bmp
+confidence: 80.612  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-017.bmp
+confidence: 94.144  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-028.bmp
+confidence: 94.178  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-014.bmp
+confidence: 96.512  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-004.bmp
+confidence: 95.877  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-002.bmp
+confidence: 94.548  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-020.bmp
+confidence: 94.996  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-012.bmp
+confidence: 96.544  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-036.bmp
+confidence: 94.408  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-008.bmp
+confidence: 94.755  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-018.bmp
+confidence: 90.475  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-023.bmp
+confidence: 94.279  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-007.bmp
+confidence: 96.123  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-034.bmp
+confidence: 95.53  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-037.bmp
+confidence: 95.598  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-029.bmp
+confidence: 87.389  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-035.bmp
+confidence: 91.265  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-006.bmp
+confidence: 96.377  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-026.bmp
+confidence: 95.022  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-013.bmp
+confidence: 95.81  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-016.bmp
+confidence: 95.662  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-003.bmp
+confidence: 95.542  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-031.bmp
+confidence: 95.131  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-030.bmp
+confidence: 58.862  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-024.bmp
+confidence: 91.905  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-021.bmp
+confidence: 94.438  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-001.bmp
+confidence: 95.917  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-032.bmp
+confidence: 93.944  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-027.bmp
+confidence: 96.298  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-005.bmp
+confidence: 95.445  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-033.bmp
+confidence: 72.325  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-019.bmp
+confidence: 51.788  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/062/062-011.bmp vs /home/shushi/Pic/idealtest/idealtest/062/062-015.bmp
+confidence: 94.682  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-007.bmp
+confidence: 91.991  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-002.bmp
+confidence: 92.44  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-003.bmp
+confidence: 94.389  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-031.bmp
+confidence: 92.164  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-018.bmp
+confidence: 87.952  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-023.bmp
+confidence: 92.424  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-032.bmp
+confidence: 92.007  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-015.bmp
+confidence: 89.565  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-011.bmp
+confidence: 93.974  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-021.bmp
+confidence: 92.934  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-037.bmp
+confidence: 91.416  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-014.bmp
+confidence: 92.618  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-016.bmp
+confidence: 95.122  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-025.bmp
+confidence: 93.72  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-012.bmp
+confidence: 90.932  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-036.bmp
+confidence: 92.51  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-033.bmp
+confidence: 76.547  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-024.bmp
+confidence: 90.761  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-006.bmp
+confidence: 94.548  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-030.bmp
+confidence: 70.958  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-013.bmp
+confidence: 95.488  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-027.bmp
+confidence: 95.071  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-038.bmp
+confidence: 93.511  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-034.bmp
+confidence: 91.804  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-009.bmp
+confidence: 92.557  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-029.bmp
+confidence: 85.189  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-017.bmp
+confidence: 93.013  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-010.bmp
+confidence: 93.26  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-001.bmp
+confidence: 91.792  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-035.bmp
+confidence: 91.297  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-019.bmp
+confidence: 78.893  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-020.bmp
+confidence: 94.234  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-004.bmp
+confidence: 94.346  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-022.bmp
+confidence: 80.137  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-026.bmp
+confidence: 93.111  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-005.bmp
+confidence: 93.55  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/106/106-008.bmp vs /home/shushi/Pic/idealtest/idealtest/106/106-028.bmp
+confidence: 88.376  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-024.bmp
+confidence: 93.956  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-015.bmp
+confidence: 89.557  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-014.bmp
+confidence: 92.476  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-005.bmp
+confidence: 93.523  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-001.bmp
+confidence: 93.847  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-026.bmp
+confidence: 91.992  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-007.bmp
+confidence: 93.519  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-006.bmp
+confidence: 94.234  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-036.bmp
+confidence: 95.266  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-030.bmp
+confidence: 62.009  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-025.bmp
+confidence: 94.672  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-023.bmp
+confidence: 92.771  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-032.bmp
+confidence: 92.18  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-017.bmp
+confidence: 96.175  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-002.bmp
+confidence: 93.95  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-022.bmp
+confidence: 82.923  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-034.bmp
+confidence: 94.562  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-037.bmp
+confidence: 90.218  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-018.bmp
+confidence: 94.328  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-004.bmp
+confidence: 93.162  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-009.bmp
+confidence: 93.866  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-010.bmp
+confidence: 91.769  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-033.bmp
+confidence: 86.713  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-012.bmp
+confidence: 93.161  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-011.bmp
+confidence: 93.553  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-013.bmp
+confidence: 91.709  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-016.bmp
+confidence: 94.939  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-035.bmp
+confidence: 93.194  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-008.bmp
+confidence: 93.153  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-029.bmp
+confidence: 95.086  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-019.bmp
+confidence: 63.278  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-021.bmp
+confidence: 91.807  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-027.bmp
+confidence: 95.417  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-003.bmp
+confidence: 93.127  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-020.bmp
+confidence: 93.922  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/015/015-028.bmp vs /home/shushi/Pic/idealtest/idealtest/015/015-031.bmp
+confidence: 94.5  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-018.bmp
+confidence: 92.051  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-008.bmp
+confidence: 87.869  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-029.bmp
+confidence: 92.743  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-023.bmp
+confidence: 93.117  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-019.bmp
+confidence: 82.24  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-016.bmp
+confidence: 95.381  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-028.bmp
+confidence: 93.537  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-032.bmp
+confidence: 93.784  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-022.bmp
+confidence: 90.147  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-024.bmp
+confidence: 93.832  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-027.bmp
+confidence: 96.341  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-006.bmp
+confidence: 96.599  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-035.bmp
+confidence: 92.036  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-031.bmp
+confidence: 94.828  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-001.bmp
+confidence: 96.007  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-005.bmp
+confidence: 95.613  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-010.bmp
+confidence: 94.835  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-034.bmp
+confidence: 93.454  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-037.bmp
+confidence: 95.391  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-015.bmp
+confidence: 94.124  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-002.bmp
+confidence: 96.061  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-030.bmp
+confidence: 87.383  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-004.bmp
+confidence: 95.934  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-026.bmp
+confidence: 93.484  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-012.bmp
+confidence: 95.04  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-009.bmp
+confidence: 90.056  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-014.bmp
+confidence: 94.05  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-025.bmp
+confidence: 93.818  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-003.bmp
+confidence: 96.099  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-021.bmp
+confidence: 93.123  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-036.bmp
+confidence: 94.964  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-017.bmp
+confidence: 93.435  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-020.bmp
+confidence: 94.539  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-013.bmp
+confidence: 91.176  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-007.bmp
+confidence: 92.772  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/091/091-011.bmp vs /home/shushi/Pic/idealtest/idealtest/091/091-033.bmp
+confidence: 90.464  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-031.bmp
+confidence: 94.282  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-018.bmp
+confidence: 84.571  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-030.bmp
+confidence: 63.253  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-034.bmp
+confidence: 94.099  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-036.bmp
+confidence: 95.645  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-005.bmp
+confidence: 96.117  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-008.bmp
+confidence: 95.035  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-006.bmp
+confidence: 95.62  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-035.bmp
+confidence: 90.935  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-038.bmp
+confidence: 94.722  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-016.bmp
+confidence: 96.106  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-025.bmp
+confidence: 95.711  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-015.bmp
+confidence: 94.354  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-013.bmp
+confidence: 94.583  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-037.bmp
+confidence: 96.284  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-014.bmp
+confidence: 95.555  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-010.bmp
+confidence: 94.372  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-024.bmp
+confidence: 93.179  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-023.bmp
+confidence: 94.014  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-003.bmp
+confidence: 95.996  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-029.bmp
+confidence: 80.519  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-021.bmp
+confidence: 93.284  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-007.bmp
+confidence: 94.836  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-011.bmp
+confidence: 95.393  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-019.bmp
+confidence: 49.772  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-027.bmp
+confidence: 95.543  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-033.bmp
+confidence: 66.645  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-028.bmp
+confidence: 92.004  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-002.bmp
+confidence: 95.823  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-004.bmp
+confidence: 96.188  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-032.bmp
+confidence: 92.368  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-001.bmp
+confidence: 95.59  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-017.bmp
+confidence: 93.173  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-012.bmp
+confidence: 95.292  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-009.bmp
+confidence: 95.054  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-022.bmp
+confidence: 67.067  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
+/home/shushi/Pic/idealtest/idealtest/053/053-026.bmp vs /home/shushi/Pic/idealtest/idealtest/053/053-020.bmp
+confidence: 95.254  thresholds:{'1e-3': 62.327, '1e-5': 73.975, '1e-4': 69.101}
